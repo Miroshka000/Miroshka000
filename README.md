@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java and software development.
 - 🌱 I’m currently learning advanced Java techniques and OOP principles.
 - 💞️ I’m looking to collaborate on Java-based projects, especially in backend development.
-- 📫 How to reach me: [указать контактный email или ссылку на профиль, если нужно].
 - 😄 Pronouns: He/Him (или по вашему желанию).
 - ⚡ Fun fact: I love solving algorithmic problems and exploring new Java frameworks.
 
