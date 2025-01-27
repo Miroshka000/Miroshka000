@@ -1,0 +1,565 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v0.9.36",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "rogueHairB"
+        },
+        {
+            "children" : [
+                0
+            ],
+            "mesh" : 1,
+            "name" : "rogueHeadB"
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "Beige",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.7029160857200623,
+                    0.4253237545490265,
+                    0.20689357817173004,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Brown",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.5778115391731262,
+                    0.23347531259059906,
+                    0.11534765362739563,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "name" : "Black",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.019794002175331116,
+                    0.03207586705684662,
+                    0.037408243864774704,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.3525",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.3524",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 566,
+            "max" : [
+                0.5684033036231995,
+                1.0562145709991455,
+                0.5324633121490479
+            ],
+            "min" : [
+                -0.5556272864341736,
+                -0.1640237718820572,
+                -0.5556555390357971
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 566,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 566,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 2916,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 723,
+            "max" : [
+                0.5877276062965393,
+                0.9703007936477661,
+                0.5643507242202759
+            ],
+            "min" : [
+                -0.5877274870872498,
+                0,
+                -0.49049949645996094
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 723,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 723,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 2820,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 115,
+            "max" : [
+                0.352085143327713,
+                0.4932206869125366,
+                0.468027800321579
+            ],
+            "min" : [
+                -0.35207247734069824,
+                0.35582518577575684,
+                0.33534204959869385
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 115,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 115,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 426,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 6792,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6792,
+            "byteOffset" : 6792
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4528,
+            "byteOffset" : 13584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5832,
+            "byteOffset" : 18112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8676,
+            "byteOffset" : 23944
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8676,
+            "byteOffset" : 32620
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5784,
+            "byteOffset" : 41296
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5640,
+            "byteOffset" : 47080
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1380,
+            "byteOffset" : 52720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1380,
+            "byteOffset" : 54100
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 920,
+            "byteOffset" : 55480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 852,
+            "byteOffset" : 56400
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 57252,
+            "uri" : "data:application/octet-stream;base64,W+uVPT4Acz/iDru+Wjw9PgI2fT+oNnS+VjcsPlAKcD8qr7S+wlH2PWoGgD/o03y+alAiPZzxYT/CauW+1OYePrqqXz+mmd2+1hstPoFkgz9lOeS92AtDPqJ4gz8TjdKxWBRKPpRkgj9Ncty9La57PGy2Rz/QXAK/S0IVPn5/Rj9O1/u+u/9lO4akKT+VNwq/m3MRPhBJKT/wgQW/2AtDPqJ4gz8TjdKxYBBlPsh0gT+dpcW9HXCGPiTUXD9Yrsa+/JaIPjScRD9yy+G+nLl6PkVpej+89Fq+52eKPl5uKD8+Zu++glSDPrXQbD8s/6G+dxSqPmasaT8iRYS+ZIW1PljHWT/gOKK+2AtDPqJ4gz8TjdKx0Tl8Pu+lgD/RYKG9ipK9PlxHQj9OXLi+vbqXPnPkdz+kxjK+TOvCPtcfJz8QeMO+Cv+GPqsGgD/6OGS9wPCrPuXjdT/l0/y9TFbmPmX5Pz/CXIK+zr3wPrOqJT+2N4q+DMHHPsUFZz/GDju+EozZPoIFVz+kamW+2AtDPqJ4gz8TjdKx2AtDPqJ4gz8TjdKxTpSMPqJEfz8jROy8UiTwPnYXVT+ggu294EMAP4VFPj8A9ga+xaK4PgOadD8R34K9/PkGP7eDJD8YGA++J2HaPk4/ZT8dqMG9yva8PiwodD95ka+xFLrgPlGfZD+2D46xVNT3PgpoVD94I3G42AtDPqJ4gz8TjdKxzHuOPhkAfz98MxmzUIwEP7qjPT9aonS4FjELP6c0JT92EhM4Pbu5PjVFdD8L34I9TpSMPqJEfz/tQ+w82o8GP8TDJj+xVw8+MiABP/rnPT/O7wY+i2LcPqh/ZD8XqME9OQvyPk8pVD/sOO092AtDPqJ4gz8TjdKxemjPPjhQZD/CDjs+vlPiPnxpUz+sN2U+2AtDPqJ4gz8TjdKx+yeIPtyJfz/eOGQ9v3juPt3TPj8bQYI+IjKwPoOmdD/h0/w94IjzPhrZJz96G4o+9DW6Pt7FZD8fRYQ+FJ6gPm7xdD+gxjI++jnJPvIdVD91GKI+2AtDPqJ4gz8TjdKxUcKBPprYfz/DYKE9b0fRPrNMQD8yF7g+/53QPi6uJz8ZJMM+jwarPqgsQz/yg+E+pIenPso2Vz/Sh8Y+qGmNPqyjdD+59Fo+NPZwPktzgD+NpcU95iqnPkHIKT9sIu8+5S6ePjLlZj8o/6E+2AtDPqJ4gz8TjdKx7P13PpfwWj+Ubt0+L2J1PpFsaT8lr7Q+2AtDPqJ4gz8TjdKx5cJZPuBXgT89ctw9eQRxPvycRj+iiPs+s5NqPpPLdj+jNnQ+cqJeMZ       ÿÿ  ¸       @                                   °   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       µX=ßñ9SŒñ9SŒñ9SŒ…¸¬Œð9SŒ…¸Qð9SŒRichñ9SŒ        PE  L gjÅ„        à !&     &                         
+   
+           P     ö¯   @                                       0"           (  8(             8                                                                           .rdata  à                        @  @.rsrc   0"       $                 @  @            gjÅ„       l   P  P      gjÅ„       $   ¼  ¼      € €                       8   .rdata  8     .rdata$voltmd   P     .rdata$zzzdbg       °  .rsrc$01    °$  ¨  .rsrc$02        Vý«•	I©*vþj)¢BÊ”¸ÚO€IõºgjÅ„                                                                                                                                                                                                                                                                                                             ¨ €(  €   @  €   ø  €                  €                 ( €   @ €   X €   p €   ˆ €     €   ¸ €   Ð €    è €!     €E    €^   0 €`   H €a   ` €b   x €c    €d   ¨ €„   À €Š   Ø €Â   ð €Ñ   €                   €              	  8                	  H                	  X                	  h                	  x                	  ˆ                	  ˜                	  ¨                	  ¸                	  È                	  Ø                	  è                	  ø                	                  	                  	  (                	  8                	  H                	  X                	  h                	  x                	  ˆ                	  ˜  °$  °   ä      `%  ø  ä      X'  :   ä      ”'  Â   ä      X(  ®   ä      )  T  ä      \*  Ü   ä      8+  ~   ä      ¸+  Ð  ä      ˆ-  $  ä      ¬.  È   ä      t/  Þ  ä      T1  V   ä      ¬1  j  ä      5  6  ä      P6  >   ä      6  ¤   ä      47     ä      Ô;  °   ä      „<  æ   ä      l=  Z   ä      È=  Ì   ä      ”>  œ  ä       M U I ÍþÍþ°                     z¹eÝ³^øþ7}¦.™Û3s¤peÎˆg™åsI9                        ˆ      ˜                                         M U I                 e n - U S                           D S o m e   w e b   c o n t e n t   f r o m   { 0 }   h a s   b e e n   b l o c k e d .   A s k   t o   v i e w   t h e   c o n t e n t . ; S o m e   w e b   c o n t e n t   h a s   b e e n   b l o c k e d .   A s k   t o   v i e w   t h e   c o n t e n t . ; S o m e   w e b   c o n t e n t   f r o m   { 0 }   m i g h t   n o t   b e   O K   w i t h   y o u r   p a r e n t . 2 S o m e   w e b   c o n t e n t   m i g h t   n o t   b e   O K   w i t h   y o u r   p a r e n t .                 
+ { 0 }   o n   { 1 }  { 0 }                 PA                            . Y o u r   f a m i l y   i s   u s i n g   M i c r o s o f t   f a m i l y   f e a t u r e s # Y o u ' l l   b e   l o c k e d   o u t   a t   { 0 }   o n   { 1 } . PA S c r e e n   t i m e   l i m i t s   a r e   o f f . , S c r e e n   t i m e   l i m i t s   a r e   o f f   u n t i l   { 0 }   o n   { 1 } .                             PA L e s s   t h a n   1 5   m i n u t e s   l e f t  L e s s   t h a n   2   m i n u t e s   l e f t                 i T h i s   i s   a   r e m i n d e r   t h a t   y o u ' r e   a l m o s t   o u t   o f   s c r e e n   t i m e .   G e t   r e a d y   t o   t a k e   a   b r e a k   o r   r e q u e s t   m o r e   t i m e .                    C l o s e  R e q u e s t   m o r e   t i m e  P a r e n t / g u a r d i a n   l o g   i n  A l l o w    C a n c e l  S w i t c h   u s e r s   o r   s h u t   d o w n  V e r i f y   a c c o u n t                         
+ 1 5   m i n u t e s 
+ 3 0   m i n u t e s  1   h o u r  2   h o u r s  4   h o u r s  8   h o u r s     PA     S e r v i c e   u n a v a i l a b l e E S o r r y ,   t h e   s e r v i c e   i s n ' t   a v a i l a b l e   r i g h t   n o w .   P l e a s e   t r y   a g a i n   l a t e r . € T h i s   o p t i o n   i s   n o t   a v a i l a b l e   b e c a u s e   o f   y o u r   a c c o u n t   t y p e .   P l e a s e   a s k   a   p a r e n t / g u a r d i a n   t o   c h a n g e   a c c o u n t   t y p e   t o   S t a n d a r d   U s e r .                                              I s   y o u r   p a r e n t   h e r e   r i g h t   n o w ?     * { 0 }   w i l l   b e   a l l o w e d   t o   v i s i t   t h i s   w e b s i t e : : Y o u   c a n   g r a n t   m o r e   s c r e e n   t i m e   f o r   { 0 }   t o   u s e   t h i s   d e v i c e .  [ { 0 } ] 
+ E x t e n d   b y :      { 0 }   w i l l   b e   a l l o w e d   t o   u s e :  R a t e d   f o r :   { 0 } +  A l l o w   t h e   u s e   o f   a l l   o f   { 0 }                                              T i m e   f o r   a   b r e a k | T h i s   d e v i c e   i s   l o c k e d   b e c a u s e   o f   y o u r   f a m i l y   s e t t i n g s   f o r   s c r e e n   t i m e .   Y o u   n e e d   t o   a s k   a n   a d u l t   i f   y o u   w a n t   m o r e   t i m e   t o d a y . S T h i s   d e v i c e   i s   n o w   l o c k e d   u n t i l   { 0 }   o n   { 1 } ,   b e c a u s e   o f   y o u r   F a m i l y   S a f e t y   s e t t i n g s . PA                           A s k   a   p a r e n t   f o r   p e r m i s s i o n     PA   A l l o w   a n   a p p l i c a t i o n   f r o m   { 0 }  A l l o w   a   g a m e   f r o m   { 0 }  A l l o w   a   w e b s i t e  A l l o w   a   m o v i e   f r o m   { 0 }  A l l o w   a   T V   e p i s o d e   f r o m   { 0 }  A l l o w   a   s o n g   f r o m   { 0 }  A l l o w   c o n t e n t   f r o m   { 0 }  A l l o w   a n   a p p l i c a t i o n  A l l o w   a   g a m e  S o m e t h i n g   w e n t   w r o n g 9 A n   u n e x p e c t e d   e r r o r   h a s   o c c u r r e d .   P l e a s e   t r y   a g a i n   l a t e r .  T h i s   a p p   i s   b l o c k e d ˆ Y o u   m u s t   s a v e   t h i s   a p p   o n   y o u r   P C   f i r s t .   S a v e   i t   s o m e w h e r e   o t h e r   t h a n   t h e   T e m p   f o l d e r ,   a n d   t h e n   a s k   f o r   a   p a r e n t ' s   p e r m i s s i o n   t o   u s e   i t .     PA         R e q u e s t   s e n t a Y o u r   r e q u e s t   h a s   b e e n   s e n t .   Y o u r   p a r e n t   w i l l   l e t   y o u   k n o w   w h e t h e r   y o u   h a v e   b e e n   g i v e n   p e r m i s s i o n .  I s   y o u r   p a r e n t   h e r e   r i g h t   n o w ?                   PA                 G i v e   m o r e   t i m e ?               PA                        $ B l o c k e d   b y   M i c r o s o f t   f a m i l y   f e a t u r e s  R e q u e s t   p e r m i s s i o n   t o   u s e   { 0 } .                  R e q u e s t   s e n t w P l e a s e   w a i t   f o r   a   p a r e n t   o r   g u a r d i a n   t o   a p p r o v e   y o u r   r e q u e s t .   D e v i c e   w i l l   b e   u n l o c k e d   f o r   m o r e   s c r e e n   t i m e   i f   a p p r o v e d .   Ž T h i s   d e v i c e   w i l l   l o c k   a t   { 0 }   o n   { 1 } .   I f   a   p a r e n t   o r   g u a r d i a n   a p p r o v e s   y o u r   r e q u e s t ,   F a m i l y   S a f e t y   w i l l   u n l o c k   t h e   d e v i c e   f o r   m o r e   s c r e e n   t i m e .   E W e ' r e   u n a b l e   t o   s e n d   y o u r   r e q u e s t .   A r e   y o u   c o n n e c t e d   t o   t h e   I n t e r n e t ? I W e ' r e   u n a b l e   t o   s e n d   y o u r   r e q u e s t   b e c a u s e   y o u r   a c c o u n t   c a n ' t   b e   v e r i f i e d .  R e q u e s t   n o t   s e n t ‘ W e   c o u l d n ' t   s e n d   y o u r   r e q u e s t   b e c a u s e   y o u r   a c c o u n t   n e e d s   t o   b e   v e r i f i e d .   O n c e   y o u r   a c c o u n t   i s   v e r i f i e d ,   w e ' l l   a t t e m p t   t o   s e n d   y o u r   r e q u e s t   a g a i n .              { 0 }   t i m e   e n d s   a t   { 1 }  L e s s   t h a n   { 0 }   l e f t   o n   { 1 }  { 0 }   t i m e   e n d s   a t   { 1 }   o n   { 2 }                                   4 F i n i s h   w h a t   y o u ' r e   d o i n g   s o o n ,   o r   a s k   f o r   m o r e   t i m e . / F i n i s h   w h a t   y o u ' r e   d o i n g ,   o r   a s k   f o r   m o r e   t i m e .           PA                             L e s s   t h a n   { 0 }   m i n   l e f t   o n   { 1 }   PA F a m i l y                          F a m i l y  M i c r o s o f t   C o r p o r a t i o n 5 I n i t i a l i z e s   F a m i l y   S a f e t y   m o n i t o r i n g   a n d   e n f o r c e m e n t . œ4   V S _ V E R S I O N _ I N F O     ½ïþ     
+ òôe  
+ òôe?                        ü   S t r i n g F i l e I n f o   Ø   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   T   F i l e D e s c r i p t i o n     F a m i l y   S a f e t y   M o n i t o r   n '  F i l e V e r s i o n     1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )     6   I n t e r n a l N a m e   W p c M o n . e x e     € .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   F   O r i g i n a l F i l e n a m e   W p c M o n . e x e . m u i     j %  P r o d u c t N a m e     M i c r o s o f t ®   W i n d o w s ®   O p e r a t i n g   S y s t e m     D   P r o d u c t V e r s i o n   1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   D    V a r F i l e I n f o     $    T r a n s l a t i o n     	°PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING8(    0‚()	*†H†÷ ‚(0‚(10	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010	`†He  9à÷~%Íà¢“µæ³n@±bé‘R»ÿÎ¿X’…>6ÇÑ~ ‚v0‚ô0‚Ü 3  ¯0@L£MA    ¯0	*†H†÷ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110231116190900Z241114190900Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ ÎKË5­®ŸÑ­ƒC¡¤þÝÐú­LxV&Vã¹jfBœ¼03Í –$øU€…ãÏä¼pq(å§§ùþPécOw¡Älè¶õi6.o{Aýí-Åì/ÚÄ7ÊÇ#aÛSÑooKñ‹ûè­ÂÇ8¿búÝƒë+ï2åçÔ	´ÿ1‚5Æ•‚\R>‘5òxÐÅ*J\ìX~¡Á‡<úap?KA3‰€nØí¦3´z,˜C‡€“Tá§:ûÂç`‚rt.A$K‰B6
+lÔò÷ŸG¬¤®ì³·ZÍ0ò<:¥‡BÔƒ)u9$Ú›“ÜÁ´³8zñ»‡«ÝeþòÝT1ƒS £‚s0‚o0U%0
++‚7L+0UGq4ò<dŽòJ³ù¸†^Á0EU>0<¤:0810UMicrosoft Corporation10U230012+5018260U#0€HndåPÓ‚ª77"µm¨Êu•0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0†Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uÿ0 0	*†H†÷ ‚ „±ßóGgëLSÁã–šiiÍ&ƒ¨‹ê¥ÄåœîÂV×ïcÃËú&‰Cæ¾…0—tDg Ï*õ8Øà»&‡•'¼®(™P~Ïìø9F* Ww¢r~8Î$vÏÞË‹,ì±$FãØÖb h=‹¶8d/Oµ¡¥,œÒ™ìÙ{{Uì"6”pk»ÍÞàƒÞÞ	H‹EÕd”ù©^†Çô! Y©PcH	ƒváE0¸r‰~£$SNé:2‡Ó¢Ì&Öêpjù•¦'M÷ÞîVœš‰.{Å#öA€9Ì¨Ðíf7 Úø¸E0zöûÉ2éŸ¯§^‚òÓ{ÌyæêÐ-äãŠ`P.=%$„S{¢+7qœ¦zÌq®@e »¤²;ÚûªJÄ¥-©F9Æf<vF`š™Ðœ7nø9Ÿ4CÀuÖ#h’{=9Ýøñ³åžŠZg›—É-Ž>ô˜à«yííE‰2X,„¥ö¬hÙBwCúì(ë)ŒÌ6:Q©…9ö*aeäžÜCîç€=®€¥.qÆ
+$”b‹?‹G#÷@Uq!Ñ-
+)ôß3 ëÿ[	»ëTqÑ Io€(ˆÅ…ŒàK÷Ú^š% {2Ìn®_Ýß1ö¬ÓÓ}c04þ±@(çm	D¨ƒO¹ˆÛKU '&HˆI0‚z0‚b 
+aÒ     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110‚"0	*†H†÷ ‚ 0‚
+‚ «ðúr.­Ønª‚M4ºò¶X!ŸB*kéZPª¸8IºÃÝ7kÆØð8Â™°È9Õ1BÓ‰yd‡~”`$l¯žIœéh^Òß›S²
+,Ã¯Ù©+®z	¯×–YÊ`éfvè2R&/ç«PÏ³D·]ØÄ.u«hóËmó:\¡ôFºà8d¬nd5x¦ c-Ó@“øãÞÕ\y¥I)ç¾ w¾”=ïûã+ZMV(¢zrà:·I^ØííC‘ƒÙ{²{†Ù>±Œ]è‰O„ò¡/Yä;-®3XÅ·>þ2Ó³=±²¯’8~Ò€,õNV‘!5%Ã9ndSºœ­#„Ëôº†÷_ðÐR¿Œ”‡¼À!t%_(¶Ì'(8%˜9J6Ï|±’®#§©fìajá(I_ˆâ%]Ó!K>RÄµW?$ðÑz[/Õ#ãp]QFw³ø á¼¬‚_ÛÀ³½ÔUKç9¡é#I¼¸D|EäÁÃrzàrç$ß¿F™ÅïÂWÛƒìMI0§«Žßì[Ÿ¯üÝ°fâÁ—{íÖíKçI)§(¦§}g€æŠbx_²/„×Wœ\¿w((ñímÃ(,@7OÁá…D‰Ä	LÅÔ¥C/t•÷nøx X,]`•š>O3„Ú°ˆÞžNô–°¼F l˜ÒàÖˆŒ £‚í0‚é0	+‚7 0UHndåPÓ‚ª77"µm¨Êu•0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€r-:1C¹Náê§Ç1Ñ#‰40ZUS0Q0O M K†Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0†Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ŸU —0”0‘	+‚7.0ƒ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*†H†÷ ‚ gò†¥˜àTy.ÓØtg"›–ác’™B–}ÒyÁe_.,>øÃrÑmƒþ¾?è
+Ê;¿G©£óiÛc¿"5¥—]e„}‹FPUØ’|ÒKó<B‹RÐ°ýkã>.)›æ=¥Ôµw”9âédÉD=xz#ó}¦tƒôË&F*ÂŠ»¤©›íhúh.• *?*kXIc	inZ˜–äƒôÀóF+Þü;Ð½5ïn%®å¯'íÐÝó¯™(—˜M=ò‰ÖÃ2âðÅ-Î[ž´I9
+Æ
+ÂÆ­®å²ÙÛˆQEX82q'±ô'øÞ,: i˜²Y‰hno§·tÃ@¦*(>‚?MfÀ³Mõáo}E§vå@*e£Ã]Rb†Ãc6—†ßÚóøò¡š'áÍ¥—Ðî]cAã[œ‡>wÑ±u¾aaµðÜÆ¾ßAÇ(îÞe/ì—ö¡\–Ø Ö¡F½Yó—¥	KH™€Ð )Å±›¥?Ew5ÆÒ¢¢Ÿzz"úH•«ûG#€õžø¿k·K—âëuxìê7™yKÿÖ³#huæ¯úü‹ë€êi;¯ü0íLŽßßumc‘=ÑVNO¿€W"¡x2!zïA
+±?û¨Ì¤]Á¡ˆ›WqVNHEÀBÉ›v[
+€HkýyŸÁ½mmjÉRszPÍ1‚&0‚"0•0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20113  ¯0@L£MA    ¯0	`†He  ®0	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1" ¾uë83÷,J_‘g3-ä™zÁ?1]óË8³Ï4?¦õ0B
++‚71402 € M i c r o s o f t¡€http://www.microsoft.com0	*†H†÷ ‚ ËâŠÕ‚SÃë´Ž¶ÜÄhœ?þK™æÚ~Ñ_¯)‰,
+ËSvÃÃô3o°Rº…°~TºìÛ*áÿæ£½ƒÐ˜÷«9“üýsî€ãÉõ¡«žÄƒáµã«1#Ï'ÙéŽI˜tñ!”ïº•ª8–)e÷ÿdø?±#î‡åNÕÇ+æçvå¬ò|†F¹@+³¥'“¥Ç”FðçæíQ´Ø÷}¥T»*ºU$/ŽRÙ+‹)¡'ø`ndU^ìÂR÷Ðûñù+9^é«%FJ÷$áTþh¼OósŒ×ˆ¾‰Ä?îRbCžšÞ;çLÜÚ f–
+ªbË~¡‚°0‚¬
++‚71‚œ0‚˜	*†H†÷ ‚‰0‚…10	`†He 0‚Z*†H†÷	 ‚I‚E0‚A
++„Y
+010	`†He  (ôâ›Ax3S‚>ó”˜¬{º¥‘«>ï4¼K,‚–”fëXŒG220241010034131.457Z0€ô Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:521A-05E0-D9471%0#UMicrosoft Time-Stamp Service ‚þ0‚(0‚ 3   ×ª*V    0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100240725183121Z251022183121Z0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:521A-05E0-D9471%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ¯UÚiÒ¤?däºzž÷þÑ{(“=ˆ¯ÝÇ/Û©ªHf¿`ÌçØ¤>èå¸… w:.ªÈz  O×Óüi,åRŽ÷FP[f¯‡óÌyt‘—×üŽsuZ(\vÝQI‰—Í^ÌÖ³	‹õIV£É³ÊÿK§ÔÀ·è\æXJ£åLóÕÀòà©6[¦@ÐÉ6:q)ô2V.‘y%°¡«©~)Šåê¿Öœê—JIÀ˜ JÂwÞ‚÷¢yƒˆßXP
+YÂ9Í‡Ó:6§y,ûóö-ý©œ}üµÄ.†³Aq‡(8)Ù¨XcXÁÔ{þ'|ÖŽ½——I¿½Rþaþ/ú/¯vŸË„˜péõoç<Â8e¹YÓÀÊp§Û‘-Ù5ŽÌª:suÿXŒÀìa¬àuá‚+L|`=âðÍˆ Y®Ùüt°L,ˆå[•ÕØ3`mÄÂªÞIÞF„öìÔ;c¹üe6€îÁ•øîó{)ÿÐYƒY×3aQ‘Èê]Å¦Æ®Uñþkàv†÷3ÜÊC²&”YËåwDh „Y¬•ÀpÌâ;¾‡Š|"2&œ!JŸÈl¸Çèžß%z‘=¸>ªØ-Ÿ™—Qø=6¤eV1óþËä³pÑ’ùëŸÄ)cWƒ¾œyû8ÇÏ´ìY<¬–ŠnÉ¡!ÀNÓ¾ý‘è\‰ƒ £‚I0‚E0U€%$Ú¾	#*¨ç^}ù}ww:0U#0€Ÿ§] ^b]ƒôåÒe§S5ér0_UX0V0T R P†Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+`0^0\+0†Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uÿ0 0U%ÿ0
++0Uÿ€0	*†H†÷ ‚ (ð†öxÑ´Šùû„
+sXË8Ç½nìWÓæ`‚9iS¸`ˆÌØ·‰·Ke-Ø€ÇƒL‹®×U¸·]zÂ»62¡òý©SÕx£-5í³`:z;]¢;{z-a=*®ÌbëËý¦p"Ä¨K`þíÇœO(s0Zú™e´ðôÁžêøq²fýïñë~­ òÁw=;–x87uó“SZÀŸÝ|PƒbUx B.óO@1…ÅDR¡q%0³¹…t€Ã…šq«"
+eƒÀ\ aÎ§w‰Fê^4L~y*I_)Qí]ã˜[èüÎ ^Á‘ÃíFÑVÛà’2êµ5–”/Î]®5ö	Ü#ÙU ò06š^¾ â®Âx ob‡}ã_¦X7£’>ZbP7¤N~Ç4x5¶)°¤ZŠú€î¢­fEÃ•~Èºü·;³ÚQR‹î÷¬Ýœ;"lôs¤­mŒ¡))LÞàÑ‹ÕÉÔŠªq´žŒ“æ.Æüé®K–@–~“ïº°Nx¨ÊEpsL‘UËã3žyÑµÆ1%—ÛLVw›a!Á’2%;€¶fÎêÙ1Jý}ã„¤"¬˜Û`¸·´ª|‚!ÆmÍ¶Ìþ%OoÍÒÛŸgß8Ù’>Bº«÷ÍæA•°eÚ÷NML`ICNöC0‚q0‚Y 3   Åçkž›I™     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100210930182225Z300930183225Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ äá¦Lç´r!y¢Ë×$y½Õ‚ÓýîœÒ©lNuÈÊ5WölJàâ½¹>`3ÿ\OÇf÷•SqZâ~JZþ¸6g…F#µÏw2Àè`}jRƒD·¦ŽFkóÅvõ†PÜÁDÈq\Q17 
+8ní×Ø&S|9azÄªýri¯«¬ö6¾5&dÚ˜;º{3­€[~ŒRþ¶èb%ÜjÏ]ôþŽSÏÖì…VMïÝ¼¤ã‘²9,QœépiÊ6-pŽ1È5(½ã´‡$ÃàÉ~µTÜúU˜mh;šF½í¤®z)7¬ËëƒEçFnÊ2ÕÀ†0\O,âb²Í¹âˆä–¬J»¾q©[g`Þø’‘=ý Ïs}AšFuÍÄ_4Ý‰Öý¥ }~üÙžEß¶r/Û}_€ºÛª~6ì6Lö+n¨Qè¿£Ñs¦M7t”4‚ðò·Gí§è™|?LÛ¯^ÂóÕØs=CNÁ39LŽ¼Bh.ê„QFâÑ½jZasÊg¢^×(vâ3r×§ ðÂú
+×coÉ6d‹[ ¦ƒ!]_0t‘””Ø¹Pù‰aó65„GÛÜÑý²ÔÅkö\RQ]Û%º¯PzlÅrïùRÄ…“À<Û7Ç?x«E¶õ‡^ÚžriÆ®{··>jâ.­ £‚Ý0‚Ù0	+‚7 0#	+‚7*§RþdÄš¾‚‘<F5)Ïÿ/î0UŸ§] ^b]ƒôåÒe§S5ér0\U U0S0Q+‚7Lƒ}0A0?+3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0	*†H†÷ ‚ U}ü*­á,g1$[ážrKü©oê\¶>NGdx±“—=13µ9×Âq6?Údl|Ðu9m»1äÂûlÑ¡”"îéfg:SMÝ˜º¶xØ6.œ©‚V °¾‰èiàº	î{ßjo¾)ËnØ?HuÙÞm‚õm#TäxSu$W¹ÝŸóŽ=Æóhßeö¤Vª÷•¶(U'Ð$½@ ¿¶]='à@–8¬÷ù)‰Ã¼°T…B³üž‹‰çðjÂBRuŠ6ÂÃas.,k{n?,	xé‘²©[ßI£t¼ì‘€Ò=æJ>f;O»†ú2Ù–ôö‘öÎÆtýöLro«u0Å4°zØPþ
+XÝ@<ÇTmctH,±NG-Áq¿dù$¾smÊŽ	½³WITdÙs×[DŽZ‘kŸ¤(Üg($º8Kšnû!TkjEG©ñ·®Èè‰^OÒÐLvµWT	±iD~|¡alsþ
+»ìAf=iýËÁAI~~“¾Ëø;ä·¿´Î>¥1Q„¼¿Á‚¢{‰pþçµÐ(‰6ÚºLù›ÿ
+é4ø$5g+à¸æŒ™Öá"êð'B=%”ætt[jÑž>í~ 13}¼Ëé{¿8pDÑñÈ«:Š:bÙpcSMî‚m¥Áqj´U3X³¡pfò¡‚Y0‚A0‚¡Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:521A-05E0-D9471%0#UMicrosoft Time-Stamp Service¢#
+0+ Œ“Ÿ-–÷Šø©/{.U…lºÖŽd ƒ0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*†H†÷  ê±…E0"20241009224213Z20241010224213Z0w0=
++„Y
+1/0-0
+ ê±…E 0
+ kÿ0 h0
+ ê²ÖÅ 06
++„Y
+1(0&0
++„Y
+ 
+0 ¡ ¡
+0 † 0	*†H†÷ ‚ •tM—å€<‹ôR‘»^½÷FäWjdYó(ë–KÈöŠ‰<Ø’0cætÅ=ø auâ!¯PG£Ýw>w®
+eJ“l«œfÓŠ–MI}QdÐg>E/Û‰F­Ã—ûK¿¬„uCx&jQ4­|åhiÞVùÚÙ¼š•‹Éá\šnùHerÌíñ¡Ï­ÁEÅŸãaÈçšê›t);eˆ	ö—~aN”Æ‡†ˆøCï!ù›ú-Eý96´µÍo ’øVK‹u±Û‚‚ è Ù…Åi‰µ”Ö“ÒsPˆ/_¡¸És¥?t}[ØTA¹wTÂ[!ŠËw–`è¿ëßÛ1‚0‚	0“0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103   ×ª*V    0	`†He  ‚J0	*†H†÷	1*†H†÷	0/	*†H†÷	1" 'ž¨´ñJÏì=’F÷7øŒåÃ\wó&¹øõ‘´_¹0ú*†H†÷	/1ê0ç0ä0½ ÔÈíì5Ûº°MeWƒ_3há¥®FçH“ÿJOÙ'0˜0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103   ×ª*V    0" {tvf”³‡ƒw<ø¤ÍZ”Ýsé$œóž¯1¿¢¢]×Ò0	*†H†÷ ‚ ^ž<Ë¶›cvËOµadNž§S/pÄS¹trÊÁC&YXÈ:jÚ"
+ÛuØ¯@òmÔýã+LržÐŒfò[x¥“ãH8¹’8·ôU‰üµT	6ãBršâM@_w UÐ›³GöQR¼ÙvVHS õÓáFs*yÅit"D\_IKÍqA×gDàw·á£9Èª‚íÜ.Egæ†JŒf• aÉ&M-x–àÔ‚‡RTi(Y@¸3Re0ŸZš.q;³Ú^ ?‘ÎLcü¼9›â˜	[Gç¤ýN_–Kö;¢âdyx‚g.} ÌÑ5 -G©»»fD}Û¾ž£rIitxGÍf´Útãr1‚k€m³ ú~ÞÀÏèGïÿäëO…AúËÐ£áL‹^]Ér\lX[|y¢+×sx¥÷Öú¥Y£*CîÞõ4éx#
+ëØØ².(H5ÜÝvåb5³¢9âÅ}Ž}ö|tÞBåÀë|¸µ>±lÇje ÝF_þ­à\$¿×d•@×åcÞ¢¿ îvLD…†-ÞÁr4óú ~P)ú.œ¼š›l3_Ïž¢ƒcŽåªMlpãÛä«TÊ·§\;8u?÷²°½¥‰ÉñYŽ½xdÎB25 ÓÁÚÔ«ÄËŽ4ÝO·‡Ôîq€Q                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           MZ       ÿÿ  ¸       @                                   °   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       µX=ßñ9SŒñ9SŒñ9SŒ…¸¬Œð9SŒ…¸Qð9SŒRichñ9SŒ        PE  L a 2        à !&                              
+   
+           @       @                                       Ü             8(             8                                                                           .rdata  à                        @  @.rsrc   Ü                        @  @            a 2       l   P  P      a 2       $   ¼  ¼      € €                       8   .rdata  8     .rdata$voltmd   P     .rdata$zzzdbg          .rsrc$01     "  ð  .rsrc$02        ; kï©µ³ÖBëméÅ¸‡ p<‚:Æ¡ß“oa 2                                                                                                                                                                                                                                                                                                             ð €0  €   H  €   €  €   ˜  €                 °  €              È   È  €É   à  €Ê   ø  €Ë    €Ì   ( €                  @ €                 X €              	  p                	  €                	                  	                   	  °                	  À                	  Ð                	  à  ø!  ¸   ä      °"  ’  ä      D%  °  ä      ô&  ˜  ä      Œ(  F  ä      Ô+  8   ä      ,  .  ä      <-     ä       M U I ÍþÍþ¸                     zà‚zF]î2³nü†ºbº/oêj±ªÚ®†tì                        ˆ      ˜                      ¨                  M U I                        e n - U S        ÿÿ        @ Ì†
+     ¦     V o l u m e   M i x e r   	     S e g o e   U I             F  , 2  ÿÿ‚ N o   a u d i o   d e v i c e   i s   i n s t a l l e d             L™V
+ $ 8  -  T o o l b a r W i n d o w 3 2                F ' 0  /  ÿÿ‚ M a i n   & V o l u m e             L©V    ,  T o o l b a r W i n d o w 3 2                @   ( 
+ .  ÿÿ‚ M a i n   & V o l u m e             V 7  K 0  m s c t l s _ t r a c k b a r 3 2               H©V ‚   1  T o o l b a r W i n d o w 3 2                 @I  ½ ‹ œ  ÿÿ‚              VG  Á ™ ›  ÿÿ€ A p p l i c a t i o n s               V  @ ™ š  ÿÿ€ & D e v i c e     PA ÿÿ       @ @     ' š       	     S e g o e   U I             @  , 2  ÿÿ‚                 H©V    ,  T o o l b a r W i n d o w 3 2               F  *  -  ÿÿ‚ M a i n   & V o l u m e              @  ( 
+ .  ÿÿ‚ M a i n   & V o l u m e             V   K 0  m s c t l s _ t r a c k b a r 3 2               H©V
+ i   1  T o o l b a r W i n d o w 3 2                 V   '  3  ÿÿ€ M i & x e r      ÿÿ       @ F     ? ƒ       	   S e g o e   U I             V       ÿÿ‚             L©V     ‘  T o o l b a r W i n d o w 3 2                V  :  -  ÿÿ‚ A p p l i c a t i o n   V o l u m e              F   >  .  ÿÿ‚ A p p l i c a t i o n   V o l u m e             V %  K 0  m s c t l s _ t r a c k b a r 3 2               H©V p   1  T o o l b a r W i n d o w 3 2        ÿÿ        È È€	     
+è     V o l u m e   C o n t r o l   O p t i o n s      S e g o e   U I            @@
+ 
+ ò  ®  ÿÿ‚ S e l e c t   w h i c h   d e v i c e s   s h o w   t h e i r   o w n   v o l u m e   c o n t r o l              @@
+   ò  ¯  ÿÿ‚ T h e   d e f a u l t   s o u n d   d e v i c e   w i l l   a l w a y s   s h o w   i t s   o w n   v o l u m e   c o n t r o l .                P
+ : ò 
+ ©  ÿÿ€ & A l l   d e v i c e s   c u r r e n t l y   p l a y i n g   s o u n d              P
+ N æ 
+ ª  ÿÿ€ T h e   d e f a u l t   & c o m m u n i c a t i o n   d e v i c e                @P
+ a ë 
+ °  ÿÿ‚ S o u n d   d e v i c e s :            P k ú d ¬  S y s L i s t V i e w 3 2                Pa Õ 2     ÿÿ€ O K               P™ Õ 2     ÿÿ€ C a n c e l               PÒ Õ 2  ­  ÿÿ€ A p p l y     PA ÿÿ       H „‚      X ’       	     S e g o e   U I            V o l u m e  M u t e   % 1  V o l u m e   f o r   % 1  M u t e   f o r   % 1  N a m e   N o t   A v a i l a b l e ' S h o w   A p p l i c a t i o n   V o l u m e   C o n t r o l s   f o r   % s  V o l u m e   M i x e r   -   % s   	 U n m u t e   % 1  L i s t e n i n g   t o   % 1     PA 4   V S _ V E R S I O N _ I N F O     ½ïþ     
+ òôe  
+ òôe?                            S t r i n g F i l e I n f o   Ü   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   B   F i l e D e s c r i p t i o n     V o l u m e   M i x e r     n '  F i l e V e r s i o n     1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )     L   I n t e r n a l N a m e   V o l u m e   C o n t r o l   A p p l e t   € .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   F   O r i g i n a l F i l e n a m e   S n d V o l . e x e . m u i     j %  P r o d u c t N a m e     M i c r o s o f t ®   W i n d o w s ®   O p e r a t i n g   S y s t e m     D   P r o d u c t V e r s i o n   1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   D    V a r F i l e I n f o     $    T r a n s l a t i o n     	°PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD8(    0‚()	*†H†÷ ‚(0‚(10	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010	`†He  ãòÈïªTaT¸âD`vƒE-;^ö’¡Ž3‰ü_6 ‚v0‚ô0‚Ü 3  ¯0@L£MA    ¯0	*†H†÷ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110231116190900Z241114190900Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ ÎKË5­®ŸÑ­ƒC¡¤þÝÐú­LxV&Vã¹jfBœ¼03Í –$øU€…ãÏä¼pq(å§§ùþPécOw¡Älè¶õi6.o{Aýí-Åì/ÚÄ7ÊÇ#aÛSÑooKñ‹ûè­ÂÇ8¿búÝƒë+ï2åçÔ	´ÿ1‚5Æ•‚\R>‘5òxÐÅ*J\ìX~¡Á‡<úap?KA3‰€nØí¦3´z,˜C‡€“Tá§:ûÂç`‚rt.A$K‰B6
+lÔò÷ŸG¬¤®ì³·ZÍ0ò<:¥‡BÔƒ)u9$Ú›“ÜÁ´³8zñ»‡«ÝeþòÝT1ƒS £‚s0‚o0U%0
++‚7L+0UGq4ò<dŽòJ³ù¸†^Á0EU>0<¤:0810UMicrosoft Corporation10U230012+5018260U#0€HndåPÓ‚ª77"µm¨Êu•0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0†Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uÿ0 0	*†H†÷ ‚ „±ßóGgëLSÁã–šiiÍ&ƒ¨‹ê¥ÄåœîÂV×ïcÃËú&‰Cæ¾…0—tDg Ï*õ8Øà»&‡•'¼®(™P~Ïìø9F* Ww¢r~8Î$vÏÞË‹,ì±$FãØÖb h=‹¶8d/Oµ¡¥,œÒ™ìÙ{{Uì"6”pk»ÍÞàƒÞÞ	H‹EÕd”ù©^†Çô! Y©PcH	ƒváE0¸r‰~£$SNé:2‡Ó¢Ì&Öêpjù•¦'M÷ÞîVœš‰.{Å#öA€9Ì¨Ðíf7 Úø¸E0zöûÉ2éŸ¯§^‚òÓ{ÌyæêÐ-äãŠ`P.=%$„S{¢+7qœ¦zÌq®@e »¤²;ÚûªJÄ¥-©F9Æf<vF`š™Ðœ7nø9Ÿ4CÀuÖ#h’{=9Ýøñ³åžŠZg›—É-Ž>ô˜à«yííE‰2X,„¥ö¬hÙBwCúì(ë)ŒÌ6:Q©…9ö*aeäžÜCîç€=®€¥.qÆ
+$”b‹?‹G#÷@Uq!Ñ-
+)ôß3 ëÿ[	»ëTqÑ Io€(ˆÅ…ŒàK÷Ú^š% {2Ìn®_Ýß1ö¬ÓÓ}c04þ±@(çm	D¨ƒO¹ˆÛKU '&HˆI0‚z0‚b 
+aÒ     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110‚"0	*†H†÷ ‚ 0‚
+‚ «ðúr.­Ønª‚M4ºò¶X!ŸB*kéZPª¸8IºÃÝ7kÆØð8Â™°È9Õ1BÓ‰yd‡~”`$l¯žIœéh^Òß›S²
+,Ã¯Ù©+®z	¯×–YÊ`éfvè2R&/ç«PÏ³D·]ØÄ.u«hóËmó:\¡ôFºà8d¬nd5x¦ c-Ó@“øãÞÕ\y¥I)ç¾ w¾”=ïûã+ZMV(¢zrà:·I^ØííC‘ƒÙ{²{†Ù>±Œ]è‰O„ò¡/Yä;-®3XÅ·>þ2Ó³=±²¯’8~Ò€,õNV‘!5%Ã9ndSºœ­#„Ëôº†÷_ðÐR¿Œ”‡¼À!t%_(¶Ì'(8%˜9J6Ï|±’®#§©fìajá(I_ˆâ%]Ó!K>RÄµW?$ðÑz[/Õ#ãp]QFw³ø á¼¬‚_ÛÀ³½ÔUKç9¡é#I¼¸D|EäÁÃrzàrç$ß¿F™ÅïÂWÛƒìMI0§«Žßì[Ÿ¯üÝ°fâÁ—{íÖíKçI)§(¦§}g€æŠbx_²/„×Wœ\¿w((ñímÃ(,@7OÁá…D‰Ä	LÅÔ¥C/t•÷nøx X,]`•š>O3„Ú°ˆÞžNô–°¼F l˜ÒàÖˆŒ £‚í0‚é0	+‚7 0UHndåPÓ‚ª77"µm¨Êu•0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€r-:1C¹Náê§Ç1Ñ#‰40ZUS0Q0O M K†Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0†Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ŸU —0”0‘	+‚7.0ƒ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*†H†÷ ‚ gò†¥˜àTy.ÓØtg"›–ác’™B–}ÒyÁe_.,>øÃrÑmƒþ¾?è
+Ê;¿G©£óiÛc¿"5¥—]e„}‹FPUØ’|ÒKó<B‹RÐ°ýkã>.)›æ=¥Ôµw”9âédÉD=xz#ó}¦tƒôË&F*ÂŠ»¤©›íhúh.• *?*kXIc	inZ˜–äƒôÀóF+Þü;Ð½5ïn%®å¯'íÐÝó¯™(—˜M=ò‰ÖÃ2âðÅ-Î[ž´I9
+Æ
+ÂÆ­®å²ÙÛˆQEX82q'±ô'øÞ,: i˜²Y‰hno§·tÃ@¦*(>‚?MfÀ³Mõáo}E§vå@*e£Ã]Rb†Ãc6—†ßÚóøò¡š'áÍ¥—Ðî]cAã[œ‡>wÑ±u¾aaµðÜÆ¾ßAÇ(îÞe/ì—ö¡\–Ø Ö¡F½Yó—¥	KH™€Ð )Å±›¥?Ew5ÆÒ¢¢Ÿzz"úH•«ûG#€õžø¿k·K—âëuxìê7™yKÿÖ³#huæ¯úü‹ë€êi;¯ü0íLŽßßumc‘=ÑVNO¿€W"¡x2!zïA
+±?û¨Ì¤]Á¡ˆ›WqVNHEÀBÉ›v[
+€HkýyŸÁ½mmjÉRszPÍ1‚&0‚"0•0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20113  ¯0@L£MA    ¯0	`†He  ®0	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1" 1%œãó?V’›ð¥–Ž IŽTvÒçC	åWIC\Íê0B
++‚71402 € M i c r o s o f t¡€http://www.microsoft.com0	*†H†÷ ‚ Mü›­÷ËÊ`äŽ6DG'eœy¡œ5	Ùú»ŸìÐpøÌÀÁ…°8 À`eLÛ59øô¯·wÁª{f_; ÖÙjSX§$G#Ò‚Í‘¬6e»]YNè“k#A™û¶u@T7s)¾QÖ"fz)pæÊÒuœÙñôm3«Ó€‰{W§Á[³`.°)^œ»=ÓÜ…ÈÓß4Ö3L…5ZRø*½2qûÝ ±eåETû‘²=Ê@[…pÃâ	Î8 ª_]€;ƒ+4ÉSÜÍj½o8&™+Ù‡ü…ÞÛ´–2Žþäˆøë9~urAã58SwÎz_ƒ-¡‚°0‚¬
++‚71‚œ0‚˜	*†H†÷ ‚‰0‚…10	`†He 0‚Z*†H†÷	 ‚I‚E0‚A
++„Y
+010	`†He  îÃùµ¡€t)v3QäÖ?GaEºTÒj%$¸×^Qfë ®Ç20241010034122.524Z0€ô Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:3605-05E0-D9471%0#UMicrosoft Time-Stamp Service ‚þ0‚(0‚ 3  ÷X uÊûÂô   ÷0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100240725183106Z251022183106Z0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:3605-05E0-D9471%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ÐçGLh›¯î\¦„(ÿk<„äO¤1]m0t6M[È:O¬TÇ…­áÇMÊücF·“¡—
+²é³ãg´G—ƒ[çB¡©ŠÈC˜§zº¬ÿ©1$c^ÌÉqqê´Ø×P•·B€¸:ÖåJ’-A“Æ˜yÆªK9déZ¿\@¨J9.Î»|S ÑqÄ&ÔWa˜ò 8|3Ìæ†Ÿ6â2î²Ó¯@àAæ,É¤yÄ¤VðfqŸŸ1GL9-Úg^E^5NlHÍž¦ôiíQ‡²¢Ç/G†ÜCà•öãlž’æ¶gÖà<…cÓÑìßqÑzûx¡``b-€KøÂaº`XÀÄ!YÀ€öDˆð#Ìé„á÷„’ìûL ‘\S2àC‹¯>¤CÔ‰’ÝºúêY„§ÐÀ<LÚq	=«ð/r#×Ò-Ùìþš¡3€TQ°‘‹µÇýK/+Âlw¢9ÌT¡–¨¹nœßÕŽ:#N‡”0[ZH¼b®V¥î¡ažyš¦¢Ÿ>¸ÜY_B@mÑÞÎi]o= ¡ö¹—­ZŽ\R	@$–R¬#å	¨j½®d@œù”r“‰…ÁÃ9Ø¥–ŒÜwÏªÃ=¡úÌZÅì¡ïFªÐñßö”û*EÀ|ÃKR]GþÊSxºNqJK§™4Û £‚I0‚E0UßF¤3?y½=•®-ýióùžù&˜0U#0€Ÿ§] ^b]ƒôåÒe§S5ér0_UX0V0T R P†Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+`0^0\+0†Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uÿ0 0U%ÿ0
++0Uÿ€0	*†H†÷ ‚ 7F£iòx¾’@ƒ0ÌÕzÅª‹iŽ®”|¼¥²É;Ý¿7µÆ. CëªuïUež6Ëya ü±£¾Q8,—Suõ × ¯‘—ßØ¦ ”ý0mQ…ËÌ•Ê…“4ö‹ÀÛ+ŸÆ,Š].S?#|
+]u8fR”ÿkð™ï¢e´Ð
+	àù}®X4™\BIÀ^¡ÚötZYÅzwí	°©¥GË\ Õ÷Ü)LôÙÚ
+RDÄ´ˆ§‡QE­«"Ì—®S[¬3µå¶>=9ÂñÛZ~..x>8ßÙßÑŽê cìÆŠ¸£v¯[kÔS¤àÍVZoh0Kþš©LæXÞ¶\½à—òBÚœß üOë¥ßD²1iøÁUy¼)PçÙÃô‹Ñ+M¬÷XçäQâ€:âA€ÓuMFê~²“ÒO—Lð"ûfŒœZÕ˜Ûü¯.õÿLÓ•4ýµ%rC?ï²±jImTCˆq»³6œkê÷%rB]ˆçLeÂë, JÛ1¹ÓqFoNä§õÑx ÀV—–‡y×Š‡ÞOr±Ø³A€¼ó–§–FÇPæal$iŸCÙ>Ð3g'ë÷ª±Îšv¤C$—#( ë2fs‰v³¥®UTÝúídN D˜MsŒñ‰^ä&îeÝµ¦èc –ø§>¡O•0‚q0‚Y 3   Åçkž›I™     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100210930182225Z300930183225Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ äá¦Lç´r!y¢Ë×$y½Õ‚ÓýîœÒ©lNuÈÊ5WölJàâ½¹>`3ÿ\OÇf÷•SqZâ~JZþ¸6g…F#µÏw2Àè`}jRƒD·¦ŽFkóÅvõ†PÜÁDÈq\Q17 
+8ní×Ø&S|9azÄªýri¯«¬ö6¾5&dÚ˜;º{3­€[~ŒRþ¶èb%ÜjÏ]ôþŽSÏÖì…VMïÝ¼¤ã‘²9,QœépiÊ6-pŽ1È5(½ã´‡$ÃàÉ~µTÜúU˜mh;šF½í¤®z)7¬ËëƒEçFnÊ2ÕÀ†0\O,âb²Í¹âˆä–¬J»¾q©[g`Þø’‘=ý Ïs}AšFuÍÄ_4Ý‰Öý¥ }~üÙžEß¶r/Û}_€ºÛª~6ì6Lö+n¨Qè¿£Ñs¦M7t”4‚ðò·Gí§è™|?LÛ¯^ÂóÕØs=CNÁ39LŽ¼Bh.ê„QFâÑ½jZasÊg¢^×(vâ3r×§ ðÂú
+×coÉ6d‹[ ¦ƒ!]_0t‘””Ø¹Pù‰aó65„GÛÜÑý²ÔÅkö\RQ]Û%º¯PzlÅrïùRÄ…“À<Û7Ç?x«E¶õ‡^ÚžriÆ®{··>jâ.­ £‚Ý0‚Ù0	+‚7 0#	+‚7*§RþdÄš¾‚‘<F5)Ïÿ/î0UŸ§] ^b]ƒôåÒe§S5ér0\U U0S0Q+‚7Lƒ}0A0?+3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0	*†H†÷ ‚ U}ü*­á,g1$[ážrKü©oê\¶>NGdx±“—=13µ9×Âq6?Údl|Ðu9m»1äÂûlÑ¡”"îéfg:SMÝ˜º¶xØ6.œ©‚V °¾‰èiàº	î{ßjo¾)ËnØ?HuÙÞm‚õm#TäxSu$W¹ÝŸóŽ=Æóhßeö¤Vª÷•¶(U'Ð$½@ ¿¶]='à@–8¬÷ù)‰Ã¼°T…B³üž‹‰çðjÂBRuŠ6ÂÃas.,k{n?,	xé‘²©[ßI£t¼ì‘€Ò=æJ>f;O»†ú2Ù–ôö‘öÎÆtýöLro«u0Å4°zØPþ
+XÝ@<ÇTmctH,±NG-Áq¿dù$¾smÊŽ	½³WITdÙs×[DŽZ‘kŸ¤(Üg($º8Kšnû!TkjEG©ñ·®Èè‰^OÒÐLvµWT	±iD~|¡alsþ
+»ìAf=iýËÁAI~~“¾Ëø;ä·¿´Î>¥1Q„¼¿Á‚¢{‰pþçµÐ(‰6ÚºLù›ÿ
+é4ø$5g+à¸æŒ™Öá"êð'B=%”ætt[jÑž>í~ 13}¼Ëé{¿8pDÑñÈ«:Š:bÙpcSMî‚m¥Áqj´U3X³¡pfò¡‚Y0‚A0‚¡Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:3605-05E0-D9471%0#UMicrosoft Time-Stamp Service¢#
+0+ oo
+oñ]³AŽc;þz°Ý¸+æ ƒ0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*†H†÷  ê±Mf0"20241009184350Z20241010184350Z0w0=
++„Y
+1/0-0
+ ê±Mf 0
+ Îÿ0 m0
+ ê²žæ 06
++„Y
+1(0&0
++„Y
+ 
+0 ¡ ¡
+0 † 0	*†H†÷ ‚ ñ´›ò¿xç·È—G«³‡s£ôQ:dÃ¾GlB˜yx‡ ê¢ùJ/sP½·»t ÂU-»êÀÓB,ò;VA­–^N¦¶ÙæÞ8)de Îl³àÙ)Ç´[q?<PAè•É¾ˆèÃ‹žÔ‹ð‘â’M2ß>ŠãR ¨QþœcØäî¤^GöÇŸÐùåÂÏ^cN\F$Çò´«Û¾UQ&näþ}-¸YeÌšüŸýZâTáHŠŸQ.ÖŸ*Œ‡-Ôc÷N¨A€¦KqêK>_>½Å’–´Gï4f½(%4|·‚ì®õÆ%«•s“›ø{­~!ÙF(…¢Ý1‚0‚	0“0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ÷X uÊûÂô   ÷0	`†He  ‚J0	*†H†÷	1*†H†÷	0/	*†H†÷	1" —ËÎ(®ÅÁÓª¦oD—Ò5w›ô¦8 ±_ÅuA‘²ä90ú*†H†÷	/1ê0ç0ä0½ !Ú˜ÚkwÑçººÒæ?ò
+œöÞuµP'”¨ ~Yâ0˜0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ÷X uÊûÂô   ÷0" ’™¥´ÛÖ§W¸Õ³èÏ”3º%ÄÐ•äúÈHÊñê0	*†H†÷ ‚ ƒÆtâÌƒË¤â’t®º¯„	‘x ± ã%¶ô¾ê“6Ÿð}fm¹Ç?•·†4>¦ÌI 6Ä†Øíp8&SÛÈÝf¶Ó³o¡úŠ¦²RdñÖkN4õ S,Ó»P¹Æ}X‡õ¡ìAžHÍ ¹¶dÉýøLÓâ>ÓNê×M¨_Ÿ€‘ta+zF`Ë FŸÙ“ˆ°°·ŽŸÓþ™X‰'æ”³‚V	µ¼ïtá>IÕX†@ˆà²ˆ-¶® ò¾õ…T7Òs ²ú¯²-ˆ£Åï8UÚN´û{W>üà£ø¥“S ˜SÛRÎÊÑðÑÈzNšÙD5'šêÎBøÔ~£Êéºí£±½ÎÖå„Deý{‘Õ@D¤$é¨Ú	‚'oªøµÂs=7ŸÑWeí Ûô¹ˆÖ”i‚äòÃöFxûº-ðrÔÉ¤JYÎ/ç¢Xö$4|êU=·Ý(…*¯+6ð«ÄâHÚ×ìûVÁFŠq+äïÐ×d/s~yÞÿ7Ôƒâ*PŠpŒHÆV¾:A2g â8Bÿa‚ÆÖÒŠwBv& ÝsUõ&TÓc#ÞiÙíò)Žð9Ö’¯É¤uyf˜eQÚM1%zPÑ”Ä¨È¢fÃ\Sÿfa¬[pª+ †J–44•?í#?                                                                                                                                                                                                                                                                                                                                                                                                                                                                           MZ       ÿÿ  ¸       @                                   °   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       µX=ßñ9SŒñ9SŒñ9SŒ…¸¬Œð9SŒ…¸Qð9SŒRichñ9SŒ        PE  L FÊ£        à !&     
+                         
+   
+           0     ?­   @                                       ,             H(             8                                                                           .rdata  à                        @  @.rsrc   ,                        @  @            FÊ£       l   P  P      FÊ£       $   ¼  ¼      € €                       8   .rdata  8     .rdata$voltmd   P     .rdata$zzzdbg       ð   .rsrc$01    ð   H  .rsrc$02        Œzy¬9	¡,Ôu÷AÙª‡gÄS½PxÀ)¦ïFÊ£                                                                                                                                                                                                                                                                                                             è  €(  €   @  €   X  €                 p  €                 ˆ  €                    €              	  ¸                 	  È                 	  Ø   ð   °   ä       !  T   ä      ô!  8  ä       M U I ÍþÍþ°                     zŒ9$'u ÇßP‘6ÁòYvÅ’Õº@ºuÞƒ‚                        ˆ      ˜                                         M U I                 e n - U S                L a s t   d e l e t e   r e q u e s t :   % s   % s                       84   V S _ V E R S I O N _ I N F O     ½ïþ     
+ òôe  
+ òôe?                        ˜   S t r i n g F i l e I n f o   t   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   ¶ G  F i l e D e s c r i p t i o n     S y s t e m   S e t t i n g s   S y s t e m   I n i t i a t e d   U s e r   F e e d b a c k   H a n d l e r s   I m p l e m e n t a t i o n     n '  F i l e V e r s i o n     1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )     T   I n t e r n a l N a m e   S e t t i n g s H a n d l e r s _ S I U F . d l l   € .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   d   O r i g i n a l F i l e n a m e   S e t t i n g s H a n d l e r s _ S I U F . d l l . m u i   j %  P r o d u c t N a m e     M i c r o s o f t ®   W i n d o w s ®   O p e r a t i n g   S y s t e m     D   P r o d u c t V e r s i o n   1 0 . 0 . 2 6 1 0 0 . 2 2 9 0   D    V a r F i l e I n f o     $    T r a n s l a t i o n     	°PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDH(    0‚(5	*†H†÷ ‚(&0‚("10	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010	`†He  i§xnh{Jñ0iiXìº˜oaQä¿úéQíÄÿßðü ‚…0‚0‚ë 3  ®-5QÈSU    ®0	*†H†÷ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110231116190859Z241114190859Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ ô ü¦67Ã¨>c!:J0ï'–×êbz¤ãœáÙÔØùŠ±£5“Ì•ÆÈBeÁŒv±˜›ÎöG[4ù0”ë[¨Y¨[‹.$p¡1á“9ÍTªlrn_gÏ}Bt^fþVµlÁÀvÏ=+VØ’‚¨÷ç†:Á»–WÖÊ´£Èš¦ä1ÄÞ8?6èdëôáë¢¨‘¯P‹óç×¿ ý8já÷	*Ú2½è0Ô
+È”È³¾¾†jU3”°˜Ñ³yb9
+âz¹VuZë£y`›>ƒý2S²ÉìêÂMø8wŠ•©Y¤…‡Ë%¥÷<°¼H€A £‚‚0‚~0U%0
++‚7L+0U‡ït©—‡8Z%—nÇô#áñ?0TUM0K¤I0G1-0+U$Microsoft Ireland Operations Limited10U230012+5018360U#0€HndåPÓ‚ª77"µm¨Êu•0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0†Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uÿ0 0	*†H†÷ ‚ jÉ`5îÏ(Ó#i¬eÑ^à'EÁÊÅ(Å™n0rWM‹fHglÌ-…c:pþ–äcJ¶Y£ÿ/ÂN·Ëú4}¡ú<Sÿ^'GÊÕ“¿Ù`ôÆ.ûî¥>k¹|*3wØÒÙ=m—Ø=òÔA[™”n"ç)‰Ã+p‡*WÊqÎÌ?ÊOÎã/ç”èÇÏŠ õ4n¾möØðM< âÜŽ‡ç±m¡ßpÛ¨t2T":½t^¨kæ#ËK´¥CümûÉº¬š4)*–º^±‰ti·èf«.Õè—eRy7d¤«ÝV"F½7…>{Ç8ËÛ—Ê‰”þ¯ˆ#Éî“4Bhï—¡ –Úø…ÞÜTÍß.ƒO«q§Öt-6èôü}
+¹ßÁ¹"ò~{˜’ˆä•VEdÒ.fÓp0Ë‘6e$¸=WPH'Æcx¶‘bä{ ¿•m 1eR” uz$¥+¢æ-+T}zu×¾”ÿ¤->ªž{wYo;»¤ê»WøÂÊ‚ÃFÄ 8º°†"*{LŽ†Ãï#óŒR*y–;KŠÕ[QŸjª™¼Jî²L„/0‰<Çjp`ÕÛ}ýgˆç¶Õá@æbé£³QH¤PšÎN€ 5ñ  ¨å;Í!ê¯Ø€fhLÉL²)£Qw/¹ˆfÎˆÌ0‚z0‚b 
+aÒ     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110‚"0	*†H†÷ ‚ 0‚
+‚ «ðúr.­Ønª‚M4ºò¶X!ŸB*kéZPª¸8IºÃÝ7kÆØð8Â™°È9Õ1BÓ‰yd‡~”`$l¯žIœéh^Òß›S²
+,Ã¯Ù©+®z	¯×–YÊ`éfvè2R&/ç«PÏ³D·]ØÄ.u«hóËmó:\¡ôFºà8d¬nd5x¦ c-Ó@“øãÞÕ\y¥I)ç¾ w¾”=ïûã+ZMV(¢zrà:·I^ØííC‘ƒÙ{²{†Ù>±Œ]è‰O„ò¡/Yä;-®3XÅ·>þ2Ó³=±²¯’8~Ò€,õNV‘!5%Ã9ndSºœ­#„Ëôº†÷_ðÐR¿Œ”‡¼À!t%_(¶Ì'(8%˜9J6Ï|±’®#§©fìajá(I_ˆâ%]Ó!K>RÄµW?$ðÑz[/Õ#ãp]QFw³ø á¼¬‚_ÛÀ³½ÔUKç9¡é#I¼¸D|EäÁÃrzàrç$ß¿F™ÅïÂWÛƒìMI0§«Žßì[Ÿ¯üÝ°fâÁ—{íÖíKçI)§(¦§}g€æŠbx_²/„×Wœ\¿w((ñímÃ(,@7OÁá…D‰Ä	LÅÔ¥C/t•÷nøx X,]`•š>O3„Ú°ˆÞžNô–°¼F l˜ÒàÖˆŒ £‚í0‚é0	+‚7 0UHndåPÓ‚ª77"µm¨Êu•0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€r-:1C¹Náê§Ç1Ñ#‰40ZUS0Q0O M K†Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0†Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ŸU —0”0‘	+‚7.0ƒ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*†H†÷ ‚ gò†¥˜àTy.ÓØtg"›–ác’™B–}ÒyÁe_.,>øÃrÑmƒþ¾?è
+Ê;¿G©£óiÛc¿"5¥—]e„}‹FPUØ’|ÒKó<B‹RÐ°ýkã>.)›æ=¥Ôµw”9âédÉD=xz#ó}¦tƒôË&F*ÂŠ»¤©›íhúh.• *?*kXIc	inZ˜–äƒôÀóF+Þü;Ð½5ïn%®å¯'íÐÝó¯™(—˜M=ò‰ÖÃ2âðÅ-Î[ž´I9
+Æ
+ÂÆ­®å²ÙÛˆQEX82q'±ô'øÞ,: i˜²Y‰hno§·tÃ@¦*(>‚?MfÀ³Mõáo}E§vå@*e£Ã]Rb†Ãc6—†ßÚóøò¡š'áÍ¥—Ðî]cAã[œ‡>wÑ±u¾aaµðÜÆ¾ßAÇ(îÞe/ì—ö¡\–Ø Ö¡F½Yó—¥	KH™€Ð )Å±›¥?Ew5ÆÒ¢¢Ÿzz"úH•«ûG#€õžø¿k·K—âëuxìê7™yKÿÖ³#huæ¯úü‹ë€êi;¯ü0íLŽßßumc‘=ÑVNO¿€W"¡x2!zïA
+±?û¨Ì¤]Á¡ˆ›WqVNHEÀBÉ›v[
+€HkýyŸÁ½mmjÉRszPÍ1‚#0‚0•0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20113  ®-5QÈSU    ®0	`†He  ®0	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1" i^ _£y"±wX €'uïêò2K8)9°¸šÙß¾0B
++‚71402 € M i c r o s o f t¡€http://www.microsoft.com0	*†H†÷ ‚ Õ¨îy›*ÝFkR«r½ÿžóùª}O–JHÛïcV˜À¬ót,øOë ¬ö–	?ª[Më}))jŠ³’¹ÕB7¸&Y"ó%È¶ è‹s~DêØ1ñ®DËkÐÇD Ö^’±r
+jnN|sæÃ8§†d¡uÞÓ4ÆÝ(|D^ôñm§Ù¦¥
+¸Zlà«ÚÅ7ÂÖ»®¯¬v!HãµÔðßPaôÎÁ›Òø,‡i‰LZ'©Å6™j~–%÷pcšÚÉeV6tÆü+Ç¹6 •±£ó—Gr“yâ)yn.pé%Ãµ]_‹kH)ÛÛ¶_ìlO—˜”r‘`Ëë‚+QRÔª¡‚­0‚©
++‚71‚™0‚•	*†H†÷ ‚†0‚‚10	`†He 0‚Z*†H†÷	 ‚I‚E0‚A
++„Y
+010	`†He  ^Ë¬$$1{
+?¸f›õn´†a‘Ë þyÕšO[Åfë97•20241010034128.551Z0€ô Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:2A1A-05E0-D9471%0#UMicrosoft Time-Stamp Service ‚û0‚(0‚ 3  ùgu«¤ñ±   ù0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100240725183109Z251022183109Z0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:2A1A-05E0-D9471%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ´=L|€aÍVÉBø Só)wžKûP®{Yê……‚÷—J:[VGÌu<W`N%H˜ƒ·Ã'`1Q²¢õ-€f`Ûáš¸R¤Ý˜ã°´¬©èX"Å®þ¯õ@M¥¼üãVË©NÈfpfœ_Waâ !êfö…§@º÷[F]P+[_Tw}×‚¾É¼ý$Vxä³v¦Ïs\kãS|B-ÊT’Ø_H›°$’Äxm»3;Øú÷R®5²(Ñéˆ… Z6(2v±E_Þ€,J‚ˆuH&€„ýk²ôË„ƒ*^kQÞ‹¹E÷KA‘ù&G›òŒsÆxíI¸…‚9ìˆ'V'F(¢n•ïo°¦ÿN‹ôÈ~‚ätÏ€O‹ê´þ{!5ìÐÏ:†ü¶;lyóÜ@—›PØªÉü“/˜ùüŸ¶wá	ÅÄb‡–géë±”Ÿ­ÞCÎ(¼)ƒÞXŸ‰óŒêòâPO÷/™Ñð¾²$ja[ñÆðdùÀxÃ¼¤èGT–òã‰T¯Ílß`òÕ1ç&)ï-llÿ\¼á›z€‹M†œpxA*ž9Sk~„US†ÿDëì97~”òï¹¢Z? fÎ{Ž_¥:´U±}@`I€Ÿ ²º‘:F_)5óH”6äÁBNÅû¾b˜º´¶Wdãê\ØYPo¸a £‚I0‚E0U‰í£ºœ•É#×¢4¹BDvFYà 0U#0€Ÿ§] ^b]ƒôåÒe§S5ér0_UX0V0T R P†Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+`0^0\+0†Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uÿ0 0U%ÿ0
++0Uÿ€0	*†H†÷ ‚ f 	€Vä¸ß‡æ™™gšéiï‡œVÆÏïÛÔoÁ¢ît3Yìî,Ø'¡vªíX)VC_ÖëÈ†±˜¤ ]’hŽÐð¸”{RÈh£tüŸÝúGI-á$á—³ÐÁ/+{Ö+­VL(ÃØ™)8 ‚¼KÀ+4jR;7®»ÔÝ&0c±«&¸Ÿ¶«”ãš¸+#ÞÝ0)*<qÜ?oWhí#»i5…y?$HÜ­M†àà|Hù“)Æû¢ÌýM¸t±õu’Ïö´!(®(œ3‰5<”ÓDÂŒÖä¦`\°%Å<Ák*œ­õß”wÕZÜŒ=Îr¹ 2íƒ{Ø†«ë^h}‹TùÛ©ø»”ÑÝ°1ÖxRXvŽúí²é(·£H6ßé8Â”ê^ [KƒYA÷ôáÇÜJ…Ôì±•ÚèíÉ¨Á¦‘ÿ
+#zˆTIÙt)ž.E¸~
+fFÚã]“µm>®¶X°¼Â“ñ^¢$’âñhvÜëIÑ’·ë@kqb> ^m²VÖ{ëzƒ<CoIèrýGÓlß¸ p¤e­G*_ÒÏˆPLõ»øîÄ=Ÿ°00vHÙí&ìuÛ]F@F¤| SÖº´>²~ß´HŸjˆó¸!… «Î²Ló}`o[ß„Sº¹ä¤?°<dÁÕg2›”Í0‚q0‚Y 3   Åçkž›I™     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100210930182225Z300930183225Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ äá¦Lç´r!y¢Ë×$y½Õ‚ÓýîœÒ©lNuÈÊ5WölJàâ½¹>`3ÿ\OÇf÷•SqZâ~JZþ¸6g…F#µÏw2Àè`}jRƒD·¦ŽFkóÅvõ†PÜÁDÈq\Q17 
+8ní×Ø&S|9azÄªýri¯«¬ö6¾5&dÚ˜;º{3­€[~ŒRþ¶èb%ÜjÏ]ôþŽSÏÖì…VMïÝ¼¤ã‘²9,QœépiÊ6-pŽ1È5(½ã´‡$ÃàÉ~µTÜúU˜mh;šF½í¤®z)7¬ËëƒEçFnÊ2ÕÀ†0\O,âb²Í¹âˆä–¬J»¾q©[g`Þø’‘=ý Ïs}AšFuÍÄ_4Ý‰Öý¥ }~üÙžEß¶r/Û}_€ºÛª~6ì6Lö+n¨Qè¿£Ñs¦M7t”4‚ðò·Gí§è™|?LÛ¯^ÂóÕØs=CNÁ39LŽ¼Bh.ê„QFâÑ½jZasÊg¢^×(vâ3r×§ ðÂú
+×coÉ6d‹[ ¦ƒ!]_0t‘””Ø¹Pù‰aó65„GÛÜÑý²ÔÅkö\RQ]Û%º¯PzlÅrïùRÄ…“À<Û7Ç?x«E¶õ‡^ÚžriÆ®{··>jâ.­ £‚Ý0‚Ù0	+‚7 0#	+‚7*§RþdÄš¾‚‘<F5)Ïÿ/î0UŸ§] ^b]ƒôåÒe§S5ér0\U U0S0Q+‚7Lƒ}0A0?+3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0	*†H†÷ ‚ U}ü*­á,g1$[ážrKü©oê\¶>NGdx±“—=13µ9×Âq6?Údl|Ðu9m»1äÂûlÑ¡”"îéfg:SMÝ˜º¶xØ6.œ©‚V °¾‰èiàº	î{ßjo¾)ËnØ?HuÙÞm‚õm#TäxSu$W¹ÝŸóŽ=Æóhßeö¤Vª÷•¶(U'Ð$½@ ¿¶]='à@–8¬÷ù)‰Ã¼°T…B³üž‹‰çðjÂBRuŠ6ÂÃas.,k{n?,	xé‘²©[ßI£t¼ì‘€Ò=æJ>f;O»†ú2Ù–ôö‘öÎÆtýöLro«u0Å4°zØPþ
+XÝ@<ÇTmctH,±NG-Áq¿dù$¾smÊŽ	½³WITdÙs×[DŽZ‘kŸ¤(Üg($º8Kšnû!TkjEG©ñ·®Èè‰^OÒÐLvµWT	±iD~|¡alsþ
+»ìAf=iýËÁAI~~“¾Ëø;ä·¿´Î>¥1Q„¼¿Á‚¢{‰pþçµÐ(‰6ÚºLù›ÿ
+é4ø$5g+à¸æŒ™Öá"êð'B=%”ætt[jÑž>í~ 13}¼Ëé{¿8pDÑñÈ«:Š:bÙpcSMî‚m¥Áqj´U3X³¡pfò¡‚V0‚>0‚¡Ù¤Ö0Ó10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:2A1A-05E0-D9471%0#UMicrosoft Time-Stamp Service¢#
+0+ ªÎVc»ÍP
+˜‡Â fü©éF ƒ0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*†H†÷  ê±e×0"20241009202807Z20241010202807Z0t0:
++„Y
+1,0*0
+ ê±e× 0  30 P0
+ ê²·W 06
++„Y
+1(0&0
++„Y
+ 
+0 ¡ ¡
+0 † 0	*†H†÷ ‚ ÏN†ãçýÇ®S‰¶í	–¥ÅEQ7˜ÛéëX
+m€åãÌ,O¥çèq2) nçum‰ÖØ2¦¹G¶˜°¸—|ÆB¹>V9Š@aNl9ô˜þüÝî…¹v)þ_[)Íþ›S´Ú“cÅ!#?x9¤ ŽAm<ðkƒÍÑ?cÓØ!÷÷=²àþÍ¡–ó®ÊlÐ`Ï›¸ñ¤zÁpAaûâüH:›JguvJ?Û%1;]Š‹òÍ/Èœ‡ôHà:]nùTÒ“:X20l•\½×
+_úùoª(•ô“jÅ­•saLÀ[úú‡ÇtkÎLö'Æg1šï£‰ñ ëV&1‚0‚	0“0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ùgu«¤ñ±   ù0	`†He  ‚J0	*†H†÷	1*†H†÷	0/	*†H†÷	1" J$¥Ý
+›0±¦	¤9}Ô¹Tummâz€¬÷ õÌŸ0ú*†H†÷	/1ê0ç0ä0½ 9#ŒÈðûdúé,&kPE] ©J—Å^îRlbØ0˜0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ùgu«¤ñ±   ù0" Løóæ¥F2*„²âYÛž°ÃJýRûÚ›®uAI ‰0	*†H†÷ ‚ G
+šKÂaI7`ôŸ•"M8a˜·{	ht'>>sLR/­Ý}Ô8h˜*¿nnº3‰”çÖ¯ÈÚ…Ùƒ	ùÛ<°h´šÔü^Q!F¹kÖXûÔâ¢ñÔO¶.¿6¡e}bÒÈ'™MA\”‡Ç—<ÜÙHûµÜwÓïšï@¸èähg´›N=0lA{£Ï;»¦Ò!ÿ¶óáN‡(ËâÁL5ÐÄKÒ*ºz·É4.[ xJ¶âÝuGÖÌfdS¾Ä˜ðùsR0”¶„#¢Š"ú=¯ÜTsÜe‹‹	~öìœæ-‘¹i?^²$°éŠ3€ŠÚéçøêI10³nŠ7:'c'wÑQ0’’ç­l%‰ÊMX+Vo¼=l–JÓ‚AÂhg¿é›)i0û¡——œŸ—{Þ—N,"PÏ“ç”,{jB(L(M,"‰ŽÒó6'#`« KcºÔ×àÑš¹˜Pÿò:
+LR	þö[˜·ÐèÝ•Ak;kU¥ªŽil­Náv—(%kEOj ¡­NÕ½è¶WìÉÌOWslJB¨{èÚõ+;)Í¯ÿ©v˜Ä9íN+Djój	Í*óçë#ž¿/ÈGÐtáhÒ'³FJ–HÀ¾ÁF?ÃˆOjMŒrÞùá&Ó‘s`£MtÊÖ¨JOHí¯LñIWšCFz¿                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ‰PNG
+
+   IHDR    w   Zìÿ,  ?IDATxÚíÝay›P€á8h%ÄÁ"¡€ƒEÂ$ÄA‘€ƒá`HÀÁppö«ÛšvIèå@ÞóþÝ³ô¹÷ÇW¸ìb –  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9  K €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r Ÿ£Š>2M•]A ´&2Ncg({eu\! PPŸ6½ÝA œ—yNó=ÿþ™ìr Åsàg9@ä ä 9˜Çw9 9`ËöqŒ6úø{†hãû³ùU@Ø¦ú,çÓGýêß‰Ÿr rÀÖR0Ä”^%áA@ØÒ¢..™îÍ#9 9`õªãÒ£’¶u“èÚ©å ä 1È9@àÊÛD·N% ¬ÿ y¼9cªCe9@à
+]Ì1€p¿§9Oä 9€‹³å`\dº>ä .ÔÏšƒ^@X£}Ì={9 9`}Ž³çà( ¬O;{Z9 9`}†ÙsáôàY¸î·è9gÊÿýþOó?6y°€\ƒ¹c)½€|˜ƒùcÐØ_ä Ö–ƒùo¹2@ I>ú¼ÇÀïôÈÜiÄ 9€Å•þCÓ·9ä (ý5´óˆr )”~HÅëˆr I”~„Ýß9ä )û€ë?9ä R)ûú›—ä Ò)ùrÌ—ä 6|}POÎ P7Kº	Ÿ$È$¶ñæŒ“^‹)È¤Vz˜´ °é„zâ§ˆr B=ù3Ä 9€UÜ2¯83¨.ø„oÑÅÉJ#ÿP¹»ð¯‰öVä€­Þ4&~é¬¶Z l=	ýžM$ ÜÍ£c´gYè££D  È r €   È rÀý:D§èÞùBÚ]œ¢ŽƒU9`»£Žfâ“‹Æh¢ŽG«rÀ¶<MÁyž¬ÈÛPßø‚Ìî¢çš‚@Ê«‚¹Þ•ì*ä€Õž´1ç´Î@XŸk^w3ïëp@`qM|Ö4Vä€µÜ$êã3§wÓä€üßwvË¾¨r@öŒQbFA 9@ä€ÔgC”œÁX2ê£ôôV9€lšXb+@&U,5•ÕG Ï©Á¸XF'ÈdÑÆ’ÓÚä 2xŠ¥çÉ. °¼nñtv9€¥Õ‘a(#p÷×®pnàü 9€š49hìr KYòû¾ r€cäw§¶#ÈÜû­"·‹XÐ˜*£A`	‡È6»‚À½Ÿ8=@`!§t98Ùä ÊëÒå ³+È”7¤ËÁ`W(/ãØä ä@9@`{9 9€L¶–ä ä@9@,r  È€ r r€ÈÈr  dó( °O49€ØÅ.É‚0x9&r €   È r €X ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9° È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   |¾_ôÓx!ƒað    IEND®B`‚                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ‰PNG
+
+   IHDR    w   Zìÿ,  ?IDATxÚíÝay›P€á8h%ÄÁ"¡€ƒEÂ$ÄA‘€ƒá`HÀÁppö«ÛšvIèå@ÞóþÝ³ô¹÷ÇW¸ìb –  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9  K €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r Ÿ£Š>2M•]A ´&2Ncg({eu\! PPŸ6½ÝA œ—yNó=ÿþ™ìr Åsàg9@ä ä 9˜Çw9 9`ËöqŒ6úø{†hãû³ùU@Ø¦ú,çÓGýêß‰Ÿr rÀÖR0Ä”^%áA@ØÒ¢..™îÍ#9 9`õªãÒ£’¶u“èÚ©å ä 1È9@àÊÛD·N% ¬ÿ y¼9cªCe9@à
+]Ì1€p¿§9Oä 9€‹³å`\dº>ä .ÔÏšƒ^@X£}Ì={9 9`}Ž³çà( ¬O;{Z9 9`}†ÙsáôàY¸î·è9gÊÿýþOó?6y°€\ƒ¹c)½€|˜ƒùcÐØ_ä Ö–ƒùo¹2@ I>ú¼ÇÀïôÈÜiÄ 9€Å•þCÓ·9ä (ý5´óˆr )”~HÅëˆr I”~„Ýß9ä )û€ë?9ä R)ûú›—ä Ò)ùrÌ—ä 6|}POÎ P7Kº	Ÿ$È$¶ñæŒ“^‹)È¤Vz˜´ °é„zâ§ˆr B=ù3Ä 9€UÜ2¯83¨.ø„oÑÅÉJ#ÿP¹»ð¯‰öVä€­Þ4&~é¬¶Z l=	ýžM$ ÜÍ£c´gYè££D  È r €   È rÀý:D§èÞùBÚ]œ¢ŽƒU9`»£Žfâ“‹Æh¢ŽG«rÀ¶<MÁyž¬ÈÛPßø‚Ìî¢çš‚@Ê«‚¹Þ•ì*ä€Õž´1ç´Î@XŸk^w3ïëp@`qM|Ö4Vä€µÜ$êã3§wÓä€üßwvË¾¨r@öŒQbFA 9@ä€ÔgC”œÁX2ê£ôôV9€lšXb+@&U,5•ÕG Ï©Á¸XF'ÈdÑÆ’ÓÚä 2xŠ¥çÉ. °¼nñtv9€¥Õ‘a(#p÷×®pnàü 9€š49hìr KYòû¾ r€cäw§¶#ÈÜû­"·‹XÐ˜*£A`	‡È6»‚À½Ÿ8=@`!§t98Ùä ÊëÒå ³+È”7¤ËÁ`W(/ãØä ä@9@`{9 9€L¶–ä ä@9@,r  È€ r r€ÈÈr  dó( °O49€ØÅ.É‚0x9&r €   È r €X ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9 @  ä  9° È r €   È r €   È r €   È r €   È r €   È r €   È r €   È r €   |¾_ôÓx!ƒað    IEND®B`‚                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        AZMBmAGWAZMBmQGYAZQBkQGJAZQBmgGRAZUBmwGXAZUBnAGbAZYBnQGPAZYBmAGdAZ4BnwGgAY4BoQGNAY4BogGhAZABnQGjAY8BnQGQAZEBnwGeAZEBpAGfAZMBpQGZAY0BmgGUAY0BoQGaAZABnAGVAZABowGcAaQBpgGfAaQBpwGmAZkBqAGpAaEBqgGaAaEBqwGqAZwBrAGtAaMBrAGcAZgBqQGuAZkBqQGYAZoBpAGRAZoBqgGkAZwBrwGbAZwBrQGvAZgBsAGdAZgBrgGwAZ8BpgGxAaIBqwGhAaIBsgGrAaMBsAGsAZ0BsAGjAbABswG0Aa4BswGwAaYBtQG2AbIBtwGrAbIBuAG3AawBtAG5AbABtAGsAaYBjgC1AacBjgCmAakBugG7AaoBtwG8AasBtwGqAawBvQGtAawBuQG9AakBswGuAakBuwGzAaoBpwGkAaoBvAGnAa0BvgGvAa0BvQG+AbsBeACzAbsBhgB4AKcBigCOALwBigCnAb0BkAC+Ab0BiwCQALMBegC0AbMBeAB6AJ0AnAC/AbgBfgC3AbgBfAB+ALQBgQC5AbQBegCBALsBwAGGALcBigC8AbcBfgCKALkBiwC9AbkBgQCLAI0AhADBAY0AggCEAPYAwgHDAfYAMgHCAb4BfAC4Ab4BkAB8AK8BuAGyAa8BvgG4AZsBsgGiAZsBrwGyAY4BmwGiAZcBmwGOAYIBjgGIAYIBlwGOAYEBiAGHAYEBggGIAWIBbgFYAWIBZgFuAU4BWAFUAU4BYgFYAT4BVAFDAT4BTgFUATwBQwEzATwBPgFDASoBMwEwASoBPAEzARkBMAEhARkBKgEwARUBIQEYARUBGQEhAf8AGAEFAf8AFQEYAfoABQHxAPoA/wAFAecA8QDqAOcA+gDxANcA6gDdANcA5wDqANQA3QDNANQA1wDdAMQAzQDHAMQA1ADNAK8AxwC2AK8AxADHAKsAtgCiAKsArwC2AJgAogCbAJgAqwCiAI8AmwB/AI8AmACbAJAAfwB8AJAAjwB/AMQBxQHGAccBxQHEAcgByQHKAcgBywHJAcwBywHIAcwBzQHLAcwBzgHNAc8BzgHMAdAB0QHOAdIB0QHQAdMB1AHRAdUB1AHTAdQB1gHXAdgB1gHUAdcB2QHaAdcB2wHZAdoB3AHdAdoB3gHcAd0B3wHgAd0B4QHfAeIB4wHkAeAB4wHiAeUB5gHnAeIB5gHlAegB6QHqAeUB6QHoAcUB6wHsAegB6wHFAe0B7gHvAe0B8AHuAfEB8AHtAfEB8gHwAfMB8gHxAfMB9AHyAfUB9AHzAfUB9gH0AfcB9gH1AfcB+AH2AfkB+AH3AfkB+gH4AfsB+gH5AfsB/AH6Af0B/gH/AQAC/gH9AQECAgIDAgECBAICAgUCBgIHAggCBgIFAggCCQIGAgoCCQIIAgoCCwIJAgwCCwIKAgwCDQILAg4CDQIMAg4CDwINAhACDwIOAhACEQIPAhICEQIQAhICEwIRAhQCEwISAhUCFgIXAhgCFgIVAhkCGgIbAhkCHAIaAh0CHAIZAh0CHgIcAh8CHgIgAh8CIQIeAh8CIgIhAiMCIgIfAiQCJQIiAiYCJQIkAicCKAIlAikCKAInAioCKwIoAioCLAIrAisCLQIuAisCLwItAi4CMAIxAi4CMgIwAjECMwI0AjECMAIzAjUCMwI2AjQCMwI1AjcCOAI5AjUCOAI3AhgCOQI6AjcCOQIYAjsCPAI9Aj4CPAI7Aj4CPwI8AkACPwI+AkACQQI/AkICQQJAAkICQwJBAkQCQwJCAkQCRQJDAkYCRQJEAkYCRwJFAkgCRwJGAkgCSQJHAkoCSQJIAksCTAJNAksCTgJMAk8CUAJRAk8CUgJQAlMCUgJPAlMCVAJSAlUCVAJTAlUCVgJUAlcCVgJVAlcCWAJWAlkCWAJXAlkCWgJYAlsCWgJZAlsCXAJaAl0CXAJbAl0CXgJcAsoBBAJfAsoByQEEAmACYQJiAmMCYQJgAmQCYwJgAmQCZQJjAmYCZQJnAmYCaAJlAmkCaAJqAmkCawJoAmwCbQJrAm4CbQJsAm4CbwJtAnACbwJuAnECcgJvAnECcwJyAnMCdAJyAnMCdQJ0AnQCdgJ3AngCdgJ0AncCeQJ6AncCdgJ5AnoCewJ8AnoCfQJ7An4CfwKAAnwCfwJ+AoECggKDAn4CggKBAoQCgwKFAoECgwKEAoYChwKIAoYChAKHAhsCSwKJAhsCGgJLAooCAAKLAooCjAIAAo0CjAKOAo0CjwKMApACjwKNApACkQKPApICkwKRApQCkwKSApUClgKTApcClgKVApgCmQKWApgCmgKZApkCmwKcAp0CmwKZApwCngKfAqACngKcAp8CoQKiAp8CowKhAqICpAKlAqICpgKkAqcCqAKpAqUCqAKnAqoCqwKsAqcCqwKqAq0CrgKvAqoCrgKtArACsQKyArACrQKxArMCsAK0ArUCsAKzArYCxgG3ArYCxAHGAesBYgLsAesBYAJiAukBYALqAekBZAJgAuYBZwLnAeYBZgJnAuMBagLkAeMBaQJqAuEBbALfAeEBbgJsAt4BbgLcAd4BcAJuAtsBcQLZAdsBcwJxAtgBcwLWAdgBdQJzAngC0wF2AngC1QHTAXYC0AF5AnYC0gHQAX0CzAF7An0CzwHMAX8CyAGAAn8CzAHIAYICygGDAoICyAHKAYMCXwKFAoMCygFfAocCAwKIAocCAQIDAhYC/wEXAhYC/QH/ATkCiwI6AjkCigKLAjgCjgI5AjgCjQKOAjMCjQI2AjMCkAKNAjACkgIzAjAClAKSAjIClQIwAjIClwKVAi8CmAItAi8CmgKYAp0CKgKbAp0CLAIqAqACJwKeAqACKQInAqMCJAKhAqMCJgIkAqYCHwKkAqYCIwIfAqgCIAKpAqgCHwIgAqsCGQKsAqsCHQIZAq4CGwKvAq4CGQIbArECiQKyArECGwKJAkwCtAJNAkwCswK0AmECtgK3AmECuAK2AgoAuQISALoCuQIKAMEBhAC7AgIAUwEKAQEAUwECAM8AGQAgABoAGQDPAAoBVQEVAAoBZQFVAQoBVwFlAVMBVwEKAWwAWwA2AGwAcwBbAC8AQgAtAC8AUABCAGkANwA0AGkAOAA3ALwCvQK+ArwCvwK9Ar8CwAIHAbwCwAK/AsECwgITAMMCwgLBAsQCwwLFAsQCwgLDAsYCuQK6AsYCxwK5AsgCxwLGAsgCyQLHAsMByQLIAsMBwgHJAsoC9wDIAvUA9wDKAssCyALGAsoCyALLAgkAxgIMAMsCxgIJAEkBzALJAkgBzAJJAckCzQLHAswCzQLJAscCEwAQAM0CEwDHAs4C9QDPAs4CBwH1AL0CzwLQAr0CzgLPAg8A0QIOAA8A0gLRAgcBFwH4ABABFwEHAQQBFwEQAfSacz7cys0+SZXpPhKLcj4IGb0+MS3WPmCVfz4IGb0+p4HlPqqQZj7cys0+1UDaPqIToz4knfU+9uPRPnaHpz5I6+Q+R3vXPvjDqD456+Q+VNDNPsAcpD7cjPI+C27XPmCVfz4IGb0+p4HlPk5Qgj64LrY+jQXQ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AA0ADAAOAAAADAAPAA4AEAAPAAwAEQASABMAEQAUABIAFQAWABcAGAAWABUAGQAaABsAGQAcABoAHQAeAB8AHQAgAB4AIQAIAAoAIgAIACEAIwAZACQAIwAfABkAJQAGABEAJgAGACUAJwAoACkAGAAoACcAGAAqABYAGAAnACoABQArACMABwArAAUABAAsAAcAKAAsAAQAHwAcABkAHwAeABwAEwAtAC4AEgAtABMAEgAkAC8AFAAkABIADgADAAAADgAwAAMAMQAAAAIADQAAADEADwAwAA4ADwAyADAAMwATAC4ANAATADMANAARABMAJQARADQABQAkABQABQAjACQABgAUABEABgAFABQALQAKAC4ALQAhAAoAJAAbAC8AJAAZABsALAAYABUAKAAYACwAKwAfACMAKwAdAB8ALgAJADMALgAKAAkANQA2ADcANQA4ADYAOQA6ADsAOQA8ADoAPQA+AD8APQBAAD4AQQBCADUAQwBCAEEAQwBEAEIARQBEAEMARgBHAEgARgBJAEcASgBLAEwATQBLAEoATgBPAFAATgBRAE8AUgBTAFQAUgBVAFMAVgA9AD8AVwA9AFYAWABOAFkAWABUAE4AWgBGAFsAWgA7AEYATQBcAF0ATQBeAFwAQgBEAF8AOgBgAFgAPABgADoAOQBhADwAXgBhADkAVABRAE4AVABTAFEASABiAGMARwBiAEgARwBZAGQASQBZAEcAQgA4ADUAQgBlADgAZgA1ADcAQQA1AGYATQBnAGgATQBdAGcAaQBIAGMAagBIAGkAWwBIAGoAWwBGAEgAXAA5AGsAXABeADkAawA7AFoAawA5ADsAOgBZAEkAOgBYAFkAOwBJAEYAOwA6AEkAYwBWAD8AYgBWAGMAZABOAFAAWQBOAGQAXgBKAGEAXgBNAEoAWABSAFQAYABSAFgAaQA/AD4AYwA/AGkAbABtAG4AbwBtAGwAJgBuAAYAbABuACYAaABwAHEAaABnAHAAXwBlAEIAXwByAGUAbQAEAG4AbQAoAAQASwBoAHEATQBoAEsABAAGAG4AbwAoAG0AKQAoAG8A"
+        }
+    ]
+}

@@ -1,0 +1,877 @@
+{"net":{"http_server_properties":{"broken_alternative_services":[{"anonymization":["HAAAABYAAABodHRwczovL3JhcGlkZ2F0b3IubmV0AAA=",true],"broken_count":1,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2thdGZpbGUuY29tAA==",false],"broken_count":2,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2thdGZpbGUuY29tAA==",false],"broken_count":1,"host":"translate-pa.googleapis.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL3Jvc2VmaWxlLm5ldA==",false],"broken_count":1,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL3Jvc2VmaWxlLm5ldA==",true],"broken_count":1,"host":"newassets.hcaptcha.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL3Jvc2VmaWxlLm5ldA==",true],"broken_count":1,"host":"api.hcaptcha.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL3Jvc2VmaWxlLm5ldA==",true],"broken_count":1,"host":"imgs3.hcaptcha.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":3,"host":"b-hls-12.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":3,"host":"b-hls-02.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":3,"host":"b-hls-11.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"b-hls-13.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"xhamsterlive.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2Rsc2l0ZS5jb20AAA==",false],"broken_count":3,"host":"region1.analytics.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2Rsc2l0ZS5jb20AAA==",false],"broken_count":2,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":13,"host":"www1.valueimage.top","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":1,"host":"xhlive.cam","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL3Rnc3RhdC5jb20AAA==",false],"broken_count":1,"host":"tgstat.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL3Rnc3RhdC5jb20AAA==",false],"broken_count":1,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL3Rnc3RhdC5jb20AAA==",false],"broken_count":1,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL3Rnc3RhdC5jb20AAA==",false],"broken_count":1,"host":"fonts.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2l0Y2guaW8A",false],"broken_count":1,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL3Rnc3RhdC5jb20AAA==",false],"broken_count":1,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":4,"host":"www.anime-sharing.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":2,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"creative.rmhfrtnd.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":4,"host":"go.mnaspm.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":6,"host":"go.rmhfrtnd.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":4,"host":"creative.mnaspm.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"img.strpst.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":3,"host":"img.strpst.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":3,"host":"edge-hls.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":1,"host":"b-hls-18.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"creative.mnaspm.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"go.mnaspm.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"edge-hls.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2Zpa3Blci5jb20AAA==",false],"broken_count":1,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":3,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":2,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"b-hls-16.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":3,"host":"mexa.sh","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":3,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"tzegilo.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABwAAABodHRwczovL3RhcmdldGNoYWluLWZsb3cuY29t",false],"broken_count":1,"host":"targetchain-flow.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"www.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"c.adsco.re","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"6.adsco.re","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",true],"broken_count":3,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",true],"broken_count":3,"host":"c.adsco.re","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":1,"host":"stripcash.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"stripchat.global","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",true],"broken_count":3,"host":"www.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2Zpa3Blci5jb20AAA==",false],"broken_count":2,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":4,"host":"www2.netscale.top","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":1,"host":"www2.192981.xyz","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"go.xhamsterlive.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21leGEuc2gA",false],"broken_count":1,"host":"6.adsco.re","port":2087,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"video.saawsedge.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABgAAABodHRwczovL2hlbnRhaS1zaGFyZS5jb20=",false],"broken_count":1,"host":"hentai-share.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"broken_count":1,"host":"ad.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"broken_count":2,"host":"rr4---sn-5hne6nsk.googlevideo.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2ZhbmRvbS5jb20AAA==",true],"broken_count":1,"host":"onetag-sys.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL296b24ucnUA",false],"broken_count":1,"host":"ir-3.ozone.ru","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"stripchat.ooo","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"b-hls-09.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"b-hls-18.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"b-hls-14.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"b-hls-01.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":4,"host":"b-hls-17.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"b-hls-24.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"superchat.live","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":3,"host":"stripchatgirls.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":3,"host":"stripchat.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":1,"host":"stripchat.webcam","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":2,"host":"b-hls-09.doppiocdn.net","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",true],"broken_count":2,"host":"go.xlivesex.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["IAAAABkAAABodHRwczovL2FuaW1lLXNoYXJpbmcuY29tAAAA",false],"broken_count":5,"host":"region1.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"fundingchoicesmessages.google.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"fonts.googleapis.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",false],"broken_count":1,"host":"fonts.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",true],"broken_count":1,"host":"fonts.googleapis.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",true],"broken_count":1,"host":"tpc.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",true],"broken_count":1,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABcAAABodHRwczovL2NoZWF0ZW5naW5lLm9yZwA=",true],"broken_count":1,"host":"googleads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABEAAABodHRwczovL2dhcmFudC5ydQAAAA==",false],"broken_count":1,"host":"a.adspector.io","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABEAAABodHRwczovL3N1ZGFjdC5ydQAAAA==",false],"broken_count":1,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":1,"host":"challenges.cloudflare.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",true],"broken_count":2,"host":"challenges.cloudflare.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"broken_count":1,"host":"aefd.nelreports.net","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",false],"broken_count":1,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",false],"broken_count":1,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",false],"broken_count":1,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",false],"broken_count":2,"host":"fundingchoicesmessages.google.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",true],"broken_count":1,"host":"tpc.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovLzJpcC5ydQAA",true],"broken_count":2,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3Nwb3RpZnkuY29tAA==",false],"broken_count":3,"host":"open.spotifycdn.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3Nwb3RpZnkuY29tAA==",false],"broken_count":1,"host":"accounts.spotify.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3Nwb3RpZnkuY29tAA==",false],"broken_count":2,"host":"gue1-spclient.spotify.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"broken_count":1,"host":"securepubads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL2tlZW5ldGljLmNvbQ==",false],"broken_count":6,"host":"forum.keenetic.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"broken_count":2,"host":"rtb.mfadsrvr.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL2tlZW5ldGljLmNvbQ==",true],"broken_count":1,"host":"www.youtube-nocookie.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"broken_count":1,"host":"a.nel.cloudflare.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",true],"broken_count":1,"host":"challenges.cloudflare.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":1,"host":"www.gravatar.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":1,"host":"www.google.co.uk","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"broken_count":1,"host":"maxcdn.bootstrapcdn.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"broken_count":1,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"broken_count":2,"host":"cdn.readme.io","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"broken_count":1,"host":"docs.pritunl.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"broken_count":1,"host":"try.abtasty.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"broken_count":1,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":1,"host":"www.google.nl","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"broken_count":1,"host":"fonts.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"broken_count":1,"host":"prebid.media.net","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"broken_count":1,"host":"rtb.openx.net","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"broken_count":1,"host":"pagead2.googlesyndication.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"broken_count":1,"host":"ookla-d.openx.net","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"broken_count":4,"host":"securepubads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":2,"host":"www.googletagmanager.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",true],"broken_count":3,"host":"td.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":3,"host":"googleads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":2,"host":"a.nel.cloudflare.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"broken_count":3,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":20,"broken_until":"1724793274","host":"sun138-1.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":27,"broken_until":"1724793274","host":"sun138-2.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":24,"broken_until":"1724864940","host":"vk.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"broken_count":1,"host":"www.google-analytics.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"broken_count":1,"host":"stats.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"broken_count":1,"host":"sse-bridge.hot-labs.org","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"broken_count":3,"host":"cm.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"broken_count":2,"host":"googleads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":11,"broken_until":"1724867963","host":"cdn.oaistatic.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"broken_count":10,"broken_until":"1724868049","host":"th.bing.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"broken_count":8,"host":"www.bing.com","port":443,"protocol_str":"quic"},{"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"broken_count":1,"host":"t3.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"broken_count":4,"host":"t0.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":3,"host":"chat.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":5,"host":"s.gravatar.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":5,"host":"tcr9i.chat.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":6,"host":"translate-pa.googleapis.com","port":443,"protocol_str":"quic"},{"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"broken_count":4,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"www.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"waa-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"ogads-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"appsgrowthpromo-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"addons-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"fonts.gstatic.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"signaler-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"contacts.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"peoplestackwebexperiments-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"people-pa.clients6.google.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"lh3.googleusercontent.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"broken_count":1,"host":"ogs.google.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-3.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-25.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-1.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-47.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":2,"host":"sun9-19.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-9.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-59.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-29.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"broken_count":1,"host":"translate-pa.googleapis.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":1,"host":"auth.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":1,"host":"featureassets.org","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":1,"host":"prodregistryv2.org","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":1,"host":"auth0.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"broken_count":1,"host":"tcr9i.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"broken_count":8,"host":"files.oaiusercontent.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",true],"broken_count":5,"host":"tcr9i.chat.openai.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-72.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":2,"host":"sun9-17.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":2,"host":"sun9-50.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-70.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-4.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-40.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-28.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-80.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-32.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"broken_count":1,"host":"sun9-53.userapi.com","port":443,"protocol_str":"quic"},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"broken_count":5,"host":"copilot.microsoft.com","port":443,"protocol_str":"quic"},{"anonymization":["GAAAABIAAABodHRwczovL29mZmljZS5jb20AAA==",false],"broken_count":1,"host":"substrate.office.com","port":443,"protocol_str":"quic"}],"servers":[{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"server":"https://openvpn.net","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"server":"https://tracking.g2crowd.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"server":"https://track.hubspot.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"server":"https://static.zdassets.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wZW52cG4ubmV0AA==",false],"server":"https://openvpn.zendesk.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"server":"https://files.readme.io","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"server":"https://cdn.readme.io","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"server":"https://docs.pritunl.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3ByaXR1bmwuY29tAA==",false],"server":"https://api-edge.cognitive.microsofttranslator.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371607877773821","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://www.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371607878147256","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://t3.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://strm-ams27.strm.yandex.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://strm.yandex.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371608398174868","port":443,"protocol_str":"quic"}],"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWFwYmRiZG9tamtramthb25maGtraWtmZ2psbGNsZWIA",false],"server":"https://ssl.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABIAAABlZGdlOi8vY29sbGVjdGlvbnMAAA==",true],"server":"https://edgeservices.bing.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371608659111232","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://www.google.nl","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"server":"https://code.ionicframework.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371607827822480","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"server":"https://fonts.googleapis.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"server":"https://fonts.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609686061608","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"network_stats":{"srtt":52562},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://diffuser-cdn.app-us1.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://c.amazon-adsystem.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://securepubads.g.doubleclick.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://prism.app-us1.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://geolocation.onetrust.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://trackcmp.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://gurgle.speedtest.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://rp.liadm.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://cdn.cookielaw.org","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://zdbb.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://bee.imrworldwide.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://cdn-gl.imrworldwide.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://cdn.static.zdbb.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://tags.bkrtx.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://b.cdnst.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://fastlane.rubiconproject.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://secure-us.imrworldwide.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://hbopenbid.pubmatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609719866957","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":124120},"server":"https://rtb.openx.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://stags.bluekai.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://ib.adnxs-simple.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609719892005","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":119276},"server":"https://prebid.media.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://btlr.sharethrough.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://ivbvohqdxwibk6ld7p9yinjx7zwb21724544119.nuid.imrworldwide.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://bidder.criteo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://c2shb.pubgw.yahoo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://jogger.zdbb.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://ag.gbc.criteo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://gem.gbc.criteo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://static.criteo.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://dnacdn.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://gum.criteo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://ads.pubmatic.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://id5-sync.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://eus.rubiconproject.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609723801700","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"network_stats":{"srtt":117061},"server":"https://ookla-d.openx.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://idx.liadm.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://gum.criteo.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://dnacdn.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609718556051","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":35182},"server":"https://www.googletagmanager.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://cdn.ziffstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609720179903","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":50312},"server":"https://ep1.adtrafficquality.google"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609720327711","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":51160},"server":"https://ep2.adtrafficquality.google","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609720411547","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"network_stats":{"srtt":48919},"server":"https://www.google.com"},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://contextual.media.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609819779483","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"network_stats":{"srtt":46812},"server":"https://www.googletagmanager.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://challenges.cloudflare.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://privacyportal.onetrust.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609855640068","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://pagead2.googlesyndication.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://a.nel.cloudflare.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371571610206545","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://fonts.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609859090960","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://googleads.g.doubleclick.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609859122133","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",true],"server":"https://td.doubleclick.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://www.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609859858135","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://www.google.co.uk","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://secure-us.imrworldwide.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371609724536723","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"network_stats":{"srtt":46594},"server":"https://www.google-analytics.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",true],"server":"https://csm.fr3.eu.criteo.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL3NwZWVkdGVzdC5uZXQAAAA=",false],"server":"https://www.speedtest.net","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://vk.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://matchid.adfox.yandex.ru","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://habrastorage.org","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://yastatic.net","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://bidder.skcrtxr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://cdn.skcrtxr.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371604797288361","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://fonts.googleapis.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://rpc.skcrtxr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://cdn-roxot-seller.skcrtxr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://openrtb.skcrtxr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://worker.sttsmntz.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371604797509555","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://fonts.gstatic.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://rst.skcrtxr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://ads.adfox.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://mc.yandex.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://gist.github.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371610197926151","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"network_stats":{"srtt":41921},"server":"https://www.googletagmanager.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://assets.habr.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://pp.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://ad.mail.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://zen-desktop-site.mediascope.mc.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://yastatic.net","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://cdnjs.cloudflare.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://storage.mds.yandex.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",true],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://yastatic.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://avatars.mds.yandex.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://static.dzeninfra.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://531211.ms.dzen.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://avatars.mds.yandex.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://an.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://avatars.dzeninfra.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://top-fwz1.mail.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2R6ZW4ucnUA",false],"server":"https://551211.ms.dzen.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://an.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://yandex.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371610271668095","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"network_stats":{"srtt":124920},"server":"https://www.google.ru"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371610271665438","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2hhYnIuY29t",false],"network_stats":{"srtt":133491},"server":"https://analytics.google.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2xpbnV4Lm9yZy5ydQ==",false],"server":"https://secure.gravatar.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"server":"https://wg-easy.github.io","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwOi8vODUuMTkyLjYxLjEzMA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL2FlemEucnUA",false],"server":"https://mc.webvisor.org","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://cdnjs.cloudflare.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371657736420451","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://fonts.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://cdn.jsdelivr.net","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://mc.webvisor.org","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371657739804141","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"network_stats":{"srtt":115293},"server":"https://www.googletagmanager.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371657736302126","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"server":"https://fonts.googleapis.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-56.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-61.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-73.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-77.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-68.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-45.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-36.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-71.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-20.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-23.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://st.vk.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371657779490518","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2lwc2VydmVyLnN1AA==",false],"network_stats":{"srtt":129086},"server":"https://www.google-analytics.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-51.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-41.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371734343106406","port":443,"protocol_str":"quic"}],"anonymization":["JAAAAB0AAABodHRwczovL2dvb2dsZXVzZXJjb250ZW50LmNvbQAAAA==",false],"server":"https://clients2.googleusercontent.com","supports_spdy":true},{"anonymization":["LAAAACYAAABodHRwczovL2VkZ2Vhc3NldHNlcnZpY2UuYXp1cmVlZGdlLm5ldAAA",false],"server":"https://edgeassetservice.azureedge.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://log.strm.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",true],"server":"https://storage.mds.yandex.net","supports_spdy":true},{"anonymization":["EAAAAAwAAABodHRwczovL3QubWU=",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["EAAAAAwAAABodHRwczovL3QubWU=",false],"server":"https://oauth.tg.dev","supports_spdy":true},{"anonymization":["EAAAAAwAAABodHRwczovL3QubWU=",false],"server":"https://t.me","supports_spdy":true},{"anonymization":["EAAAAAwAAABodHRwczovL3QubWU=",false],"server":"https://telegram.org","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371740172338663","port":443,"protocol_str":"quic"}],"anonymization":["EAAAAAwAAABodHRwczovL3QubWU=",false],"network_stats":{"srtt":49515},"server":"https://cdn4.cdn-telegram.org","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371740502121853","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",true],"server":"https://accounts.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371740502423620","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",true],"server":"https://lh3.googleusercontent.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371740502431289","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",true],"server":"https://fonts.gstatic.com","supports_spdy":true},{"anonymization":["HAAAABgAAABodHRwczovL2NpdHljbHViLmZpbmFuY2U=",false],"server":"https://go.cityclub.finance","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://sentry.coinall.ltd","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://mc.yandex.md","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371741255018670","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://ssl.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371741254828457","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":49822},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252099698676","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":39977},"server":"https://sun9-16.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252099701902","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":48768},"server":"https://sun9-64.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757750102376","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://ssl.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757749941773","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":58772},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",false],"server":"https://cdnjs.cloudflare.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371657731084816","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",false],"server":"https://ajax.googleapis.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",false],"server":"https://fonts.bunny.net","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",false],"server":"https://imgur.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://fastmineme.easydonate.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757839853809","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://www.googletagmanager.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252240463776","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://sun138-2.userapi.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://st2-22.vk.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://im.vk.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252241288322","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://sun9-18.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252241303134","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://sun9-23.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252241309375","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://sun9-10.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252241318506","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://sun9-31.userapi.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://www.easydonate.ru","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://mc.yandex.md","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://vk.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",true],"server":"https://top-fwz1.mail.ru","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"server":"https://www.google-analytics.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252229522065","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",true],"network_stats":{"srtt":25382},"server":"https://discord.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757853366788","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2Zhc3RtaW5lLm1lAA==",true],"network_stats":{"srtt":43344},"server":"https://a.nel.cloudflare.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252235838265","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"network_stats":{"srtt":62890},"server":"https://cdnjs.cloudflare.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757841520835","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"network_stats":{"srtt":53185},"server":"https://fonts.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371757841779363","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"network_stats":{"srtt":50289},"server":"https://fonts.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252239762601","port":443,"protocol_str":"quic"}],"anonymization":["HAAAABUAAABodHRwczovL2Vhc3lkb25hdGUucnUAAAA=",false],"network_stats":{"srtt":76532},"server":"https://storage.easyx.ru"},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://stats.g.doubleclick.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",true],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://predictor.yandex.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381831722","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-66.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381898848","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-12.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381967618","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-49.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253386439218","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-42.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253386450390","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-24.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253386525225","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-10.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381801869","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":42762},"server":"https://sun9-44.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381871535","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":55128},"server":"https://sun9-31.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253386465255","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":49928},"server":"https://sun9-34.userapi.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://telegram.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL3RlbGVncmFtLm9yZw==",false],"server":"https://telegram.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL3RlbGVncmFtLm9yZw==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759260801662","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://ssl.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759260624357","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"network_stats":{"srtt":41178},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL3RlbGVncmFtLm9yZw==",false],"server":"https://oauth.telegram.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://oauth.telegram.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://bridge.tonapi.io","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://tonconnectbridge.mytonwallet.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://connect.tonhubapi.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://www.okx.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://sse-bridge.hot-labs.org","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253712130389","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"network_stats":{"srtt":74006},"server":"https://bridge.dewallet.pro","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://api-edge.cognitive.microsofttranslator.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759356689534","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"network_stats":{"srtt":41616},"server":"https://a.nel.cloudflare.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253626157654","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"network_stats":{"srtt":62292},"server":"https://wallet.tg"},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://tonkeeper.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://static.mytonwallet.io","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253626215053","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"network_stats":{"srtt":72508},"server":"https://xtonwallet.com"},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://wallet.ton.org","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://s.pvcliping.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://static.okx.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://raw.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://fragment.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2ZyYWdtZW50LmNvbQ==",false],"server":"https://tonhub.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL3lhbmRleC5jb20AAA==",false],"server":"https://yandex.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://yabs.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://bat.bing.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://t.adx.opera.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://core.yads.tech","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://an.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://cm.g.doubleclick.net","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://coinmarketcap.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252793698099","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":64110},"server":"https://s2.coinmarketcap.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://gw-iad-bid.ymmobi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759747131211","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":43994},"server":"https://www.google.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759748315847","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"network_stats":{"srtt":46209},"server":"https://www.googletagmanager.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759748528425","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"network_stats":{"srtt":51961},"server":"https://www.google-analytics.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759748580211","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"network_stats":{"srtt":44311},"server":"https://www.google.ru"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759748660429","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"network_stats":{"srtt":62742},"server":"https://analytics.google.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3N0dmtyLmNvbQAAAA==",false],"server":"https://stvkr.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759761383434","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":56961},"server":"https://accounts.google.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://static.saasexch.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://public.saasexch.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://api.saasexch.co","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://geolocation.onetrust.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://public.nftstatic.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://cdn.cookielaw.org","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759755160386","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":48534},"server":"https://www.googletagmanager.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://privacyportal-bn.my.onetrust.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://www.binance.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://api-edge.cognitive.microsofttranslator.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL29reC5jb20A",false],"server":"https://www.okx.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"server":"https://api.saasexch.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759832611340","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":59568},"server":"https://analytics.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369254216164442","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":77101},"server":"https://bin.bnbstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759809593411","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":56525},"server":"https://o529943.ingest.sentry.io","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369254215610341","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":72772},"server":"https://public.bnbstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371759829340266","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2JpbmFuY2UuY29tAA==",false],"network_stats":{"srtt":48575},"server":"https://www.google-analytics.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369273588742403","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-35.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://tns-counter.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://yandex.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371779876158791","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"network_stats":{"srtt":37094},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371779957650221","port":443,"protocol_str":"quic"}],"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"network_stats":{"srtt":54995},"server":"https://t2.gstatic.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://px.ads.linkedin.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://trc.taboola.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://pr-bh.ybp.yahoo.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369281646792479","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://hbx.media.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369274447101860","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://cm.mgid.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://eb2.3lift.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://visitor.omnitagjs.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371780048469734","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://trace.mediago.io","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371780049035758","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://trace.popin.cc","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://m.adnxs.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://ib.adnxs.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://sync.inmobi.com","supports_spdy":true},{"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"network_stats":{"srtt":44505},"server":"https://t3.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2Rpc2NvcmQuZ2cAAA==",false],"server":"https://discord.gg","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3N5b2RvLnh5egAAAA==",false],"network_stats":{"srtt":45747},"server":"https://discord.syodo.xyz"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369274595245677","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2Rpc2NvcmQuY29tAA==",false],"network_stats":{"srtt":31761},"server":"https://cdn.discordapp.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369274668094688","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2Rpc2NvcmQuY29tAA==",false],"network_stats":{"srtt":22073},"server":"https://discord.com"},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://api-edge.cognitive.microsofttranslator.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://user-images.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://private-user-images.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://camo.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://raw.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://github.githubassets.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://github.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://avatars.githubusercontent.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://api.github.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dpdGh1Yi5jb20AAA==",false],"server":"https://collector.github.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371812642348122","port":443,"protocol_str":"quic"}],"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"network_stats":{"srtt":47965},"server":"https://t0.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://chat.openai.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371812642286054","port":443,"protocol_str":"quic"}],"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"network_stats":{"srtt":47950},"server":"https://t1.gstatic.com","supports_spdy":true},{"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWRscG9kbm5lZWdjbmJvcGhvcGRtaGVkaWNqYmNnY28A",false],"network_stats":{"srtt":43165},"server":"https://www.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371813972874435","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://lh3.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://ogads-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://waa-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://appsgrowthpromo-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://addons-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://mail-ads.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://peoplestackwebexperiments-pa.clients6.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371813978439559","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://fonts.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371813978848283","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://apis.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://contacts.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://signaler-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://ogs.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://people-pa.clients6.google.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://lh3.googleusercontent.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://cdn.web.money","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308417403891","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://cdnjs.cloudflare.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://mail.google.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-1.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308533816969","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-38.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308533960381","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-58.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308538852780","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-2.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-3.userapi.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://auth.openai.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://featureassets.org","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://browser-intake-datadoghq.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://prodregistryv2.org","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308730140133","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://cdn.jsdelivr.net","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://cdn.auth0.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://cdn.openai.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371814331872971","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://ssl.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://tcr9i.openai.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://chatgpt.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":49961},"server":"https://sun9-29.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308572164816","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-79.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-9.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308573666245","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-21.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308573544374","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-74.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308573566274","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-63.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308573462152","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-78.userapi.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://ab.chatgpt.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29wZW5haS5jb20AAA==",false],"server":"https://auth0.openai.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://s.gravatar.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://tcr9i.chat.openai.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369308859169705","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://i1.wp.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://cdn.auth0.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL29wbGF0YS5pbmZvAA==",false],"server":"https://oplata.info","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://vk.com","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://st6-21.vk.com","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://top-fwz1.mail.ru","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://tns-counter.ru","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://stats.vk-portal.net","supports_spdy":true},{"anonymization":["FAAAAA0AAABodHRwczovL3ZrLm1lAAAA",false],"server":"https://vk.me","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309059486542","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-59.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309059544666","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-47.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-70.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-4.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309059628782","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-52.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309059637653","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-46.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-40.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-28.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309059730917","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-19.userapi.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"server":"https://turing-writingassistance.edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"network_stats":{"srtt":58547},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://ecn.dev.virtualearth.net","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://img-s-msn-com.akamaized.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369317338867659","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"network_stats":{"srtt":115532},"server":"https://th.bing.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://www.bing.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-25.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-80.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun1-86.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369310271899081","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://cdn.oaistatic.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",true],"server":"https://tcr9i.chat.openai.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://chatgpt.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://ab.chatgpt.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL2NoYXRncHQuY29tAA==",false],"server":"https://files.oaiusercontent.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"server":"https://graph.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABQAAABodHRwczovL2JpbmdhcGlzLmNvbQ==",false],"server":"https://www.bingapis.com","supports_spdy":true},{"anonymization":["KAAAACMAAABodHRwczovL3hwYXl3YWxsZXRjZG4uYXp1cmVlZGdlLm5ldAA=",false],"server":"https://xpaywalletcdn.azureedge.net","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://fonts.gstatic.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://arc.msn.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"server":"https://www.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827677610119","port":443,"protocol_str":"quic"}],"anonymization":["OAAAADMAAABjaHJvbWUtZXh0ZW5zaW9uOi8vYWFwYmRiZG9tamtramthb25maGtraWtmZ2psbGNsZWIA",false],"network_stats":{"srtt":106095},"server":"https://translate-pa.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827690711912","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":107624},"server":"https://www.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827668086738","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"server":"https://www.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827672934140","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":105862},"server":"https://fonts.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827697526289","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":115685},"server":"https://signaler-pa.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827699993592","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",true],"network_stats":{"srtt":110098},"server":"https://accounts.youtube.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827700351135","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":109469},"server":"https://ssl.gstatic.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827703627780","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":124418},"server":"https://accounts.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827703917274","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABEAAABodHRwczovL2dvb2dsZS5ydQAAAA==",false],"network_stats":{"srtt":119338},"server":"https://accounts.google.ru","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827704588142","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":109275},"server":"https://play.google.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827707813039","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":106986},"server":"https://static.doubleclick.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827712602858","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":110416},"server":"https://youtube.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827747789041","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"server":"https://studio.youtube.com"},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":107063},"server":"https://rr5---sn-4g5lznez.googlevideo.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827722729972","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":110303},"server":"https://suggestqueries-clients6.youtube.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":111620},"server":"https://rr3---sn-4g5ednse.googlevideo.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827723389399","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":213043},"server":"https://jnn-pa.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827723939757","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":111434},"server":"https://i9.ytimg.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":224507},"server":"https://rr5---sn-q4flrn7r.googlevideo.com"},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":111069},"server":"https://rr3---sn-4g5lznes.googlevideo.com"},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":107105},"server":"https://rr2---sn-4g5lznes.googlevideo.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827736663947","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":107427},"server":"https://www.gstatic.com","supports_spdy":true},{"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827773126479","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":112588},"server":"https://yt3.ggpht.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827774983810","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":108140},"server":"https://i.ytimg.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827809670184","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":106588},"server":"https://rr5---sn-4g5edns7.googlevideo.com"},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371827827956435","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":209616},"server":"https://googleads.g.doubleclick.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://translate.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",true],"server":"https://edge.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371828271241672","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":111602},"server":"https://accounts.youtube.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371828450122916","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":110539},"server":"https://www.youtube.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371828639361548","port":443,"protocol_str":"quic"}],"anonymization":["GAAAABMAAABodHRwczovL3lvdXR1YmUuY29tAA==",false],"network_stats":{"srtt":118178},"server":"https://play.google.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://storage.mds.yandex.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",true],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://bs.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://an.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://translate.yandex.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://mc.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://yastatic.net","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://an.yandex.ru","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://avatars.mds.yandex.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253380092215","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":51321},"server":"https://sun9-67.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369252151486748","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-26.userapi.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29mZmljZS5uZXQAAA==",false],"server":"https://nleditor.osi.office.net","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369326655579891","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-69.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://i.mycdn.me","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369326661241162","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":41611},"server":"https://sun9-32.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369327746910659","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-53.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-50.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-11.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369253381816714","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"network_stats":{"srtt":43187},"server":"https://sun9-6.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309054088620","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-60.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369309053995931","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-15.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-17.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun9-72.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369326633484394","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun77-2.userapi.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://sb.scorecardresearch.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://c.bing.com","supports_spdy":true},{"anonymization":["GAAAABEAAABodHRwczovL3lhbmRleC5ydQAAAA==",false],"server":"https://verify.yandex.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://login.vk.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://pu.vk.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://www.tns-counter.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://ad.mail.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://st2-22.vk.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://r.mradx.net","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://im.vk.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369327753655411","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun138-1.userapi.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369327753510457","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://sun138-2.userapi.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://api.vk.com","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://stats.vk-portal.net","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://rs.mail.ru","supports_spdy":true},{"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://top-fwz1.mail.ru","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://c.msn.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369327746745014","port":443,"protocol_str":"quic"}],"anonymization":["FAAAAA4AAABodHRwczovL3ZrLmNvbQAA",false],"server":"https://vk.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://browser.events.data.msn.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"server":"https://copilot.microsoft.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"server":"https://prod.rewardsplatform.microsoft.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13371835438296570","port":443,"protocol_str":"quic"}],"anonymization":["JAAAAB0AAABodHRwczovL3VwZGF0ZS5nb29nbGVhcGlzLmNvbQAAAA==",false],"network_stats":{"srtt":50055},"server":"https://update.googleapis.com","supports_spdy":true},{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13369337038937987","port":443,"protocol_str":"quic"}],"anonymization":["FAAAABAAAABodHRwczovL2JpbmcuY29t",false],"network_stats":{"srtt":238824},"server":"https://www.bing.com","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL21pY3Jvc29mdC5jb20AAAA=",false],"server":"https://edge.microsoft.com","supports_spdy":true},{"anonymization":["GAAAABIAAABodHRwczovL29mZmljZS5jb20AAA==",false],"server":"https://substrate.office.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://ntp.msn.com","supports_spdy":true},{"anonymization":["FAAAAA8AAABodHRwczovL21zbi5jb20A",false],"server":"https://assets.msn.com","supports_spdy":true}],"supports_quic":{"address":"192.168.1.101","used_quic":true},"version":5},"network_qualities":{"CAASABiAgICA+P////8B":"4G","CAESABiAgICA+P////8B":"4G","CAYSABiAgICA+P////8B":"Offline"}}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        s 759
+f 905/1214/81 909/1217/82 910/1218/83 907/1215/80
+s 760
+f 901/997/61 908/1219/84 910/1218/83 909/1217/82
+s 761
+f 908/1219/84 903/1220/78 904/1221/77 910/1218/83
+s 762
+f 904/1210/77 907/1213/80 910/1222/83
+s 763
+f 915/993/57 918/1223/72 920/1224/71 919/1225/70
+s 764
+f 918/1223/72 922/1226/73 923/1227/74 920/1224/71
+s 765
+f 916/996/60 921/1228/75 923/1229/74 922/1230/73
+s 766
+f 921/1228/75 925/1231/69 926/1232/107 923/1229/74
+s 767
+f 917/989/49 924/1233/67 926/1234/107 925/1235/69
+s 768
+f 924/1233/67 919/1236/70 920/1237/71 926/1234/107
+s 769
+f 920/1224/71 923/1227/74 926/1238/107
+s 770
+f 675/898/50 679/897/49 683/1019/69 677/1239/111
+s 771
+f 677/1239/111 683/1019/69 688/1240/75 678/1241/112
+s 772
+f 678/1242/112 688/1027/75 681/912/60 676/911/59
+s 773
+f 680/909/57 695/908/56 699/1035/78 685/1022/72
+s 774
+f 685/1022/72 699/1035/78 704/1243/84 689/1025/73
+s 775
+f 689/1029/73 704/1043/84 697/913/61 681/912/60
+s 776
+f 696/916/64 692/915/63 694/1244/113 701/1038/81
+s 777
+f 701/1038/81 694/1244/113 693/1245/114 705/1041/82
+s 778
+f 705/1041/82 693/1245/114 691/914/62 697/913/61
+s 779
+f 695/908/56 727/907/55 731/1061/96 698/1033/76
+s 780
+f 698/1033/76 731/1061/96 736/1246/102 702/1036/79
+s 781
+f 702/1040/79 736/1067/102 729/917/65 696/916/64
+s 782
+f 728/900/52 724/899/51 726/1247/115 733/1064/99
+s 783
+f 733/1064/99 726/1247/115 725/1248/116 737/1065/100
+s 784
+f 737/1065/100 725/1248/116 723/918/66 729/917/65
+s 785
+f 727/907/55 711/910/58 715/1049/87 730/1059/94
+s 786
+f 730/1059/94 715/1049/87 720/1057/93 734/1062/97
+s 787
+f 734/1062/97 720/1057/93 713/901/53 728/900/52
+s 788
+f 712/896/48 708/895/47 710/1249/117 717/1052/90
+s 789
+f 717/1052/90 710/1249/117 709/1250/118 721/1055/91
+s 790
+f 721/1055/91 709/1250/118 707/902/54 713/901/53
+s 791
+f 711/910/58 680/909/57 686/1024/70 714/1047/85
+s 792
+f 714/1047/85 686/1024/70 682/1251/67 718/1050/88
+s 793
+f 718/1054/88 682/1017/67 679/897/49 712/896/48
+s 794
+f 757/926/58 787/925/57 791/1114/70 764/1093/85
+s 795
+f 764/1093/85 791/1114/70 796/1252/67 759/1094/88
+s 796
+f 759/1087/88 796/1122/67 789/921/49 755/920/48
+s 797
+f 739/923/55 757/926/58 765/1091/87 742/1072/94
+s 798
+f 742/1072/94 765/1091/87 761/1090/93 746/1075/97
+s 799
+f 746/1075/97 761/1090/93 756/905/53 740/904/52
+s 800
+f 740/904/52 752/903/51 754/953/115 745/1077/99
+s 801
+f 745/1077/99 754/953/115 753/952/116 749/1078/100
+s 802
+f 749/1078/100 753/952/116 751/964/66 741/963/65
+s 803
+f 771/924/56 739/923/55 743/1074/96 774/1098/76
+s 804
+f 774/1098/76 743/1074/96 748/1253/102 778/1101/79
+s 805
+f 778/1105/79 748/1080/102 741/963/65 772/962/64
+s 806
+f 772/962/64 784/961/63 786/949/113 777/1103/81
+s 807
+f 777/1103/81 786/949/113 785/948/114 781/1106/82
+s 808
+f 781/1106/82 785/948/114 783/946/62 773/945/61
+s 809
+f 799/922/50 789/921/49 797/1124/69 801/1254/111
+s 810
+f 801/1254/111 797/1124/69 793/1255/75 802/1256/112
+s 811
+f 802/1257/112 793/1117/75 788/944/60 800/943/59
+s 812
+f 787/925/57 771/924/56 775/1100/78 790/1112/72
+s 813
+f 790/1112/72 775/1100/78 780/1258/84 794/1115/73
+s 814
+f 794/1119/73 780/1108/84 773/945/61 788/944/60
+s 815
+f 755/920/48 768/919/47 770/955/117 758/1085/90
+s 816
+f 758/1085/90 770/955/117 769/954/118 762/1088/91
+s 817
+f 762/1088/91 769/954/118 767/906/54 756/905/53
+s 818
+f 803/968/50 807/967/49 811/1130/69 805/1259/111
+s 819
+f 805/1259/111 811/1130/69 816/1260/75 806/1261/112
+s 820
+f 806/1262/112 816/1138/75 809/980/60 804/979/59
+s 821
+f 808/977/57 823/976/56 827/1146/78 813/1133/72
+s 822
+f 813/1133/72 827/1146/78 832/1263/84 817/1136/73
+s 823
+f 817/1140/73 832/1154/84 825/981/61 809/980/60
+s 824
+f 824/984/64 820/983/63 822/929/113 829/1149/81
+s 825
+f 829/1149/81 822/929/113 821/928/114 833/1152/82
+s 826
+f 833/1152/82 821/928/114 819/982/62 825/981/61
+s 827
+f 823/976/56 855/975/55 859/1172/96 826/1144/76
+s 828
+f 826/1144/76 859/1172/96 864/1264/102 830/1147/79
+s 829
+f 830/1151/79 864/1178/102 857/985/65 824/984/64
+s 830
+f 856/969/52 852/934/51 854/933/115 861/1175/99
+s 831
+f 861/1175/99 854/933/115 853/932/116 865/1176/100
+s 832
+f 865/1176/100 853/932/116 851/986/66 857/985/65
+s 833
+f 855/975/55 839/978/58 843/1160/87 858/1170/94
+s 834
+f 858/1170/94 843/1160/87 848/1168/93 862/1173/97
+s 835
+f 862/1173/97 848/1168/93 841/970/53 856/969/52
+s 836
+f 840/966/48 836/965/47 838/937/117 845/1163/90
+s 837
+f 845/1163/90 838/937/117 837/936/118 849/1166/91
+s 838
+f 849/1166/91 837/936/118 835/935/54 841/970/53
+s 839
+f 839/978/58 808/977/57 814/1135/70 842/1158/85
+s 840
+f 842/1158/85 814/1135/70 810/1265/67 846/1161/88
+s 841
+f 846/1165/88 810/1128/67 807/967/49 840/966/48
+s 842
+f 885/994/58 915/993/57 919/1225/70 892/1204/85
+s 843
+f 892/1204/85 919/1225/70 924/1266/67 887/1205/88
+s 844
+f 887/1198/88 924/1233/67 917/989/49 883/988/48
+s 845
+f 867/991/55 885/994/58 893/1202/87 870/1183/94
+s 846
+f 870/1183/94 893/1202/87 889/1201/93 874/1186/97
+s 847
+f 874/1186/97 889/1201/93 884/973/53 868/972/52
+s 848
+f 868/972/52 880/971/51 882/1005/115 873/1188/99
+s 849
+f 873/1188/99 882/1005/115 881/1004/116 877/1189/100
+s 850
+f 877/1189/100 881/1004/116 879/1016/66 869/1015/65
+s 851
+f 899/992/56 867/991/55 871/1185/96 902/1209/76
+s 852
+f 902/1209/76 871/1185/96 876/1267/102 906/1212/79
+s 853
+f 906/1216/79 876/1191/102 869/1015/65 900/1014/64
+s 854
+f 900/1014/64 912/1013/63 914/1001/113 905/1214/81
+s 855
+f 905/1214/81 914/1001/113 913/1000/114 909/1217/82
+s 856
+f 909/1217/82 913/1000/114 911/998/62 901/997/61
+s 857
+f 927/990/50 917/989/49 925/1235/69 929/1268/111
+s 858
+f 929/1268/111 925/1235/69 921/1269/75 930/1270/112
+s 859
+f 930/1271/112 921/1228/75 916/996/60 928/995/59
+s 860
+f 915/993/57 899/992/56 903/1211/78 918/1223/72
+s 861
+f 918/1223/72 903/1211/78 908/1272/84 922/1226/73
+s 862
+f 922/1230/73 908/1219/84 901/997/61 916/996/60
+s 863
+f 883/988/48 896/987/120 898/1007/117 886/1196/90
+s 864
+f 886/1196/90 898/1007/117 897/1006/118 890/1199/91
+s 865
+f 890/1199/91 897/1006/118 895/974/119 884/973/53
+s 866
+f 691/1273/5 693/1245/5 694/1244/5 692/1274/5 723/1275/5 725/1248/5 726/1247/5 724/899/5 707/902/5 709/1250/5 710/1249/5 708/1276/5 675/1277/5 677/1278/5 678/1279/5 676/1280/5
+s 867
+f 964/1281/47 968/1282/48 935/1283/49 931/1284/50
+s 868
+f 980/1285/51 984/1286/52 969/1287/53 963/1288/54
+s 869
+f 1008/1289/51 996/1290/52 1012/1291/53 1023/1292/54
+s 870
+f 983/1293/55 951/1294/56 936/1295/57 967/1296/58
+s 871
+f 932/1297/59 937/1298/60 953/1299/61 947/1300/62
+s 872
+f 948/1301/63 952/1302/64 985/1303/65 979/1304/66
+s 873
+f 1024/1305/47 1011/1306/48 1045/1307/49 1055/1308/50
+s 874
+f 995/1309/55 1027/1310/56 1043/1311/57 1013/1312/58
+s 875
+f 1075/1313/5 1077/1314/5 1078/1315/5 1076/1316/5 1107/1317/5 1109/1318/5 1110/1319/5 1108/1320/5 1091/1321/5 1093/1322/5 1094/1323/5 1092/1324/5 1059/1325/5 1061/1326/5 1062/1327/5 1060/1328/5
+s 876
+f 1056/1329/131 1044/1330/60 1029/1331/61 1039/1332/62
+s 877
+f 1039/1333/5 1041/1334/5 1042/1335/5 1040/1336/5 1007/1337/5 1009/1338/5 1010/1339/5 1008/1289/5 1023/1292/5 1025/1340/5 1026/1341/5 1024/1342/5 1055/1343/5 1057/1344/5 1058/1345/5 1056/1346/5
+s 878
+f 1040/1347/63 1028/1348/64 997/1349/65 1007/1350/66
+s 879
+f 1092/1351/47 1096/1352/48 1063/1353/49 1059/1354/50
+s 880
+f 1108/1320/51 1112/1355/52 1097/1356/53 1091/1321/54
+s 881
+f 1136/1357/51 1124/1358/52 1140/1359/53 1151/1360/119
+s 882
+f 1111/1361/55 1079/1362/56 1064/1363/57 1095/1364/58
+s 883
+f 1060/1365/59 1065/1366/60 1081/1367/61 1075/1368/62
+s 884
+f 1076/1369/63 1080/1370/64 1113/1371/65 1107/1372/66
+s 885
+f 1152/1373/120 1139/1374/48 1173/1375/49 1183/1376/50
+s 886
+f 1123/1377/55 1155/1378/56 1171/1379/57 1141/1380/58
+s 887
+f 1184/1381/59 1172/1382/60 1157/1383/61 1167/1384/62
+s 888
+f 1167/1385/5 1169/1386/5 1170/1387/5 1168/1388/5 1135/1389/5 1137/1390/5 1138/1391/5 1136/1357/5 1151/1360/5 1153/1392/5 1154/1393/5 1152/1394/5 1183/1395/5 1185/1396/5 1186/1397/5 1184/1398/5
+s 889
+f 1168/1399/63 1156/1400/64 1125/1401/65 1135/1402/66
+s 890
+f 935/1283/49 938/1403/67 940/1404/68 939/1405/69
+s 891
+f 938/1403/67 942/1406/70 943/1407/71 940/1404/68
+s 892
+f 936/1295/57 941/1408/72 943/1409/71 942/1410/70
+s 893
+f 941/1408/72 945/1411/73 946/1412/74 943/1409/71
+s 894
+f 937/1298/60 944/1413/75 946/1414/74 945/1415/73
+s 895
+f 944/1413/75 939/1416/69 940/1417/68 946/1414/74
+s 896
+f 940/1404/68 943/1407/71 946/1418/74
+s 897
+f 951/1294/56 954/1419/76 956/1420/77 955/1421/78
+s 898
+f 954/1419/76 958/1422/79 959/1423/80 956/1420/77
+s 899
+f 952/1302/64 957/1424/81 959/1425/80 958/1426/79
+s 900
+f 957/1424/81 961/1427/82 962/1428/126 959/1425/80
+s 901
+f 953/1299/61 960/1429/84 962/1428/126 961/1427/82
+s 902
+f 960/1429/84 955/1430/78 956/1431/77 962/1428/126
+s 903
+f 956/1420/77 959/1423/80 962/1432/126
+s 904
+f 967/1296/58 970/1433/85 972/1434/86 971/1435/87
+s 905
+f 970/1433/85 974/1436/88 975/1437/130 972/1434/86
+s 906
+f 968/1282/48 973/1438/90 975/1439/130 974/1440/88
+s 907
+f 973/1438/90 977/1441/91 978/1442/92 975/1439/130
+s 908
+f 969/1287/53 976/1443/93 978/1442/92 977/1441/91
+s 909
+f 976/1443/93 971/1435/87 972/1434/86 978/1442/92
+s 910
+f 972/1434/86 975/1437/130 978/1444/92
+s 911
+f 983/1293/55 986/1445/94 988/1446/95 987/1447/96
+s 912
+f 986/1445/94 990/1448/97 991/1449/129 988/1446/95
+s 913
+f 984/1286/52 989/1450/99 991/1449/129 990/1448/97
+s 914
+f 989/1450/99 993/1451/100 994/1452/101 991/1449/129
+s 915
+f 985/1303/65 992/1453/102 994/1452/101 993/1451/100
+s 916
+f 992/1453/102 987/1454/96 988/1455/95 994/1452/101
+s 917
+f 988/1446/95 991/1456/129 994/1457/101
+s 918
+f 995/1309/55 998/1458/94 1000/1459/95 999/1460/96
+s 919
+f 998/1458/94 1002/1461/97 1003/1462/98 1000/1459/95
+s 920
+f 996/1290/52 1001/1463/99 1003/1462/98 1002/1461/97
+s 921
+f 1001/1463/99 1005/1464/100 1006/1465/101 1003/1462/98
+s 922
+f 997/1349/65 1004/1466/102 1006/1465/101 1005/1464/100
+s 923
+f 1004/1466/102 999/1467/96 1000/1468/95 1006/1465/101
+s 924
+f 1000/1459/95 1003/1469/98 1006/1470/101
+s 925
+f 1011/1306/48 1014/1471/90 1016/1472/121 1015/1473/88
+s 926
+f 1014/1471/90 1018/1474/132 1019/1475/105 1016/1472/121
+s 927
+f 1012/1291/53 1017/1476/93 1019/1475/105 1018/1474/132
+s 928
+f 1017/1476/93 1021/1477/87 1022/1478/106 1019/1475/105
+s 929
+f 1013/1312/58 1020/1479/85 1022/1478/106 1021/1477/87
+s 930
+f 1020/1479/85 1015/1480/88 1016/1481/121 1022/1478/106
+s 931
+f 1016/1472/121 1019/1482/105 1022/1483/106
+s 932
+f 1027/1310/56 1030/1484/76 1032/1485/122 1031/1486/78
+s 933
+f 1030/1484/76 1034/1487/79 1035/1488/80 1032/1485/122
+s 934
+f 1028/1348/64 1033/1489/81 1035/1490/80 1034/1491/79
+s 935
+f 1033/1489/81 1037/1492/82 1038/1493/83 1035/1490/80
+s 936
+f 1029/1331/61 1036/1494/84 1038/1493/83 1037/1492/82
+s 937
+f 1036/1494/84 1031/1495/78 1032/1496/122 1038/1493/83
+s 938
+f 1032/1485/122 1035/1488/80 1038/1497/83
+s 939
+f 1043/1311/57 1046/1498/72 1048/1499/71 1047/1500/70
+s 940
+f 1046/1498/72 1050/1501/73 1051/1502/108 1048/1499/71
+s 941
+f 1044/1330/60 1049/1503/124 1051/1504/108 1050/1505/73
+s 942
+f 1049/1503/124 1053/1506/69 1054/1507/125 1051/1504/108
+s 943
+f 1045/1307/49 1052/1508/67 1054/1509/125 1053/1510/69
+s 944
+f 1052/1508/67 1047/1511/70 1048/1512/71 1054/1509/125
+s 945
+f 1048/1499/71 1051/1502/108 1054/1513/125
+s 946
+f 1063/1353/49 1066/1514/67 1068/1515/68 1067/1516/69
+s 947
+f 1066/1514/67 1070/1517/70 1071/1518/71 1068/1515/68
+s 948
+f 1064/1363/57 1069/1519/72 1071/1520/71 1070/1521/70
+s 949
+f 1069/1519/72 1073/1522/73 1074/1523/108 1071/1520/71
+s 950
+f 1065/1366/60 1072/1524/75 1074/1525/108 1073/1526/73
+s 951
+f 1072/1524/75 1067/1527/69 1068/1528/68 1074/1525/108
+s 952
+f 1068/1515/68 1071/1518/71 1074/1529/108
+s 953
+f 1079/1362/56 1082/1530/76 1084/1531/77 1083/1532/78
+s 954
+f 1082/1530/76 1086/1533/79 1087/1534/80 1084/1531/77
+s 955
+f 1080/1370/64 1085/1535/81 1087/1536/80 1086/1537/79
+s 956
+f 1085/1535/81 1089/1538/82 1090/1539/83 1087/1536/80
+s 957
+f 1081/1367/61 1088/1540/84 1090/1539/83 1089/1538/82
+s 958
+f 1088/1540/84 1083/1541/78 1084/1542/77 1090/1539/83
+s 959
+f 1084/1531/77 1087/1534/80 1090/1543/83
+s 960
+f 1095/1364/58 1098/1544/85 1100/1545/86 1099/1546/87
+s 961
+f 1098/1544/85 1102/1547/88 1103/1548/89 1100/1545/86
+s 962
+f 1096/1352/48 1101/1549/90 1103/1550/89 1102/1551/88
+s 963
+f 1101/1549/90 1105/1552/91 1106/1553/92 1103/1550/89
+s 964
+f 1097/1356/53 1104/1554/93 1106/1553/92 1105/1552/91
+s 965
+f 1104/1554/93 1099/1546/87 1100/1545/86 1106/1553/92
+s 966
+f 1100/1545/86 1103/1548/89 1106/1555/92
+s 967
+f 1111/1361/55 1114/1556/94 1116/1557/95 1115/1558/96
+s 968
+f 1114/1556/94 1118/1559/97 1119/1560/98 1116/1557/95
+s 969
+f 1112/1355/52 1117/1561/99 1119/1560/98 1118/1559/97
+s 970
+f 1117/1561/99 1121/1562/100 1122/1563/101 1119/1560/98
+s 971
+f 1113/1371/65 1120/1564/102 1122/1563/101 1121/1562/100
+s 972
+f 1120/1564/102 1115/1565/96 1116/1566/95 1122/1563/101
+s 973
+f 1116/1557/95 1119/1567/98 1122/1568/101
+s 974
+f 1123/1377/55 1126/1569/94 1128/1570/127 1127/1571/96
+s 975
+f 1126/1569/94 1130/1572/97 1131/1573/133 1128/1570/127
+s 976
+f 1124/1358/52 1129/1574/99 1131/1573/133 1130/1572/97
+s 977
+f 1129/1574/99 1133/1575/100 1134/1576/101 1131/1573/133
+s 978
+f 1125/1401/65 1132/1577/102 1134/1576/101 1133/1575/100
+s 979
+f 1132/1577/102 1127/1578/96 1128/1579/127 1134/1576/101
+s 980
+f 1128/1570/127 1131/1580/133 1134/1581/101
+s 981
+f 1139/1374/48 1142/1582/90 1144/1583/130 1143/1584/88
+s 982
+f 1142/1582/90 1146/1585/91 1147/1586/92 1144/1583/130
+s 983
+f 1140/1359/53 1145/1587/93 1147/1586/92 1146/1585/91
+s 984
+f 1145/1587/93 1149/1588/87 1150/1589/86 1147/1586/92
+s 985
+f 1141/1380/58 1148/1590/85 1150/1589/86 1149/1588/87
+s 986
+f 1148/1590/85 1143/1591/88 1144/1592/130 1150/1589/86
+s 987
+f 1144/1583/130 1147/1593/92 1150/1594/86
+s 988
+f 1155/1378/56 1158/1595/76 1160/1596/77 1159/1597/78
+s 989
+f 1158/1595/76 1162/1598/79 1163/1599/80 1160/1596/77
+s 990
+f 1156/1400/64 1161/1600/81 1163/1601/80 1162/1602/79
+s 991
+f 1161/1600/81 1165/1603/82 1166/1604/83 1163/1601/80
+s 992
+f 1157/1383/61 1164/1605/84 1166/1604/83 1165/1603/82
+s 993
+f 1164/1605/84 1159/1606/78 1160/1607/77 1166/1604/83
+s 994
+f 1160/1596/77 1163/1599/80 1166/1608/83
+s 995
+f 1171/1379/57 1174/1609/72 1176/1610/123 1175/1611/70
+s 996
+f 1174/1609/72 1178/1612/73 1179/1613/108 1176/1610/123
+s 997
+f 1172/1382/60 1177/1614/75 1179/1615/108 1178/1616/73
+s 998
+f 1177/1614/75 1181/1617/69 1182/1618/125 1179/1615/108
+s 999
+f 1173/1375/49 1180/1619/67 1182/1620/125 1181/1621/69
+s 1000
+f 1180/1619/67 1175/1622/70 1176/1623/123 1182/1620/125
+s 1001
+f 1176/1610/123 1179/1613/108 1182/1624/125
+s 1002
+f 931/1284/50 935/1283/49 939/1405/69 933/1625/111
+s 1003
+f 933/1625/111 939/1405/69 944/1626/75 934/1627/112
+s 1004
+f 934/1628/112 944/1413/75 937/1298/60 932/1297/59
+s 1005
+f 936/1295/57 951/1294/56 955/1421/78 941/1408/72
+s 1006
+f 941/1408/72 955/1421/78 960/1629/84 945/1411/73
+s 1007
+f 945/1415/73 960/1429/84 953/1299/61 937/1298/60
+s 1008
+f 952/1302/64 948/1301/63 950/1630/113 957/1424/81
+s 1009
+f 957/1424/81 950/1630/113 949/1631/114 961/1427/82
+s 1010
+f 961/1427/82 949/1631/114 947/1300/62 953/1299/61
+s 1011
+f 951/1294/56 983/1293/55 987/1447/96 954/1419/76
+s 1012
+f 954/1419/76 987/1447/96 992/1632/102 958/1422/79
+s 1013
+f 958/1426/79 992/1453/102 985/1303/65 952/1302/64
+s 1014
+f 984/1286/52 980/1285/51 982/1633/115 989/1450/99
+s 1015
+f 989/1450/99 982/1633/115 981/1634/116 993/1451/100
+s 1016
+f 993/1451/100 981/1634/116 979/1304/66 985/1303/65
+s 1017
+f 983/1293/55 967/1296/58 971/1435/87 986/1445/94
+s 1018
+f 986/1445/94 971/1435/87 976/1443/93 990/1448/97
+s 1019
+f 990/1448/97 976/1443/93 969/1287/53 984/1286/52
+s 1020
+f 968/1282/48 964/1281/47 966/1635/117 973/1438/90
+s 1021
+f 973/1438/90 966/1635/117 965/1636/118 977/1441/91
+s 1022
+f 977/1441/91 965/1636/118 963/1288/54 969/1287/53
+s 1023
+f 967/1296/58 936/1295/57 942/1410/70 970/1433/85
+s 1024
+f 970/1433/85 942/1410/70 938/1637/67 974/1436/88
+s 1025
+f 974/1440/88 938/1403/67 935/1283/49 968/1282/48
+s 1026
+f 1013/1312/58 1043/1311/57 1047/1500/70 1020/1479/85
+s 1027
+f 1020/1479/85 1047/1500/70 1052/1638/67 1015/1480/88
+s 1028
+f 1015/1473/88 1052/1508/67 1045/1307/49 1011/1306/48
+s 1029
+f 995/1309/55 1013/1312/58 1021/1477/87 998/1458/94
+s 1030
+f 998/1458/94 1021/1477/87 1017/1476/93 1002/1461/97
+s 1031
+f 1002/1461/97 1017/1476/93 1012/1291/53 996/1290/52
+s 1032
+f 996/1290/52 1008/1289/51 1010/1339/115 1001/1463/99
+s 1033
+f 1001/1463/99 1010/1339/115 1009/1338/116 1005/1464/100
+s 1034
+f 1005/1464/100 1009/1338/116 1007/1350/66 997/1349/65
+s 1035
+f 1027/1310/56 995/1309/55 999/1460/96 1030/1484/76
+s 1036
+f 1030/1484/76 999/1460/96 1004/1639/102 1034/1487/79
+s 1037
+f 1034/1491/79 1004/1466/102 997/1349/65 1028/1348/64
+s 1038
+f 1028/1348/64 1040/1347/63 1042/1335/113 1033/1489/81
+s 1039
+f 1033/1489/81 1042/1335/113 1041/1334/114 1037/1492/82
+s 1040
+f 1037/1492/82 1041/1334/114 1039/1332/62 1029/1331/61
+s 1041
+f 1055/1308/50 1045/1307/49 1053/1510/69 1057/1640/111
+s 1042
+f 1057/1640/111 1053/1510/69 1049/1641/124 1058/1642/112
+s 1043
+f 1058/1643/112 1049/1503/124 1044/1330/60 1056/1329/131
+s 1044
+f 1043/1311/57 1027/1310/56 1031/1486/78 1046/1498/72
+s 1045
+f 1046/1498/72 1031/1486/78 1036/1644/84 1050/1501/73
+s 1046
+f 1050/1505/73 1036/1494/84 1029/1331/61 1044/1330/60
+s 1047
+f 1011/1306/48 1024/1305/47 1026/1341/117 1014/1471/90
+s 1048
+f 1014/1471/90 1026/1341/117 1025/1340/118 1018/1474/132
+s 1049
+f 1018/1474/132 1025/1340/118 1023/1292/54 1012/1291/53
+s 1050
+f 1059/1354/50 1063/1353/49 1067/1516/69 1061/1645/111
+s 1051
+f 1061/1645/111 1067/1516/69 1072/1646/75 1062/1647/112
+s 1052
+f 1062/1648/112 1072/1524/75 1065/1366/60 1060/1365/59
+s 1053
+f 1064/1363/57 1079/1362/56 1083/1532/78 1069/1519/72
+s 1054
+f 1069/1519/72 1083/1532/78 1088/1649/84 1073/1522/73
+s 1055
+f 1073/1526/73 1088/1540/84 1081/1367/61 1065/1366/60
+s 1056
+f 1080/1370/64 1076/1369/63 1078/1315/113 1085/1535/81
+s 1057
+f 1085/1535/81 1078/1315/113 1077/1314/114 1089/1538/82
+s 1058
+f 1089/1538/82 1077/1314/114 1075/1368/62 1081/1367/61
+s 1059
+f 1079/1362/56 1111/1361/55 1115/1558/96 1082/1530/76
+s 1060
+f 1082/1530/76 1115/1558/96 1120/1650/102 1086/1533/79
+s 1061
+f 1086/1537/79 1120/1564/102 1113/1371/65 1080/1370/64
+s 1062
+f 1112/1355/52 1108/1320/51 1110/1319/115 1117/1561/99
+s 1063
+f 1117/1561/99 1110/1319/115 1109/1318/116 1121/1562/100
+s 1064
+f 1121/1562/100 1109/1318/116 1107/1372/66 1113/1371/65
+s 1065
+f 1111/1361/55 1095/1364/58 1099/1546/87 1114/1556/94
+s 1066
+f 1114/1556/94 1099/1546/87 1104/1554/93 1118/1559/97
+s 1067
+f 1118/1559/97 1104/1554/93 1097/1356/53 1112/1355/52
+s 1068
+f 1096/1352/48 1092/1351/47 1094/1323/117 1101/1549/90
+s 1069
+f 1101/1549/90 1094/1323/117 1093/1322/118 1105/1552/91
+s 1070
+f 1105/1552/91 1093/1322/118 1091/1321/54 1097/1356/53
+s 1071
+f 1095/1364/58 1064/1363/57 1070/1521/70 1098/1544/85
+s 1072
+f 1098/1544/85 1070/1521/70 1066/1651/67 1102/1547/88
+s 1073
+f 1102/1551/88 1066/1514/67 1063/1353/49 1096/1352/48
+s 1074
+f 1141/1380/58 1171/1379/57 1175/1611/70 1148/1590/85
+s 1075
+f 1148/1590/85 1175/1611/70 1180/1652/67 1143/1591/88
+s 1076
+f 1143/1584/88 1180/1619/67 1173/1375/49 1139/1374/48
+s 1077
+f 1123/1377/55 1141/1380/58 1149/1588/87 1126/1569/94
+s 1078
+f 1126/1569/94 1149/1588/87 1145/1587/93 1130/1572/97
+s 1079
+f 1130/1572/97 1145/1587/93 1140/1359/53 1124/1358/52
+s 1080
+f 1124/1358/52 1136/1357/51 1138/1391/115 1129/1574/99
+s 1081
+f 1129/1574/99 1138/1391/115 1137/1390/116 1133/1575/100
+s 1082
+f 1133/1575/100 1137/1390/116 1135/1402/66 1125/1401/65
+s 1083
+f 1155/1378/56 1123/1377/55 1127/1571/96 1158/1595/76
+s 1084
+f 1158/1595/76 1127/1571/96 1132/1653/102 1162/1598/79
+s 1085
+f 1162/1602/79 1132/1577/102 1125/1401/65 1156/1400/64
+s 1086
+f 1156/1400/64 1168/1399/63 1170/1387/113 1161/1600/81
+s 1087
+f 1161/1600/81 1170/1387/113 1169/1386/114 1165/1603/82
+s 1088
+f 1165/1603/82 1169/1386/114 1167/1384/62 1157/1383/61
+s 1089
+f 1183/1376/50 1173/1375/49 1181/1621/69 1185/1654/111
+s 1090
+f 1185/1654/111 1181/1621/69 1177/1655/75 1186/1656/112
+s 1091
+f 1186/1657/112 1177/1614/75 1172/1382/60 1184/1381/59
+s 1092
+f 1171/1379/57 1155/1378/56 1159/1597/78 1174/1609/72
+s 1093
+f 1174/1609/72 1159/1597/78 1164/1658/84 1178/1612/73
+s 1094
+f 1178/1616/73 1164/1605/84 1157/1383/61 1172/1382/60
+s 1095
+f 1139/1374/48 1152/1373/120 1154/1393/117 1142/1582/90
+s 1096
+f 1142/1582/90 1154/1393/117 1153/1392/118 1146/1585/91
+s 1097
+f 1146/1585/91 1153/1392/118 1151/1360/119 1140/1359/53
+s 1098
+f 947/1659/5 949/1631/5 950/1630/5 948/1660/5 979/1661/5 981/1634/5 982/1633/5 980/1285/5 963/1288/5 965/1636/5 966/1635/5 964/1662/5 931/1663/5 933/1664/5 934/1665/5 932/1666/5
+usemtl Stone
+s 1
+f 2/1667/134 27/1668/135 39/1669/136 14/1670/137
+s 2
+f 1/1671/138 4/1672/139 6/1673/140 5/1674/141
+s 3
+f 4/1672/139 8/1675/142 9/1676/143 6/1673/140
+s 4
+f 2/1667/134 7/1677/144 9/1678/143 8/1679/142
+s 5
+f 7/1677/144 11/1680/145 12/1681/146 9/1678/143
+s 6
+f 3/1682/147 10/1683/148 12/1684/146 11/1685/145
+s 7
+f 10/1683/148 5/1686/141 6/1687/140 12/1684/146
+s 8
+f 6/1673/140 9/1676/143 12/1688/146
+s 9
+f 13/1689/149 16/1690/150 18/1691/151 17/1692/152
+s 10
+f 16/1690/150 20/1693/153 21/1694/154 18/1691/151
+s 11
+f 14/1670/137 19/1695/155 21/1696/154 20/1697/153
+s 12
+f 19/1695/155 23/1698/156 24/1699/157 21/1696/154
+s 13
+f 15/1700/158 22/1701/159 24/1702/157 23/1703/156
+s 14
+f 22/1701/159 17/1704/152 18/1705/151 24/1702/157
+s 15
+f 18/1691/151 21/1694/154 24/1706/157
+s 16
+f 25/1707/160 28/1708/161 30/1709/162 29/1710/163
+s 17
+f 28/1708/161 32/1711/164 33/1712/165 30/1709/162
+s 18
+f 26/1713/166 31/1714/167 33/1715/165 32/1716/164
+s 19
+f 31/1714/167 35/1717/168 36/1718/169 33/1715/165
+s 20
+f 27/1668/135 34/1719/170 36/1720/169 35/1721/168
+s 21
+f 34/1719/170 29/1722/163 30/1723/162 36/1720/169
+s 22
+f 30/1709/162 33/1712/165 36/1724/169
+s 23
+f 37/1725/171 40/1726/172 42/1727/173 41/1728/174
+s 24
+f 40/1726/172 44/1729/175 45/1730/176 42/1727/173
+s 25
+f 38/1731/177 43/1732/178 45/1730/176 44/1729/175
+s 26
+f 43/1732/178 47/1733/179 48/1734/180 45/1730/176
+s 27
+f 39/1669/136 46/1735/181 48/1736/180 47/1737/179
+s 28
+f 46/1735/181 41/1738/174 42/1739/173 48/1736/180
+s 29
+f 42/1727/173 45/1740/176 48/1741/180
+s 30
+f 14/1670/137 39/1669/136 47/1737/179 19/1695/155
+s 31
+f 19/1695/155 47/1737/179 43/1742/178 23/1698/156
+s 32
+f 23/1703/156 43/1732/178 38/1731/177 15/1700/158
+s 33
+f 2/1667/134 14/1670/137 20/1697/153 7/1677/144
+s 34
+f 7/1677/144 20/1697/153 16/1743/150 11/1680/145
+s 35
+f 11/1685/145 16/1690/150 13/1689/149 3/1682/147
+s 36
+f 39/1669/136 27/1668/135 35/1721/168 46/1735/181
+s 37
+f 46/1735/181 35/1721/168 31/1744/167 41/1738/174
+s 38
+f 41/1728/174 31/1714/167 26/1713/166 37/1725/171
+s 39
+f 27/1668/135 2/1667/134 8/1679/142 34/1719/170
+s 40
+f 34/1719/170 8/1679/142 4/1745/139 29/1722/163
+s 41
+f 29/1710/163 4/1672/139 1/1671/138 25/1707/160
+s 42
+f 1/1671/138 50/1746/182 74/1747/183 25/1707/160
+s 43
+f 75/1748/184 49/1749/185 63/1750/186 85/1751/187
+s 44
+f 37/1725/171 87/1752/188 95/1753/189 40/1726/172
+s 45
+f 44/1729/175 91/1754/190 86/1755/191 38/1731/177
+s 46
+f 49/1749/185 52/1756/192 54/1757/193 53/1758/194
+s 47
+f 52/1756/192 56/1759/195 57/1760/196 54/1757/193
+s 48
+f 50/1746/182 55/1761/197 57/1762/196 56/1763/195
+s 49
+f 55/1761/197 59/1764/198 60/1765/199 57/1762/196
+s 50
+f 51/1766/200 58/1767/201 60/1768/199 59/1769/198
+s 51
+f 58/1767/201 53/1770/194 54/1771/193 60/1768/199
+s 52
+f 54/1757/193 57/1760/196 60/1772/199
+s 53
+f 61/1773/202 64/1774/203 66/1775/204 65/1776/205
+s 54
+f 64/1774/203 68/1777/206 69/1778/207 66/1775/204
+s 55
+f 62/1779/208 67/1780/209 69/1781/207 68/1782/206
+s 56
+f 67/1780/209 71/1783/210 72/1784/211 69/1781/207
+s 57
+f 63/1750/186 70/1785/212 72/1786/211 71/1787/210
+s 58
+f 70/1785/212 65/1788/205 66/1789/204 72/1786/211
+s 59
+f 66/1775/204 69/1778/207 72/1790/211
+s 60
+f 73/1791/213 76/1792/214 78/1793/215 77/1794/216
+s 61
+f 76/1792/214 80/1795/217 81/1796/218 78/1793/215
+s 62
+f 74/1747/183 79/1797/219 81/1798/218 80/1799/217
+s 63
+f 79/1797/219 83/1800/220 84/1801/221 81/1798/218
+s 64
+f 75/1748/184 82/1802/222 84/1803/221 83/1804/220
+s 65
+f 82/1802/222 77/1805/216 78/1806/215 84/1803/221
+s 66
+f 78/1793/215 81/1796/218 84/1807/221
+s 67
+f 85/1751/187 88/1808/223 90/1809/224 89/1810/225
+s 68
+f 88/1808/223 92/1811/226 93/1812/227 90/1809/224
+s 69
+f 86/1755/191 91/1754/190 93/1813/227 92/1814/226
+s 70
+f 91/1754/190 95/1753/189 96/1815/228 93/1813/227
+s 71
+f 87/1752/188 94/1816/229 96/1815/228 95/1753/189
+s 72
+f 94/1816/229 89/1817/225 90/1818/224 96/1815/228
+s 73
+f 90/1809/224 93/1812/227 96/1819/228
+s 74
+f 75/1748/184 85/1751/187 89/1810/225 82/1802/222
+s 75
+f 82/1802/222 89/1810/225 94/1820/229 77/1805/216
+s 76
+f 77/1794/216 94/1816/229 87/1752/188 73/1791/213
+s 77
+f 49/1749/185 75/1748/184 83/1804/220 52/1756/192
+s 78
+f 52/1756/192 83/1804/220 79/1821/219 56/1759/195
+s 79
+f 56/1763/195 79/1797/219 74/1747/183 50/1746/182
+s 80
+f 26/1713/166 73/1791/213 87/1752/188 37/1725/171
+s 81
+f 40/1726/172 95/1753/189 91/1754/190 44/1729/175
+s 82
+f 17/1692/152 64/1774/203 61/1773/202 13/1689/149
+s 83
+f 85/1751/187 63/1750/186 71/1787/210 88/1808/223
+s 84
+f 88/1808/223 71/1787/210 67/1822/209 92/1811/226
+s 85
+f 92/1814/226 67/1780/209 62/1779/208 86/1755/191
+s 86
+f 63/1750/186 49/1749/185 53/1758/194 70/1785/212
+s 87
+f 70/1785/212 53/1758/194 58/1823/201 65/1788/205
+s 88
+f 65/1776/205 58/1767/201 51/1766/200 61/1773/202
+s 89
+f 32/1716/164 76/1792/214 73/1791/213 26/1713/166
+s 90
+f 28/1708/161 80/1799/217 76/1824/214 32/1711/164
+s 91
+f 25/1707/160 74/1747/183 80/1799/217 28/1708/161
+s 92
+f 22/1701/159 68/1782/206 64/1825/203 17/1704/152
+s 93
+f 15/1700/158 62/1779/208 68/1782/206 22/1701/159
+s 94
+f 10/1683/148 59/1769/198 55/1826/197 5/1686/141
+s 95
+f 3/1682/147 51/1766/200 59/1769/198 10/1683/148
+s 96
+f 13/1689/149 61/1773/202 51/1766/200 3/1682/147
+s 97
+f 5/1674/141 55/1761/197 50/1746/182 1/1671/138
+s 98
+f 38/1731/177 86/1755/191 62/1779/208 15/1700/158

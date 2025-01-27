@@ -1,0 +1,3240 @@
+# Blender v2.80 (sub 75) OBJ File: 'KayKit Character Exporter.blend'
+# www.blender.org
+mtllib mageHeadB.mtl
+o mageHeadB_Cube.3535
+v 0.225161 0.421585 0.426276
+v 0.254519 0.375472 0.406292
+v 0.258003 0.447108 0.468028
+v 0.249593 0.479715 0.448255
+v 0.261642 0.473731 0.460872
+v 0.275663 0.479715 0.456007
+v 0.237896 0.447108 0.456217
+v 0.267254 0.493221 0.436234
+v 0.279147 0.447108 0.464197
+v 0.249593 0.388979 0.448255
+v 0.258003 0.421585 0.468028
+v 0.261642 0.394962 0.460872
+v 0.275663 0.388979 0.456007
+v 0.237896 0.421585 0.456217
+v 0.279147 0.421585 0.464197
+v 0.267254 0.375472 0.436234
+v 0.236859 0.388979 0.418314
+v 0.254519 0.493221 0.406292
+v 0.225161 0.447108 0.426276
+v 0.236859 0.479715 0.418314
+v 0.301152 0.375472 0.413111
+v 0.329668 0.421585 0.393127
+v 0.313116 0.421585 0.441074
+v 0.318498 0.388979 0.401089
+v 0.320546 0.394962 0.420761
+v 0.327219 0.421585 0.420862
+v 0.309633 0.388979 0.432884
+v 0.301212 0.493221 0.421964
+v 0.313116 0.447108 0.441074
+v 0.309633 0.479715 0.432884
+v 0.320532 0.473731 0.420761
+v 0.327205 0.447108 0.420862
+v 0.318509 0.479715 0.409942
+v 0.287910 0.375472 0.383170
+v 0.315720 0.421585 0.363186
+v 0.304895 0.388979 0.371148
+v 0.288128 0.493221 0.383170
+v -0.315637 0.421585 0.363186
+v -0.287885 0.375472 0.383170
+v -0.327202 0.447108 0.420863
+v -0.318494 0.479715 0.409942
+v -0.320530 0.473731 0.420762
+v -0.309633 0.479715 0.432884
+v -0.301211 0.493221 0.421964
+v -0.313116 0.447108 0.441074
+v -0.318483 0.388979 0.401090
+v -0.327216 0.421585 0.420863
+v -0.320545 0.394962 0.420762
+v -0.309633 0.388979 0.432884
+v -0.329634 0.421585 0.393127
+v -0.313116 0.421585 0.441074
+v -0.301149 0.375472 0.413111
+v -0.304844 0.388979 0.371148
+v -0.288113 0.493221 0.383170
+v -0.267253 0.375472 0.436234
+v -0.237896 0.421585 0.456217
+v -0.279147 0.421585 0.464197
+v -0.249593 0.388979 0.448255
+v -0.261642 0.394962 0.460872
+v -0.258003 0.421585 0.468028
+v -0.275663 0.388979 0.456007
+v -0.267253 0.493221 0.436234
+v -0.279147 0.447108 0.464197
+v -0.237896 0.447108 0.456217
+v -0.275663 0.479715 0.456007
+v -0.261642 0.473731 0.460872
+v -0.258003 0.447108 0.468028
+v -0.249593 0.479715 0.448255
+v -0.254519 0.375472 0.406292
+v -0.225161 0.421585 0.426276
+v -0.236858 0.388979 0.418314
+v -0.254519 0.493221 0.406292
+v -0.225161 0.447108 0.426276
+v -0.236858 0.479715 0.418314
+v -0.188422 0.025092 0.291642
+v -0.133234 0.025092 0.337847
+v -0.068967 0.025092 0.369376
+v -0.000000 0.025092 0.378455
+v 0.068967 0.025092 0.369376
+v 0.133234 0.025092 0.337847
+v 0.188422 0.025092 0.291642
+v -0.250000 0.079768 0.325969
+v -0.176777 0.078566 0.382155
+v -0.091506 0.080361 0.417475
+v -0.000000 0.080361 0.429522
+v 0.091506 0.080361 0.417475
+v 0.176777 0.078566 0.382155
+v 0.250000 0.079768 0.325969
+v -0.017213 0.249633 0.461790
+v -0.017257 0.292023 0.560268
+v -0.089423 0.330084 0.466964
+v -0.015369 0.252625 0.509226
+v -0.030968 0.251421 0.462221
+v -0.028236 0.254473 0.511687
+v -0.059944 0.260498 0.465834
+v -0.052944 0.262805 0.522266
+v -0.030950 0.292831 0.558115
+v -0.056375 0.302759 0.553593
+v -0.017000 0.271749 0.556128
+v -0.031294 0.272268 0.553294
+v -0.055153 0.280796 0.550658
+v -0.016431 0.260587 0.544395
+v -0.029432 0.261903 0.541798
+v -0.048584 0.268261 0.542350
+v -0.091252 0.301951 0.468482
+v -0.085211 0.279005 0.469132
+v -0.078990 0.318590 0.532445
+v -0.078481 0.293155 0.533974
+v -0.070143 0.275235 0.531324
+v -0.005021 0.458303 0.490048
+v -0.011324 0.458303 0.487264
+v -0.020716 0.458303 0.481177
+v -0.035711 0.474983 0.429134
+v -0.030671 0.458303 0.467152
+v -0.020165 0.252820 0.309561
+v -0.088022 0.349265 0.309561
+v -0.035414 0.257892 0.309561
+v -0.062403 0.278167 0.309561
+v -0.087493 0.325715 0.309561
+v -0.082340 0.302985 0.309561
+v -0.056120 0.458303 0.294710
+v 0.017216 0.249637 0.461790
+v 0.089454 0.330042 0.466964
+v 0.017264 0.292023 0.560268
+v 0.030973 0.251417 0.462222
+v 0.059953 0.260488 0.465835
+v 0.015373 0.252625 0.509226
+v 0.028344 0.254483 0.511635
+v 0.052939 0.262778 0.522200
+v 0.079018 0.318561 0.532445
+v 0.091276 0.301920 0.468482
+v 0.078503 0.293248 0.534047
+v 0.085228 0.278986 0.469133
+v 0.070096 0.275174 0.531337
+v 0.017006 0.271748 0.556128
+v 0.016435 0.260587 0.544395
+v 0.030960 0.292831 0.558115
+v 0.031182 0.272158 0.553261
+v 0.029376 0.261908 0.541836
+v 0.056392 0.302739 0.553592
+v 0.055229 0.280770 0.550631
+v 0.048594 0.268253 0.542349
+v 0.005025 0.458303 0.490048
+v 0.011383 0.458303 0.487276
+v 0.020701 0.458303 0.481215
+v 0.035712 0.474983 0.429134
+v 0.030670 0.458303 0.467058
+v 0.020169 0.252820 0.309561
+v 0.088026 0.349265 0.309561
+v 0.035418 0.257892 0.309561
+v 0.062407 0.278167 0.309561
+v 0.087497 0.325715 0.309561
+v 0.082344 0.302985 0.309561
+v 0.056124 0.458303 0.294710
+v 0.329901 0.523685 0.326507
+v 0.301347 0.528906 0.356786
+v 0.267030 0.530293 0.383017
+v 0.361430 0.615727 0.322242
+v 0.376309 0.579428 0.347671
+v 0.394230 0.572713 0.300549
+v 0.366112 0.613628 0.330361
+v 0.370481 0.608253 0.337606
+v 0.370983 0.610810 0.314071
+v 0.375918 0.608355 0.322069
+v 0.379423 0.603465 0.328805
+v 0.380118 0.603291 0.307659
+v 0.384051 0.601346 0.315891
+v 0.385721 0.598177 0.322426
+v 0.384568 0.576322 0.338100
+v 0.391100 0.574181 0.328223
+v 0.375771 0.590269 0.346710
+v 0.384215 0.587494 0.336473
+v 0.390142 0.585159 0.327202
+v 0.373848 0.600207 0.343245
+v 0.382124 0.596769 0.333416
+v 0.387558 0.593370 0.325755
+v 0.392596 0.583529 0.301097
+v 0.387681 0.593979 0.303373
+v 0.396468 0.572763 0.309375
+v 0.394710 0.583979 0.310280
+v 0.390154 0.593560 0.312259
+v 0.395312 0.573158 0.318677
+v 0.393580 0.584145 0.319051
+v 0.390020 0.592465 0.319676
+v 0.376517 0.542741 0.348213
+v 0.364166 0.509430 0.322483
+v 0.394336 0.535923 0.300875
+v 0.376004 0.532651 0.347262
+v 0.374287 0.523405 0.343829
+v 0.384809 0.539807 0.338720
+v 0.384417 0.529283 0.337551
+v 0.382473 0.520913 0.334723
+v 0.391356 0.537704 0.328872
+v 0.390411 0.527631 0.328409
+v 0.387887 0.520625 0.327307
+v 0.373055 0.508168 0.315117
+v 0.381391 0.510763 0.309103
+v 0.368033 0.511138 0.330795
+v 0.377321 0.510079 0.323318
+v 0.384816 0.512556 0.317479
+v 0.371530 0.515948 0.338157
+v 0.380212 0.514752 0.330187
+v 0.386214 0.516109 0.324036
+v 0.396571 0.536033 0.309690
+v 0.395478 0.536539 0.319123
+v 0.392776 0.525666 0.301994
+v 0.394873 0.525560 0.311325
+v 0.393802 0.526550 0.320177
+v 0.388261 0.516880 0.304716
+v 0.390498 0.517576 0.313739
+v 0.390297 0.519672 0.321160
+v 0.357706 0.615965 0.315560
+v 0.391066 0.572832 0.293831
+v 0.347179 0.580025 0.287363
+v 0.367342 0.611054 0.307463
+v 0.376582 0.603530 0.301046
+v 0.353465 0.614415 0.307385
+v 0.363405 0.609063 0.298884
+v 0.372123 0.602035 0.293345
+v 0.350137 0.609379 0.299683
+v 0.360036 0.604316 0.292164
+v 0.367998 0.599009 0.288334
+v 0.385670 0.573127 0.286458
+v 0.377586 0.573774 0.281286
+v 0.389332 0.583690 0.294406
+v 0.383355 0.584384 0.286990
+v 0.375714 0.584762 0.282459
+v 0.384279 0.594177 0.296729
+v 0.378601 0.594187 0.289654
+v 0.372711 0.593239 0.285538
+v 0.347038 0.591111 0.289049
+v 0.347997 0.601343 0.293353
+v 0.357193 0.576985 0.281264
+v 0.357489 0.588292 0.282823
+v 0.358186 0.597664 0.287004
+v 0.367711 0.574971 0.279308
+v 0.367388 0.585922 0.280962
+v 0.366625 0.594188 0.284631
+v 0.360940 0.509302 0.315584
+v 0.348380 0.542605 0.287784
+v 0.391162 0.536017 0.294139
+v 0.357039 0.510850 0.307207
+v 0.353518 0.515492 0.299451
+v 0.369843 0.508088 0.308268
+v 0.366066 0.509809 0.299417
+v 0.362552 0.514278 0.292504
+v 0.378198 0.510751 0.302281
+v 0.373942 0.512464 0.294178
+v 0.369785 0.515857 0.288926
+v 0.357934 0.539805 0.281601
+v 0.368111 0.537966 0.279580
+v 0.348955 0.532049 0.289123
+v 0.358918 0.528908 0.283040
+v 0.368296 0.527581 0.281348
+v 0.350720 0.522773 0.293160
+v 0.360254 0.520388 0.287192
+v 0.368099 0.520368 0.285063
+v 0.389597 0.525722 0.295216
+v 0.385072 0.516908 0.297902
+v 0.385758 0.536287 0.286705
+v 0.383801 0.525648 0.287685
+v 0.379672 0.517613 0.290519
+v 0.377772 0.536879 0.281527
+v 0.376323 0.526622 0.282961
+v 0.373918 0.519593 0.286163
+v -0.359355 0.613821 0.320112
+v -0.394122 0.571218 0.301796
+v -0.371215 0.577536 0.346661
+v -0.369617 0.608953 0.312904
+v -0.379324 0.601529 0.307434
+v -0.363122 0.611729 0.328597
+v -0.373681 0.606496 0.321239
+v -0.382301 0.599619 0.315971
+v -0.366642 0.606371 0.336183
+v -0.376385 0.601602 0.328311
+v -0.383260 0.596419 0.322633
+v -0.395401 0.571296 0.310771
+v -0.393217 0.571628 0.319874
+v -0.392417 0.581985 0.302176
+v -0.393531 0.582369 0.311537
+v -0.391437 0.582504 0.320049
+v -0.387281 0.592331 0.303932
+v -0.388751 0.591934 0.313020
+v -0.387811 0.590789 0.320331
+v -0.370804 0.588404 0.345668
+v -0.369320 0.598332 0.342063
+v -0.380377 0.574531 0.337986
+v -0.380139 0.585777 0.336384
+v -0.378470 0.594939 0.333161
+v -0.387949 0.572546 0.328883
+v -0.387095 0.583492 0.327746
+v -0.384692 0.591640 0.326096
+v -0.361873 0.507564 0.320528
+v -0.371379 0.540872 0.347230
+v -0.394192 0.534412 0.302099
+v -0.364848 0.509271 0.329139
+v -0.367539 0.514088 0.336776
+v -0.371511 0.506347 0.314064
+v -0.374845 0.508277 0.322691
+v -0.376974 0.512918 0.329694
+v -0.380459 0.509024 0.308914
+v -0.382993 0.510835 0.317558
+v -0.383635 0.514354 0.324182
+v -0.380558 0.538030 0.338614
+v -0.388133 0.536033 0.329513
+v -0.370983 0.530780 0.346233
+v -0.380386 0.527540 0.337370
+v -0.387271 0.525952 0.328961
+v -0.369660 0.521539 0.342663
+v -0.378757 0.519069 0.334381
+v -0.384923 0.518885 0.327586
+v -0.392538 0.524104 0.303024
+v -0.387765 0.515244 0.305255
+v -0.395465 0.534521 0.311052
+v -0.393603 0.523926 0.312420
+v -0.389036 0.515926 0.314372
+v -0.393326 0.534963 0.320279
+v -0.391553 0.524888 0.321146
+v -0.388001 0.517982 0.321739
+v -0.356372 0.614060 0.313129
+v -0.348683 0.578081 0.284113
+v -0.391680 0.571296 0.294808
+v -0.353019 0.612498 0.304605
+v -0.350490 0.607425 0.296636
+v -0.366716 0.609195 0.305995
+v -0.363636 0.607215 0.297094
+v -0.361028 0.602481 0.290143
+v -0.376529 0.601757 0.300527
+v -0.372934 0.600221 0.292426
+v -0.369338 0.597211 0.287082
+v -0.359256 0.575138 0.279025
+v -0.369922 0.573227 0.278102
+v -0.348412 0.589162 0.285777
+v -0.359486 0.586357 0.280563
+v -0.369434 0.584133 0.279707
+v -0.348973 0.599387 0.290146
+v -0.359752 0.595801 0.284818
+v -0.368342 0.592392 0.283277
+v -0.389894 0.582112 0.295217
+v -0.384620 0.592512 0.297007
+v -0.387080 0.571542 0.286957
+v -0.384748 0.582816 0.287318
+v -0.379766 0.592465 0.289444
+v -0.379559 0.572118 0.281031
+v -0.377562 0.583102 0.282017
+v -0.374301 0.591494 0.284774
+v -0.359393 0.507438 0.313384
+v -0.391748 0.534477 0.295109
+v -0.349734 0.540713 0.284620
+v -0.369043 0.506274 0.306970
+v -0.378003 0.509013 0.301848
+v -0.356393 0.508955 0.304708
+v -0.366287 0.507983 0.297855
+v -0.374604 0.510705 0.293445
+v -0.353685 0.513599 0.296682
+v -0.363439 0.512473 0.290623
+v -0.371003 0.514105 0.287810
+v -0.387139 0.534707 0.287202
+v -0.379698 0.535238 0.281276
+v -0.390092 0.524147 0.295999
+v -0.385086 0.524101 0.287916
+v -0.378150 0.524983 0.282555
+v -0.385313 0.515259 0.298197
+v -0.380673 0.515929 0.290349
+v -0.375405 0.517895 0.285480
+v -0.350176 0.530157 0.286001
+v -0.351534 0.520883 0.290178
+v -0.359886 0.537996 0.279402
+v -0.360678 0.527055 0.280959
+v -0.361628 0.518598 0.285165
+v -0.370249 0.536247 0.278392
+v -0.370292 0.525826 0.280176
+v -0.369707 0.518623 0.283821
+v 0.230381 0.528017 0.397807
+v 0.333048 0.518946 0.334495
+v 0.303834 0.524055 0.365021
+v 0.268400 0.525441 0.391913
+v 0.231354 0.523165 0.407191
+v 0.233315 0.521486 0.426738
+v 0.270620 0.523762 0.410496
+v 0.308402 0.522379 0.381969
+v 0.339559 0.517399 0.351117
+v 0.336591 0.517336 0.343470
+v 0.306428 0.522380 0.374186
+v 0.269727 0.523765 0.402015
+v 0.232424 0.521487 0.417863
+v 0.228729 0.555835 0.384192
+v 0.264489 0.558115 0.370333
+v 0.297515 0.556634 0.345022
+v 0.325312 0.551198 0.314876
+v 0.226822 0.594361 0.381850
+v 0.262002 0.596599 0.367776
+v 0.295119 0.594931 0.343461
+v 0.322970 0.589293 0.314490
+v 0.226196 0.605517 0.382491
+v 0.261270 0.607735 0.368771
+v 0.294596 0.605996 0.344915
+v 0.322448 0.600368 0.316399
+v 0.225930 0.615530 0.386465
+v 0.260957 0.617742 0.372863
+v 0.294983 0.615848 0.349272
+v 0.323097 0.610401 0.320997
+v 0.335845 0.624047 0.351162
+v 0.302676 0.629723 0.382147
+v 0.264651 0.631655 0.407800
+v 0.229685 0.629346 0.423156
+v 0.226143 0.623387 0.393381
+v 0.261173 0.625608 0.379724
+v 0.296372 0.623491 0.356097
+v 0.325067 0.618265 0.327922
+v 0.226939 0.628260 0.402720
+v 0.261963 0.630505 0.388598
+v 0.298155 0.628416 0.36<?xml version="1.0" encoding="utf-8"?>
+
+<Configuration>
+  <!-- 
+  *
+  * Copyright (c) Microsoft Corporation. All rights reserved.
+  * Licensed under the Apache License, Version 2.0 (the "License");
+  * you may not use this file except in compliance with the License.
+  * You may obtain a copy of the License at
+  * http://www.apache.org/licenses/LICENSE-2.0
+  *
+  * Unless required by applicable law or agreed to in writing, software
+  * distributed under the License is distributed on an "AS IS" BASIS,
+  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  * See the License for the specific language governing permissions and
+  * limitations under the License.
+  *
+  -->
+<ViewDefinitions>
+  <View>
+    <Name>package</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>30</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+
+  <View>
+    <Name>GetPackage</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#GetPackage</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#GetPackage</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>30</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>32</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>ProviderName</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+
+   <View>
+    <Name>packageWithLongSourceName</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>30</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>32</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+
+  <View>
+    <Name>packageWithLongSourceNameAndCulture</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayCulture</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayCulture</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>30</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>32</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Culture</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+
+  <View>
+    <Name>packageWithLongSourceNameAndName</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayLongName</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayLongName</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>45</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>32</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+  <View>
+    <Name>packageWithLongSourceNameAndCultureAndName</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayCulture#DisplayLongName</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongSourceName#DisplayCulture#DisplayLongName</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>42</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>24</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Culture</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+  
+  <View>
+    <Name>PackageWithCulture</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayCulture</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayCulture</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>30</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Culture</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+  <View>
+    <Name>PackageWithLongName</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongName</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayLongName</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>52</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+  <View>
+    <Name>PackageWithCultureAndLongName</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayCulture#DisplayLongName</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.SoftwareIdentity#DisplayCulture#DisplayLongName</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>52</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Culture</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Source</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Summary</PropertyName>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+  <View>
+    <Name>PackageSource</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Packaging.PackageSource</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Packaging.PackageSource</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>32</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>10</Width>
+        </TableColumnHeader>      
+        <TableColumnHeader>
+        </TableColumnHeader>
+        </TableHeaders>
+        <TableRowEntries>
+          <TableRowEntry>
+            <TableColumnItems>
+              <TableColumnItem>
+                <PropertyName>Name</PropertyName>
+              </TableColumnItem>
+              <TableColumnItem>
+                <PropertyName>ProviderName</PropertyName>
+              </TableColumnItem>
+              <TableColumnItem>
+                <PropertyName>IsTrusted</PropertyName>
+              </TableColumnItem>
+              <TableColumnItem>
+                <PropertyName>Location</PropertyName>
+              </TableColumnItem>
+            </TableColumnItems>
+          </TableRowEntry>
+        </TableRowEntries>
+      </TableControl>
+    </View>
+
+  <View>
+    <Name>PackageProvider</Name>
+    <ViewSelectedBy>
+      <TypeName>Microsoft.PackageManagement.Implementation.PackageProvider</TypeName>
+      <TypeName>Deserialized.Microsoft.PackageManagement.Implementation.PackageProvider</TypeName>
+    </ViewSelectedBy>
+    <TableControl>
+      <TableHeaders>
+        <TableColumnHeader>
+          <Width>24</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+          <Width>16</Width>
+        </TableColumnHeader>
+        <TableColumnHeader>
+	  <Label>DynamicOptions</Label>
+        </TableColumnHeader>
+      </TableHeaders>
+      <TableRowEntries>
+        <TableRowEntry>         
+          <TableColumnItems>
+            <TableColumnItem>
+              <PropertyName>Name</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <PropertyName>Version</PropertyName>
+            </TableColumnItem>
+            <TableColumnItem>
+              <ScriptBlock>$options = $_.DynamicOptions.Name | select-object -unique; $options -join ", "</ScriptBlock>
+            </TableColumnItem>
+          </TableColumnItems>
+        </TableRowEntry>
+      </TableRowEntries>
+    </TableControl>
+  </View>
+
+
+</ViewDefinitions>
+</Configuration>
+<!-- SIG # Begin signature block -->
+<!-- MIInsQYJKoZIhvcNAQcCoIInojCCJ54CAQExDzANBglghkgBZQMEAgEFADB5Bgor -->
+<!-- BgEEAYI3AgEEoGswaTA0BgorBgEEAYI3AgEeMCYCAwEAAAQQH8w7YFlLCE63JNLG -->
+<!-- KX7zUQIBAAIBAAIBAAIBAAIBADAxMA0GCWCGSAFlAwQCAQUABCDPNAbag0XHNsTX -->
+<!-- fSzELY7uw4DkrTl94u/UCF0hnuajK6CCDYUwggYDMIID66ADAgECAhMzAAACU+OD -->
+<!-- 3pbexW7MAAAAAAJTMA0GCSqGSIb3DQEBCwUAMH4xCzAJBgNVBAYTAlVTMRMwEQYD -->
+<!-- VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNy -->
+<!-- b3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01pY3Jvc29mdCBDb2RlIFNpZ25p -->
+<!-- bmcgUENBIDIwMTEwHhcNMjEwOTAyMTgzMzAwWhcNMjIwOTAxMTgzMzAwWjB0MQsw -->
+<!-- CQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9u -->
+<!-- ZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMR4wHAYDVQQDExVNaWNy -->
+<!-- b3NvZnQgQ29ycG9yYXRpb24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB -->
+<!-- AQDLhxHwq3OhH+4J+SX4qS/VQG8HybccH7tnG+BUqrXubfGuDFYPZ29uCuHfQlO1 -->
+<!-- lygLgMpJ4Geh6/6poQ5VkDKfVssn6aA1PCzIh8iOPMQ9Mju3sLF9Sn+Pzuaie4BN -->
+<!-- rp0MuZLDEXgVYx2WNjmzqcxC7dY9SC3znOh5qUy2vnmWygC7b9kj0d3JrGtjc5q5 -->
+<!-- 0WfV3WLXAQHkeRROsJFBZfXFGoSvRljFFUAjU/zdhP92P+1JiRRRikVy/sqIhMDY -->
+<!-- +7tVdzlE2fwnKOv9LShgKeyEevgMl0B1Fq7E2YeBZKF6KlhmYi9CE1350cnTUoU4 -->
+<!-- YpQSnZo0YAnaenREDLfFGKTdAgMBAAGjggGCMIIBfjAfBgNVHSUEGDAWBgorBgEE -->
+<!-- AYI3TAgBBggrBgEFBQcDAzAdBgNVHQ4EFgQUlZpLWIccXoxessA/DRbe26glhEMw -->
+<!-- VAYDVR0RBE0wS6RJMEcxLTArBgNVBAsTJE1pY3Jvc29mdCBJcmVsYW5kIE9wZXJh -->
+<!-- dGlvbnMgTGltaXRlZDEWMBQGA1UEBRMNMjMwMDEyKzQ2NzU5ODAfBgNVHSMEGDAW -->
+<!-- gBRIbmTlUAXTgqoXNzcitW2oynUClTBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8v -->
+<!-- d3d3Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2NybC9NaWNDb2RTaWdQQ0EyMDExXzIw -->
+<!-- MTEtMDctMDguY3JsMGEGCCsGAQUFBwEBBFUwUzBRBggrBgEFBQcwAoZFaHR0cDov -->
+<!-- L3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9jZXJ0cy9NaWNDb2RTaWdQQ0EyMDEx -->
+<!-- XzIwMTEtMDctMDguY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggIB -->
+<!-- AKVY+yKcJVVxf9W2vNkL5ufjOpqcvVOOOdVyjy1dmsO4O8khWhqrecdVZp09adOZ -->
+<!-- 8kcMtQ0U+oKx484Jg11cc4Ck0FyOBnp+YIFbOxYCqzaqMcaRAgy48n1tbz/EFYiF -->
+<!-- zJmMiGnlgWFCStONPvQOBD2y/Ej3qBRnGy9EZS1EDlRN/8l5Rs3HX2lZhd9WuukR -->
+<!-- bUk83U99TPJyo12cU0Mb3n1HJv/JZpwSyqb3O0o4HExVJSkwN1m42fSVIVtXVVSa -->
+<!-- YZiVpv32GoD/dyAS/gyplfR6FI3RnCOomzlycSqoz0zBCPFiCMhVhQ6qn+J0GhgR -->
+<!-- BJvGKizw+5lTfnBFoqKZJDROz+uGDl9tw6JvnVqAZKGrWv/CsYaegaPePFrAVSxA -->
+<!-- yUwOFTkAqtNC8uAee+rv2V5xLw8FfpKJ5yKiMKnCKrIaFQDr5AZ7f2ejGGDf+8Tz -->
+<!-- OiK1AgBvOW3iTEEa/at8Z4+s1CmnEAkAi0cLjB72CJedU1LAswdOCWM2MDIZVo9j -->
+<!-- 0T74OkJLTjPd3WNEyw0rBXTyhlbYQsYt7ElT2l2TTlF5EmpVixGtj4ChNjWoKr9y -->
+<!-- TAqtadd2Ym5FNB792GzwNwa631BPCgBJmcRpFKXt0VEQq7UXVNYBiBRd+x4yvjqq -->
+<!-- 5aF7XC5nXCgjbCk7IXwmOphNuNDNiRq83Ejjnc7mxrJGMIIHejCCBWKgAwIBAgIK -->
+<!-- YQ6Q0gAAAAAAAzANBgkqhkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMxEzARBgNV -->
+<!-- BAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jv -->
+<!-- c29mdCBDb3Jwb3JhdGlvbjEyMDAGA1UEAxMpTWljcm9zb2Z0IFJvb3QgQ2VydGlm -->
+<!-- aWNhdGUgQXV0aG9yaXR5IDIwMTEwHhcNMTEwNzA4MjA1OTA5WhcNMjYwNzA4MjEw -->
+<!-- OTA5WjB+MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UE -->
+<!-- BxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSgwJgYD -->
+<!-- VQQDEx9NaWNyb3NvZnQgQ29kZSBTaWduaW5nIFBDQSAyMDExMIICIjANBgkqhkiG -->
+<!-- 9w0BAQEFAAOCAg8AMIICCgKCAgEAq/D6chAcLq3YbqqCEE00uvK2WCGfQhsqa+la -->
+<!-- UKq4BjgaBEm6f8MMHt03a8YS2AvwOMKZBrDIOdUBFDFC04kNeWSHfpRgJGyvnkmc -->
+<!-- 6Whe0t+bU7IKLMOv2akrrnoJr9eWWcpgGgXpZnboMlImEi/nqwhQz7NEt13YxC4D -->
+<!-- dato88tt8zpcoRb0RrrgOGSsbmQ1eKagYw8t00CT+OPeBw3VXHmlSSnnDb6gE3e+ -->
+<!-- lD3v++MrWhAfTVYoonpy4BI6t0le2O3tQ5GD2Xuye4Yb2T6xjF3oiU+EGvKhL1nk -->
+<!-- kDstrjNYxbc+/jLTswM9sbKvkjh+0p2ALPVOVpEhNSXDOW5kf1O6nA+tGSOEy/S6 -->
+<!-- A4aN91/w0FK/jJSHvMAhdCVfGCi2zCcoOCWYOUo2z3yxkq4cI6epZuxhH2rhKEmd -->
+<!-- X4jiJV3TIUs+UsS1Vz8kA/DRelsv1SPjcF0PUUZ3s/gA4bysAoJf28AVs70b1FVL -->
+<!-- 5zmhD+kjSbwYuER8ReTBw3J64HLnJN+/RpnF78IcV9uDjexNSTCnq47f7Fufr/zd -->
+<!-- sGbiwZeBe+3W7UvnSSmnEyimp31ngOaKYnhfsi+E11ecXL93KCjx7W3DKI8sj0A3 -->
+<!-- T8HhhUSJxAlMxdSlQy90lfdu+HggWCwTXWCVmj5PM4TasIgX3p5O9JawvEagbJjS -->
+<!-- 4NaIjAsCAwEAAaOCAe0wggHpMBAGCSsGAQQBgjcVAQQDAgEAMB0GA1UdDgQWBBRI -->
+<!-- bmTlUAXTgqoXNzcitW2oynUClTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTAL -->
+<!-- BgNVHQ8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBRyLToCMZBD -->
+<!-- uRQFTuHqp8cx0SOJNDBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLm1pY3Jv -->
+<!-- c29mdC5jb20vcGtpL2NybC9wcm9kdWN0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFf -->
+<!-- MDNfMjIuY3JsMF4GCCsGAQUFBwEBBFIwUDBOBggrBgEFBQcwAoZCaHR0cDovL3d3 -->
+<!-- dy5taWNyb3NvZnQuY29tL3BraS9jZXJ0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFf -->
+<!-- MDNfMjIuY3J0MIGfBgNVHSAEgZcwgZQwgZEGCSsGAQQBgjcuAzCBgzA/BggrBgEF -->
+<!-- BQcCARYzaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9kb2NzL3ByaW1h -->
+<!-- cnljcHMuaHRtMEAGCCsGAQUFBwICMDQeMiAdAEwAZQBnAGEAbABfAHAAbwBsAGkA -->
+<!-- YwB5AF8AcwB0AGEAdABlAG0AZQBuAHQALiAdMA0GCSqGSIb3DQEBCwUAA4ICAQBn -->
+<!-- 8oalmOBUeRou09h0ZyKbC5YR4WOSmUKWfdJ5DJDBZV8uLD74w3LRbYP+vj/oCso7 -->
+<!-- v0epo/Np22O/IjWll11lhJB9i0ZQVdgMknzSGksc8zxCi1LQsP1r4z4HLimb5j0b -->
+<!-- pdS1HXeUOeLpZMlEPXh6I/MTfaaQdION9MsmAkYqwooQu6SpBQyb7Wj6aC6VoCo/ -->
+<!-- KmtYSWMfCWluWpiW5IP0wI/zRive/DvQvTXvbiWu5a8n7dDd8w6vmSiXmE0OPQvy -->
+<!-- CInWH8MyGOLwxS3OW560STkKxgrCxq2u5bLZ2xWIUUVYODJxJxp/sfQn+N4sOiBp -->
+<!-- mLJZiWhub6e3dMNABQamASooPoI/E01mC8CzTfXhj38cbxV9Rad25UAqZaPDXVJi -->
+<!-- hsMdYzaXht/a8/jyFqGaJ+HNpZfQ7l1jQeNbB5yHPgZ3BtEGsXUfFL5hYbXw3MYb -->
+<!-- BL7fQccOKO7eZS/sl/ahXJbYANahRr1Z85elCUtIEJmAH9AAKcWxm6U/RXceNcbS -->
+<!-- oqKfenoi+kiVH6v7RyOA9Z74v2u3S5fi63V4GuzqN5l5GEv/1rMjaHXmr/r8i+sL -->
+<!-- gOppO6/8MO0ETI7f33VtY5E90Z1WTk+/gFcioXgRMiF670EKsT/7qMykXcGhiJtX -->
+<!-- cVZOSEXAQsmbdlsKgEhr/Xmfwb1tbWrJUnMTDXpQzTGCGYIwghl+AgEBMIGVMH4x -->
+<!-- CzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRt -->
+<!-- b25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01p -->
+<!-- Y3Jvc29mdCBDb2RlIFNpZ25pbmcgUENBIDIwMTECEzMAAAJT44Pelt7FbswAAAAA -->
+<!-- AlMwDQYJYIZIAWUDBAIBBQCgga4wGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQw -->
+<!-- HAYKKwYBBAGCNwIBCzEOMAwGCisGAQQBgjcCARUwLwYJKoZIhvcNAQkEMSIEINz4 -->
+<!-- jGTwSIrypQ6y68jBIWu9n1aXp6rTDVBbE3XDkWX9MEIGCisGAQQBgjcCAQwxNDAy -->
+<!-- oBSAEgBNAGkAYwByAG8AcwBvAGYAdKEagBhodHRwOi8vd3d3Lm1pY3Jvc29mdC5j -->
+<!-- b20wDQYJKoZIhvcNAQEBBQAEggEABobqAFSMr84oMI72vXmhCwnxO3QZcjKZvkc7 -->
+<!-- iDnjT1ZpKF3y2+g6lJdlOVM4RJpi6MmquQPF2bzbB8l/re2dOnfl6IpqefehIm6W -->
+<!-- ooE5J3wxolU75UxT7dC5oalWQFgA/lDetSdl1hvjlmeA1XW6AwCEPzh7wH0e7Lqn -->
+<!-- jlh9U77k+EHmElHF8grhYr7FaF5vdjH9XQ5V+p0rspn4HEDRsaoq+Da4zd7yr+ff -->
+<!-- UI5BaureXEncMIWxU/PWZ2CWk2JulbGRUK7X8/HNsYD/pCfc8Gu8kl/f508ABZsg -->
+<!-- agLywxEF80tF6/NxxOWXI/B4MiyVWny+udGGXfKx4gvCi8Cg8KGCFwwwghcIBgor -->
+<!-- BgEEAYI3AwMBMYIW+DCCFvQGCSqGSIb3DQEHAqCCFuUwghbhAgEDMQ8wDQYJYIZI -->
+<!-- AWUDBAIBBQAwggFVBgsqhkiG9w0BCRABBKCCAUQEggFAMIIBPAIBAQYKKwYBBAGE -->
+<!-- WQoDATAxMA0GCWCGSAFlAwQCAQUABCCTowV8zD+eLJHyKuqJ2lrfJMbbN0qGECR2 -->
+<!-- jVcqc3i5LAIGYrGiJBRnGBMyMDIyMDcwMTIxMDAwMS42MTJaMASAAgH0oIHUpIHR -->
+<!-- MIHOMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH -->
+<!-- UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSkwJwYDVQQL -->
+<!-- EyBNaWNyb3NvZnQgT3BlcmF0aW9ucyBQdWVydG8gUmljbzEmMCQGA1UECxMdVGhh -->
+<!-- bGVzIFRTUyBFU046NDYyRi1FMzE5LTNGMjAxJTAjBgNVBAMTHE1pY3Jvc29mdCBU -->
+<!-- aW1lLVN0YW1wIFNlcnZpY2WgghFfMIIHEDCCBPigAwIBAgITMwAAAaQHz+OPo7pv -->
+<!-- 1gABAAABpDANBgkqhkiG9w0BAQsFADB8MQswCQYDVQQGEwJVUzETMBEGA1UECBMK -->
+<!-- V2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0 -->
+<!-- IENvcnBvcmF0aW9uMSYwJAYDVQQDEx1NaWNyb3NvZnQgVGltZS1TdGFtcCBQQ0Eg -->
+<!-- MjAxMDAeFw0yMjAzMDIxODUxMThaFw0yMzA1MTExODUxMThaMIHOMQswCQYDVQQG -->
+<!-- EwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwG -->
+<!-- A1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSkwJwYDVQQLEyBNaWNyb3NvZnQg -->
+<!-- T3BlcmF0aW9ucyBQdWVydG8gUmljbzEmMCQGA1UECxMdVGhhbGVzIFRTUyBFU046 -->
+<!-- NDYyRi1FMzE5LTNGMjAxJTAjBgNVBAMTHE1pY3Jvc29mdCBUaW1lLVN0YW1wIFNl -->
+<!-- cnZpY2UwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDAR44A+hT8vNT1 -->
+<!-- IXDiFRoeGzkmqut+GPk41toTRfQZZ1sSyQhLjIlemBecemEzO09WSzOjZx9MIT8q -->
+<!-- Ys921WUZsIBsk1ESn1cjyfPUd1mmfxzL3ACWZwjIC/pjqcRPeIMECQ/6qPFKrjqw -->
+<!-- igmP33I3IcVfMjJHyKj+vR51n1tK2rZPiNhmRdiEhckbbxLsSb2nCBQxZEF49x/l -->
+<!-- 8vSB8zaqovoOeIkIzgDerN7OvJouq6r+vg/Qz1T4NXr+sKKyNxZWM6zywiLp7G7W -->
+<!-- Ld18N2hyjHwPkh/AleIqif3hGVD9bhSU+dDADzUJSMFhEWunHHElQeZjdmIB3/Mw -->
+<!-- 1KkFOJNvw1sPteIi5MK4DZX3Wd/Fd8ZsQvZmXPWJ8BXN9sYtHMz8zdeQvMImRCKg -->
+<!-- nXcW8IpnPtC7Tymp3UV5NoTH8INF6WWicQ3y04L2I1VOT104AddJoVgAP2KLIGwf -->
+<!-- Cs7wMVz56xJ2IN1y1pIAWfpTqx76orM5RQhkAvayj1RTwgrHst+elYX3F5b8ACWr -->
+<!-- gJO1dJy1U4MIv+SC8h33xLmWA568emvrJ6g0xy/2akbAeRx6tFwaP4uwVbjF50kl -->
+<!-- 5RQqNzp/CDpfCTikOAqyJa4valiWDMbEiArHKLYDg6GDjuJZl5bSjgdJdCAIRF8E -->
+<!-- kiiA+UAGvcE6SGoHmtoc4yOklGNVvwIDAQABo4IBNjCCATIwHQYDVR0OBBYEFOLQ -->
+<!-- E5+s+AgS9sWUHdI4zekp4yTCMB8GA1UdIwQYMBaAFJ+nFV0AXmJdg/Tl0mWnG1M1 -->
+<!-- GelyMF8GA1UdHwRYMFYwVKBSoFCGTmh0dHA6Ly93d3cubWljcm9zb2Z0LmNvbS9w -->
+<!-- a2lvcHMvY3JsL01pY3Jvc29mdCUyMFRpbWUtU3RhbXAlMjBQQ0ElMjAyMDEwKDEp -->
+<!-- LmNybDBsBggrBgEFBQcBAQRgMF4wXAYIKwYBBQUHMAKGUGh0dHA6Ly93d3cubWlj -->
+<!-- cm9zb2Z0LmNvbS9wa2lvcHMvY2VydHMvTWljcm9zb2Z0JTIwVGltZS1TdGFtcCUy -->
+<!-- MFBDQSUyMDIwMTAoMSkuY3J0MAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYB -->
+<!-- BQUHAwgwDQYJKoZIhvcNAQELBQADggIBAAlWHFDRDJck7jwwRoYmdVOePLLBeido -->
+<!-- PUBJVhG9nGeHS9PuRvO9tf4IkbUz74MUIQxeayQoxxo/JxUqjhPH52M/b4G9mHJW -->
+<!-- B75KCllCTg8Y4VkvktOmS0f5w0vOR3gwA9BRnbgAPNEO7xs5Jylto8aDR02++CkB -->
+<!-- DFolCtTNjwzfniEj1z4T7nRlRi2yBAJNRqI+VY820LiyoZtk5OGttq5F5HhPfIMj -->
+<!-- aIx5QYR22+53sd8xgUwRpFbcLdrne6jdq3KbiYbCf7y/9F2C7cjpO3kkGXX8ntE0 -->
+<!-- 9f6o9fIklx7CFw4RzrkyqgYomraKOFJ8JO7hsjNJb9/Gba/mKWo0j/qdDxDER/UX -->
+<!-- X6ykZuGx1eQpjkyMwJnOPWGbeNIYZVcJQpRQODPs593Mi5hBsHzag+vd4Q+Vt73K -->
+<!-- Z4X98YWW1Vk1aSR9Qjxk5keMuVPZMcMrCvFZXwhUcGFGueuNCrICL9bSYRfS13pl -->
+<!-- iDxJ7sPSZ8x2d4ksOXW00l6fR5nTiSM7Dvv7Y0MGVgUhap2smhr92PMNSmIkCUvH -->
+<!-- CiYcJ4RoAT28mp/hOQ/U8mPXSpWdxYpLLcDOISmBhFJYN7amlhIpVsGvUmjXrTcY -->
+<!-- 0n4Goe/Nqs2400IcA4HOiX9OxdmpNGDJzSRR7AW9TT8O+3YZqPZIvL6yzgfvnehp -->
+<!-- tmf4w6QzkrLfMIIHcTCCBVmgAwIBAgITMwAAABXF52ueAptJmQAAAAAAFTANBgkq -->
+<!-- hkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x -->
+<!-- EDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlv -->
+<!-- bjEyMDAGA1UEAxMpTWljcm9zb2Z0IFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5 -->
+<!-- IDIwMTAwHhcNMjEwOTMwMTgyMjI1WhcNMzAwOTMwMTgzMjI1WjB8MQswCQYDVQQG -->
+<!-- EwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwG -->
+<!-- A1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQDEx1NaWNyb3NvZnQg -->
+<!-- VGltZS1TdGFtcCBQQ0EgMjAxMDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoC -->
+<!-- ggIBAOThpkzntHIhC3miy9ckeb0O1YLT/e6cBwfSqWxOdcjKNVf2AX9sSuDivbk+ -->
+<!-- F2Az/1xPx2b3lVNxWuJ+Slr+uDZnhUYjDLWNE893MsAQGOhgfWpSg0S3po5GawcU -->
+<!-- 88V29YZQ3MFEyHFcUTE3oAo4bo3t1w/YJlN8OWECesSq/XJprx2rrPY2vjUmZNqY -->
+<!-- O7oaezOtgFt+jBAcnVL+tuhiJdxqD89d9P6OU8/W7IVWTe/dvI2k45GPsjksUZzp -->
+<!-- cGkNyjYtcI4xyDUoveO0hyTD4MmPfrVUj9z6BVWYbWg7mka97aSueik3rMvrg0Xn -->
+<!-- Rm7KMtXAhjBcTyziYrLNueKNiOSWrAFKu75xqRdbZ2De+JKRHh09/SDPc31BmkZ1 -->
+<!-- zcRfNN0Sidb9pSB9fvzZnkXftnIv231fgLrbqn427DZM9ituqBJR6L8FA6PRc6ZN -->
+<!-- N3SUHDSCD/AQ8rdHGO2n6Jl8P0zbr17C89XYcz1DTsEzOUyOArxCaC4Q6oRRRuLR -->
+<!-- vWoYWmEBc8pnol7XKHYC4jMYctenIPDC+hIK12NvDMk2ZItboKaDIV1fMHSRlJTY -->
+<!-- uVD5C4lh8zYGNRiER9vcG9H9stQcxWv2XFJRXRLbJbqvUAV6bMURHXLvjflSxIUX -->
+<!-- k8A8FdsaN8cIFRg/eKtFtvUeh17aj54WcmnGrnu3tz5q4i6tAgMBAAGjggHdMIIB -->
+<!-- 2TASBgkrBgEEAYI3FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQWBBQqp1L+ZMSavoKR -->
+<!-- PEY1Kc8Q/y8E7jAdBgNVHQ4EFgQUn6cVXQBeYl2D9OXSZacbUzUZ6XIwXAYDVR0g -->
+<!-- BFUwUzBRBgwrBgEEAYI3TIN9AQEwQTA/BggrBgEFBQcCARYzaHR0cDovL3d3dy5t -->
+<!-- aWNyb3NvZnQuY29tL3BraW9wcy9Eb2NzL1JlcG9zaXRvcnkuaHRtMBMGA1UdJQQM -->
+<!-- MAoGCCsGAQUFBwMIMBkGCSsGAQQBgjcUAgQMHgoAUwB1AGIAQwBBMAsGA1UdDwQE -->
+<!-- AwIBhjAPBgNVHRMBAf8EBTADAQH/MB8GA1UdIwQYMBaAFNX2VsuP6KJcYmjRPZSQ -->
+<!-- W9fOmhjEMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwubWljcm9zb2Z0LmNv -->
+<!-- bS9wa2kvY3JsL3Byb2R1Y3RzL01pY1Jvb0NlckF1dF8yMDEwLTA2LTIzLmNybDBa -->
+<!-- BggrBgEFBQcBAQROMEwwSgYIKwYBBQUHMAKGPmh0dHA6Ly93d3cubWljcm9zb2Z0 -->
+<!-- LmNvbS9wa2kvY2VydHMvTWljUm9vQ2VyQXV0XzIwMTAtMDYtMjMuY3J0MA0GCSqG -->
+<!-- SIb3DQEBCwUAA4ICAQCdVX38Kq3hLB9nATEkW+Geckv8qW/qXBS2Pk5HZHixBpOX -->
+<!-- PTEztTnXwnE2P9pkbHzQdTltuw8x5MKP+2zRoZQYIu7pZmc6U03dmLq2HnjYNi6c -->
+<!-- qYJWAAOwBb6J6Gngugnue99qb74py27YP0h1AdkY3m2CDPVtI1TkeFN1JFe53Z/z -->
+<!-- jj3G82jfZfakVqr3lbYoVSfQJL1AoL8ZthISEV09J+BAljis9/kpicO8F7BUhUKz -->
+<!-- /AyeixmJ5/ALaoHCgRlCGVJ1ijbCHcNhcy4sa3tuPywJeBTpkbKpW99Jo3QMvOyR -->
+<!-- gNI95ko+ZjtPu4b6MhrZlvSP9pEB9s7GdP32THJvEKt1MMU0sHrYUP4KWN1APMdU -->
+<!-- bZ1jdEgssU5HLcEUBHG/ZPkkvnNtyo4JvbMBV0lUZNlz138eW0QBjloZkWsNn6Qo -->
+<!-- 3GcZKCS6OEuabvshVGtqRRFHqfG3rsjoiV5PndLQTHa1V1QJsWkBRH58oWFsc/4K -->
+<!-- u+xBZj1p/cvBQUl+fpO+y/g75LcVv7TOPqUxUYS8vwLBgqJ7Fx0ViY1w/ue10Cga -->
+<!-- iQuPNtq6TPmb/wrpNPgkNWcr4A245oyZ1uEi6vAnQj0llOZ0dFtq0Z4+7X6gMTN9 -->
+<!-- vMvpe784cETRkPHIqzqKOghif9lwY1NNje6CbaUFEMFxBmoQtB1VM1izoXBm8qGC -->
+<!-- AtIwggI7AgEBMIH8oYHUpIHRMIHOMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2Fz -->
+<!-- aGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENv -->
+<!-- cnBvcmF0aW9uMSkwJwYDVQQLEyBNaWNyb3NvZnQgT3BlcmF0aW9ucyBQdWVydG8g -->
+<!-- UmljbzEmMCQGA1UECxMdVGhhbGVzIFRTUyBFU046NDYyRi1FMzE5LTNGMjAxJTAj -->
+<!-- BgNVBAMTHE1pY3Jvc29mdCBUaW1lLVN0YW1wIFNlcnZpY2WiIwoBATAHBgUrDgMC -->
+<!-- GgMVADQcKOKTa3xC+g1aPrcPerxiby6foIGDMIGApH4wfDELMAkGA1UEBhMCVVMx -->
+<!-- EzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoT -->
+<!-- FU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUt -->
+<!-- U3RhbXAgUENBIDIwMTAwDQYJKoZIhvcNAQEFBQACBQDmaU8/MCIYDzIwMjIwNzAx -->
+<!-- MTQ0NzI3WhgPMjAyMjA3MDIxNDQ3MjdaMHcwPQYKKwYBBAGEWQoEATEvMC0wCgIF -->
+<!-- AOZpTz8CAQAwCgIBAAICCNwCAf8wBwIBAAICEp4wCgIFAOZqoL8CAQAwNgYKKwYB -->
+<!-- BAGEWQoEAjEoMCYwDAYKKwYBBAGEWQoDAqAKMAgCAQACAwehIKEKMAgCAQACAwGG -->
+<!-- oDANBgkqhkiG9w0BAQUFAAOBgQChh1QY1GFw/ekl4Qr+s3lJOVBWDUpw+EfxjUrG -->
+<!-- H7ud+AMLNhAxbx7uEfNyNYsi5CnaaXgA2vO00zzDNvaugU/yTYxEm2j0wybQTDfb -->
+<!-- BMyUPQB6VhcFgCAOC4CQalIa1F5xOFEYV2P5/OY3Fza/pCGQKiBEDyRG6PfCbmAZ -->
+<!-- qvg7cTGCBA0wggQJAgEBMIGTMHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNo -->
+<!-- aW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29y -->
+<!-- cG9yYXRpb24xJjAkBgNVBAMTHU1pY3Jvc29mdCBUaW1lLVN0YW1wIFBDQSAyMDEw -->
+<!-- AhMzAAABpAfP44+jum/WAAEAAAGkMA0GCWCGSAFlAwQCAQUAoIIBSjAaBgkqhkiG -->
+<!-- 9w0BCQMxDQYLKoZIhvcNAQkQAQQwLwYJKoZIhvcNAQkEMSIEIA5vnFnk/bTzMG85 -->
+<!-- tX+eFNaVrpQ9jXrZFiSKizdgwcUtMIH6BgsqhkiG9w0BCRACLzGB6jCB5zCB5DCB -->
+<!-- vQQgBfzgoyEmcKTASfDCd1sDAhd6jmuWBxRuieLh42rqefgwgZgwgYCkfjB8MQsw -->
+<!-- CQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9u -->
+<!-- ZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQDEx1NaWNy -->
+<!-- b3NvZnQgVGltZS1TdGFtcCBQQ0EgMjAxMAITMwAAAaQHz+OPo7pv1gABAAABpDAi -->
+<!-- BCBoSzA9nCaw+Pk/XGE5FyHMvYr0QOQne8MeefMn3+/YZjANBgkqhkiG9w0BAQsF -->
+<!-- AASCAgANgmStE19Zp4sQ/+2xHwOd+AjjxT+5AB44DJJM/f1yFoURiIt2TxoNY9ng -->
+<!-- q/RgPNowH5roTEPgaOVJMS8N5hVYUI0EsTPGQeEeyDcOpWXccskO/3c/nXRvai1S -->
+<!-- FiDGj3V7OQnhSldynaLcHmtbBFmxSKxRA/NEkdJnrwV0Gwi2TJ5nASZb7KyFR39F -->
+<!-- fTB4/Jferk4x3118yMYVFvVWvh5X83aPNriXMaGIhUWAlvs+1cP1sVJaU2ue01xI -->
+<!-- JFtoWdamBV/rpTAkpn/HkILOLlENQ44ti5K/j8vOEDR9ppsUTjtGg9YwnUCAGwgP -->
+<!-- t2X6J/2V3Aht/lJzLLUzQGecH8AWcH5iD2ZKmBiALoFjdAI2HYhYIN/T4yD50eO6 -->
+<!-- ye8NXmt8xwe5nz76lvsbWNRsFRIXiXZS97w7pIBdlgLuKH5x6P6BE6MaReSbazGc -->
+<!-- 4WcGN7Pm8qnRfGgr77p656Bs3RLo/QqJFefBeKg29IHLlVuJTWD/e0mK6/AERK8Z -->
+<!-- cjXVRnolfhVWeFnUhN5+uP27qF9eblaJ/Jc54eOJDG6I3L6Oxc2UgeAoutmEli6O -->
+<!-- 6j9PnRGJCw+8zH1Mh5CNkQIEHrg21pbRRWoDPrYN6IdrEFJLfSOqNIYhaFs+o0Bd -->
+<!-- El/gkr2obdbR2Ru/X/Uw3rw9y1y3Uv7NkzjaLYvHWrkg6dpbIQ== -->
+<!-- SIG # End signature block -->
+                                                                                                                                                                                                                                                                                                                                     ###
+# ==++==
+#
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+###
+@{
+    GUID = "4ae9fd46-338a-459c-8186-07f910774cb8"
+    Author = "Microsoft Corporation"
+    CompanyName = "Microsoft Corporation"
+    Copyright = "(C) Microsoft Corporation. All rights reserved."
+    HelpInfoUri = "https://go.microsoft.com/fwlink/?linkid=2113634"
+    ModuleVersion = "1.4.8.1"
+    PowerShellVersion = "3.0"
+    ClrVersion = "4.0"
+    RootModule = "PackageManagement.psm1"
+	Description = 'PackageManagement (a.k.a. OneGet) is a new way to discover and install software packages from around the web.
+ It is a manager or multiplexor of existing package managers (also called package providers) that unifies Windows package management with a single Windows PowerShell interface. With PackageManagement, you can do the following.
+  - Manage a list of software repositories in which packages can be searched, acquired and installed
+  - Discover software packages
+  - Seamlessly install, uninstall, and inventory packages from one or more software repositories'
+
+    CmdletsToExport = @(
+        'Find-Package',
+        'Get-Package',
+        'Get-PackageProvider',
+        'Get-PackageSource',
+        'Install-Package',
+        'Import-PackageProvider'
+        'Find-PackageProvider'
+        'Install-PackageProvider'
+        'Register-PackageSource',
+        'Set-PackageSource',
+        'Unregister-PackageSource',
+        'Uninstall-Package'
+        'Save-Package'
+	)
+
+	FormatsToProcess  = @('PackageManagement.format.ps1xml')
+
+	PrivateData = @{
+        PSData = @{
+            Tags = @('PackageManagement', 'PSEdition_Core', 'PSEdition_Desktop', 'Linux', 'Mac')
+            ProjectUri = 'https://oneget.org'
+            ReleaseNotes = @'
+## 1.4.8.1
+- Update PackageManagement's strong name signing
+
+## 1.4.8
+- Add NuGet as a source when generating nuget.config file for user in the NuGet Provider
+
+## 1.4.7
+- Update security protocol to use TLS 1.2
+- Remove catalog file
+
+## 1.4.6
+- Update `HelpInfoUri` to point to the latest content
+
+## 1.4.5
+- Bug fix for deadlock when getting parameters in an event
+
+## 1.4.4
+- Bug fix when installing modules from private feeds
+
+ ## 1.4.3
+- Another bug fix when registering repositories with PowerShellGet
+
+## 1.4.2
+- Bug fix for passing credentials from PowerShellGet when registering repositories
+
+## 1.4.1
+- Bug fix for using credential provider installed in Visual Studio
+
+## 1.4
+- Allow credential persistance for registering private repositories and finding or installing packages from those repositories
+
+## 1.3.2
+- Enable bootstrap on PSCore
+- Bug fix to run on .NET Core 3.0
+
+## 1.3.1
+- Targets net452 and netstandard2.0 instead of net451, netcoreapp2.0, and netstandard1.6
+            
+## Previous releases are not included in this Changelog
+'@
+        }
+    }
+}
+
+# SIG # Begin signature block
+# MIInoQYJKoZIhvcNAQcCoIInkjCCJ44CAQExDzANBglghkgBZQMEAgEFADB5Bgor
+# BgEEAYI3AgEEoGswaTA0BgorBgEEAYI3AgEeMCYCAwEAAAQQH8w7YFlLCE63JNLG
+# KX7zUQIBAAIBAAIBAAIBAAIBADAxMA0GCWCGSAFlAwQCAQUABCANw97w1D+bi5LY
+# 8ZEuubcA0tI0Z0h+CImFRYop+IIqQaCCDYEwggX/MIID56ADAgECAhMzAAACUosz
+# qviV8znbAAAAAAJSMA0GCSqGSIb3DQEBCwUAMH4xCzAJBgNVBAYTAlVTMRMwEQYD
+# VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNy
+# b3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01pY3Jvc29mdCBDb2RlIFNpZ25p
+# bmcgUENBIDIwMTEwHhcNMjEwOTAyMTgzMjU5WhcNMjIwOTAxMTgzMjU5WjB0MQsw
+# CQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9u
+# ZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMR4wHAYDVQQDExVNaWNy
+# b3NvZnQgQ29ycG9yYXRpb24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+# AQDQ5M+Ps/X7BNuv5B/0I6uoDwj0NJOo1KrVQqO7ggRXccklyTrWL4xMShjIou2I
+# sbYnF67wXzVAq5Om4oe+LfzSDOzjcb6ms00gBo0OQaqwQ1BijyJ7NvDf80I1fW9O
+# L76Kt0Wpc2zrGhzcHdb7upPrvxvSNNUvxK3sgw7YTt31410vpEp8yfBEl/hd8ZzA
+# v47DCgJ5j1zm295s1RVZHNp6MoiQFVOECm4AwK2l28i+YER1JO4IplTH44uvzX9o
+# RnJHaMvWzZEpozPy4jNO2DDqbcNs4zh7AWMhE1PWFVA+CHI/En5nASvCvLmuR/t8
+# q4bc8XR8QIZJQSp+2U6m2ldNAgMBAAGjggF+MIIBejAfBgNVHSUEGDAWBgorBgEE
+# AYI3TAgBBggrBgEFBQcDAzAdBgNVHQ4EFgQUNZJaEUGL2Guwt7ZOAu4efEYXedEw
+# UAYDVR0RBEkwR6RFMEMxKTAnBgNVBAsTIE1pY3Jvc29mdCBPcGVyYXRpb25zIFB1
+# ZXJ0byBSaWNvMRYwFAYDVQQFEw0yMzAwMTIrNDY3NTk3MB8GA1UdIwQYMBaAFEhu
+# ZOVQBdOCqhc3NyK1bajKdQKVMFQGA1UdHwRNMEswSaBHoEWGQ2h0dHA6Ly93d3cu
+# bWljcm9zb2Z0LmNvbS9wa2lvcHMvY3JsL01pY0NvZFNpZ1BDQTIwMTFfMjAxMS0w
+# Ny0wOC5jcmwwYQYIKwYBBQUHAQEEVTBTMFEGCCsGAQUFBzAChkVodHRwOi8vd3d3
+# Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2NlcnRzL01pY0NvZFNpZ1BDQTIwMTFfMjAx
+# MS0wNy0wOC5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAgEAFkk3
+# uSxkTEBh1NtAl7BivIEsAWdgX1qZ+EdZMYbQKasY6IhSLXRMxF1B3OKdR9K/kccp
+# kvNcGl8D7YyYS4mhCUMBR+VLrg3f8PUj38A9V5aiY2/Jok7WZFOAmjPRNNGnyeg7
+# l0lTiThFqE+2aOs6+heegqAdelGgNJKRHLWRuhGKuLIw5lkgx9Ky+QvZrn/Ddi8u
+# TIgWKp+MGG8xY6PBvvjgt9jQShlnPrZ3UY8Bvwy6rynhXBaV0V0TTL0gEx7eh/K1
+# o8Miaru6s/7FyqOLeUS4vTHh9TgBL5DtxCYurXbSBVtL1Fj44+Od/6cmC9mmvrti
+# yG709Y3Rd3YdJj2f3GJq7Y7KdWq0QYhatKhBeg4fxjhg0yut2g6aM1mxjNPrE48z
+# 6HWCNGu9gMK5ZudldRw4a45Z06Aoktof0CqOyTErvq0YjoE4Xpa0+87T/PVUXNqf
+# 7Y+qSU7+9LtLQuMYR4w3cSPjuNusvLf9gBnch5RqM7kaDtYWDgLyB42EfsxeMqwK
+# WwA+TVi0HrWRqfSx2olbE56hJcEkMjOSKz3sRuupFCX3UroyYf52L+2iVTrda8XW
+# esPG62Mnn3T8AuLfzeJFuAbfOSERx7IFZO92UPoXE1uEjL5skl1yTZB3MubgOA4F
+# 8KoRNhviFAEST+nG8c8uIsbZeb08SeYQMqjVEmkwggd6MIIFYqADAgECAgphDpDS
+# AAAAAAADMA0GCSqGSIb3DQEBCwUAMIGIMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
+# V2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0
+# IENvcnBvcmF0aW9uMTIwMAYDVQQDEylNaWNyb3NvZnQgUm9vdCBDZXJ0aWZpY2F0
+# ZSBBdXRob3JpdHkgMjAxMTAeFw0xMTA3MDgyMDU5MDlaFw0yNjA3MDgyMTA5MDla
+# MH4xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdS
+# ZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMT
+# H01pY3Jvc29mdCBDb2RlIFNpZ25pbmcgUENBIDIwMTEwggIiMA0GCSqGSIb3DQEB
+# AQUAA4ICDwAwggIKAoICAQCr8PpyEBwurdhuqoIQTTS68rZYIZ9CGypr6VpQqrgG
+# OBoESbp/wwwe3TdrxhLYC/A4wpkGsMg51QEUMULTiQ15ZId+lGAkbK+eSZzpaF7S
+# 35tTsgosw6/ZqSuuegmv15ZZymAaBelmdugyUiYSL+erCFDPs0S3XdjELgN1q2jz
+# y23zOlyhFvRGuuA4ZKxuZDV4pqBjDy3TQJP4494HDdVceaVJKecNvqATd76UPe/7
+# 4ytaEB9NViiienLgEjq3SV7Y7e1DkYPZe7J7hhvZPrGMXeiJT4Qa8qEvWeSQOy2u
+# M1jFtz7+MtOzAz2xsq+SOH7SnYAs9U5WkSE1JcM5bmR/U7qcD60ZI4TL9LoDho33
+# X/DQUr+MlIe8wCF0JV8YKLbMJyg4JZg5SjbPfLGSrhwjp6lm7GEfauEoSZ1fiOIl
+# XdMhSz5SxLVXPyQD8NF6Wy/VI+NwXQ9RRnez+ADhvKwCgl/bwBWzvRvUVUvnOaEP
+# 6SNJvBi4RHxF5MHDcnrgcuck379GmcXvwhxX24ON7E1JMKerjt/sW5+v/N2wZuLB
+# l4F77dbtS+dJKacTKKanfWeA5opieF+yL4TXV5xcv3coKPHtbcMojyyPQDdPweGF
+# RInECUzF1KVDL3SV9274eCBYLBNdYJWaPk8zhNqwiBfenk70lrC8RqBsmNLg1oiM
+# CwIDAQABo4IB7TCCAekwEAYJKwYBBAGCNxUBBAMCAQAwHQYDVR0OBBYEFEhuZOVQ
+# BdOCqhc3NyK1bajKdQKVMBkGCSsGAQQBgjcUAgQMHgoAUwB1AGIAQwBBMAsGA1Ud
+# DwQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB8GA1UdIwQYMBaAFHItOgIxkEO5FAVO
+# 4eqnxzHRI4k0MFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwubWljcm9zb2Z0
+# LmNvbS9wa2kvY3JsL3Byb2R1Y3RzL01pY1Jvb0NlckF1dDIwMTFfMjAxMV8wM18y
+# Mi5jcmwwXgYIKwYBBQUHAQEEUjBQME4GCCsGAQUFBzAChkJodHRwOi8vd3d3Lm1p
+# Y3Jvc29mdC5jb20vcGtpL2NlcnRzL01pY1Jvb0NlckF1dDIwMTFfMjAxMV8wM18y
+# Mi5jcnQwgZ8GA1UdIASBlzCBlDCBkQYJKwYBBAGCNy4DMIGDMD8GCCsGAQUFBwIB
+# FjNodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2RvY3MvcHJpbWFyeWNw
+# cy5odG0wQAYIKwYBBQUHAgIwNB4yIB0ATABlAGcAYQBsAF8AcABvAGwAaQBjAHkA
+# XwBzAHQAYQB0AGUAbQBlAG4AdAAuIB0wDQYJKoZIhvcNAQELBQADggIBAGfyhqWY
+# 4FR5Gi7T2HRnIpsLlhHhY5KZQpZ90nkMkMFlXy4sPvjDctFtg/6+P+gKyju/R6mj
+# 82nbY78iNaWXXWWEkH2LRlBV2AySfNIaSxzzPEKLUtCw/WvjPgcuKZvmPRul1LUd
+# d5Q54ulkyUQ9eHoj8xN9ppB0g430yyYCRirCihC7pKkFDJvtaPpoLpWgKj8qa1hJ
+# Yx8JaW5amJbkg/TAj/NGK978O9C9Ne9uJa7lryft0N3zDq+ZKJeYTQ49C/IIidYf
+# wzIY4vDFLc5bnrRJOQrGCsLGra7lstnbFYhRRVg4MnEnGn+x9Cf43iw6IGmYslmJ
+# aG5vp7d0w0AFBqYBKig+gj8TTWYLwLNN9eGPfxxvFX1Fp3blQCplo8NdUmKGwx1j
+# NpeG39rz+PIWoZon4c2ll9DuXWNB41sHnIc+BncG0QaxdR8UvmFhtfDcxhsEvt9B
+# xw4o7t5lL+yX9qFcltgA1qFGvVnzl6UJS0gQmYAf0AApxbGbpT9Fdx41xtKiop96
+# eiL6SJUfq/tHI4D1nvi/a7dLl+LrdXga7Oo3mXkYS//WsyNodeav+vyL6wuA6mk7
+# r/ww7QRMjt/fdW1jkT3RnVZOT7+AVyKheBEyIXrvQQqxP/uozKRdwaGIm1dxVk5I
+# RcBCyZt2WwqASGv9eZ/BvW1taslScxMNelDNMYIZdjCCGXICAQEwgZUwfjELMAkG
+# A1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQx
+# HjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEoMCYGA1UEAxMfTWljcm9z
+# b2Z0IENvZGUgU2lnbmluZyBQQ0EgMjAxMQITMwAAAlKLM6r4lfM52wAAAAACUjAN
+# BglghkgBZQMEAgEFAKCBrjAZBgkqhkiG9w0BCQMxDAYKKwYBBAGCNwIBBDAcBgor
+# BgEEAYI3AgELMQ4wDAYKKwYBBAGCNwIBFTAvBgkqhkiG9w0BCQQxIgQgiRM0SyHn
+# 1V4nqTIo3jXRvJycxDAVVlA2FtX6n3qWqfwwQgYKKwYBBAGCNwIBDDE0MDKgFIAS
+# AE0AaQBjAHIAbwBzAG8AZgB0oRqAGGh0dHA6Ly93d3cubWljcm9zb2Z0LmNvbTAN
+# BgkqhkiG9w0BAQEFAASCAQCPJRvOZr6CasCkw1WMLfBA6LopbQ7shmcqRwM1eDEa
+# 20F09jJVj45dL1xe5F1nEFixo3ejN83D6X9Tm96NfNf5vjqC4AfG8M+4/NGo4Vta
+# doFQs1KjdLELNAZZFY7i241P9+ayzDTh5ON5F6BehV4Sex00Kbg0mHB76GhBKUJL
+# PqfBbc4KIurIA/Rk1wtXWTuGKdL3+eOVn+DscOEv+0Jjlgzr5UvkFw7tVXhS2Y9z
+# dxL8TBqkugR60I+IHB0yiAQwePAqfnVHwPoX0EeldwdwN/B9Iidei1wOa6+ddWr7
+# jxz8J4fLzH7k3V3xRDF+z14+6BbOL7dnX3Q7TEDnTIJgoYIXADCCFvwGCisGAQQB
+# gjcDAwExghbsMIIW6AYJKoZIhvcNAQcCoIIW2TCCFtUCAQMxDzANBglghkgBZQME
+# AgEFADCCAVEGCyqGSIb3DQEJEAEEoIIBQASCATwwggE4AgEBBgorBgEEAYRZCgMB
+# MDEwDQYJYIZIAWUDBAIBBQAEIMfYTjqpmIZRLR5Dn8vRnb89EjdawUtU1A43DUFK
+# mjO1AgZitJ9dXI0YEzIwMjIwNzAxMjEwMDAwLjQ4N1owBIACAfSggdCkgc0wgcox
+# CzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRt
+# b25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xJTAjBgNVBAsTHE1p
+# Y3Jvc29mdCBBbWVyaWNhIE9wZXJhdGlvbnMxJjAkBgNVBAsTHVRoYWxlcyBUU1Mg
+# RVNOOkU1QTYtRTI3Qy01OTJFMSUwIwYDVQQDExxNaWNyb3NvZnQgVGltZS1TdGFt
+# cCBTZXJ2aWNloIIRVzCCBwwwggT0oAMCAQICEzMAAAGVt/wN1uM3MSUAAQAAAZUw
+# DQYJKoZIhvcNAQELBQAwfDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0
+# b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3Jh
+# dGlvbjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUtU3RhbXAgUENBIDIwMTAwHhcN
+# MjExMjAyMTkwNTEyWhcNMjMwMjI4MTkwNTEyWjCByjELMAkGA1UEBhMCVVMxEzAR
+# BgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1p
+# Y3Jvc29mdCBDb3Jwb3JhdGlvbjElMCMGA1UECxMcTWljcm9zb2Z0IEFtZXJpY2Eg
+# T3BlcmF0aW9uczEmMCQGA1UECxMdVGhhbGVzIFRTUyBFU046RTVBNi1FMjdDLTU5
+# MkUxJTAjBgNVBAMTHE1pY3Jvc29mdCBUaW1lLVN0YW1wIFNlcnZpY2UwggIiMA0G
+# CSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQCfbUEMZ7ZLOz9aoRCeJL4hhT9Q8JZB
+# 2xaVlMNCt3bwhcTI5GLPrt2e93DAsmlqOzw1cFiPPg6S5sLCXz7LbbUQpLha8S4v
+# 2qccMtTokEaDQS+QJErnAsl6VSmRvAy0nlj+C/PaZuLb3OzY0ARw7UeCZLpyWPPH
+# +k5MdYj6NUDTNoXqbzQHCuPs+fgIoro5y3DHoO077g6Ir2THIx1yfVFEt5zDcFPO
+# YMg4yBi4A6Xc3hm9tZ6w849nBvVKwm5YALfH3y/f3n4LnN61b1wzAx3ZCZjf13UK
+# bpE7p6DYJrHRB/+pwFjG99TwHH6uXzDeZT6/r6qH7AABwn8fpYc1TmleFY8YRuVz
+# zjp9VkPHV8VzvzLL7QK2kteeXLL/Y4lvjL6hzyOmE+1LVD3lEbYho1zCt+F7bU+F
+# pjyBfTC4i/wHsptb218YlbkQt1i1B6llmJwVFwCLX7gxQ48QIGUacMy8kp1+zczY
+# +SxlpaEgNmQkfc1raPh9y5sMa6X48+x0K7B8OqDoXcTiECIjJetxwtuBlQseJ05H
+# RfisfgFm09kG7vdHEo3NbUuMMBFikc4boN9Ufm0iUhq/JtqV0Kwrv9Cv3ayDgdNw
+# EWiL2a65InEWSpRTYfsCQ03eqEh5A3rwV/KfUFcit+DrP+9VcDpjWRsCokZv4tgn
+# 5qAXNMtHa8NiqQIDAQABo4IBNjCCATIwHQYDVR0OBBYEFKuX02ICFFdXgrcCBmDJ
+# fH5v/KkXMB8GA1UdIwQYMBaAFJ+nFV0AXmJdg/Tl0mWnG1M1GelyMF8GA1UdHwRY
+# MFYwVKBSoFCGTmh0dHA6Ly93d3cubWljcm9zb2Z0LmNvbS9wa2lvcHMvY3JsL01p
+# Y3Jvc29mdCUyMFRpbWUtU3RhbXAlMjBQQ0ElMjAyMDEwKDEpLmNybDBsBggrBgEF
+# BQcBAQRgMF4wXAYIKwYBBQUHMAKGUGh0dHA6Ly93d3cubWljcm9zb2Z0LmNvbS9w
+# a2lvcHMvY2VydHMvTWljcm9zb2Z0JTIwVGltZS1TdGFtcCUyMFBDQSUyMDIwMTAo
+# MSkuY3J0MAwGA1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYBBQUHAwgwDQYJKoZI
+# hvcNAQELBQADggIBAOCzNt4fJ+jOvQuq0Itn37IZrYNBGswAi+IAFM3YGK/wGQlE
+# ncgjmNBuac95W2fAL6xtFVfMfkeqSLMLqoidVsU9Bm4DEBjaWNOT9uX/tcYiJSfF
+# QM0rDbrl8V4nM88RZF56G/qJW9g5dIqOSoimzKUt/Q7WH6VByW0sar5wGvgovK3q
+# FadwKShzRYcEqTkHH2zip5e73jezPHx2+taYqJG5xJzdDErZ1nMixRjaHs3Kpcsm
+# ZYuxsIRfBYOJvAFGymTGRv5PuwsNps9Ech1Aasq84H/Y/8xN3GQj4P3MiDn8izUB
+# DCuXIfHYk39bqnaAmFbUiCby+WWpuzdk4oDKz/sWwrnsoQ72uEGVEN7+kyw9+HSo
+# 5i8l8Zg1Ymj9tUgDpVUGjAduoLyHQ7XqknKmS9kJSBKk4okEDg0Id6LeKLQwH1e4
+# aVeTyUYwcBX3wg7pLJQWvR7na2SGrtl/23YGQTudmWOryhx9lnU7KBGV/aNvz0tT
+# pcsucsK+cZFKDEkWB/oUFVrtyun6ND5pYZNj0CgRup5grVACq/Agb+EOGLCD+zEt
+# GNop4tfKvsYb64257NJ9XrMHgpCib76WT34RPmCBByxLUkHxHq5zCyYNu0IFXAt1
+# AVicw14M+czLYIVM7NOyVpFdcB1B9MiJik7peSii0XTRdl5/V/KscTaCBFz3MIIH
+# cTCCBVmgAwIBAgITMwAAABXF52ueAptJmQAAAAAAFTANBgkqhkiG9w0BAQsFADCB
+# iDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1Jl
+# ZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEyMDAGA1UEAxMp
+# TWljcm9zb2Z0IFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IDIwMTAwHhcNMjEw
+# OTMwMTgyMjI1WhcNMzAwOTMwMTgzMjI1WjB8MQswCQYDVQQGEwJVUzETMBEGA1UE
+# CBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9z
+# b2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQDEx1NaWNyb3NvZnQgVGltZS1TdGFtcCBQ
+# Q0EgMjAxMDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAOThpkzntHIh
+# C3miy9ckeb0O1YLT/e6cBwfSqWxOdcjKNVf2AX9sSuDivbk+F2Az/1xPx2b3lVNx
+# WuJ+Slr+uDZnhUYjDLWNE893MsAQGOhgfWpSg0S3po5GawcU88V29YZQ3MFEyHFc
+# UTE3oAo4bo3t1w/YJlN8OWECesSq/XJprx2rrPY2vjUmZNqYO7oaezOtgFt+jBAc
+# nVL+tuhiJdxqD89d9P6OU8/W7IVWTe/dvI2k45GPsjksUZzpcGkNyjYtcI4xyDUo
+# veO0hyTD4MmPfrVUj9z6BVWYbWg7mka97aSueik3rMvrg0XnRm7KMtXAhjBcTyzi
+# YrLNueKNiOSWrAFKu75xqRdbZ2De+JKRHh09/SDPc31BmkZ1zcRfNN0Sidb9pSB9
+# fvzZnkXftnIv231fgLrbqn427DZM9ituqBJR6L8FA6PRc6ZNN3SUHDSCD/AQ8rdH
+# GO2n6Jl8P0zbr17C89XYcz1DTsEzOUyOArxCaC4Q6oRRRuLRvWoYWmEBc8pnol7X
+# KHYC4jMYctenIPDC+hIK12NvDMk2ZItboKaDIV1fMHSRlJTYuVD5C4lh8zYGNRiE
+# R9vcG9H9stQcxWv2XFJRXRLbJbqvUAV6bMURHXLvjflSxIUXk8A8FdsaN8cIFRg/
+# eKtFtvUeh17aj54WcmnGrnu3tz5q4i6tAgMBAAGjggHdMIIB2TASBgkrBgEEAYI3
+# FQEEBQIDAQABMCMGCSsGAQQBgjcVAgQWBBQqp1L+ZMSavoKRPEY1Kc8Q/y8E7jAd
+# BgNVHQ4EFgQUn6cVXQBeYl2D9OXSZacbUzUZ6XIwXAYDVR0gBFUwUzBRBgwrBgEE
+# AYI3TIN9AQEwQTA/BggrBgEFBQcCARYzaHR0cDovL3d3dy5taWNyb3NvZnQuY29t
+# L3BraW9wcy9Eb2NzL1JlcG9zaXRvcnkuaHRtMBMGA1UdJQQMMAoGCCsGAQUFBwMI
+# MBkGCSsGAQQBgjcUAgQMHgoAUwB1AGIAQwBBMAsGA1UdDwQEAwIBhjAPBgNVHRMB
+# Af8EBTADAQH/MB8GA1UdIwQYMBaAFNX2VsuP6KJcYmjRPZSQW9fOmhjEMFYGA1Ud
+# HwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwubWljcm9zb2Z0LmNvbS9wa2kvY3JsL3By
+# b2R1Y3RzL01pY1Jvb0NlckF1dF8yMDEwLTA2LTIzLmNybDBaBggrBgEFBQcBAQRO
+# MEwwSgYIKwYBBQUHMAKGPmh0dHA6Ly93d3cubWljcm9zb2Z0LmNvbS9wa2kvY2Vy
+# dHMvTWljUm9vQ2VyQXV0XzIwMTAtMDYtMjMuY3J0MA0GCSqGSIb3DQEBCwUAA4IC
+# AQCdVX38Kq3hLB9nATEkW+Geckv8qW/qXBS2Pk5HZHixBpOXPTEztTnXwnE2P9pk
+# bHzQdTltuw8x5MKP+2zRoZQYIu7pZmc6U03dmLq2HnjYNi6cqYJWAAOwBb6J6Gng
+# ugnue99qb74py27YP0h1AdkY3m2CDPVtI1TkeFN1JFe53Z/zjj3G82jfZfakVqr3
+# lbYoVSfQJL1AoL8ZthISEV09J+BAljis9/kpicO8F7BUhUKz/AyeixmJ5/ALaoHC
+# gRlCGVJ1ijbCHcNhcy4sa3tuPywJeBTpkbKpW99Jo3QMvOyRgNI95ko+ZjtPu4b6
+# MhrZlvSP9pEB9s7GdP32THJvEKt1MMU0sHrYUP4KWN1APMdUbZ1jdEgssU5HLcEU
+# BHG/ZPkkvnNtyo4JvbMBV0lUZNlz138eW0QBjloZkWsNn6Qo3GcZKCS6OEuabvsh
+# VGtqRRFHqfG3rsjoiV5PndLQTHa1V1QJsWkBRH58oWFsc/4Ku+xBZj1p/cvBQUl+
+# fpO+y/g75LcVv7TOPqUxUYS8vwLBgqJ7Fx0ViY1w/ue10CgaiQuPNtq6TPmb/wrp
+# NPgkNWcr4A245oyZ1uEi6vAnQj0llOZ0dFtq0Z4+7X6gMTN9vMvpe784cETRkPHI
+# qzqKOghif9lwY1NNje6CbaUFEMFxBmoQtB1VM1izoXBm8qGCAs4wggI3AgEBMIH4
+# oYHQpIHNMIHKMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4G
+# A1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSUw
+# IwYDVQQLExxNaWNyb3NvZnQgQW1lcmljYSBPcGVyYXRpb25zMSYwJAYDVQQLEx1U
+# aGFsZXMgVFNTIEVTTjpFNUE2LUUyN0MtNTkyRTElMCMGA1UEAxMcTWljcm9zb2Z0
+# IFRpbWUtU3RhbXAgU2VydmljZaIjCgEBMAcGBSsOAwIaAxUA0Y+CyLezGgVHWFNm
+# KI1LuE/hY6uggYMwgYCkfjB8MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGlu
+# Z3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBv
+# cmF0aW9uMSYwJAYDVQQDEx1NaWNyb3NvZnQgVGltZS1TdGFtcCBQQ0EgMjAxMDAN
+# BgkqhkiG9w0BAQUFAAIFAOZpqYQwIhgPMjAyMjA3MDIwMTEyMzZaGA8yMDIyMDcw
+# MzAxMTIzNlowdzA9BgorBgEEAYRZCgQBMS8wLTAKAgUA5mmphAIBADAKAgEAAgIe
+# WAIB/zAHAgEAAgIR3TAKAgUA5mr7BAIBADA2BgorBgEEAYRZCgQCMSgwJjAMBgor
+# BgEEAYRZCgMCoAowCAIBAAIDB6EgoQowCAIBAAIDAYagMA0GCSqGSIb3DQEBBQUA
+# A4GBAGizLxBkK6B2oQmB80+aM7sOfXuAgkYj93m3glu2ZQ242mTevtDINaDoV+qc
+# 7BhagNfrWoCVESVZEjaqCYrV/VVxnmuKU0VXJoUnLcNW0cmK3aTV1fENg1wMmi/r
+# TFKkd1udFGkqk+aoUxPKMtV19/TbRjUL/5qxCuVE0uACxjXOMYIEDTCCBAkCAQEw
+# gZMwfDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcT
+# B1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlvbjEmMCQGA1UE
+# AxMdTWljcm9zb2Z0IFRpbWUtU3RhbXAgUENBIDIwMTACEzMAAAGVt/wN1uM3MSUA
+# AQAAAZUwDQYJYIZIAWUDBAIBBQCgggFKMBoGCSqGSIb3DQEJAzENBgsqhkiG9w0B
+# CRABBDAvBgkqhkiG9w0BCQQxIgQg7wxBntfZfrgc+uuByghKGEFJWZuIL6DEXRVE
+# WWTTqNowgfoGCyqGSIb3DQEJEAIvMYHqMIHnMIHkMIG9BCBc5kvhjZALe2mhIz/Q
+# d7keVOmA/cC1dzKZT4ybLEkCxzCBmDCBgKR+MHwxCzAJBgNVBAYTAlVTMRMwEQYD
+# VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNy
+# b3NvZnQgQ29ycG9yYXRpb24xJjAkBgNVBAMTHU1pY3Jvc29mdCBUaW1lLVN0YW1w
+# IFBDQSAyMDEwAhMzAAABlbf8DdbjNzElAAEAAAGVMCIEIKYVsiXt/OMHtVXLwf4B
+# pSdKHBzozlb2nRtmmiDl84fKMA0GCSqGSIb3DQEBCwUABIICAIVHstuzLLngbRuA
+# f6xugLOjcbg1MNZdn9l1UIHXSFSPGQWqiL2dK4o6sjWpDFkdt2muopWbZRGFBmGw
+# VIuZeYRztWON1VcW177otKa1hlV7WyF/VvEqytpXyjybORUwmCkKyLOxl9X6yzWi
+# INaJPOYk09kAQkUFt/MNYIsxr++dQX14DOoJxm9tpCEvIYl9mnUU+iQnE5B9AEMw
+# +nC4D7IMA1+6smM7fbSJa7o4BHfyje8PHB3w9GF223mZTG0EhBlultQkMSpV/c88
+# 9hsbwx16Cr5sY9M/lSRt4oC3qzSuTmYd6VYJ/ILt9ptrpOkaYCiXXRx8Cfz7w53w
+# Au/J8xJjNWvrKxkcc8XiUXPfGGTXujyiS2MqvztBkg6wCduFKqogmvOtQiiwQQxE
+# G6lU/rss27omoTUc41EawOr1km5y+fUS9aoYX9K8NNhFH6TSni3dp/+Hiyif1T7X
+# g0cBy4yHuYxMmRrFcmGeplW3KhXHfkJjbHaVs1QgnRfkgFuypwF5YoFWrW7Xgj+a
+# ZCDKSoYq45E4v0ryIvyu0shBoHQXREAzpBv3L9h5A9vEFQG4alCI57oSbdqJ1YIa
+# ggkTQHR2CWdB7FnQilCqqZjSnAtXYZh/RD+PX6fg1UyUUQf5ohnw951pQeKYTYHm
+# Fwut+RibzdbHEF/kLZr6SZsDupCv
+# SIG # End signature block
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Ôªø#
+# Script module for module 'PackageManagement'
+#
+Set-StrictMode -Version Latest
+Microsoft.PowerShell.Utility\Import-LocalizedData  LocalizedData -filename PackageManagement.Resources.psd1
+
+# Summary: PackageManagement is supported on Windows PowerShell 3.0 or later, Nano Server and PowerShellCore
+$isCore = ($PSVersionTable.Keys -contains "PSEdition") -and ($PSVersionTable.PSEdition -ne 'Desktop')
+$binarySubPath = ''
+if ($isCore)
+{
+    $binarySubPath = Join-Path -Path 'coreclr' -ChildPath 'netstandard2.0'
+} else {
+    $binarySubPath = 'fullclr'
+}
+
+# Set up some helper variables to make it easier to work with the module
+$script:PSModule = $ExecutionContext.SessionState.Module
+$script:PSModuleRoot = $script:PSModule.ModuleBase
+
+$script:PkgMgmt = 'Microsoft.PackageManagement.dll'
+$script:PSPkgMgmt = 'Microsoft.PowerShell.PackageManagement.dll'
+
+
+# Try to import the OneGet assemblies at the same directory regardless fullclr or coreclr
+$OneGetModulePath = Join-Path -Path $script:PSModuleRoot -ChildPath $script:PkgMgmt
+$binaryModuleRoot = $script:PSModuleRoot
+
+
+if(-not (Test-Path -Path $OneGetModulePath))
+{
+    # Import the appropriate nested binary module based on the current PowerShell version
+    $binaryModuleRoot = Join-Path -Path $script:PSModuleRoot -ChildPath $binarySubPath
+    $OneGetModulePath = Join-Path -Path $binaryModuleRoot -ChildPath $script:PkgMgmt
+}
+
+$PSOneGetModulePath = Join-Path -Path $binaryModuleRoot -ChildPath $script:PSPkgMgmt
+$OneGetModule = Import-Module -Name $OneGetModulePath -PassThru
+$PSOneGetModule = Import-Module -Name $PSOneGetModulePath -PassThru
+
+
+# When the module is unloaded, remove the nested binary module that was loaded with it
+if($OneGetModule)
+{
+    $script:PSModule.OnRemove = {
+        Remove-Module -ModuleInfo $OneGetModule
+    }
+}
+
+if($PSOneGetModule)
+{
+    $script:PSModule.OnRemove = {
+        Remove-Module -ModuleInfo $PSOneGetModule
+    }
+}
+# SIG # Begin signature block
+# MIInpQYJKoZIhvcNAQcCoIInljCCJ5ICAQExDzANBglghkgBZQMEAgEFADB5Bgor
+# BgEEAYI3AgEEoGswaTA0BgorBgEEAYI3AgEeMCYCAwEAAAQQH8w7YFlLCE63JNLG
+# KX7zUQIBAAIBAAIBAAIBAAIBADAxMA0GCWCGSAFlAwQCAQUABCAu+2bjkKZwIc24
+# sUnQmGnTVuZ6xttIA9Ea89zWbpdeVaCCDYUwggYDMIID66ADAgECAhMzAAACU+OD
+# 3pbexW7MAAAAAAJTMA0GCSqGSIb3DQEBCwUAMH4xCzAJBgNVBAYTAlVTMRMwEQYD
+# VQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNy
+# b3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01pY3Jvc29mdCBDb2RlIFNpZ25p
+# bmcgUENBIDIwMTEwHhcNMjEwOTAyMTgzMzAwWhcNMjIwOTAxMTgzMzAwWjB0MQsw
+# CQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9u
+# ZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMR4wHAYDVQQDExVNaWNy
+# b3NvZnQgQ29ycG9yYXRpb24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+# AQDLhxHwq3OhH+4J+SX4qS/VQG8HybccH7tnG+BUqrXubfGuDFYPZ29uCuHfQlO1
+# lygLgMpJ4Geh6/6poQ5VkDKfVssn6aA1PCzIh8iOPMQ9Mju3sLF9Sn+Pzuaie4BN
+# rp0MuZLDEXgVYx2WNjmzqcxC7dY9SC3znOh5qUy2vnmWygC7b9kj0d3JrGtjc5q5
+# 0WfV3WLXAQHkeRROsJFBZfXFGoSvRljFFUAjU/zdhP92P+1JiRRRikVy/sqIhMDY
+# +7tVdzlE2fwnKOv9LShgKeyEevgMl0B1Fq7E2YeBZKF6KlhmYi9CE1350cnTUoU4
+# YpQSnZo0YAnaenREDLfFGKTdAgMBAAGjggGCMIIBfjAfBgNVHSUEGDAWBgorBgEE
+# AYI3TAgBBggrBgEFBQcDAzAdBgNVHQ4EFgQUlZpLWIccXoxessA/DRbe26glhEMw
+# VAYDVR0RBE0wS6RJMEcxLTArBgNVBAsTJE1pY3Jvc29mdCBJcmVsYW5kIE9wZXJh
+# dGlvbnMgTGltaXRlZDEWMBQGA1UEBRMNMjMwMDEyKzQ2NzU5ODAfBgNVHSMEGDAW
+# gBRIbmTlUAXTgqoXNzcitW2oynUClTBUBgNVHR8ETTBLMEmgR6BFhkNodHRwOi8v
+# d3d3Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2NybC9NaWNDb2RTaWdQQ0EyMDExXzIw
+# MTEtMDctMDguY3JsMGEGCCsGAQUFBwEBBFUwUzBRBggrBgEFBQcwAoZFaHR0cDov
+# L3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9jZXJ0cy9NaWNDb2RTaWdQQ0EyMDEx
+# XzIwMTEtMDctMDguY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggIB
+# AKVY+yKcJVVxf9W2vNkL5ufjOpqcvVOOOdVyjy1dmsO4O8khWhqrecdVZp09adOZ
+# 8kcMtQ0U+oKx484Jg11cc4Ck0FyOBnp+YIFbOxYCqzaqMcaRAgy48n1tbz/EFYiF
+# zJmMiGnlgWFCStONPvQOBD2y/Ej3qBRnGy9EZS1EDlRN/8l5Rs3HX2lZhd9WuukR
+# bUk83U99TPJyo12cU0Mb3n1HJv/JZpwSyqb3O0o4HExVJSkwN1m42fSVIVtXVVSa
+# YZiVpv32GoD/dyAS/gyplfR6FI3RnCOomzlycSqoz0zBCPFiCMhVhQ6qn+J0GhgR
+# BJvGKizw+5lTfnBFoqKZJDROz+uGDl9tw6JvnVqAZKGrWv/CsYaegaPePFrAVSxA
+# yUwOFTkAqtNC8uAee+rv2V5xLw8FfpKJ5yKiMKnCKrIaFQDr5AZ7f2ejGGDf+8Tz
+# OiK1AgBvOW3iTEEa/at8Z4+s1CmnEAkAi0cLjB72CJedU1LAswdOCWM2MDIZVo9j
+# 0T74OkJLTjPd3WNEyw0rBXTyhlbYQsYt7ElT2l2TTlF5EmpVixGtj4ChNjWoKr9y
+# TAqtadd2Ym5FNB792GzwNwa631BPCgBJmcRpFKXt0VEQq7UXVNYBiBRd+x4yvjqq
+# 5aF7XC5nXCgjbCk7IXwmOphNuNDNiRq83Ejjnc7mxrJGMIIHejCCBWKgAwIBAgIK
+# YQ6Q0gAAAAAAAzANBgkqhkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMxEzARBgNV
+# BAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jv
+# c29mdCBDb3Jwb3JhdGlvbjEyMDAGA1UEAxMpTWljcm9zb2Z0IFJvb3QgQ2VydGlm
+# aWNhdGUgQXV0aG9yaXR5IDIwMTEwHhcNMTEwNzA4MjA1OTA5WhcNMjYwNzA4MjEw
+# OTA5WjB+MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UE
+# BxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSgwJgYD
+# VQQDEx9NaWNyb3NvZnQgQ29kZSBTaWduaW5nIFBDQSAyMDExMIICIjANBgkqhkiG
+# 9w0BAQEFAAOCAg8AMIICCgKCAgEAq/D6chAcLq3YbqqCEE00uvK2WCGfQhsqa+la
+# UKq4BjgaBEm6f8MMHt03a8YS2AvwOMKZBrDIOdUBFDFC04kNeWSHfpRgJGyvnkmc
+# 6Whe0t+bU7IKLMOv2akrrnoJr9eWWcpgGgXpZnboMlImEi/nqwhQz7NEt13YxC4D
+# dato88tt8zpcoRb0RrrgOGSsbmQ1eKagYw8t00CT+OPeBw3VXHmlSSnnDb6gE3e+
+# lD3v++MrWhAfTVYoonpy4BI6t0le2O3tQ5GD2Xuye4Yb2T6xjF3oiU+EGvKhL1nk
+# kDstrjNYxbc+/jLTswM9sbKvkjh+0p2ALPVOVpEhNSXDOW5kf1O6nA+tGSOEy/S6
+# A4aN91/w0FK/jJSHvMAhdCVfGCi2zCcoOCWYOUo2z3yxkq4cI6epZuxhH2rhKEmd
+# X4jiJV3TIUs+UsS1Vz8kA/DRelsv1SPjcF0PUUZ3s/gA4bysAoJf28AVs70b1FVL
+# 5zmhD+kjSbwYuER8ReTBw3J64HLnJN+/RpnF78IcV9uDjexNSTCnq47f7Fufr/zd
+# sGbiwZeBe+3W7UvnSSmnEyimp31ngOaKYnhfsi+E11ecXL93KCjx7W3DKI8sj0A3
+# T8HhhUSJxAlMxdSlQy90lfdu+HggWCwTXWCVmj5PM4TasIgX3p5O9JawvEagbJjS
+# 4NaIjAsCAwEAAaOCAe0wggHpMBAGCSsGAQQBgjcVAQQDAgEAMB0GA1UdDgQWBBRI
+# bmTlUAXTgqoXNzcitW2oynUClTAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTAL
+# BgNVHQ8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBRyLToCMZBD
+# uRQFTuHqp8cx0SOJNDBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLm1pY3Jv
+# c29mdC5jb20vcGtpL2NybC9wcm9kdWN0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFf
+# MDNfMjIuY3JsMF4GCCsGAQUFBwEBBFIwUDBOBggrBgEFBQcwAoZCaHR0cDovL3d3
+# dy5taWNyb3NvZnQuY29tL3BraS9jZXJ0cy9NaWNSb29DZXJBdXQyMDExXzIwMTFf
+# MDNfMjIuY3J0MIGfBgNVHSAEgZcwgZQwgZEGCSsGAQQBgjcuAzCBgzA/BggrBgEF
+# BQcCARYzaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9kb2NzL3ByaW1h
+# cnljcHMuaHRtMEAGCCsGAQUFBwICMDQeMiAdAEwAZQBnAGEAbABfAHAAbwBsAGkA
+# YwB5AF8AcwB0AGEAdABlAG0AZQBuAHQALiAdMA0GCSqGSIb3DQEBCwUAA4ICAQBn
+# 8oalmOBUeRou09h0ZyKbC5YR4WOSmUKWfdJ5DJDBZV8uLD74w3LRbYP+vj/oCso7
+# v0epo/Np22O/IjWll11lhJB9i0ZQVdgMknzSGksc8zxCi1LQsP1r4z4HLimb5j0b
+# pdS1HXeUOeLpZMlEPXh6I/MTfaaQdION9MsmAkYqwooQu6SpBQyb7Wj6aC6VoCo/
+# KmtYSWMfCWluWpiW5IP0wI/zRive/DvQvTXvbiWu5a8n7dDd8w6vmSiXmE0OPQvy
+# CInWH8MyGOLwxS3OW560STkKxgrCxq2u5bLZ2xWIUUVYODJxJxp/sfQn+N4sOiBp
+# mLJZiWhub6e3dMNABQamASooPoI/E01mC8CzTfXhj38cbxV9Rad25UAqZaPDXVJi
+# hsMdYzaXht/a8/jyFqGaJ+HNpZfQ7l1jQeNbB5yHPgZ3BtEGsXUfFL5hYbXw3MYb
+# BL7fQccOKO7eZS/sl/ahXJbYANahRr1Z85elCUtIEJmAH9AAKcWxm6U/RXceNcbS
+# oqKfenoi+kiVH6v7RyOA9Z74v2u3S5fi63V4GuzqN5l5GEv/1rMjaHXmr/r8i+sL
+# gOppO6/8MO0ETI7f33VtY5E90Z1WTk+/gFcioXgRMiF670EKsT/7qMykXcGhiJtX
+# cVZOSEXAQsmbdlsKgEhr/Xmfwb1tbWrJUnMTDXpQzTGCGXYwghlyAgEBMIGVMH4x
+# CzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRt
+# b25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xKDAmBgNVBAMTH01p
+# Y3Jvc29mdCBDb2RlIFNpZ25pbmcgUENBIDIwMTECEzMAAAJT44Pelt7FbswAAAAA
+# AlMwDQYJYIZIAWUDBAIBBQCgga4wGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQw
+# HAYKKwYBBAGCNwIBCzEOMAwGCisGAQQBgjcCARUwLwYJKoZIhvcNAQkEMSIEIMQt
+# y3cqdLHMkORDousYFit1gZHgDA5G8ruNWC2M1yt8MEIGCisGAQQBgjcCAQwxNDAy
+# oBSAEgBNAGkAYwByAG8AcwBvAGYAdKEagBhodHRwOi8vd3d3Lm1pY3Jvc29mdC5j
+# b20wDQYJKoZIhvcNAQEBBQAEggEACK1h1k5yJH9t/LbulIT8EoMZ45iY6fTsCiXj
+# iBdhKfo1OenarZN4LivqwI6cxXSZWNzvIQ2umswdxzfMJy+0aBwrQ5zc++MxF4p8
+# p04vI4uuwSnZpFgBSS57hdZd64NoBXkan+YMMz01THWrz0AFFBI4euN9ASE5lF5r
+# rZ1YvyTPhsgleGVXcV45YsM6Xp0sTnvtgdmHeyUknVefJwR4ZmaNp6EC3QKuHkna
+# B686mvfbKsMXtPvOMt6tN2MTMPCPrSJ/+D2aV+JKwjqk+MmIAZ0JeTXq7Oy3H4i3
+# eR66oB24MwbOPL57sgVN35CK3trEV9eSwJbks6fIplb+UZlW9aGCFwAwghb8Bgor
+# BgEEAYI3AwMBMYIW7DCCFugGCSqGSIb3DQEHAqCCFtkwghbVAgEDMQ8wDQYJYIZI
+# AWUDBAIBBQAwggFRBgsqhkiG9w0BCRABBKCCAUAEggE8MIIBOAIBAQYKKwYBBAGE
+# WQoDATAxMA0GCWCGSAFlAwQCAQUABCBu5SYV/TjMU+1To3jN1ZjWGQGhTTO1qrzJ
+# 2j1cR5AwHgIGYrTVw4J4GBMyMDIyMDcwMTIxMDAwMS4wODNaMASAAgH0oIHQpIHN
+# MIHKMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH
+# UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSUwIwYDVQQL
+# ExxNaWNyb3NvZnQgQW1lcmljYSBPcGVyYXRpb25zMSYwJAYDVQQLEx1UaGFsZXMg
+# VFNTIEVTTjo4QTgyLUUzNEYtOUREQTElMCMGA1UEAxMcTWljcm9zb2Z0IFRpbWUt
+# U3RhbXAgU2VydmljZaCCEVcwggcMMIIE9KADAgECAhMzAAABmciPr622fb6LAAEA
+# AAGZMA0GCSqGSIb3DQEBCwUAMHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNo
+# aW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29y
+# cG9yYXRpb24xJjAkBgNVBAMTHU1pY3Jvc29mdCBUaW1lLVN0YW1wIFBDQSAyMDEw
+# MB4XDTIxMTIwMjE5MDUxNloXDTIzMDIyODE5MDUxNlowgcoxCzAJBgNVBAYTAlVT
+# MRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRtb25kMR4wHAYDVQQK
+# ExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xJTAjBgNVBAsTHE1pY3Jvc29mdCBBbWVy
+# aWNhIE9wZXJhdGlvbnMxJjAkBgNVBAsTHVRoYWxlcyBUU1MgRVNOOjhBODItRTM0
+# Ri05RERBMSUwIwYDVQQDExxNaWNyb3NvZnQgVGltZS1TdGFtcCBTZXJ2aWNlMIIC
+# IjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuBP5V1yjLMva1WtmvG0W9AK/
+# z4+PmyogIDICmsrwjBZ93XRqH/HlhYCVqeSXSo1o655lta/bR6XD9pBaY16dlHa4
+# +eY7eTWItTBEXKCKPhNvV7gsBQDCX7Rnb7Fnmvzk0DyBbGRFqhLXl3UZ3MlcHLec
+# RcwSAtSVgnZn3O0efUTCMr4FoyM/N+epsHqMJDrLTdX3udyiCfH5a2CCyEFrDUTD
+# k985wBsCG/ZMi+eAuo2YxcTkrrBmJlUPhq/6mUBC8NYqcfbOYzT9S0qTqX0xARbv
+# svSizQZjAQEZEj6UxZBhMhksBhoEnTougVOhTyvurq2fN9I60XpiuCZCCfbUIZRn
+# CIQI4XKmUrZ/t/JUY1b632wSORKSNjcJVSCtomxlu7FnkwM/8jTzSElG0IRgCbHv
+# zoBo/9as/x2vZqn2GfAR3ITcZ9PJ1pKsq46yonEMsbg/JgmrU61UmziWH0MmXR0f
+# WuL4MhnmRFwWEDQJSLgd+0AjgILP1Xg1PDOHXPyJa08gtLldUkuBpPM1fuV+Xkbv
+# lzkTfBVqsyOpP/cunFsDljCumlDdV6i3Ghf7Jva1/OHiltpYQ3Nwt9Vi46fFDnzh
+# 2Xz7ssueMX4pZ4YQj8uECifY4IKKqnnhIQhH4A2I8vjwclf3uRwwdsR3bZS/d8Jb
+# QJCN2gsaPOJFTwQmtDsCAwEAAaOCATYwggEyMB0GA1UdDgQWBBSNula4Ppxlr67y
+# IdHUDxKJxDUdEDAfBgNVHSMEGDAWgBSfpxVdAF5iXYP05dJlpxtTNRnpcjBfBgNV
+# HR8EWDBWMFSgUqBQhk5odHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtpb3BzL2Ny
+# bC9NaWNyb3NvZnQlMjBUaW1lLVN0YW1wJTIwUENBJTIwMjAxMCgxKS5jcmwwbAYI
+# KwYBBQUHAQEEYDBeMFwGCCsGAQUFBzAChlBodHRwOi8vd3d3Lm1pY3Jvc29mdC5j
+# b20vcGtpb3BzL2NlcnRzL01pY3Jvc29mdCUyMFRpbWUtU3RhbXAlMjBQQ0ElMjAy
+# MDEwKDEpLmNydDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoGCCsGAQUFBwMIMA0G
+# CSqGSIb3DQEBCwUAA4ICAQBxs1odvYmwTa6N57PBNxDhxrCwdRs5PdEhWFCgYpSL
+# uIw20e6m71zXfJ55f8+Q/SyoMN0/NY6subTIlqfqeI2AQZNz0cdckqi1H4ReWTFq
+# JUc1vnEGRl1d/IkpnQFBtAqUecdazHTyK03M1VBbDmBqppKFEP3UYlS+IgFySwjU
+# 4+Md2MCEHAj7dIoyVYpzyDAGMwPH/fQW3orJMiNARxgHdJBlF9iNv6bmJ5ckvLaA
+# ZwDY4dtcYLxLmmdnb0ar1pP4tVyJTuu2rv1wnjE714TziFJqvNFN9k4n8N0kogSk
+# 8oq+5qFh9Yux9quUAJ6wcbssv/2bA3wEQ1fwLZo+Y6+gE30Rw3VGp0KXqAUvospT
+# VOkQEbvIPkzArv2Z3WZq7PcPvIGpVCBoPhppTZNO31yefDnPqhaoDQLDZDIvnUsy
+# pFhgOP5JSRZ9F4nIVy/Preyjmslyhs0I2ugnbQo4rJ8kvIW7+DyoWnjLX+vMCVii
+# jrNLbdgCX2Aub0mx/XJPARo9nv8kFxGRLvPC+f3xyuV1JPyCl8d82i5MV00meNxG
+# v1il1QczGrB2dz5p8tJqBHpAF8dVISzTWL+Fbpt91Yq8Ugeq/xikMRUh7u8hX61k
+# KWMsgx9dfU5oQHnUvE9VWm6nbTuWT9hNeEyvNlcsct8RD3pTqOHUSJYZu12OpPQe
+# vDCCB3EwggVZoAMCAQICEzMAAAAVxedrngKbSZkAAAAAABUwDQYJKoZIhvcNAQEL
+# BQAwgYgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQH
+# EwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xMjAwBgNV
+# BAMTKU1pY3Jvc29mdCBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eSAyMDEwMB4X
+# DTIxMDkzMDE4MjIyNVoXDTMwMDkzMDE4MzIyNVowfDELMAkGA1UEBhMCVVMxEzAR
+# BgNVBAgTCldhc2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1p
+# Y3Jvc29mdCBDb3Jwb3JhdGlvbjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUtU3Rh
+# bXAgUENBIDIwMTAwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDk4aZM
+# 57RyIQt5osvXJHm9DtWC0/3unAcH0qlsTnXIyjVX9gF/bErg4r25PhdgM/9cT8dm
+# 95VTcVrifkpa/rg2Z4VGIwy1jRPPdzLAEBjoYH1qUoNEt6aORmsHFPPFdvWGUNzB
+# RMhxXFExN6AKOG6N7dcP2CZTfDlhAnrEqv1yaa8dq6z2Nr41JmTamDu6GnszrYBb
+# fowQHJ1S/rboYiXcag/PXfT+jlPP1uyFVk3v3byNpOORj7I5LFGc6XBpDco2LXCO
+# Mcg1KL3jtIckw+DJj361VI/c+gVVmG1oO5pGve2krnopN6zL64NF50ZuyjLVwIYw
+# XE8s4mKyzbnijYjklqwBSru+cakXW2dg3viSkR4dPf0gz3N9QZpGdc3EXzTdEonW
+# /aUgfX782Z5F37ZyL9t9X4C626p+Nuw2TPYrbqgSUei/BQOj0XOmTTd0lBw0gg/w
+# EPK3Rxjtp+iZfD9M269ewvPV2HM9Q07BMzlMjgK8QmguEOqEUUbi0b1qGFphAXPK
+# Z6Je1yh2AuIzGHLXpyDwwvoSCtdjbwzJNmSLW6CmgyFdXzB0kZSU2LlQ+QuJYfM2
+# BjUYhEfb3BvR/bLUHMVr9lxSUV0S2yW6r1AFemzFER1y7435UsSFF5PAPBXbGjfH
+# CBUYP3irRbb1Hode2o+eFnJpxq57t7c+auIurQIDAQABo4IB3TCCAdkwEgYJKwYB
+# BAGCNxUBBAUCAwEAATAjBgkrBgEEAYI3FQIEFgQUKqdS/mTEmr6CkTxGNSnPEP8v
+# BO4wHQYDVR0OBBYEFJ+nFV0AXmJdg/Tl0mWnG1M1GelyMFwGA1UdIARVMFMwUQYM
+# KwYBBAGCN0yDfQEBMEEwPwYIKwYBBQUHAgEWM2h0dHA6Ly93d3cubWljcm9zb2Z0
+# LmNvbS9wa2lvcHMvRG9jcy9SZXBvc2l0b3J5Lmh0bTATBgNVHSUEDDAKBggrBgEF
+# BQcDCDAZBgkrBgEEAYI3FAIEDB4KAFMAdQBiAEMAQTALBgNVHQ8EBAMCAYYwDwYD
+# VR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBTV9lbLj+iiXGJo0T2UkFvXzpoYxDBW
+# BgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLm1pY3Jvc29mdC5jb20vcGtpL2Ny
+# bC9wcm9kdWN0cy9NaWNSb29DZXJBdXRfMjAxMC0wNi0yMy5jcmwwWgYIKwYBBQUH
+# AQEETjBMMEoGCCsGAQUFBzAChj5odHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtp
+# L2NlcnRzL01pY1Jvb0NlckF1dF8yMDEwLTA2LTIzLmNydDANBgkqhkiG9w0BAQsF
+# AAOCAgEAnVV9/Cqt4SwfZwExJFvhnnJL/Klv6lwUtj5OR2R4sQaTlz0xM7U518Jx
+# Nj/aZGx80HU5bbsPMeTCj/ts0aGUGCLu6WZnOlNN3Zi6th542DYunKmCVgADsAW+
+# iehp4LoJ7nvfam++Kctu2D9IdQHZGN5tggz1bSNU5HhTdSRXud2f8449xvNo32X2
+# pFaq95W2KFUn0CS9QKC/GbYSEhFdPSfgQJY4rPf5KYnDvBewVIVCs/wMnosZiefw
+# C2qBwoEZQhlSdYo2wh3DYXMuLGt7bj8sCXgU6ZGyqVvfSaN0DLzskYDSPeZKPmY7
+# T7uG+jIa2Zb0j/aRAfbOxnT99kxybxCrdTDFNLB62FD+CljdQDzHVG2dY3RILLFO
+# Ry3BFARxv2T5JL5zbcqOCb2zAVdJVGTZc9d/HltEAY5aGZFrDZ+kKNxnGSgkujhL
+# mm77IVRrakURR6nxt67I6IleT53S0Ex2tVdUCbFpAUR+fKFhbHP+CrvsQWY9af3L
+# wUFJfn6Tvsv4O+S3Fb+0zj6lMVGEvL8CwYKiexcdFYmNcP7ntdAoGokLjzbaukz5
+# m/8K6TT4JDVnK+ANuOaMmdbhIurwJ0I9JZTmdHRbatGePu1+oDEzfbzL6Xu/OHBE
+# 0ZDxyKs6ijoIYn/ZcGNTTY3ugm2lBRDBcQZqELQdVTNYs6FwZvKhggLOMIICNwIB
+# ATCB+KGB0KSBzTCByjELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x
+# EDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlv
+# bjElMCMGA1UECxMcTWljcm9zb2Z0IEFtZXJpY2EgT3BlcmF0aW9uczEmMCQGA1UE
+# CxMdVGhhbGVzIFRTUyBFU046OEE4Mi1FMzRGLTlEREExJTAjBgNVBAMTHE1pY3Jv
+# c29mdCBUaW1lLVN0YW1wIFNlcnZpY2WiIwoBATAHBgUrDgMCGgMVAJLv82Lo56mq
+# TegSfTCeY7YA65TroIGDMIGApH4wfDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldh
+# c2hpbmd0b24xEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBD
+# b3Jwb3JhdGlvbjEmMCQGA1UEAxMdTWljcm9zb2Z0IFRpbWUtU3RhbXAgUENBIDIw
+# MTAwDQYJKoZIhvcNAQEFBQACBQDmaTc9MCIYDzIwMjIwNzAxMTcwNTAxWhgPMjAy
+# MjA3MDIxNzA1MDFaMHcwPQYKKwYBBAGEWQoEATEvMC0wCgIFAOZpNz0CAQAwCgIB
+# AAICERUCAf8wBwIBAAICEbMwCgIFAOZqiL0CAQAwNgYKKwYBBAGEWQoEAjEoMCYw
+# DAYKKwYBBAGEWQoDAqAKMAgCAQACAwehIKEKMAgCAQACAwGGoDANBgkqhkiG9w0B
+# AQUFAAOBgQBT54+WmHojMQCYQgQt18iy8jWH/zrm88CORF+vITV/kwvO/zDL8aHA
+# IHzJNcy5CXpPKzy5Vhln9qHhkGMMjkNDjIw+WFOC55FYzdJdNu/r8E9kWn3OkSFh
+# YkGyBkUQRX1wxYMrjPe3VRH/CAkirEZQgoBQFfCTDXTQ+ybTfsRG+jGCBA0wggQJ
+# AgEBMIGTMHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYD
+# VQQHEwdSZWRtb25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRpb24xJjAk
+# BgNVBAMTHU1pY3Jvc29mdCBUaW1lLVN0YW1wIFBDQSAyMDEwAhMzAAABmciPr622
+# fb6LAAEAAAGZMA0GCWCGSAFlAwQCAQUAoIIBSjAaBgkqhkiG9w0BCQMxDQYLKoZI
+# hvcNAQkQAQQwLwYJKoZIhvcNAQkEMSIEIE7ONnfPZ+1TgSlm38TzyWp8xzS0ag8S
+# us6x6ktqqn9FMIH6BgsqhkiG9w0BCRACLzGB6jCB5zCB5DCBvQQgZn1p+fKije1l
+# qQU2Dq1DtQUgkpyjywvxu8AjiHNibH4wgZgwgYCkfjB8MQswCQYDVQQGEwJVUzET
+# MBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMV
+# TWljcm9zb2Z0IENvcnBvcmF0aW9uMSYwJAYDVQQDEx1NaWNyb3NvZnQgVGltZS1T
+# dGFtcCBQQ0EgMjAxMAITMwAAAZnIj6+ttn2+iwABAAABmTAiBCC0Y+62+yZ1e93v
+# MC2z6glC0K3irTMXW68vE4DsYaOXnTANBgkqhkiG9w0BAQsFAASCAgBbNcmClGcW
+# 0/bHfTnMXyPfcg+udBEUubR+oR3GKng5bIH4LXzBiLXiGeChHgHzN81BtET8g+84
+# mgQKCHEKer9K1IVHhn5meD6PzDmknpB5U+ZvzmNXgRVL23iK81mDJdEq3RwrfwSJ
+# f86PUlrVmK3MdyRzfP92miVpeIzcqTPNQJzzOfFPgi07dyLVCZ2ZT11uAz+WksxW
+# XjrD+DGzxK0EQDbltXlfIxcrT+FIF+yYA3HVs/g4HUMgT2MsOFjzyGu3MD/rNbb6
+# 8p2wGoYB1WkVzuEvV3S4L/ZO/oTUB59aM4XnvFhi0tsQKNJYuqysTAdIdRaJWH3p
+# vp4OG/R0RTRXfmGueTwOUP6xbZXSluQa+a3PlHgGsnP8nwB6Mhty3tgzy46SSmdC
+# feHAd+MN+x5Qx9ujIaMLa9bqWf/Q9lCgwIHbxNOIsoC6O3N15IAI/t39U0qMBXe1
+# Cm7DBSk7ldHponGKcteZ27k/Aqc5R8blqt0zgruhMRq5G6Rp8+m3VwWAwZiDjlC8
+# hRUuIcE8AuGCrTtu0omm8tNyjDFd0ypl81x5HceIlHrpwCIUaVd5gTGNd1/dJyW3
+# CTgdG0/M7ELkTjNfLi16NGtEeS+i+UYe2Cm32pPxXwx+q+YJ0N9wojtS6450z19x
+# StE87RWDz8GuJ4o02QeRpwQQwVTHpnjaAA==
+# SIG # End signature block
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          âPNG
+
+   IHDR  6  6   Aµv"  ˝IDATx⁄Ì›kq„0ÄQACÑ@0ÑB(ÑB0C0ÑBCÉªøv&ÌÃvÛên\ÎËCPıå≤≠î(RN¶@∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6¡&¡&ÿ$ÿõ`ì`llÇM∞I∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6¡&¡&ÿ$ÿõ`ì`llÇM∞I∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6¡&¡&ÿ$ÿõ`ì`llÇM∞I∞	6	6¡&ô¡&ÿ$ÿõõ`llÇMÇM∞	6	6¡&¡&ÿõõ`ì`´—s¨Òw¨1«hV`´ﬂÈäŸıX„dv`´Ÿ?ç…¡V´9˛7f≥[˚£ö£lØ’nÆ›`{≤ıfl´ŸÇÌπ≈é{ÜÖÿöﬁ∏MÄ-˝$ÍD
+€ì›;Ãl∞¡lÇ6ÿ`É6ÿ`É6ıÒg±ƒ∆l{ßvâ≠åKœ‹z¯#óÿ“X`sñ7`€ÒI6ÿŸ`É6ÿ`É6ÿ`É6ÿ`É6ÿ`É6ÿ`É∂_ÑmÜ∂ºó!ﬂ`É-[â„ùﬂ≈√€√ÿJ‚6ÿr∞ï∏uK@ÿ`´Ä≠ƒÿ‡ïrÿ`˚ÜcúaÉ-[âCÂØ`ÉÌGÔ∞¡ñÖ≠ƒ©ŸÅ›¸jl∑yÜÍWo_…ù`ÉÌ∫∂è≤&ÿ`ªÆÌ£¨6ÿæ.Ü¨én∞Â`k˘(+b«ø€£KS√[ÿ`˚÷ÿl1dÑ∂“¸Q÷Æo`{nÖˇ–dCÆ6ÿJÛGYª~§[çt˝GY∞¡lN£∞πApÉ õ•ÿ,ÍZ‘ÖÕ„*ÿ<àáÕ+F^1ÇÕÀì∞˝&l^á-õ^`K¬ÊS>ÿí∞˘H∂l∂_Ä-	õçe`K¬fÀ,ÿí∞Ÿ∂l∂9Ö-	õúaK¬fkzÿí∞˘—ÿÓ€∞Ì∏	6ÿ≤aÉ-Øl∞ıy"Öm◊õ:∂¡∂Û>`É≠«ÿúJaÉ≠^«çpÉ7ÿ`´}2=√[ÊùÈ+èolΩﬂ¶Åªƒ [èç1%üTóû©ıçM∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6¡&¡&ÿ$ÿõ`ì`llÇMÇM∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6¡&¡&ÿ$ÿõ`ì`llÇM2ÇM∞I∞	6	6¡&ÿ$ÿõõ`llÇMÇM∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6	6¡&ÿ$ÿõõ`llÇMÇM∞	6	6¡&¡&ÿõõ`ì`lÇMÇM∞I∞	6©D˘d2¨M\oXL    IENDÆB`Ç                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          âPNG
+
+   IHDR  Ñ  Ñ   ú¥üX  öIDATx⁄Ì›aq€0Ä·@(Ñ@ÑBÑ@(CC(C0ÑBÉo÷ıGªvª[◊˙¨<z˛mΩ›Œ⁄;[±Ï‚ 8 Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ0N1ƒü«¥¸ …ë¬„∏ƒˇÛÚªéê∫w¸r¯€òñür§Ñ–±sî¯üQñüt¥Ñ–Ì%—5√%í:=\;úÑ–·⁄†\B±VBo¶∏eLéúwu`• ÑNÕ7á0;zBËÁ.Ú=√›f!tb∏+Ñ¡¬#/î-òÖ–ô{á#(!A}xÇÇpi$Ñ Ñ Ñ Ñ Ñ Ñ Ñ˛cº·≥ñ£,„£ô¬öN;ã‡#ÜìŸ¬zgÉ}f‡πg!¨jå=è—
+ae◊!3(Ñü˙¥fPBÇÑ !ABÇÑ !ABÇÑ !ABÇÑ !ABÇÑ !AB¬ŒBÖ !‘à!Aıœ8≈õÑ Ñ˙z¯IBBıKBBun* 3(Ñt!‘’¬,!°Æ^Ö !T/BÇ™ÁÕVfPâC®ÔTùÖ !T£Ñ ÑC√ÌS^/Ñ<!¥›~1/!öa!§°Âˆã˜s√—,!CÌ∂_ºègÛ,Ñ!¥Ÿ~Ò1\"	!I-∂_|Œ
+BH¬ˆ€/˛º@≤VBí∂ﬁ~ÒuŸl∂Öê&Ñ-∑_X)!q€mø¯~_¡|!Q[mø¯>‹mB≤⁄løÃ∏≤Ö–b˚Ö≥Ü–b˚ÖB¬∂ﬂ~a∆Öê4Ñm∑_òq!ABpi$!X,A>>ıÒ©‹PsCM∂Xÿb!õÓl∫BÊl√Ç<ò#!xTSBæÑ‡u.BBx¡óÑ‡ïèBÇó A·µBB¯¢!¡WG	AæLPB_/+!¯¬q!°≈6
+3(Ñt!¥ÿFaÖê,Ñ6€(Ã†Ö–nÖBöZn£0ÉBH¬%Z3(ÑU‹˚˘!!Ïﬂ˚fP´Ñ ÍÆ !ÅEÇ84_Ó
+A.éÑ ü	AŒ	BB>ØBı	„"!Pü%Çà∂ØeÇ‹QÇ§ !∏@Ç2/õ˜Û	R1_B¯…S˜r_a4[B¯ÈªÕ”ŒG3%Ñ-b_&/~¬∂9ÀŸ·-Y£≥Å@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ ÇC B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ Ñ B !Ä@ ÙË7√ó6k%ﬁ    IENDÆB`Ç                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             .3756 -0.7507 0.5434
+vn -0.4009 -0.7577 0.5149
+vn -0.3704 -0.7739 0.5137
+vn -0.1156 -0.9381 0.3265
+vn -0.1804 -0.9379 0.2962
+vn -0.2154 -0.9343 0.2839
+vn 0.1026 -0.9870 0.1234
+vn 0.0156 -0.9958 0.0901
+vn -0.0687 -0.9948 0.0758
+vn 0.6452 0.2167 -0.7326
+vn 0.6270 0.2023 -0.7523
+vn 0.5185 0.1988 -0.8317
+vn 0.5271 0.4996 -0.6875
+vn 0.5280 0.4927 -0.6917
+vn 0.4544 0.4938 -0.7414
+vn 0.3333 0.7652 -0.5508
+vn 0.3595 0.7601 -0.5413
+vn 0.3355 0.7617 -0.5543
+vn 0.0771 0.9434 -0.3225
+vn 0.1310 0.9461 -0.2962
+vn 0.1685 0.9462 -0.2764
+vn -0.0547 0.9959 -0.0721
+vn 0.0327 0.9985 -0.0437
+usemtl Brown
+s 65
+f 503/1/1 511/2/2 87/3/3 88/4/4
+s 66
+f 641/5/5 640/6/6 76/7/7 75/8/8
+s 67
+f 655/9/9 654/10/10 85/11/11 86/12/12
+s 68
+f 75/8/8 82/13/13 558/14/14 642/15/15
+s 69
+f 494/16/16 656/17/17 486/18/18 485/19/19
+s 70
+f 77/20/20 84/21/21 83/22/22 76/7/7
+s 71
+f 656/23/17 503/1/1 88/4/4 495/24/23
+s 72
+f 76/7/7 83/22/22 82/13/13 75/8/8
+s 73
+f 80/25/24 87/3/3 86/12/12 79/26/25
+s 74
+f 79/26/25 86/12/12 85/11/11 78/27/26
+s 75
+f 78/27/26 85/11/11 84/21/21 77/20/20
+s 76
+f 634/28/27 495/24/23 88/4/4 81/29/28
+s 77
+f 81/29/28 88/4/4 87/3/3 80/25/24
+s 78
+f 143/30/29 110/31/30 90/32/31 124/33/32
+s 79
+f 154/34/33 146/35/34 123/36/35 149/37/36
+s 80
+f 89/38/37 92/39/38 94/40/39 93/41/40
+s 81
+f 94/40/39 103/42/41 104/43/42 96/44/43
+s 82
+f 93/41/40 94/40/39 96/44/43 95/45/44
+s 83
+f 107/46/45 108/47/46 101/48/47 98/49/48
+s 84
+f 90/32/31 97/50/49 100/51/50 99/52/51
+s 85
+f 97/50/49 98/49/48 101/48/47 100/51/50
+s 86
+f 108/47/46 109/53/52 104/54/42 101/48/47
+s 87
+f 99/52/51 100/51/50 103/55/41 102/56/53
+s 88
+f 100/51/50 101/48/47 104/54/42 103/55/41
+s 89
+f 96/57/43 104/43/42 109/53/52
+s 90
+f 91/58/54 105/59/55 108/47/46 107/46/45
+s 91
+f 105/59/55 106/60/56 109/53/52 108/47/46
+s 92
+f 106/60/56 95/61/44 96/57/43 109/53/52
+s 93
+f 136/62/57 127/63/58 128/64/59 139/65/60
+s 94
+f 97/50/49 111/66/61 112/67/62 98/49/48
+s 95
+f 107/46/45 114/68/63 113/69/64 91/58/54
+s 96
+f 130/70/65 147/71/66 145/72/67 140/73/68
+s 97
+f 143/30/29 124/33/32 137/74/69 144/75/70
+s 98
+f 122/76/71 125/77/72 128/64/59 127/63/58
+s 99
+f 125/77/72 126/78/73 129/79/74 128/64/59
+s 100
+f 126/78/73 133/80/75 134/81/76 129/79/74
+s 101
+f 139/65/60 128/64/59 129/79/74 142/82/77
+s 102
+f 134/81/76 142/83/77 129/79/74
+s 103
+f 130/70/65 140/73/68 141/84/78 132/85/79
+s 104
+f 123/36/35 130/70/65 132/85/79 131/86/80
+s 105
+f 132/85/79 141/84/78 142/82/77 134/81/76
+s 106
+f 131/86/80 132/85/79 134/81/76 133/80/75
+s 107
+f 98/49/48 112/87/62 114/68/63 107/46/45
+s 108
+f 124/33/32 135/88/81 138/89/82 137/74/69
+s 109
+f 135/88/81 136/62/57 139/65/60 138/89/82
+s 110
+f 137/74/69 138/89/82 141/84/78 140/73/68
+s 111
+f 138/89/82 139/65/60 142/82/77 141/84/78
+s 112
+f 144/75/70 137/74/69 140/73/68 145/72/67
+s 113
+f 127/63/58 136/90/57 102/91/53 92/39/38
+s 114
+f 147/71/66 130/70/65 123/36/35 146/35/34
+s 115
+f 113/69/64 121/92/83 116/93/84 91/58/54
+s 116
+f 115/94/85 89/38/37 93/41/40 117/95/86
+s 117
+f 117/95/86 93/41/40 95/45/44 118/96/87
+s 118
+f 118/96/87 95/45/44 106/97/56 120/98/88
+s 119
+f 120/99/88 106/60/56 105/59/55 119/100/89
+s 120
+f 119/100/89 105/59/55 91/58/54 116/93/84
+s 121
+f 122/76/71 148/101/90 150/102/91 125/77/72
+s 122
+f 125/77/72 150/102/91 151/103/92 126/78/73
+s 123
+f 126/78/73 151/103/92 153/104/93 133/80/75
+s 124
+f 133/80/75 153/104/93 152/105/94 131/86/80
+s 125
+f 131/86/80 152/105/94 149/37/36 123/36/35
+s 126
+f 89/38/37 122/76/71 127/63/58 92/39/38
+s 127
+f 102/56/53 136/62/57 135/88/81 99/52/51
+s 128
+f 99/52/51 135/88/81 124/33/32 90/32/31
+s 418
+f 623/106/95 419/107/96 425/108/97 426/109/98
+s 419
+f 421/110/99 625/111/100 429/112/101 430/113/102
+s 420
+f 420/114/103 623/106/95 426/109/98 427/115/104
+s 421
+f 628/116/105 441/117/106 450/118/107 629/119/108
+s 422
+f 622/120/109 460/121/110 424/122/111
+s 423
+f 422/123/112 421/110/99 430/113/102 431/124/113
+s 424
+f 624/125/114 420/114/103 427/115/104 428/126/115
+s 425
+f 419/107/96 622/120/109 424/122/111 425/108/97
+s 426
+f 626/127/116 422/123/112 431/124/113 432/128/117
+s 427
+f 872/129/118 624/125/114 428/126/115 849/130/119
+s 428
+f 424/122/111 460/131/110 433/132/120
+s 429
+f{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "entities/axolotl.json"
+        },
+        {
+            "path": "entities/bat.json"
+        },
+        {
+            "path": "entities/bee.json"
+        },
+        {
+            "path": "entities/blaze.json"
+        },
+        {
+            "path": "entities/cat.json"
+        },
+        {
+            "path": "entities/cave_spider.json"
+        },
+        {
+            "path": "entities/chicken.json"
+        },
+        {
+            "path": "entities/cow.json"
+        },
+        {
+            "path": "entities/creeper.json"
+        },
+        {
+            "path": "entities/dolphin.json"
+        },
+        {
+            "path": "entities/donkey.json"
+        },
+        {
+            "path": "entities/elder_guardian.json"
+        },
+        {
+            "path": "entities/enderman.json"
+        },
+        {
+            "path": "entities/endermite.json"
+        },
+        {
+            "path": "entities/ender_dragon.json"
+        },
+        {
+            "path": "entities/evocation_illager.json"
+        },
+        {
+            "path": "entities/fish.json"
+        },
+        {
+            "path": "entities/fox.json"
+        },
+        {
+            "path": "entities/ghast.json"
+        },
+        {
+            "path": "entities/glow_squid.json"
+        },
+        {
+            "path": "entities/goat.json"
+        },
+        {
+            "path": "entities/guardian.json"
+        },
+        {
+            "path": "entities/hoglin.json"
+        },
+        {
+            "path": "entities/horse.json"
+        },
+        {
+            "path": "entities/husk.json"
+        },
+        {
+            "path": "entities/iron_golem.json"
+        },
+        {
+            "path": "entities/llama.json"
+        },
+        {
+            "path": "entities/magma_cube.json"
+        },
+        {
+            "path": "entities/mooshroom.json"
+        },
+        {
+            "path": "entities/mule.json"
+        },
+        {
+            "path": "entities/ocelot.json"
+        },
+        {
+            "path": "entities/panda.json"
+        },
+        {
+            "path": "entities/parrot.json"
+        },
+        {
+            "path": "entities/phantom.json"
+        },
+        {
+            "path": "entities/pig.json"
+        },
+        {
+            "path": "entities/piglin.json"
+        },
+        {
+            "path": "entities/piglin_brute.json"
+        },
+        {
+            "path": "entities/pillager.json"
+        },
+        {
+            "path": "entities/polar_bear.json"
+        },
+        {
+            "path": "entities/pufferfish.json"
+        },
+        {
+            "path": "entities/rabbit.json"
+        },
+        {
+            "path": "entities/ravager.json"
+        },
+        {
+            "path": "entities/salmon.json"
+        },
+        {
+            "path": "entities/sheep.json"
+        },
+        {
+            "path": "entities/shulker.json"
+        },
+        {
+            "path": "entities/silverfish.json"
+        },
+        {
+            "path": "entities/skeleton.json"
+        },
+        {
+            "path": "entities/skeleton_horse.json"
+        },
+        {
+            "path": "entities/slime.json"
+        },
+        {
+            "path": "entities/snow_golem.json"
+        },
+        {
+            "path": "entities/spider.json"
+        },
+        {
+            "path": "entities/squid.json"
+        },
+        {
+            "path": "entities/stray.json"
+        },
+        {
+            "path": "entities/strider.json"
+        },
+        {
+            "path": "entities/tropicalfish.json"
+        },
+        {
+            "path": "entities/turtle.json"
+        },
+        {
+            "path": "entities/vex.json"
+        },
+        {
+            "path": "entities/villager.json"
+        },
+        {
+            "path": "entities/villager_v2.json"
+        },
+        {
+            "path": "entities/vindicator.json"
+        },
+        {
+            "path": "entities/wandering_trader.json"
+        },
+        {
+            "path": "entities/witch.json"
+        },
+        {
+            "path": "entities/wither.json"
+        },
+        {
+            "path": "entities/wither_skeleton.json"
+        },
+        {
+            "path": "entities/wolf.json"
+        },
+        {
+            "path": "entities/zoglin.json"
+        },
+        {
+            "path": "entities/zombie.json"
+        },
+        {
+            "path": "entities/zombie_horse.json"
+        },
+        {
+            "path": "entities/zombie_pigman.json"
+        },
+        {
+            "path": "entities/zombie_villager.json"
+        },
+        {
+            "path": "entities/zombie_villager_v2.json"
+        },
+        {
+            "path": "features/amethyst_geode_feature.json"
+        },
+        {
+            "path": "features/azalea_root_system_snap_to_ceiling_feature.json"
+        },
+        {
+            "path": "features/azalea_tree_feature.json"
+        },
+        {
+            "path": "features/big_dripleaf_east_feature.json"
+        },
+        {
+            "path": "features/big_dripleaf_north_feature.json"
+        },
+        {
+            "path": "features/big_dripleaf_south_feature.json"
+        },
+        {
+            "path": "features/big_dripleaf_west_feature.json"
+        },
+        {
+            "path": "features/birch_tree_feature.json"
+        },
+        {
+            "path": "features/cave_vine_feature.json"
+        },
+        {
+            "path": "features/cave_vine_in_moss_feature.json"
+        },
+        {
+            "path": "features/cave_vine_snap_to_ceiling_feature.json"
+        },
+        {
+            "path": "features/clay_ore_feature.json"
+        },
+        {
+            "path": "features/clay_pool_with_dripleaves_feature.json"
+        },
+        {
+            "path": "features/clay_with_dripleaves_feature.json"
+        },
+        {
+            "path": "features/coal_ore_feature.json"
+        },
+        {
+            "path": "features/copper_ore_feature.json"
+        },
+        {
+            "path": "features/deepslate_feature.json"
+        },
+        {
+            "path": "features/diamond_ore_feature.json"
+        },
+        {
+            "path": "features/emerald_ore_feature.json"
+        },
+        {
+            "path": "features/fallen_birch_tree_feature.json"
+        },
+        {
+            "path": "features/fallen_jungle_tree_feature.json"
+        },
+        {
+            "path": "features/fallen_oak_tree_feature.json"
+        },
+        {
+            "path": "features/fallen_spruce_tree_feature.json"
+        },
+        {
+            "path": "features/fallen_super_birch_tree_feature.json"
+        },
+        {
+            "path": "features/glow_lichen_feature.json"
+        },
+        {
+            "path": "features/gold_ore_feature.json"
+        },
+        {
+            "path": "features/iron_ore_feature.json"
+        },
+        {
+            "path": "features/jungle_tree_feature.json"
+        },
+        {
+            "path": "features/lapis_ore_feature.json"
+        },
+        {
+            "path": "features/mega_jungle_tree_feature.json"
+        },
+        {
+            "path": "features/mega_pine_tree_feature.json"
+        },
+        {
+            "path": "features/mega_spruce_tree_feature.json"
+        },
+        {
+            "path": "features/moss_ceiling_feature.json"
+        },
+        {
+            "path": "features/moss_ceiling_snap_to_ceiling_feature.json"
+        },
+        {
+            "path": "features/moss_patch_bonemeal_feature.json"
+        },
+        {
+            "path": "features/moss_patch_feature.json"
+        },
+        {
+            "path": "features/moss_patch_snap_to_floor_feature.json"
+        },
+        {
+            "path": "features/mountain_spruce_tree_feature.json"
+        },
+        {
+            "path": "features/oak_tree_feature.json"
+        },
+        {
+            "path": "features/oak_tree_with_vines_feature.json"
+        },
+        {
+            "path": "features/random_clay_with_dripleaves_feature.json"
+        },
+        {
+            "path": "features/random_clay_with_dripleaves_snap_to_floor_feature.json"
+        },
+        {
+            "path": "features/redstone_ore_feature.json"
+        },
+        {
+            "path": "features/roofed_tree_feature.json"
+        },
+        {
+            "path": "features/roofed_tree_with_vines_feature.json"
+        },
+        {
+            "path": "features/savanna_tree_feature.json"
+        },
+        {
+            "path": "features/silverfish_feature.json"
+        },
+        {
+            "path": "features/small_dripstone_feature.json"
+        },
+        {
+            "path": "features/small_dripstone_snap_to_surface_feature.json"
+        },
+        {
+            "path": "features/spore_blossom_feature.json"
+        },
+        {
+            "path": "features/spore_blossom_snap_to_ceiling_feature.json"
+        },
+        {
+            "path": "features/spruce_tree_feature.json"
+        },
+        {
+            "path": "features/spruce_tree_with_vines_feature.json"
+        },
+        {
+            "path": "features/super_birch_tree_feature.json"
+        },
+        {
+            "path": "features/swamp_tree_feature.json"
+        },
+        {
+            "path": "features/tuff_feature.json"
+        },
+        {
+            "path": "features/undecorated_jungle_tree_feature.json"
+        },
+        {
+            "path": "features/undecorated_jungle_tree_with_vines_feature.json"
+        },
+        {
+            "path": "feature_rules/dripstone_cluster_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_azalea_root_system_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_cave_vines_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_leaf_clay_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_moss_ceiling_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_spore_blossom_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_vegetation_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_after_surface_vines_feature.json"
+        },
+        {
+            "path": "feature_rules/lush_caves_underground_clay_ore_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_amethyst_geode_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_underground_copper_ore_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_underground_deepslate_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_underground_glow_lichen_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_underground_tuff_feature.json"
+        },
+        {
+            "path": "feature_rules/small_dripstone_feature.json"
+        },
+        {
+            "path": "items/glow_berries.json"
+        },
+        {
+            "path": "items/sweet_berries.json"
+        },
+        {
+            "path": "loot_tables/chests/abandoned_mineshaft.json"
+        },
+        {
+            "path": "loot_tables/chests/shipwrecksupply.json"
+        },
+        {
+            "path": "loot_tables/entities/drowned.json"
+        },
+        {
+            "path": "loot_tables/entities/glow_squid.json"
+        },
+        {
+            "path": "loot_tables/entities/goat.json"
+        },
+        {
+            "path": "recipes/amethyst_block.json"
+        },
+        {
+            "path": "recipes/brewing_stand_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/chiseled_deepslate.json"
+        },
+        {
+            "path": "recipes/chiseled_deepslate_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_slab.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_stairs.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_stairs_from_cobbled_deepslate_cutting.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_wall.json"
+        },
+        {
+            "path": "recipes/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/copper_block_from_ingots.json"
+        },
+        {
+            "path": "recipes/cracked_deepslate_bricks_furnace.json"
+        },
+        {
+            "path": "recipes/cracked_deepslate_tiles_furnace.json"
+        },
+        {
+            "path": "recipes/crafting_table_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_exposed_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_exposed_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_exposed_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_oxidized_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_oxidized_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_oxidized_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_exposed_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_exposed_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_exposed_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_oxidized_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_oxidized_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_oxidized_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_weathered_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_weathered_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_waxed_weathered_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/crafting_table_weathered_cut_copper.json"
+        },
+        {
+            "path": "recipes/crafting_table_weathered_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/crafting_table_weathered_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/deepslate_bricks.json"
+        },
+        {
+            "path": "recipes/deepslate_bricks_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_bricks_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_slab.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_slab_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_slab_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_slab_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_stairs.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_stairs_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_stairs_from_polished_deepslate_stonecut.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_wall.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_wall_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_wall_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_brick_wall_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_furnace.json"
+        },
+        {
+            "path": "recipes/deepslate_tiles.json"
+        },
+        {
+            "path": "recipes/deepslate_tiles_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tiles_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tiles_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_slab.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_slab_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_slab_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_slab_from_deepslate_tiles_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_slab_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_stairs.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_stairs_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_stairs_from_deepslate_tiles_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_stairs_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_wall.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_wall_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_wall_from_deepslate_bricks_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_wall_from_deepslate_tiles_stonecutting.json"
+        },
+        {
+            "path": "recipes/deepslate_tile_wall_from_polished_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/dripstone_block.json"
+        },
+        {
+            "path": "recipes/dripstone_block_from_pointed_dripstone.json"
+        },
+        {
+            "path": "recipes/furnace_copper.json"
+        },
+        {
+            "path": "recipes/furnace_copper_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_coal_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_copper_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_diamond_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_emerald_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_gold_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_iron_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_lapis_ore.json"
+        },
+        {
+            "path": "recipes/furnace_deepslate_redstone_ore.json"
+        },
+        {
+            "path": "recipes/furnace_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/furnace_gold.json"
+        },
+        {
+            "path": "recipes/furnace_iron.json"
+        },
+        {
+            "path": "recipes/furnace_smooth_basalt.json"
+        },
+        {
+            "path": "recipes/glow_item_frame.json"
+        },
+        {
+            "path": "recipes/ingots_from_copper.json"
+        },
+        {
+            "path": "recipes/ingots_from_waxed_copper.json"
+        },
+        {
+            "path": "recipes/lightning_rod.json"
+        },
+        {
+            "path": "recipes/mossy_cobblestone_from_moss.json"
+        },
+        {
+            "path": "recipes/mossy_stonebrick_from_moss.json"
+        },
+        {
+            "path": "recipes/moss_carpet.json"
+        },
+        {
+            "path": "recipes/polished_deepslate.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_from_cobbled_deepslate_stonecutting.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_slab.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_slab_from_cobbled_deepslate_stonecut.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_slab_from_polished_deepslate_cutting.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_stairs.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_stairs_from_cobbled_deepslate_cutting.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_stairs_from_polished_deepslate_cutting.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_wall.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_wall_from_cobbled_deepslate_stonecut.json"
+        },
+        {
+            "path": "recipes/polished_deepslate_wall_from_polished_deepslate_stonecut.json"
+        },
+        {
+            "path": "recipes/raw_copper.json"
+        },
+        {
+            "path": "recipes/raw_copper_block.json"
+        },
+        {
+            "path": "recipes/raw_gold.json"
+        },
+        {
+            "path": "recipes/raw_gold_block.json"
+        },
+        {
+            "path": "recipes/raw_iron.json"
+        },
+        {
+            "path": "recipes/raw_iron_block.json"
+        },
+        {
+            "path": "recipes/spyglass.json"
+        },
+        {
+            "path": "recipes/stonecutter_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_exposed_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_exposed_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_exposed_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_exposed_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_exposed_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_oxidized_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_oxidized_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_oxidized_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_oxidized_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_oxidized_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_weathered_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_weathered_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_weathered_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_weathered_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_weathered_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_exposed_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_exposed_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_exposed_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_exposed_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_exposed_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_oxidized_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_oxidized_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_oxidized_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_oxidized_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_oxidized_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_weathered_copper_block_to_cut_copper.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_weathered_copper_block_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_weathered_copper_block_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_weathered_cut_copper_to_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/stonecutter_w_weathered_cut_copper_to_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/stone_axe_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/stone_hoe_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/stone_pickaxe_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/stone_shovel_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/stone_sword_from_cobbled_deepslate.json"
+        },
+        {
+            "path": "recipes/tinted_glass.json"
+        },
+        {
+            "path": "recipes/waxing_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_cut_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/waxing_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/waxing_exposed_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_exposed_cut_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_exposed_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/waxing_exposed_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/waxing_oxidized_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_oxidized_cut_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_oxidized_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/waxing_oxidized_cut_copper_stairs.json"
+        },
+        {
+            "path": "recipes/waxing_weathered_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_weathered_cut_copper_block.json"
+        },
+        {
+            "path": "recipes/waxing_weathered_cut_copper_slab.json"
+        },
+        {
+            "path": "recipes/waxing_weathered_cut_copper_stairs.json"
+        },
+        {
+            "path": "spawn_rules/axolotl.json"
+        },
+        {
+            "path": "spawn_rules/bat.json"
+        },
+        {
+            "path": "spawn_rules/glow_squid.json"
+        },
+        {
+            "path": "spawn_rules/goat.json"
+        },
+        {
+            "path": "trading/economy_trades/stone_mason_trades.json"
+        },
+        {
+            "path": "trading/economy_trades/wandering_trader_trades.json"
+        }
+    ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }'%±†Rp&      glow_berries.json                                                                                                                                                                                                                                          |  sweet_berries.json                                                                                                                                                                                                                                     |  A  {"format_version":"1.16.0","minecraft:item":{"description":{"identifier":"minecraft:glow_berries"},"components":{"minecraft:use_duration":32,"minecraft:food":{"nutrition":2,"saturation_modifier":"low","is_meat":false},"minecraft:seed":{"crop_result":"cave_vines","plant_at":["cave_vines","cave_vines_head_with_berries"],"plant_at_any_solid_surface":true,"plant_at_face":"DOWN"}}}}{"format_version":"1.10","minecraft:item":{"description":{"identifier":"minecraft:sweet_berries"},"components":{"minecraft:use_duration":32,"minecraft:food":{"nutrition":2,"saturation_modifier":"low","is_meat":false},"minecraft:seed":{"crop_result":"sweet_berry_bush","plant_at":["grass","dirt","podzol","moss_block"]}}}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   }'%±†Rp&      axolotl.json                                                                                                                                                                                                                                               á  bat.json                                                                                                                                                                                                                                               á  ˜  glow_squid.json                                                                                                                                                                                                                                        ~  V  	goat.json                                                                                                                                                                                                                                              ‘  ß  {"format_version":"1.8.0","minecraft:spawn_rules":{"description":{"identifier":"minecraft:axolotl","population_control":"animal"},"conditions":[{"minecraft:spawns_underground":{},"minecraft:spawns_underwater":{},"minecraft:weight":{"default":8},"minecraft:herd":{"min_size":1,"max_size":4,"event":"minecraft:entity_born","event_skip_count":2},"minecraft:height_filter":{"min":0,"max":63}}]}}{"format_version":"1.17.0","minecraft:spawn_rules":{"description":{"identifier":"minecraft:bat","population_control":"ambient"},"conditions":[{"minecraft:spawns_underground":{},"minecraft:brightness_filter":{"min":0,"max":4,"adjust_for_weather":true},"minecraft:height_filter":{"min":-63,"max":63},"minecraft:weight":{"default":10},"minecraft:herd":{"min_size":2,"max_size":2},"minecraft:density_limit":{"surface":5},"minecraft:biome_filter":{"test":"has_biome_tag","operator":"==","value":"animal"}}]}}{"format_version":"1.8.0","minecraft:spawn_rules":{"description":{"identifier":"minecraft:glow_squid","population_control":"animal"},"conditions":[{"minecraft:spawns_underground":{},"minecraft:spawns_underwater":{},"minecraft:weight":{"default":10},"minecraft:height_filter":{"min":0,"max":63},"minecraft:herd":{"min_size":2,"max_size":4}}]}}{"format_version":"1.8.0","minecraft:spawn_rules":{"description":{"identifier":"minecraft:goat","population_control":"animal"},"conditions":[{"minecraft:spawns_on_surface":{},"minecraft:brightness_filter":{"min":7,"max":15,"adjust_for_weather":false},"minecraft:weight":{"default":20},"minecraft:herd":{"min_size":2,"max_size":3},"minecraft:biome_filter":{"test":"has_biome_tag","operator":"==","value":"extreme_hills"}}]}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     }'%±†Rp&      abandoned_mineshaft.json                                                                                                                                                                                                                                   à	  shipwrecksupply.json                                                                                                                                                                                                                                   à	  	  {"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:golden_apple","weight":20},{"type":"item","name":"minecraft:appleEnchanted","weight":1},{"type":"item","name":"minecraft:name_tag","weight":30},{"type":"item","name":"minecraft:book","weight":10,"functions":[{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:iron_pickaxe","weight":5},{"type":"empty","weight":5}]},{"rolls":{"min":2,"max":4},"entries":[{"type":"item","name":"minecraft:iron_ingot","functions":[{"function":"set_count","count":{"min":1,"max":5}}],"weight":10},{"type":"item","name":"minecraft:gold_ingot","functions":[{"function":"set_count","count":{"min":1,"max":3}}],"weight":5},{"type":"item","name":"minecraft:redstone","functions":[{"function":"set_count","count":{"min":4,"max":9}}],"weight":5},{"type":"item","name":"minecraft:dye","functions":[{"function":"set_data","data":4},{"function":"set_count","count":{"min":4,"max":9}}],"weight":5},{"type":"item","name":"minecraft:diamond","functions":[{"function":"set_count","count":{"min":1,"max":2}}],"weight":3},{"type":"item","name":"minecraft:coal","functions":[{"function":"set_count","count":{"min":3,"max":8}}],"weight":10},{"type":"item","name":"minecraft:bread","functions":[{"function":"set_count","count":{"min":1,"max":3}}],"weight":15},{"type":"item","name":"minecraft:melon_seeds","functions":[{"function":"set_count","count":{"min":2,"max":4}}],"weight":10},{"type":"item","name":"minecraft:pumpkin_seeds","functions":[{"function":"set_count","count":{"min":2,"max":4}}],"weight":10},{"type":"item","name":"minecraft:beetroot_seeds","functions":[{"function":"set_count","count":{"min":2,"max":4}}],"weight":10},{"type":"item","name":"minecraft:glow_berries","functions":[{"function":"set_count","count":{"min":3,"max":6}}],"weight":15}]},{"rolls":3,"entries":[{"type":"item","name":"minecraft:rail","functions":[{"function":"set_count","count":{"min":4,"max":8}}],"weight":20},{"type":"item","name":"minecraft:golden_rail","functions":[{"function":"set_count","count":{"min":1,"max":4}}],"weight":5},{"type":"item","name":"minecraft:detector_rail","functions":[{"function":"set_count","count":{"min":1,"max":4}}],"weight":5},{"type":"item","name":"minecraft:activator_rail","functions":[{"function":"set_count","count":{"min":1,"max":4}}],"weight":5},{"type":"item","name":"minecraft:torch","functions":[{"function":"set_count","count":{"min":1,"max":16}}],"weight":15}]}]}{"pools":[{"rolls":{"min":3,"max":10},"entries":[{"type":"item","name":"minecraft:paper","weight":8,"functions":[{"function":"set_count","count":{"min":1,"max":12}}]},{"type":"item","name":"minecraft:potato","weight":7,"functions":[{"function":"set_count","count":{"min":2,"max":6}}]},{"type":"item","name":"minecraft:moss_block","weight":7,"functions":[{"function":"set_count","count":{"min":1,"max":4}}]},{"type":"item","name":"minecraft:poisonous_potato","weight":7,"functions":[{"function":"set_count","count":{"min":2,"max":6}}]},{"type":"item","name":"minecraft:carrot","weight":7,"functions":[{"function":"set_count","count":{"min":4,"max":8}}]},{"type":"item","name":"minecraft:wheat","weight":7,"functions":[{"function":"set_count","count":{"min":8,"max":21}}]},{"type":"item","name":"minecraft:coal","weight":6,"functions":[{"function":"set_count","count":{"min":2,"max":8}}]},{"type":"item","name":"minecraft:rotten_flesh","weight":5,"functions":[{"function":"set_count","count":{"min":5,"max":24}}]},{"type":"item","name":"minecraft:bamboo","weight":2,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]},{"type":"item","name":"minecraft:pumpkin","weight":2,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]},{"type":"item","name":"minecraft:gunpowder","weight":3,"functions":[{"function":"set_count","count":{"min":1,"max":5}}]},{"type":"item","name":"minecraft:tnt","weight":1,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:leather_helmet","weight":3,"functions":[{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:leather_chestplate","weight":3,"functions":[{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:leather_leggings","weight":3,"functions":[{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:leather_boots","weight":3,"functions":[{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:suspicious_stew","weight":10,"functions":[{"function":"random_aux_value","values":{"min":0,"max":6}}]}]}]}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               59/1336/1076 660/1337/1077
+s 787
+f 675/1330/1072 683/1324/1068 681/1177/938 673/1176/937
+s 788
+f 669/1096/870 677/1095/869 679/1328/1071 671/1334/1075
+s 789
+f 671/1334/1075 672/1333/1074 668/1224/982 667/1229/987
+s 790
+f 672/1333/1074 680/1332/1070 678/1027/809 670/1025/807
+s 791
+f 658/1209/967 674/1197/958 676/1335/1073 660/1337/1077
+s 792
+f 660/1337/1077 659/1336/1076 663/1215/973 664/1220/978
+s 793
+f 659/1336/1076 675/1330/1072 673/1176/937 657/1175/936
+s 794
+f 665/1097/871 669/1096/870 671/1334/1075 667/1229/987
+s 795
+f 703/1318/1062 747/1285/1034 748/1284/1033 704/1319/1063
+s 796
+f 668/1224/982 672/1333/1074 670/1025/807 666/1024/806
+s 797
+f 662/1213/971 658/1209/967 660/1337/1077 664/1220/978
+s 798
+f 700/1314/1058 752/1281/1030 751/1280/1029 699/1315/1059
+s 799
+f 663/1215/973 659/1336/1076 657/1175/936 661/1174/935
+s 800
+f 749/1180/941 697/1179/940 699/1315/1059 751/1280/1029
+s 801
+f 808/1250/1004 807/1249/1003 707/1310/1054 708/1309/1053
+s 802
+f 752/1281/1030 700/1314/1058 698/1022/804 750/1021/803
+s 803
+f 746/1292/1040 702/1035/815 704/1319/1063 748/1284/1033
+s 804
+f 803/1248/1002 804/1247/1001 712/1313/1057 711/1312/1056
+s 805
+f 747/1285/1034 703/1318/1062 701/1092/866 745/1091/865
+s 806
+f 709/1086/860 801/1085/859 803/1248/1002 711/1312/1056
+s 807
+f 796/1251/1005 848/1226/984 847/1225/983 795/1252/1006
+s 808
+f 712/1313/1057 804/1247/1001 802/758/595 710/757/594
+s 809
+f 706/1038/818 806/1144/910 808/1250/1004 708/1309/1053
+s 810
+f 799/1255/1009 843/1217/975 844/1216/974 800/1256/1010
+s 811
+f 707/1310/1054 807/1249/1003 805/1186/947 705/1185/946
+s 812
+f 845/1080/854 793/1079/853 795/1252/1006 847/1225/983
+s 813
+f 848/1226/984 796/1251/1005 794/751/588 846/750/587
+s 814
+f 842/1108/882 798/1061/837 800/1256/1010 844/1216/974
+s 815
+f 760/1223/981 759/1230/988 667/1229/987 668/1224/982
+s 816
+f 843/1217/975 799/1255/1009 797/1192/953 841/1191/952
+s 817
+f 413/1204/962 414/1073/847 410/1166/930 409/1171/933
+s 958
+f 418/1207/965 662/1213/971 754/1050/828 406/1049/827
+s 959
+f 418/1207/965 417/1206/964 412/1203/961 411/1205/963
+s 960
+f 417/1206/964 416/1211/969 413/1204/962 412/1203/961
+s 961
+f 416/1211/969 415/737/574 414/1073/847 413/1204/962
+s 962
+f 171/774/611 1036/1338/1078 1040/1126/895 159/771/608
+s 963
+f 1036/1338/1078 1035/1339/1079 1039/1140/906 1040/1126/895
+s 964
+f 1035/1339/1079 1034/1340/1080 1038/1145/911 1039/1140/906
+s 965
+f 1034/1340/1080 1033/1060/836 1037/1062/838 1038/1145/911
+s 966
+f 174/780/602 1032/1341/1081 1036/1338/1078 171/774/611
+s 967
+f 1032/1341/1081 1031/1342/1082 1035/1339/1079 1036/1338/1078
+s 968
+f 1031/1342/1082 1030/1343/1083 1034/1340/1080 1035/1339/1079
+s 969
+f 1030/1343/1083 1029/1057/834 1033/1060/836 1034/1340/1080
+s 970
+f 162/763/600 1028/1344/1084 1032/1345/1081 174/765/602
+s 971
+f 1028/1344/1084 1027/1346/1085 1031/1347/1082 1032/1345/1081
+s 972
+f 1027/1346/1085 1026/1348/1086 1030/1349/1083 1031/1347/1082
+s 973
+f 1026/1348/1086 1025/1054/832 1029/1056/834 1030/1349/1083
+s 974
+f 161/760/597 1024/1350/1087 1028/1344/1084 162/763/600
+s 975
+f 1024/1350/1087 1023/1351/1088 1027/1346/1085 1028/1344/1084
+s 976
+f 1023/1351/1088 1022/1352/1089 1026/1348/1086 1027/1346/1085
+s 977
+f 1022/1352/1089 1021/1052/830 1025/1054/832 1026/1348/1086
+s 978
+f 158/739/576 403/738/575 1024/1350/1087 161/760/597
+s 979
+f 403/738/575 404/1212/970 1023/1351/1088 1024/1350/1087
+s 980
+f 404/1212/970 405/1208/966 1022/1352/1089 1023/1351/1088
+s 981
+f 405/1208/966 406/1049/827 1021/1052/830 1022/1352/1089
+s 982
+f 252/878/688 1020/1353/1090 390/1354/1091 240/875/685
+s 983
+f 1020/1353/1090 1019/1355/1092 389/1356/1093 390/1354/1091
+s 984
+f 1019/1355/1092 1018/1357/1094 388/1358/1095 389/1356/1093
+s 985
+f 1018/1357/1094 1017/1048/826 387/1020/802 388/1358/1095
+s 986
+f 255/884/679 1016/1359/1096 1020/1353/1090 252/878/688
+s 987
+f 1016/1359/1096 1015/1360/1097 1019/1355/1092 1020/1353/1090
+s 988
+f 1015/1360/1097 1014/1361/1098 1018/1357/1094 1019/1355/1092
+s 989
+f 1014/1361/1098 1013/1045/824 1017/1048/826 1018/1357/1094
+s 990
+f 243/867/677 155/1362/1099 1016/1363/1096 255/869/679
+s 991
+f 155/1362/1099 156/1364/1100 1015/1365/1097 1016/1363/1096
+s 992
+f 156/1364/1100 157/1366/1101 1014/1367/1098 1015/1365/1097
+s 993
+f 157/1366/1101 374/1042/822 1013/1044/824 1014/1367/1098
+s 994
+f 242/864/674 375/1368/1102 155/1362/1099 243/867/677
+s 995
+f 375/1368/1102 376/1369/1103 156/1364/1100 155/1362/1099
+s 996
+f 376/1369/1103 377/1370/1104 157/1366/1101 156/1364/1100
+s 997
+f 377/1370/1104 378/1040/820 374/1042/822 157/1366/1101
+s 998
+f 239/863/673 383/1151/915 375/1368/1102 242/864/674
+s 999
+f 383/1151/915 384/1150/914 376/1369/1103 375/1368/1102
+s 1000
+f 384/1150/914 385/1152/916 377/1370/1104 376/1369/1103
+s 1001
+f 385/1152/916 386/1037/817 378/1040/820 377/1370/1104
+s 1002
+f 214/853/667 240/875/685 390/1354/1091 394/1157/921
+s 1003
+f 394/1157/921 390/1354/1091 389/1356/1093 393/1158/922
+s 1004
+f 393/1158/922 389/1356/1093 388/1358/1095 392/1210/968
+s 1005
+f 392/1210/968 388/1358/1095 387/1020/802 391/1019/801
+s 1006
+f 702/1035/815 746/1292/1040 1089/1371/1105 1085/1036/816
+s 1007
+f 1085/1036/816 1089/1371/1105 1090/1372/1106 1086/1373/1107
+s 1008
+f 1086/1373/1107 1090/1372/1106 1091/1374/1108 1087/1375/1109
+s 1009
+f 1087/1375/1109 1091/1374/1108 1092/1143/909 1088/1159/923
+s 1010
+f 710/757/594 1096/756/593 1104/1376/1110 714/1311/1055
+s 1011
+f 1096/756/593 1095/1377/1111 1103/1378/1112 1104/1376/1110
+s 1012
+f 1095/1377/1111 1094/1379/1113 1102/1380/1114 1103/1378/1112
+s 1013
+f 1094/1379/1113 1093/1154/918 1101/1153/917 1102/1380/1114
+s 1014
+f 714/1311/1055 1104/1376/1110 1108/1381/1115 722/1305/1050
+s 1015
+f 1104/1376/1110 1103/1378/1112 1107/1382/1116 1108/1381/1115
+s 1016
+f 1103/1378/1112 1102/1380/1114 1106/1383/1117 1107/1382/1116
+s 1017
+f 1102/1380/1114 1101/1153/917 1105/1147/913 1106/1383/1117
+s 1018
+f 722/1305/1050 1108/1381/1115 1112/1384/1118 730/1306/1045
+s 1019
+f 1108/1381/1115 1107/1382/1116 1111/1385/1119 1112/1384/1118
+s 1020
+f 1107/1382/1116 1106/1383/1117 1110/1386/1120 1111/1385/1119
+s 1021
+f 1106/1383/1117 1105/1147/913 1109/1149/912 1110/1386/1120
+s 1022
+f 730/1299/1045 1112/1387/1118 1116/1388/1121 738/1291/1039
+s 1023
+f 1112/1387/1118 1111/1389/1119 1115/1390/1122 1116/1388/1121
+s 1024
+f 1111/1389/1119 1110/1391/1120 1114/1392/1123 1115/1390/1122
+s 1025
+f 1110/1391/1120 1109/1146/912 1113/1142/908 1114/1392/1123
+s 1026
+f 738/1291/1039 1116/1388/1121 1089/1371/1105 746/1292/1040
+s 1027
+f 1116/1388/1121 1115/1390/1122 1090/1372/1106 1089/1371/1105
+s 1028
+f 1115/1390/1122 1114/1392/1123 1091/1374/1108 1090/1372/1106
+s 1029
+f 1114/1392/1123 1113/1142/908 1092/1143/909 1091/1374/1108
+s 1030
+f 758/1222/980 1072/1393/1124 1120/1394/1125 762/1279/1028
+s 1031
+f 1072/1393/1124 1071/1395/1126 1119/1396/1127 1120/1394/1125
+s 1032
+f 1071/1395/1126 1070/1397/1128 1118/1398/1129 1119/1396/1127
+s 1033
+f 1070/1397/1128 1069/747/584 1117/1137/903 1118/1398/1129
+s 1034
+f 762/1279/1028 1120/1394/1125 1124/1399/1130 770/1275/1025
+s 1035
+f 1120/1394/1125 1119/1396/1127 1123/1400/1131 1124/1399/1130
+s 1036
+f 1119/1396/1127 1118/1398/1129 1122/1401/1132 1123/1400/1131
+s 1037
+f 1118/1398/1129 1117/1137/903 1121/1132/900 1122/1401/1132
+s 1038
+f 770/1275/1025 1124/1399/1130 1128/1402/1133 778/1276/1020
+s 1039
+f 1124/1399/1130 1123/1400/1131 1127/1403/1134 1128/1402/1133
+s 1040
+f 1123/1400/1131 1122/1401/1132 1126/1404/1135 1127/1403/1134
+s 1041
+f 1122/1401/1132 1121/1132/900 1125/1134/897 1126/1404/1135
+s 1042
+f 778/1269/1020 1128/1405/1133 1132/1406/1136 786/1262/1015
+s 1043
+f 1128/1405/1133 1127/1407/1134 1131/1408/1137 1132/1406/1136
+s 1044
+f 1127/1407/1134 1126/1409/1135 1130/1410/1138 1131/1408/1137
+s 1045
+f 1126/1409/1135 1125/1129/897 1129/1124/893 1130/1410/1138
+s 1046
+f 786/1262/1015 1132/1406/1136 1136/748/585 794/751/588
+s 1047
+f 1132/1406/1136 1131/1408/1137 1135/1411/1139 1136/748/585
+s 1048
+f 1131/1408/1137 1130/1410/1138 1134/1412/1140 1135/1411/1139
+s 1049
+f 1130/1410/1138 1129/1124/893 1133/1125/894 1134/1412/1140
+s 1050
+f 306/941/739 1156/1413/1141 1137/1414/1142 294/938/736
+s 1051
+f 1156/1413/1141 1155/1415/1143 1138/1416/1144 1137/1414/1142
+s 1052
+f 1155/1415/1143 1154/1417/1145 1139/1418/1146 1138/1416/1144
+s 1053
+f 1154/1417/1145 1153/1072/846 1140/749/586 1139/1418/1146
+s 1054
+f 309/947/730 1152/1419/1147 1156/1413/1141 306/941/739
+s 1055
+f 1152/1419/1147 1151/1420/1148 1155/1415/1143 1156/1413/1141
+s 1056
+f 1151/1420/1148 1150/1421/1149 1154/1417/1145 1155/1415/1143
+s 1057
+f 1150/1421/1149 1149/1069/844 1153/1072/846 1154/1417/1145
+s 1058
+f 297/930/728 1148/1422/1150 1152/1423/1147 309/932/730
+s 1059
+f 1148/1422/1150 1147/1424/1151 1151/1425/1148 1152/1423/1147
+s 1060
+f 1147/1424/1151 1146/1426/1152 1150/1427/1149 1151/1425/1148
+s 1061
+f 1146/1426/1152 1145/1066/842 1149/1068/844 1150/1427/1149
+s 1062
+f 296/927/725 1144/1428/1153 1148/1422/1150 297/930/728
+s 1063
+f 1144/1428/1153 1143/1429/1154 1147/1424/1151 1148/1422/1150
+s 1064
+f 1143/1429/1154 1142/1430/1155 1146/1426/1152 1147/1424/1151
+s 1065
+f 1142/1430/1155 1141/1064/840 1145/1066/842 1146/1426/1152
+s 1066
+f 293/926/724 1100/1431/1156 1144/1428/1153 296/927/725
+s 1067
+f 1100/1431/1156 1099/1432/1157 1143/1429/1154 1144/1428/1153
+s 1068
+f 1099/1432/1157 1098/1433/1158 1142/1430/1155 1143/1429/1154
+s 1069
+f 1098/1433/1158 1097/759/596 1141/1064/840 1142/1430/1155
+s 1070
+f 333/970/764 1084/1434/1159 1088/1159/923 321/967/761
+s 1071
+f 1084/1434/1159 1083/1435/1160 1087/1375/1109 1088/1159/923
+s 1072
+f 1083/1435/1160 1082/1436/1161 1086/1373/1107 1087/1375/1109
+s 1073
+f 1082/1436/1161 1081/1034/814 1085/1036/816 1086/1373/1107
+s 1074
+f 336/976/755 1080/1437/1162 1084/1434/1159 333/970/764
+s 1075
+f 1080/1437/1162 1079/1438/1163 1083/1435/1160 1084/1434/1159
+s 1076
+f 1079/1438/1163 1078/1439/1164 1082/1436/1161 1083/1435/1160
+s 1077
+f 1078/1439/1164 1077/1031/812 1081/1034/814 1082/1436/1161
+s 1078
+f 324/959/753 1076/1440/1165 1080/1441/1162 336/961/755
+s 1079
+f 1076/1440/1165 1075/1442/1166 1079/1443/1163 1080/1441/1162
+s 1080
+f 1075/1442/1166 1074/1444/1167 1078/1445/1164 1079/1443/1163
+s 1081
+f 1074/1444/1167 1073/1028/810 1077/1030/812 1078/1445/1164
+s 1082
+f 323/956/750 1068/1446/1168 1076/1440/1165 324/959/753
+s 1083
+f 1068/1446/1168 1067/1447/1169 1075/1442/1166 1076/1440/1165
+s 1084
+f 1067/1447/1169 1066/1448/1170 1074/1444/1167 1075/1442/1166
+s 1085
+f 1066/1448/1170 1065/1026/808 1073/1028/810 1074/1444/1167
+s 1086
+f 320/745/582 1061/744/581 1068/1446/1168 323/956/750
+s 1087
+f 1061/744/581 1062/1449/1171 1067/1447/1169 1068/1446/1168
+s 1088
+f 1062/1449/1171 1063/1450/1172 1066/1448/1170 1067/1447/1169
+s 1089
+f 1063/1450/1172 1064/1023/805 1065/1026/808 1066/1448/1170
+s 1090
+f 347/985/775 1093/1154/918 1100/1431/1156 293/926/724
+s 1091
+f 1093/1154/918 1094/1379/1113 1099/1432/1157 1100/1431/1156
+s 1092
+f 1094/1379/1113 1095/1377/1111 1098/1433/1158 1099/1432/1157
+s 1093
+f 1095/1377/1111 1096/756/593 1097/759/596 1098/1433/1158
+s 1094
+f 268/915/718 294/938/736 1137/1414/1142 1133/1125/894
+s 1095
+f 1133/1125/894 1137/1414/1142 1138/1416/1144 1134/1412/1140
+s 1096
+f 1134/1412/1140 1138/1416/1144 1139/1418/1146 1135/1411/1139
+s 1097
+f 1135/1411/1139 1139/1418/1146 1140/749/586 1136/748/585
+s 1098
+f 666/1024/806 1064/1023/805 1072/1393/1124 758/1222/980
+s 1099
+f 1064/1023/805 1063/1450/1172 1071/1395/1126 1072/1393/1124
+s 1100
+f 1063/1450/1172 1062/1449/1171 1070/1397/1128 1071/1395/1126
+s 1101
+f 1062/1449/1171 1061/744/581 1069/747/584 1070/1397/1128
+s 1102
+f 755/1214/972 756/1221/979 664/1220/978 663/1215/973

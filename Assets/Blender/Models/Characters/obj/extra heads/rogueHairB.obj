@@ -1,0 +1,2259 @@
+# Blender v2.80 (sub 75) OBJ File: 'KayKit Character Exporter.blend'
+# www.blender.org
+mtllib rogueHairB.mtl
+o rogueHairB_Cube.3525
+v 0.120273 1.000196 -0.246902
+v 0.039627 0.882593 -0.448080
+v 0.197343 1.018694 -0.107640
+v 0.184801 0.989105 -0.238490
+v 0.168180 0.937657 -0.352899
+v 0.155177 0.873699 -0.432813
+v 0.145761 0.775383 -0.491877
+v 0.223695 1.011376 -0.096507
+v 0.244849 0.978169 -0.213824
+v 0.256504 0.925060 -0.316400
+v 0.262574 0.862612 -0.388049
+v 0.266777 0.768008 -0.441005
+v 0.246314 1.005064 -0.078798
+v 0.296347 0.968330 -0.174586
+v 0.332187 0.912787 -0.258340
+v 0.354533 0.850698 -0.316840
+v 0.370259 0.758901 -0.360079
+v 0.263665 1.000203 -0.055718
+v 0.335821 0.960509 -0.123451
+v 0.390145 0.902432 -0.182674
+v 0.424897 0.839928 -0.224040
+v 0.449877 0.749899 -0.254614
+v 0.190475 1.027119 -0.000000
+v 0.274569 0.997141 -0.028841
+v 0.360617 0.955475 -0.063902
+v 0.426522 0.895497 -0.094559
+v 0.469027 0.832389 -0.115972
+v 0.501036 0.743248 -0.131798
+v 0.278288 0.996095 -0.000000
+v 0.369070 0.953738 -0.000000
+v 0.438920 0.893056 -0.000000
+v 0.484042 0.829713 -0.000057
+v 0.517766 0.740780 -0.000058
+v 0.274569 0.997141 0.028841
+v 0.362757 0.954181 0.063902
+v 0.430439 0.892573 0.094559
+v 0.472742 0.828755 0.115831
+v 0.504398 0.741821 0.131774
+v 0.265930 0.998197 0.055718
+v 0.344132 0.955666 0.123451
+v 0.405094 0.891849 0.182673
+v 0.442045 0.825828 0.223845
+v 0.465765 0.745420 0.254403
+v 0.253436 0.999399 0.078798
+v 0.313706 0.956809 0.174586
+v 0.363693 0.893644 0.258340
+v 0.393020 0.828582 0.316593
+v 0.408748 0.751170 0.359552
+v 0.235314 1.003518 0.096507
+v 0.276197 0.955622 0.213824
+v 0.308952 0.901935 0.316400
+v 0.327207 0.840680 0.387755
+v 0.334034 0.762400 0.440460
+v 0.212658 1.010494 0.107640
+v 0.229079 0.964044 0.238490
+v 0.239632 0.911813 0.352899
+v 0.242180 0.855234 0.432484
+v 0.235369 0.775833 0.491277
+v 0.187591 1.019237 0.087410
+v 0.174112 0.982410 0.222875
+v 0.157987 0.938352 0.341321
+v 0.139468 0.887751 0.423713
+v 0.113368 0.816438 0.484579
+v 0.158141 1.029777 0.107640
+v 0.107037 1.003989 0.238490
+v 0.057601 0.965182 0.352899
+v 0.018960 0.914595 0.432484
+v -0.016729 0.837339 0.491277
+v 0.129092 1.039287 0.096507
+v 0.034363 1.018286 0.213824
+v -0.051581 0.971488 0.316400
+v -0.110899 0.914876 0.387755
+v -0.157508 0.838903 0.440460
+v 0.101522 1.046980 0.078798
+v -0.034425 1.025562 0.174586
+v -0.151081 0.975099 0.258340
+v -0.232297 0.912096 0.316593
+v -0.292715 0.828311 0.359552
+v 0.077703 1.052240 0.055718
+v -0.087091 1.031585 0.123451
+v -0.226922 0.978111 0.182673
+v -0.327332 0.903507 0.223845
+v -0.401271 0.805212 0.254403
+v 0.063325 1.055215 0.028841
+v -0.118422 1.035295 0.063902
+v -0.277943 0.977378 0.094559
+v -0.387289 0.897242 0.115831
+v -0.468070 0.788039 0.131774
+v 0.059590 1.056215 -0.000000
+v -0.129850 1.036446 -0.000000
+v -0.295054 0.976698 -0.000000
+v -0.408763 0.894767 -0.000058
+v -0.492907 0.781536 -0.000058
+v 0.063325 1.055215 -0.028841
+v -0.121308 1.035389 -0.063902
+v -0.282483 0.976168 -0.094559
+v -0.393489 0.894738 -0.115972
+v -0.475469 0.781654 -0.131798
+v 0.074270 1.052281 -0.055718
+v -0.096272 1.032214 -0.123451
+v -0.245632 0.974463 -0.182674
+v -0.348586 0.894654 -0.224040
+v -0.424416 0.781973 -0.254614
+v 0.091677 1.047595 -0.078798
+v -0.056467 1.026940 -0.174586
+v -0.187035 0.971270 -0.258340
+v -0.277202 0.894075 -0.316841
+v -0.343338 0.782463 -0.360079
+v 0.114352 1.041458 -0.096507
+v -0.004637 1.019658 -0.213824
+v -0.110721 0.966181 -0.316400
+v -0.184261 0.892362 -0.388049
+v -0.237925 0.782817 -0.441005
+v 0.140745 1.034268 -0.107640
+v 0.055656 1.010598 -0.238490
+v -0.021940 0.958855 -0.352899
+v -0.076171 0.888749 -0.432813
+v -0.115534 0.782348 -0.491877
+v 0.169051 1.026505 -0.111438
+v 0.073203 0.949222 -0.365348
+v 0.015361 0.780127 -0.509229
+v 0.142043 0.661271 -0.521514
+v 0.270324 0.657934 -0.467577
+v 0.380701 0.652830 -0.381775
+v 0.470198 0.647136 -0.269956
+v 0.527252 0.642635 -0.139740
+v 0.543718 0.645335 0.000035
+v 0.525633 0.651425 0.139983
+v 0.475654 0.655656 0.269741
+v 0.407455 0.655002 0.381135
+v 0.326499 0.663212 0.467059
+v 0.217417 0.674192 0.521002
+v 0.074581 0.710458 0.514350
+v -0.047569 0.735450 0.521002
+v -0.187258 0.739314 0.467059
+v -0.323619 0.726487 0.381135
+v -0.433274 0.702505 0.269741
+v -0.508594 0.680737 0.139983
+v -0.536745 0.667805 0.000049
+v -0.518605 0.662704 -0.139740
+v -0.464534 0.662710 -0.269956
+v -0.378513 0.662720 -0.381775
+v -0.266397 0.662735 -0.467577
+v -0.135884 0.662803 -0.521514
+v 0.003510 0.662667 -0.539911
+v 0.143806 0.470374 -0.536696
+v 0.278338 0.470460 -0.481189
+v 0.403014 0.470584 -0.392889
+v 0.486240 0.470437 -0.283313
+v 0.534986 0.472392 -0.188478
+v 0.568403 0.489822 -0.088579
+v 0.557501 0.486554 0.039515
+v 0.391143 0.496528 0.360562
+v 0.301864 0.550094 0.479294
+v 0.197827 0.614038 0.532463
+v -0.054672 0.668810 0.532463
+v -0.204390 0.619653 0.479308
+v -0.340976 0.553717 0.394410
+v -0.449101 0.463380 0.287675
+v -0.531580 0.497176 0.143998
+v -0.555627 0.492168 0.000064
+v -0.536695 0.473393 -0.143808
+v -0.481188 0.470776 -0.277816
+v -0.392888 0.470598 -0.392889
+v -0.277814 0.470460 -0.481189
+v -0.143806 0.470374 -0.536696
+v -0.000000 0.470345 -0.555628
+v 0.143814 0.251963 -0.536722
+v 0.279678 0.255642 -0.481207
+v 0.393706 0.254565 -0.392498
+v 0.451640 0.250014 -0.296448
+v 0.478314 0.250917 -0.233244
+v 0.491209 0.272213 -0.189114
+v 0.492232 0.298399 -0.117470
+v 0.483048 0.297884 -0.007162
+v -0.455457 0.308288 0.291624
+v -0.536722 0.299316 0.143814
+v -0.552789 0.272212 -0.001425
+v -0.531504 0.250916 -0.145075
+v -0.477404 0.250172 -0.277773
+v -0.391885 0.254814 -0.392582
+v -0.277822 0.255643 -0.481208
+v -0.143814 0.251963 -0.536722
+v -0.000000 0.250113 -0.555656
+v 0.135353 0.053541 -0.522133
+v 0.261862 0.068347 -0.468456
+v 0.367312 0.081797 -0.384604
+v 0.419718 0.085274 -0.294400
+v 0.443373 0.085803 -0.235351
+v 0.458061 0.106095 -0.194077
+v 0.468525 0.137582 -0.130348
+v 0.479476 0.156153 -0.031988
+v -0.453801 0.158409 0.279535
+v -0.514280 0.139544 0.126127
+v -0.516968 0.106093 -0.019232
+v -0.494354 0.085800 -0.154060
+v -0.444940 0.085277 -0.277313
+v -0.366809 0.081796 -0.384604
+v -0.261576 0.068347 -0.468456
+v -0.136474 0.053541 -0.522133
+v -0.000529 0.047398 -0.540889
+v 0.125602 -0.070926 -0.505318
+v 0.245236 -0.047608 -0.456268
+v 0.346460 -0.022734 -0.378373
+v 0.399644 -0.004563 -0.294754
+v 0.424507 0.001345 -0.240496
+v 0.433425 0.002233 -0.200181
+v 0.434594 -0.009674 -0.139900
+v 0.437221 -0.033817 -0.053263
+v -0.411869 -0.033816 0.227481
+v -0.474774 -0.013381 0.094991
+v -0.489872 0.002228 -0.032701
+v -0.473345 0.001329 -0.159141
+v -0.424710 -0.004581 -0.277026
+v -0.347225 -0.022730 -0.378373
+v -0.246049 -0.047607 -0.456268
+v -0.128014 -0.070926 -0.505318
+v -0.001202 -0.081143 -0.522145
+v 0.123441 -0.148361 -0.495232
+v 0.240768 -0.124363 -0.447222
+v 0.337540 -0.098508 -0.371493
+v 0.388460 -0.079290 -0.293299
+v 0.412875 -0.072463 -0.242126
+v 0.421631 -0.071013 -0.202852
+v 0.421369 -0.093455 -0.146025
+v 0.426513 -0.121794 -0.063032
+v -0.402113 -0.121794 0.210482
+v -0.461563 -0.093455 0.083319
+v -0.477142 -0.071013 -0.038382
+v -0.460546 -0.072463 -0.159617
+v -0.413906 -0.079291 -0.273518
+v -0.339323 -0.098508 -0.371493
+v -0.241393 -0.124363 -0.447222
+v -0.126232 -0.148361 -0.495232
+v -0.001395 -0.159443 -0.511676
+v 0.163476 0.934361 -0.093006
+v 0.161627 0.906959 -0.201797
+v 0.150504 0.864122 -0.296319
+v 0.140285 0.815378 -0.358096
+v 0.128957 0.736346 -0.403784
+v 0.108789 0.916047 -0.208730
+v 0.046596 0.824153 -0.370542
+v 0.185211 0.929011 -0.083932
+v 0.210896 0.898071 -0.181473
+v 0.222946 0.853477 -0.266219
+v 0.227445 0.805329 -0.321610
+v 0.226584 0.728735 -0.362574
+v 0.203915 0.924354 -0.069499
+v 0.253255 0.890113 -0.149141
+v 0.285137 0.843367 -0.218339
+v 0.302181 0.795126 -0.263569
+v 0.310162 0.720261 -0.297021
+v 0.218316 0.920716 -0.050691
+v 0.285840 0.883792 -0.107008
+v 0.332894 0.834964 -0.155943
+v 0.359486 0.786225 -0.187931
+v 0.375789 0.712381 -0.211591
+v 0.150170 0.942902 -0.005277
+v 0.227437 0.918368 -0.028788
+v 0.306451 0.879704 -0.057947
+v 0.363027 0.829359 -0.083285
+v 0.395641 0.780091 -0.099852
+v 0.417893 0.706722 -0.112107
+v 0.230664 0.917488 -0.005285
+v 0.313701 0.878246 -0.005301
+v 0.373537 0.827325 -0.005318
+v 0.408539 0.777778 -0.005263
+v 0.4331{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:llama",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:llama_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value": 0.5
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": [
+            {
+              "item": "wheat",
+              "growth": 0.1
+            },
+            {
+              "item": "hay_block",
+              "growth": 0.9
+            }
+          ],
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+
+        "minecraft:behavior.follow_parent": {
+          "priority": 5,
+          "speed_multiplier": 1.0
+        }
+      },
+
+      "minecraft:llama_adult": {
+        "minecraft:experience_reward": {
+          "on_bred": "Math.Random(1,7)",
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/llama.json"
+        },
+        "minecraft:collision_box": {
+          "width": 0.9,
+          "height": 1.87
+        },
+        "minecraft:behavior.breed": {
+          "priority": 4,
+          "speed_multiplier": 1.0
+        },
+        "minecraft:breedable": {
+          "require_tame": true,
+          "inherit_tamed": false,
+          "love_filters": { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 1 }, // Wandering Trader Llamas can't fall in love
+          "breeds_with": {
+            "mate_type": "minecraft:llama",
+            "baby_type": "minecraft:llama",
+            "breed_event": {
+              "event": "minecraft:entity_born",
+              "target": "baby"
+            }
+          },
+          "breed_items": [ "hay_block" ]
+        }
+      },
+
+      "minecraft:llama_wandering_trader": {
+        "minecraft:mark_variant": {
+          "value": 1
+        },
+        "minecraft:on_friendly_anger": {
+          "event": "minecraft:defend_wandering_trader",
+          "target": "self"
+        }, 
+        "minecraft:environment_sensor": {
+          // If this is a Wandering Trader's llama and it was just released from its leash, make it tame
+          "triggers": {
+            "filters": {
+              "all_of": [
+                { "test": "is_leashed", "subject": "self", "value": false },
+                { "test": "has_component", "subject": "self", "operator": "!=", "value" :  "minecraft:is_tamed" }
+              ]
+            },
+            "event": "minecraft:on_tame"
+          }
+        },
+        "minecraft:persistent": {
+        }
+      },
+
+      "minecraft:strength_1": {
+        "minecraft:strength": {
+          "value": 1,
+          "max": 5
+        }
+      },
+      "minecraft:strength_2": {
+        "minecraft:strength": {
+          "value": 2,
+          "max": 5
+        }
+      },
+      "minecraft:strength_3": {
+        "minecraft:strength": {
+          "value": 3,
+          "max": 5
+        }
+      },
+      "minecraft:strength_4": {
+        "minecraft:strength": {
+          "value": 4,
+          "max": 5
+        }
+      },
+      "minecraft:strength_5": {
+        "minecraft:strength": {
+          "value": 5,
+          "max": 5
+        }
+      },
+
+      "minecraft:llama_creamy": {
+        "minecraft:variant": {
+          "value": 0
+        }
+      },
+      "minecraft:llama_white": {
+        "minecraft:variant": {
+          "value": 1
+        }
+      },
+      "minecraft:llama_brown": {
+        "minecraft:variant": {
+          "value": 2
+        }
+      },
+      "minecraft:llama_gray": {
+        "minecraft:variant": {
+          "value": 3
+        }
+      },
+
+      "minecraft:llama_wild": {
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "player"
+          ],
+          "interact_text": "action.interact.mount",
+          "seats": {
+            "position": [ 0.0, 1.25, -0.3 ]
+          }
+
+        },
+        "minecraft:tamemount": {
+          "min_temper": 0,
+          "max_temper": 30,
+          "feed_text": "action.interact.feed",
+          "ride_text": "action.interact.mount",
+          "feed_items": [
+            {
+              "item": "wheat",
+              "temper_mod": 3
+            },
+            {
+              "item": "hay_block",
+              "temper_mod": 6
+            }
+          ],
+          "auto_reject_items": [
+            {
+              "item": "horsearmorleather"
+            },
+            {
+              "item": "horsearmoriron"
+            },
+            {
+              "item": "horsearmorgold"
+            },
+            {
+              "item": "horsearmordiamond"
+            },
+            {
+              "item": "saddle"
+            }
+          ],
+          "tame_event": {
+            "event": "minecraft:on_tame",
+            "target": "self"
+          }
+        }
+      },
+
+
+      "minecraft:llama_tamed": {
+        "minecraft:is_tamed": {
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "crouching_skip_interact": true,
+          "family_types": [
+            "player"
+          ],
+          "interact_text": "action.interact.ride.horse",
+          "seats": {
+            "position": [ 0.0, 1.1, -0.2 ]
+          }
+
+        },
+        "minecraft:inventory": {
+          "inventory_size": 16,
+          "container_type": "horse",
+          "additional_slots_per_strength": 3
+        },
+        "minecraft:equippable": {
+          "slots": [
+            {
+              "slot": 1,
+              "item": "carpet",
+              "accepted_items": [ "carpet" ]
+            }
+          ]
+        }
+      },
+      "minecraft:llama_unchested": {
+        "minecraft:interact": {
+          "interactions": [
+            {
+              "play_sounds": "armor.equip_generic",
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_equipment", "domain": "hand","subject" : "other", "value" :  "chest"}
+                  ]
+                },
+                "event": "minecraft:on_chest",
+                "target": "self"
+              },
+              "use_item": true,
+              "interact_text": "action.interact.attachchest"
+            }
+          ]
+        }
+      },
+
+      "minecraft:llama_chested": {
+        "minecraft:is_chested": {
+
+        }
+      },
+
+      "minecraft:llama_angry": {
+        "minecraft:angry": {
+          "duration": 4,
+          "broadcast_anger": false,
+          "calm_event": {
+            "event": "minecraft:on_calm",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.ranged_attack": {
+          "priority": 2,
+          "attack_radius": 64,
+          "charge_shoot_trigger": 2,
+          "charge_charged_trigger": 1
+        }
+      },
+      "minecraft:llama_angry_wolf": {
+        "minecraft:angry": {
+          "duration": -1,
+          "broadcast_anger": false,
+          "calm_event": {
+            "event": "minecraft:on_calm",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.ranged_attack": {
+          "priority": 2,
+          "attack_radius": 64,
+          "charge_shoot_trigger": 2,
+          "charge_charged_trigger": 1
+        }
+      },
+      "minecraft:llama_defend_trader": {
+        "minecraft:angry": {
+          "duration": 10,
+          "calm_event": {
+            "event": "minecraft:on_calm",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.ranged_attack": {
+          "priority": 2,
+          "attack_radius": 64,
+          "charge_shoot_trigger": 2,
+          "charge_charged_trigger": 1
+        }
+      },
+
+      "minecraft:in_caravan": {
+        "minecraft:damage_sensor": {
+          "triggers": {
+            "cause": "all",
+            "deals_damage": true
+          }
+        }
+      }
+
+    },
+
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:type_family": {
+        "family": [ "llama", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:mark_variant": {
+        "value": 0
+      },
+      "minecraft:health": {
+        "value": {
+          "range_min": 15,
+          "range_max": 30
+        }
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_damage_blocks": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:follow_range": {
+        "value": 40,
+        "max": 40
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0,
+        "can_be_stolen": true
+      },
+      "minecraft:balloonable": {
+      },
+      "minecraft:healable": {
+        "items": [
+          {
+            "item": "wheat",
+            "heal_amount": 2
+          },
+          {
+            "item": "hay_block",
+            "heal_amount": 10
+          }
+        ]
+      },
+      "minecraft:shooter": {
+        "def": "minecraft:llama_spit"
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.run_around_like_crazy": {
+        "priority": 1,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.follow_caravan": {
+        "priority": 3,
+        "speed_multiplier": 2.1,
+        "entity_count": 10,
+        "entity_types": {
+          "filters": { "test" :  "is_family", "subject" : "other", "value" :  "llama"}
+        }
+      },
+      "minecraft:behavior.panic": {
+        "priority": 4,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 0.7
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 1,
+        "speed_multiplier": 1.25,
+        "target_dist": 0.0,
+        "track_target": true
+      },
+      "minecraft:behavior.hurt_by_target": {
+        "priority": 1,
+        "hurt_owner": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "cause": "all",
+          "deals_damage": true,
+          "on_damage": {
+            "filters": { "test": "in_caravan", "value": false },
+            "event": "minecraft:become_angry"
+          }
+        }
+      },
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 2,
+        "attack_interval": 16,
+        "entity_types": [
+          {
+            "filters": {
+                "all_of": [
+                  { "test" :  "is_family", "subject" : "other", "value" :  "wolf"},
+                  { "test" :  "has_component","subject" : "other", "operator": "!=", "value" :  "minecraft:is_tamed"}
+                ]
+              },
+            "max_dist": 10
+          }
+        ],
+        "must_see": false,
+        "must_reach": true
+      },
+      "minecraft:on_target_acquired": {
+        "filters": {
+                "all_of": [
+                  { "test" :  "is_family", "subject" : "target", "value" :  "wolf"},
+                  { "test" :  "has_component","subject" : "target", "operator": "!=", "value" :  "minecraft:is_tamed"}
+                ]
+              },
+        "event": "minecraft:mad_at_wolf",
+        "target": "self"
+      },
+      "minecraft:on_target_escape": {
+        "filters": {
+                "all_of": [
+                  { "test" :  "is_family", "subject" : "target", "value" :  "wolf"},
+                  { "test" :  "has_component","subject" : "target", "operator": "!=", "value" :  "minecraft:is_tamed"}
+                ]
+              },
+        "event": "minecraft:on_calm",
+        "target": "self"
+      },
+	    "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      }
+    },
+
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "sequence": [
+          {
+            "randomize": [
+              {
+                "weight": 90,
+                "trigger": "minecraft:spawn_adult"
+              },
+              {
+                "weight": 10,
+                "trigger": "minecraft:spawn_baby"
+              }
+            ]
+          }
+        ]
+      },
+
+      "minecraft:entity_born": {
+        "add": {
+          "component_groups": [
+            "minecraft:llama_baby"
+          ]
+        }
+      },
+
+      "minecraft:from_wandering_trader": {
+        "sequence": [
+          {
+            "add": {
+              "component_groups": [
+                "minecraft:llama_adult",
+                "minecraft:llama_wandering_trader"
+              ]
+            }
+          },
+          {
+            "trigger": "minecraft:add_attributes"
+          }
+        ]
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:llama_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:llama_adult",
+            "minecraft:llama_wild"
+          ]
+        }
+      },
+
+      "minecraft:on_tame": {
+        "remove": {
+          "component_groups": [
+            "minecraft:llama_wild"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:llama_tamed",
+            "minecraft:llama_unchested"
+          ]
+        }
+      },
+      "minecraft:join_caravan": {
+        "add": {
+          "component_groups": [
+            "minecraft:in_caravan"
+          ]
+        }
+      },
+      "minecraft:leave_caravan": {
+        "remove": {
+          "component_groups": [
+            "minecraft:in_caravan"
+          ]
+        }
+      },
+      "minecraft:mad_at_wolf": {
+        "add": {
+          "component_groups": [
+            "minecraft:llama_angry_wolf"
+          ]
+        }
+      },
+      "minecraft:defend_wandering_trader": {
+        "add": {
+          "component_groups": [
+            "minecraft:llama_defend_trader"
+          ]
+        }
+      },
+      "minecraft:become_angry": {
+        "add": {
+          "component_groups": [
+            "minecraft:llama_angry"
+          ]
+        }
+      },
+      "minecraft:on_calm": {
+        "remove": {
+          "component_groups": [
+            "minecraft:llama_angry",
+            "minecraft:llama_angry_wolf",
+            "minecraft:llama_defend_trader"
+          ]
+        }
+      },
+
+      "minecraft:on_chest": {
+        "remove": {
+          "component_groups": [
+            "minecraft:llama_unchested"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:llama_chested"
+          ]
+        }
+      },
+
+      "minecraft:add_attributes": {
+        "sequence": [
+          {
+            "randomize": [
+              {
+                "weight": 32,
+                "add": {
+                  "component_groups": [
+                    "minecraft:strength_1"
+                  ]
+                }
+              },
+              {
+                "weight": 32,
+                "add": {
+                  "component_groups": [
+                    "minecraft:strength_2"
+                  ]
+                }
+              },
+              {
+                "weight": 32,
+                "add": {
+                  "component_groups": [
+                    "minecraft:strength_3"
+                  ]
+                }
+              },
+              {
+                "weight": 2,
+                "add": {
+                  "component_groups": [
+                    "minecraft:strength_4"
+                  ]
+                }
+              },
+              {
+                "weight": 2,
+                "add": {
+                  "component_groups": [
+                    "minecraft:strength_5"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "randomize": [
+              {
+                "weight": 25,
+                "add": {
+                  "component_groups": [
+                    "minecraft:llama_creamy"
+                  ]
+                }
+              },
+              {
+                "weight": 25,
+                "add": {
+                  "component_groups": [
+                    "minecraft:llama_white"
+                  ]
+                }
+              },
+              {
+                "weight": 25,
+                "add": {
+                  "component_groups": [
+                    "minecraft:llama_brown"
+                  ]
+                }
+              },
+              {
+                "weight": 25,
+                "add": {
+                  "component_groups": [
+                    "minecraft:llama_gray"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+
+      "minecraft:spawn_baby": { 
+        "add": {
+          "component_groups": [
+            "minecraft:llama_baby"
+          ]
+        },
+        "trigger": "minecraft:add_attributes"
+      },
+
+      "minecraft:spawn_adult": {
+        "add": {
+          "component_groups": [
+            "minecraft:llama_adult",
+            "minecraft:llama_wild"
+          ]
+        },
+        "trigger": "minecraft:add_attributes"
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:magma_cube",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:slime_large": {
+        "minecraft:collision_box": {
+          "width": 2.08,
+          "height": 2.08
+        },
+        "minecraft:health": {
+          "value": 16,
+          "max": 16
+        },
+        "minecraft:movement": {
+          "value": 0.75
+        },
+        "minecraft:attack": {
+          "damage": 6
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/magma_cube.json"
+        }
+      },
+
+      "minecraft:slime_medium": {
+        "minecraft:collision_box": {
+          "width": 0.78,
+          "height": 0.78
+        },
+        "minecraft:health": {
+          "value": 4,
+          "max": 4
+        },
+        "minecraft:movement": {
+          "value": 0.66
+        },
+        "minecraft:attack": {
+          "damage": 4
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/magma_cube.json"
+        }
+      },
+
+      "minecraft:slime_small": {
+        "minecraft:collision_box": {
+          "width": 0.52,
+          "height": 0.52
+        },
+        "minecraft:health": {
+          "value": 1,
+          "max": 1
+        },
+        "minecraft:movement": {
+          "value": 0.6
+        },
+        "minecraft:attack": {
+          "damage": 2
+        }
+      },
+
+      "minecraft:slime_calm": {
+        "minecraft:movement.jump": {
+          "jump_delay": [ 2.0, 6.0 ]
+        }
+      },
+      "minecraft:slime_aggressive": {
+        "minecraft:movement.jump": {
+          "jump_delay": [ 0.667, 2.0 ]
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:experience_reward": {
+        "on_death": "query.last_hit_by_player ? query.variant : 0"
+      },
+      "minecraft:type_family": {
+        "family": [ "magmacube", "monster", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0,
+        "breathes_lava": true
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:fire_immune": {
+      },
+      "minecraft:burns_in_daylight": false,
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "cause": "fall",
+          "deals_damage": false
+        }
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:movement.jump": {
+        "jump_delay": [ 2.0, 6.0 ]
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:on_target_acquired": {
+        "event": "minecraft:become_aggressive",
+        "target": "self"
+      },
+      "minecraft:on_target_escape": {
+        "event": "minecraft:become_calm",
+        "target": "self"
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.slime_float": {
+        "priority": 1,
+        "jump_chance_percentage": 0.8,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.slime_attack": {
+        "priority": 3
+      },
+      "minecraft:behavior.slime_random_direction": {
+        "priority": 4,
+        "add_random_time_range": 3,
+        "turn_range": 360,
+        "min_change_direction_time": 2.0
+      },
+      "minecraft:behavior.slime_keep_on_jumping": {
+        "priority": 5,
+        "speed_multiplier": 1.0
+      },
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 2,
+        "entity_types": [
+          {
+            "filters": {
+              "test": "is_family",
+              "subject": "other",
+              "value": "player"
+            },
+            "max_dist": 16
+          }
+        ],
+        "must_see": true
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "add": {
+          "component_groups": [
+            "minecraft:slime_calm"
+          ]
+        }
+      },
+      "minecraft:become_calm": {
+        "add": {
+          "component_groups": [
+            "minecraft:slime_calm"
+          ]
+        }
+      },
+      "minecraft:become_aggressive": {
+        "add": {
+          "component_groups": [
+            "minecraft:slime_aggressive"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:mule",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:mule_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale_by_age": {
+          "start_scale": 0.5,
+          "end_scale": 1.0
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": [
+            {
+              "item": "wheat",
+              "growth": 0.016667
+            },
+            {
+              "item": "sugar",
+              "growth": 0.025
+            },
+            {
+              "item": "hay_block",
+              "growth": 0.15
+            },
+            {
+              "item": "apple",
+              "growth": 0.05
+            },
+            {
+              "item": "golden_carrot",
+              "growth": 0.05
+            },
+            {
+              "item": "golden_apple",
+              "growth": 0.2
+            },
+            {
+              "item": "appleEnchanted",
+              "growth": 0.2
+            }
+          ],
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.follow_parent": {
+          "priority": 4,
+          "speed_multiplier": 1.0
+        }
+      },
+
+      "minecraft:mule_adult": {
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/horse.json"
+        },
+        "minecraft:behavior.run_around_like_crazy": {
+          "priority": 1,
+          "speed_multiplier": 1.2
+        }
+      },
+
+      "minecraft:mule_wild": {
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "player",
+            "zombie"
+          ],
+          "interact_text": "action.interact.mount",
+          "seats": {
+            "position": [ 0.0, 0.975, -0.2 ]
+          }
+        },
+        "minecraft:behavior.mount_pathing": {
+          "priority": 2,
+          "speed_multiplier": 1.5,
+          "target_dist": 0.0,
+          "track_target": true
+        },
+        "minecraft:tamemount": {
+          "min_temper": 0,
+          "max_temper": 100,
+          "feed_text": "action.interact.feed",
+          "ride_text": "action.interact.mount",
+          "feed_items": [
+            {
+              "item": "wheat",
+              "temper_mod": 3
+            },
+            {
+              "item": "sugar",
+              "temper_mod": 3
+            },
+            {
+              "item": "apple",
+              "temper_mod": 3
+            },
+            {
+              "item": "golden_carrot",
+              "temper_mod": 5
+            },
+            {
+              "item": "golden_apple",
+              "temper_mod": 10
+            },
+            {
+              "item": "appleEnchanted",
+              "temper_mod": 10
+            }
+          ],
+          "auto_reject_items": [
+            {
+              "item": "horsearmorleather"
+            },
+            {
+              "item": "horsearmoriron"
+            },
+            {
+              "item": "horsearmorgold"
+            },
+            {
+              "item": "horsearmordiamond"
+            },
+            {
+              "item": "saddle"
+            }
+          ],
+          "tame_event": {
+            "event": "minecraft:on_tame",
+            "target": "self"
+          }
+        }
+      },
+
+      "minecraft:mule_tamed": {
+        "minecraft:is_tamed": {
+        },
+        "minecraft:equippable": {
+          "slots": [
+            {
+              "slot": 0,
+              "item": "saddle",
+              "accepted_items": [ "saddle" ],
+              "on_equip": {
+                "event": "minecraft:mule_saddled"
+              },
+              "on_unequip": {
+                "event": "minecraft:mule_unsaddled"
+              }
+            }
+          ]
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "crouching_skip_interact": true,
+          "family_types": [
+            "player"
+          ],
+          "interact_text": "action.interact.ride.horse",
+          "seats": {
+            "position": [ 0.0, 0.975, -0.2 ]
+          }
+        },
+        "minecraft:inventory": {
+          "inventory_size": 16,
+          "container_type": "horse"
+        },
+        "minecraft:behavior.tempt": {
+          "priority": 5,
+          "speed_multiplier": 1.2,
+          "items": [
+            "apple",
+            "carrot",
+            "golden_apple",
+            "appleEnchanted",
+            "golden_carrot",
+            "carrotOnAStick",
+            "hay_block",
+            "sugar",
+            "bread",
+            "wheat"
+          ]
+        }
+      },
+
+      "minecraft:mule_unchested": {
+        "minecraft:interact": {
+          "interactions": [
+            {
+              "play_sounds": "armor.equip_generic",
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "chest"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"}
+                  ]
+                },
+                "event": "minecraft:on_chest",
+                "target": "self"
+              },
+              "use_item": true,
+              "interact_text": "action.interact.attachchest"
+            }
+          ]
+        }
+      },
+
+      "minecraft:mule_chested": {
+        "minecraft:is_chested": {
+
+        }
+      },
+
+      "minecraft:mule_saddled": {
+        "minecraft:is_saddled": {
+        },
+        "minecraft:input_ground_controlled": {
+        },
+        "minecraft:can_power_jump": {
+        },
+        "minecraft:behavior.player_ride_tamed": {
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:type_family": {
+        "family": [ "mule", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:collision_box": {
+        "width": 1.4,
+        "height": 1.6
+      },
+      "minecraft:health": {
+        "value": {
+          "range_min": 15,
+          "range_max": 30
+        }
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.175
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true,
+        "avoid_damage_blocks": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:horse.jump_strength": {
+        "value": 0.5
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:balloonable": {
+      },
+      "minecraft:healable": {
+        "items": [
+          {
+            "item": "wheat",
+            "heal_amount": 2
+          },
+          {
+            "item": "sugar",
+            "heal_amount": 1
+          },
+          {
+            "item": "hay_block",
+            "heal_amount": 20
+          },
+          {
+            "item": "apple",
+            "heal_amount": 3
+          },
+          {
+            "item": "golden_carrot",
+            "heal_amount": 4
+          },
+          {
+            "item": "golden_apple",
+            "heal_amount": 10
+          },
+          {
+            "item": "appleEnchanted",
+            "heal_amount": 10
+          }
+        ]
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 0.7
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 80,
+            "add": {
+              "component_groups": [
+                "minecraft:mule_adult",
+                "minecraft:mule_wild"
+              ]
+            }
+          },
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:mule_baby"
+              ]
+            }
+          }
+        ]
+      },
+
+      "minecraft:entity_born": {
+        "add": {
+          "component_groups": [
+            "minecraft:mule_baby"
+          ]
+        }
+      },
+
+      "minecraft:on_tame": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mule_wild"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mule_tamed",
+            "minecraft:mule_unchested"
+          ]
+        }
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mule_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mule_adult",
+            "minecraft:mule_wild"
+          ]
+        }
+      },
+
+      "minecraft:on_chest": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mule_unchested"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mule_chested"
+          ]
+        }
+      },
+
+      "minecraft:mule_saddled": {
+        "add": {
+          "component_groups": [
+            "minecraft:mule_saddled"
+          ]
+        }
+      },
+      "minecraft:mule_unsaddled": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mule_saddled"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:parrot",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:parrot_red": {
+        "minecraft:variant": { "value": 0 }
+      },
+      "minecraft:parrot_blue": {
+        "minecraft:variant": { "value": 1 }
+      },
+      "minecraft:parrot_green": {
+        "minecraft:variant": { "value": 2 }
+      },
+      "minecraft:parrot_cyan": {
+        "minecraft:variant": { "value": 3 }
+      },
+      "minecraft:parrot_silver": {
+        "minecraft:variant": { "value": 4 }
+      },
+
+      "minecraft:parrot_adult": {
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/parrot.json"
+        }
+      },
+
+      "minecraft:parrot_wild": {
+        "minecraft:type_family": {
+          "family": [ "parrot_wild", "mob" ]
+        },
+        "minecraft:tameable": {
+          "probability": 0.33,
+          "tame_items": [
+            "wheat_seeds",
+            "pumpkin_seeds",
+            "melon_seeds",
+            "beetroot_seeds"
+          ],
+          "tame_event": {
+            "event": "minecraft:on_tame",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.random_fly": {
+          "priority": 2,
+          "xz_dist": 15,
+          "y_dist": 1,
+          "y_offset": 0,
+          "speed_multiplier": 1.0,
+          "can_land_on_trees": true,
+          "avoid_damage_blocks": true
+        },
+        "minecraft:behavior.follow_mob": {
+          "priority": 3,
+          "speed_multiplier": 1.0,
+          "stop_distance": 3,
+          "search_range": 20
+        }
+      },
+
+      "minecraft:parrot_tame": {
+        "minecraft:type_family": {
+          "family": [ "parrot_tame", "mob" ]
+        },
+        "minecraft:is_tamed": {
+        },
+        "minecraft:behavior.follow_owner": {
+          "priority": 2,
+          "speed_multiplier": 1.0,
+          "start_distance": 5,
+          "stop_distance": 1
+        },
+        "minecraft:sittable": {
+        },
+        "minecraft:behavior.stay_while_sitting": {
+          "priority": 1
+        },
+        "minecraft:behavior.find_mount": {
+          "priority": 3,
+          "within_radius": 16,
+          "avoid_water": true,
+          "start_delay": 100,
+          "target_needed": false,
+          "mount_distance": 2.0
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height": 1
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:health": {
+        "value": 6,
+        "max": 6
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.4
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "cause": "fall",
+          "deals_damage": false
+        }
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_fly": {
+      },
+      "minecraft:navigation.fly": {
+        "can_path_over_water": true,
+        "can_path_from_air": true
+      },
+      "minecraft:movement.fly": {
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.panic": {
+        "priority": 0,
+        "speed_multiplier": 1.25
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 1,
+        "look_distance": 8.0
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      },
+      "minecraft:healable": {
+        "force_use": true,
+        "filters": { "test": "is_riding", "operator": "!=", "value": true },
+        "items": [
+          {
+            "item": "cookie",
+            "heal_amount": 0,
+            "effects": [
+              {
+                "name": "fatal_poison",
+                "chance": 1.0,
+                "duration": 1000,
+                "amplifier": 0
+              }
+            ]
+          }
+        ]
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:parrot_red",
+                "minecraft:parrot_adult",
+                "minecraft:parrot_wild"
+              ]
+            }
+          },
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:parrot_blue",
+                "minecraft:parrot_adult",
+                "minecraft:parrot_wild"
+              ]
+            }
+          },
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:parrot_green",
+                "minecraft:parrot_adult",
+                "minecraft:parrot_wild"
+              ]
+            }
+          },
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:parrot_cyan",
+                "minecraft:parrot_adult",
+                "minecraft:parrot_wild"
+              ]
+            }
+          },
+          {
+            "weight": 20,
+            "add": {
+              "component_groups": [
+                "minecraft:parrot_silver",
+                "minecraft:parrot_adult",
+                "minecraft:parrot_wild"
+              ]
+            }
+          }
+        ]
+      },
+      "minecraft:on_tame": {
+        "remove": {
+          "component_groups": [
+            "minecraft:parrot_wild"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:parrot_tame"
+          ]
+        }
+      }
+    }
+  }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 407/359 311/397/350
+s 326
+f 309/400/353 314/405/357 258/408/265
+s 327
+f 317/403/355 322/409/360 321/410/361 316/407/359
+s 328
+f 314/405/357 319/411/362 258/412/265
+s 329
+f 318/402/354 323/413/363 322/409/360 317/403/355
+s 330
+f 315/404/356 320/414/364 319/411/362 314/405/357
+s 331
+f 372/406/358 373/415/365 323/413/363 318/402/354
+s 332
+f 316/407/359 321/410/361 320/414/364 315/404/356
+s 333
+f 373/415/365 374/416/366 328/417/367 323/413/363
+s 334
+f 321/410/361 326/418/368 325/419/369 320/414/364
+s 335
+f 322/409/360 327/420/370 326/418/368 321/410/361
+s 336
+f 319/411/362 324/421/371 258/422/265
+s 337
+f 323/413/363 328/417/367 327/420/370 322/409/360
+s 338
+f 320/414/364 325/419/369 324/421/371 319/411/362
+s 339
+f 324/423/371 329/424/372 258/425/265
+s 340
+f 328/426/367 333/427/373 332/428/374 327/429/370
+s 341
+f 325/430/369 330/431/375 329/424/372 324/423/371
+s 342
+f 374/432/366 375/433/376 333/427/373 328/426/367
+s 343
+f 326/434/368 331/435/377 330/431/375 325/430/369
+s 344
+f 327/429/370 332/428/374 331/435/377 326/434/368
+s 345
+f 332/428/374 337/436/378 336/437/379 331/435/377
+s 346
+f 329/424/372 334/438/380 258/439/265
+s 347
+f 333/427/373 338/440/381 337/436/378 332/428/374
+s 348
+f 330/431/375 335/441/382 334/438/380 329/424/372
+s 349
+f 375/433/376 376/442/383 338/440/381 333/427/373
+s 350
+f 331/435/377 336/437/379 335/441/382 330/431/375
+s 351
+f 335/441/382 340/443/384 339/444/385 334/438/380
+s 352
+f 376/442/383 377/445/386 343/446/387 338/440/381
+s 353
+f 336/437/379 341/447/388 340/443/384 335/441/382
+s 354
+f 337/436/378 342/448/389 341/447/388 336/437/379
+s 355
+f 334/438/380 339/444/385 258/449/265
+s 356
+f 338/440/381 343/446/387 342/448/389 337/436/378
+s 357
+f 339/444/385 344/450/390 258/451/265
+s 358
+f 343/446/387 348/452/391 347/453/392 342/448/389
+s 359
+f 340/443/384 345/454/393 344/450/390 339/444/385
+s 360
+f 377/445/386 378/455/394 348/452/391 343/446/387
+s 361
+f 341/447/388 346/456/395 345/454/393 340/443/384
+s 362
+f 342/448/389 347/453/392 346/456/395 341/447/388
+s 363
+f 346/456/395 351/457/396 350/458/397 345/454/393
+s 364
+f 347/453/392 352/459/398 351/457/396 346/456/395
+s 365
+f 344/450/390 349/460/399 258/461/265
+s 366
+f 348/452/391 353/462/400 352/459/398 347/453/392
+s 367
+f 345/454/393 350/458/397 349/460/399 344/450/390
+s 368
+f 378/455/394 379/463/401 353/462/400 348/452/391
+s 369
+f 350/458/397 241/294/260 354/297/263 349/460/399
+s 370
+f 379/463/401 380/302/268 355/300/266 353/462/400
+s 371
+f 351/457/396 356/291/257 241/294/260 350/458/397
+s 372
+f 352/459/398 242/295/261 356/291/257 351/457/396
+s 373
+f 349/460/399 354/297/263 258/464/265
+s 374
+f 353/462/400 355/300/266 242/295/261 352/459/398
+s 375
+f 379/463/401 381/217/185 382/220/188 380/302/268
+s 376
+f 396/465/402 412/466/403 413/235/404 484/234/405 487/467/406
+s 377
+f 371/395/348 390/468/407 389/469/408 372/406/358
+s 378
+f 380/302/268 382/220/188 402/470/409 357/303/269
+s 379
+f 378/455/394 383/471/410 381/217/185 379/463/401
+s 380
+f 370/394/347 391/472/411 390/468/407 371/395/348
+s 381
+f 377/445/386 384/473/412 383/471/410 378/455/394
+s 382
+f 362/338/299 397/474/413 396/465/402 363/341/302
+s 383
+f 369/385/340 392/475/414 391/472/411 370/394/347
+s 384
+f 376/442/383 385/476/415 384/473/412 377/445/386
+s 385
+f 361/330/292 398/477/416 397/474/413 362/338/299
+s 386
+f 375/433/376 386/478/417 385/476/415 376/442/383
+s 387
+f 360/320/284 399/479/418 398/477/416 361/330/292
+s 388
+f 374/432/366 387/480/419 386/478/417 375/433/376
+s 389
+f 359/317/281 400/481/420 399/479/418 360/320/284
+s 390
+f 366/364/322 394/482/421 393/483/422 367/373/329
+s 391
+f 373/415/365 388/484/423 387/485/419 374/416/366
+s 392
+f 358/309/274 401/486/424 400/481/420 359/317/281
+s 393
+f 365/359/317 395/487/425 394/482/421 366/364/322
+s 394
+f 372/406/358 389/469/408 388/484/423 373/415/365
+s 395
+f 357/303/269 402/470/409 401/486/424 358/309/274
+s 396
+f 383/471/410 405/488/426 403/218/186 381/217/185
+s 397
+f 389/469/427 159/193/427 176/232/428 411/489/429
+s 398
+f 384/473/412 406/490/430 405/488/426 383/471/410
+s 399
+f 397/474/413 414/491/431 412/466/403 396/465/402
+s 400
+f 385/476/415 407/492/432 406/490/430 384/473/412
+s 401
+f 398/477/416 415/493/433 414/491/431 397/474/413
+s 402
+f 386/478/417 408/494/434 407/492/432 385/476/415
+s 403
+f 399/479/418 416/495/435 415/493/433 398/477/416
+s 404
+f 387/480/419 409/496/436 408/494/434 386/478/417
+s 405
+f 400/481/420 417/497/437 416/495/435 399/479/418
+s 406
+f 388/484/423 410/498/438 409/499/436 387/485/419
+s 407
+f 401/486/424 418/500/439 417/497/437 400/481/420
+s 408
+f 389/469/408 411/489/440 410/498/438 388/484/423
+s 409
+f 402/470/409 419/501/441 418/500/439 401/486/424
+s 410
+f 363/341/302 396/465/402 487/467/406 486/502/442 364/352/311
+s 411
+f 382/220/188 404/219/187 419/501/441 402/470/409
+s 412
+f 412/466/403 429/503/443 430/504/444 413/235/404
+s 413
+f 405/488/426 422/505/445 420/506/446 403/218/186
+s 414
+f 414/491/431 431/507/447 429/503/443 412/466/403
+s 415
+f 406/490/430 423/508/448 422/505/445 405/488/426
+s 416
+f 415/493/433 432/509/449 431/507/447 414/491/431
+s 417
+f 407/492/432 424/510/450 423/508/448 406/490/430
+s 418
+f 416/495/435 433/511/451 432/509/449 415/493/433
+s 419
+f 408/494/434 425/512/452 424/510/450 407/492/432
+s 420
+f 417/497/437 434/513/453 433/511/451 416/495/435
+s 421
+f 409/496/436 426/514/454 425/512/452 408/494/434
+s 422
+f 418/500/439 435/515/455 434/513/453 417/497/437
+s 423
+f 410/498/438 427/516/456 426/517/454 409/499/436
+s 424
+f 419/501/441 436/518/457 435/515/455 418/500/439
+s 425
+f 411/489/440 428/519/458 427/516/456 410/498/438
+s 426
+f 403/218/186 420/506/446 421/520/459 404/219/187
+s 427
+f 404/219/187 421/520/459 436/518/457 419/501/441
+s 428
+f 427/516/456 444/521/460 443/522/461 426/517/454
+s 429
+f 436/518/457 453/523/462 452/524/463 435/515/455
+s 430
+f 428/519/458 445/525/464 444/521/460 427/516/456
+s 431
+f 420/506/446 437/526/465 438/527/466 421/520/459
+s 432
+f 421/520/459 438/527/466 453/523/462 436/518/457
+s 433
+f 429/503/443 446/528/467 447/529/468 430/504/444
+s 434
+f 422/505/445 439/530/469 437/526/465 420/506/446
+s 435
+f 431/507/447 448/531/470 446/528/467 429/503/443
+s 436
+f 423/508/448 440/532/471 439/530/469 422/505/445
+s 437
+f 432/509/449 449/533/472 448/531/470 431/507/447
+s 438
+f 424/510/450 441/534/473 440/532/471 423/508/448
+s 439
+f 433/511/451 450/535/474 449/533/472 432/509/449
+s 440
+f 425/512/452 442/536/475 441/534/473 424/510/450
+s 441
+f 434/513/453 451/537/476 450/535/474 433/511/451
+s 442
+f 426/514/454 443/538/461 442/536/475 425/512/452
+s 443
+f 435/515/455 452/524/463 451/537/476 434/513/453
+s 444
+f 449/533/472 466/539/477 465/540/478 448/531/470
+s 445
+f 441/534/473 458/541/479 457/542/480 440/532/471
+s 446
+f 450/535/474 467/543/481 466/539/477 449/533/472
+s 447
+f 442/536/475 459/544/482 458/541/479 441/534/473
+s 448
+f 451/537/476 468/545/483 467/543/481 450/535/474
+s 449
+f 443/538/461 460/546/484 459/544/482 442/536/475
+s 450
+f 452/524/463 469/547/485 468/545/483 451/537/476
+s 451
+f 444/521/460 461/548/486 460/549/484 443/522/461
+s 452
+f 453/523/462 470/550/487 469/547/485 452/524/463
+s 453
+f 445/525/464 462/551/488 461/548/486 444/521/460
+s 454
+f 437/526/465 454/552/489 455/553/490 438/527/466
+s 455
+f 438/527/466 455/553/490 470/550/487 453/523/462
+s 456
+f 446/528/467 463/554/491 464/555/492 447/529/468
+s 457
+f 439/530/469 456/556/493 454/552/489 437/526/465
+s 458
+f 448/531/470 465/540/478 463/554/491 446/528/467
+s 459
+f 440/532/471 457/542/480 456/556/493 439/530/469
+s 460
+f 227/285/494 462/551/494 445/525/495 210/259/496
+s 461
+f 210/259/496 445/525/495 428/519/497 193/253/498
+s 462
+f 220/281/499 469/547/500 470/550/501 219/284/502
+s 463
+f 234/287/503 454/552/504 456/556/505 233/290/506
+s 464
+f 219/284/502 470/550/501 455/553/507 235/286/508
+s 465
+f 233/290/506 456/556/505 457/542/509 232/275/510
+s 466
+f 159/193/511 389/469/511 390/468/512 158/194/513
+s 467
+f 232/275/510 457/542/509 458/541/514 231/276/515
+s 468
+f 158/194/513 390/468/512 391/472/516 157/200/517
+s 469
+f 231/276/515 458/541/514 459/544/518 230/278/518
+s 470
+f 209/262/519 447/529/520 464/555/521 226/288/521
+s 471
+f 157/200/517 391/472/516 392/475/522 156/203/523
+s 472
+f 192/237/524 430/504/525 447/529/520 209/262/519
+s 473
+f 175/190/204 413/235/203 430/504/525 192/237/524
+s 474
+f 230/278/518 459/544/518 460/546/526 229/280/527
+s 475
+f 193/253/498 428/519/497 411/489/429 176/232/428
+s 476
+f 364/352/311 486/502/442 485/557/528 395/487/425 365/359/317
+s 477
+f 229/282/527 460/549/526 461/548/529 228/283/530
+s 478
+f 228/283/530 461/548/529 462/551/531 227/285/531
+s 479
+f 155/210/532 393/483/533 394/482/534 154/211/535
+s 480
+f 226/288/536 464/555/536 463/554/537 225/289/538
+s 481
+f 154/211/535 394/482/534 395/487/539 153/197/540
+s 482
+f 225/289/538 463/554/537 465/540/541 224/273/542
+s 483
+f 128/52/47 129/62/55 482/199/168 481/188/157 152/192/161
+s 484
+f 224/273/542 465/540/541 466/539/543 223/274/544
+s 485
+f 223/274/544 466/539/543 467/543/545 222/277/546
+s 486
+f 222/277/546 467/543/545 468/545/547 221/279/548
+s 487
+f 221/279/548 468/545/547 469/547/500 220/281/499
+s 488
+f 235/286/508 455/553/507 454/552/504 234/287/503
+s 489
+f 132/83/73 133/558/74 155/210/179
+s 490
+f 393/483/533 155/210/532 133/558/549 368/559/549
+s 491
+f 134/105/92 156/203/172 133/104/91
+s 492
+f 392/475/522 368/559/550 133/558/550 156/203/523
+s 493
+f 368/559/330 392/475/414 369/385/340
+s 494
+f 367/373/329 393/483/422 368/559/330
+s 495
+f 167/186/155 184/236/205 183/215/183 166/187/156
+s 496
+f 55/82/72 54/80/70 59/94/83 473/88/78
+s 497
+f 58/81/71 57/78/69 474/91/81 471/85/75
+s 498
+f 57/78/69 56/77/68 472/87/77 474/91/81
+s 499
+f 56/77/68 55/82/72 473/88/78 472/87/77
+s 500
+f 132/83/73 58/81/71 471/85/75 133/84/74
+s 501
+f 62/92/551 61/90/552 478/106/93 476/97/85
+s 502
+f 61/90/552 60/89/79 477/100/88 478/106/93
+s 503
+f 133/558/91 63/86/553 475/96/84
+s 504
+f 60/89/79 59/101/83 477/100/88
+s 505
+f 63/86/553 62/92/551 476/97/85 475/96/84
+s 506
+f 479/198/167 483/560/554 480/561/158 481/188/157 482/199/168
+s 507
+f 484/234/405 488/562/555 485/563/528 486/502/442 487/467/406
+s 508
+f 479/198/556 485/557/557 488/562/558 483/564/559
+s 509
+f 483/564/559 488/562/558 484/234/202 480/189/201
+s 510
+f 153/197/540 395/487/539 485/557/557 479/198/556

@@ -1,0 +1,3801 @@
+# Blender v2.80 (sub 75) OBJ File: 'KayKit Character Exporter.blend'
+# www.blender.org
+mtllib knightHeadB.mtl
+o knightHeadB_Cube.3515
+v 0.225161 0.401938 0.426276
+v 0.254519 0.355825 0.406292
+v 0.258003 0.447108 0.468028
+v 0.249593 0.479715 0.448255
+v 0.261642 0.473731 0.460872
+v 0.275663 0.479715 0.456007
+v 0.237896 0.447108 0.456217
+v 0.267254 0.493221 0.436234
+v 0.279147 0.447108 0.464197
+v 0.249593 0.369332 0.448255
+v 0.258003 0.401938 0.468028
+v 0.261642 0.375315 0.460872
+v 0.275663 0.369332 0.456007
+v 0.237896 0.401938 0.456217
+v 0.279147 0.401938 0.464197
+v 0.267254 0.355825 0.436234
+v 0.236859 0.369332 0.418314
+v 0.254519 0.493221 0.406292
+v 0.225161 0.447108 0.426276
+v 0.236859 0.479715 0.418314
+v 0.301152 0.355825 0.413111
+v 0.329668 0.401938 0.393127
+v 0.313116 0.401938 0.441074
+v 0.318498 0.369332 0.401089
+v 0.320546 0.375315 0.420761
+v 0.327219 0.401938 0.420862
+v 0.309633 0.369332 0.432884
+v 0.301212 0.493221 0.413111
+v 0.313116 0.447108 0.441074
+v 0.329620 0.447108 0.393127
+v 0.309633 0.479715 0.432884
+v 0.320532 0.473731 0.420761
+v 0.327205 0.447108 0.420862
+v 0.318509 0.479715 0.401089
+v 0.287910 0.355825 0.383170
+v 0.315720 0.401938 0.363186
+v 0.304895 0.369332 0.371148
+v 0.288128 0.493221 0.383170
+v 0.315648 0.447108 0.363186
+v 0.304915 0.479715 0.371148
+v -0.315637 0.401938 0.363186
+v -0.287885 0.355825 0.383170
+v -0.327202 0.447108 0.420863
+v -0.318494 0.479715 0.401090
+v -0.320530 0.473731 0.420762
+v -0.309633 0.479715 0.432884
+v -0.329584 0.447108 0.393127
+v -0.301211 0.493221 0.413111
+v -0.313116 0.447108 0.441074
+v -0.318483 0.369332 0.401090
+v -0.327216 0.401938 0.420863
+v -0.320545 0.375315 0.420762
+v -0.309633 0.369332 0.432884
+v -0.329634 0.401938 0.393127
+v -0.313116 0.401938 0.441074
+v -0.301149 0.355825 0.413111
+v -0.304844 0.369332 0.371148
+v -0.288113 0.493221 0.383170
+v -0.315562 0.447108 0.363186
+v -0.304865 0.479715 0.371148
+v -0.267253 0.355825 0.436234
+v -0.237896 0.401938 0.456217
+v -0.279147 0.401938 0.464197
+v -0.249593 0.369332 0.448255
+v -0.261642 0.375315 0.460872
+v -0.258003 0.401938 0.468028
+v -0.275663 0.369332 0.456007
+v -0.267253 0.493221 0.436234
+v -0.279147 0.447108 0.464197
+v -0.237896 0.447108 0.456217
+v -0.275663 0.479715 0.456007
+v -0.261642 0.473731 0.460872
+v -0.258003 0.447108 0.468028
+v -0.249593 0.479715 0.448255
+v -0.254519 0.355825 0.406292
+v -0.225161 0.401938 0.426276
+v -0.236858 0.369332 0.418314
+v -0.254519 0.493221 0.406292
+v -0.225161 0.447108 0.426276
+v -0.236858 0.479715 0.418314
+v -0.188422 0.025092 0.291642
+v -0.133234 0.025092 0.337847
+v -0.068967 0.025092 0.369376
+v -0.000000 0.025092 0.378455
+v 0.068967 0.025092 0.369376
+v 0.133234 0.025092 0.337847
+v 0.188422 0.025092 0.291642
+v -0.250000 0.080361 0.325969
+v -0.176777 0.080361 0.382155
+v -0.091506 0.080361 0.417475
+v -0.000000 0.080361 0.429522
+v 0.091506 0.080361 0.417475
+v 0.176777 0.080361 0.382155
+v 0.250000 0.080361 0.325969
+v -0.055547 0.245846 0.428419
+v -0.049539 0.277458 0.528031
+v -0.090113 0.269809 0.428419
+v -0.012018 0.543045 0.487426
+v -0.032549 0.543045 0.458616
+v -0.037898 0.560746 0.428419
+v -0.037582 0.252359 0.271997
+v -0.066224 0.274104 0.271997
+v -0.087381 0.300047 0.271997
+v -0.059556 0.543045 0.271997
+v 0.055552 0.245832 0.428419
+v 0.090128 0.269787 0.428419
+v 0.049732 0.277480 0.528031
+v 0.012080 0.543045 0.487447
+v 0.032548 0.543045 0.458486
+v 0.037898 0.560746 0.428419
+v 0.037586 0.252359 0.271997
+v 0.066227 0.274104 0.271997
+v 0.087385 0.300047 0.271997
+v 0.059560 0.543045 0.271997
+v -0.162106 0.503086 0.425825
+v -0.161738 0.507293 0.408168
+v -0.148161 0.501695 0.427990
+v -0.148251 0.505913 0.411746
+v -0.136592 0.503499 0.430661
+v -0.138324 0.506781 0.416293
+v -0.160395 0.522645 0.385263
+v -0.146520 0.519544 0.391733
+v -0.135394 0.517456 0.402118
+v -0.161156 0.513949 0.394153
+v -0.147727 0.511501 0.400088
+v -0.137950 0.511054 0.407798
+v -0.121525 0.514366 0.432008
+v -0.128057 0.507607 0.431887
+v -0.127376 0.515755 0.414961
+v -0.132109 0.509779 0.417211
+v -0.154893 0.569804 0.385289
+v -0.153813 0.582147 0.394275
+v -0.141030 0.567470 0.391715
+v -0.140487 0.578918 0.40011/********************************************************
++*   (c) Mojang. All rights reserved                       *
++*   (c) Microsoft. All rights reserved.                   *
++*********************************************************/
+
+{
+  "namespace": "common_buttons",
+
+  /////////////////////////////////
+  //
+  //  BUTTON CONTROLS
+  //
+  /////////////////////////////////
+
+  "button_image": {
+    "type": "image",
+    "layer": 1,
+    "texture": "$new_ui_button_texture",
+    "$button_alpha|default": "$content_alpha",
+    "alpha": "$button_alpha",
+    "$button_image_bindings|default": [],
+    "bindings": "$button_image_bindings"
+  },
+
+  "background_button_image": {
+    "type": "image",
+    "layer": 1,
+    "texture": "textures/ui/button_borderless_imagelesshoverbg",
+    "alpha": "$content_alpha"
+  },
+
+  "locked_button_image": {
+    "type": "image",
+    "layer": 1,
+    "texture": "$new_ui_button_texture",
+    "alpha": "$content_alpha"
+  },
+
+  "light_button_assets@common.button": {
+    "$default_button_texture|default": "textures/ui/button_borderless_light",
+    "$default_content_alpha|default": 1,
+    "$hover_content_alpha|default": 1,
+    "$hover_button_texture|default": "textures/ui/button_borderless_lighthover",
+    "$pressed_button_texture|default": "textures/ui/button_borderless_lightpressed",
+    "$locked_button_texture|default": "textures/ui/disabledButtonNoBorder",
+
+    "locked_control": "locked",
+
+    "$default_font|default": "default",
+    "$font_type": "$default_font",
+    "$locked_alpha": 1
+  },
+
+  "dark_button_assets@common.button": {
+    "$default_button_texture|default": "textures/ui/button_borderless_dark",
+    "$hover_button_texture|default": "textures/ui/button_borderless_darkhover",
+    "$pressed_button_texture|default": "textures/ui/button_borderless_darkpressed",
+    "$locked_button_texture|default": "textures/ui/disabledButtonNoBorder",
+
+    "locked_control": "locked",
+
+    "$locked_alpha": 1
+  },
+
+  "focus_border": {
+    "$focus_border_texture|default": "textures/ui/focus_border_white",
+    "$focus_border_size|default": [ "100%", "100%" ],
+    "size": "$focus_border_size",
+    "type": "image",
+    "texture": "$focus_border_texture"
+  },
+
+  "new_ui_button_panel": {
+    "type": "panel",
+    "$button_alpha|default": 1,
+    "layer": 1,
+    "$button_size_override|default": [ "100%", "100%" ],
+    "size": "$button_size_override",
+    "$content_alpha|default": 1,
+    "$button_image|default": "common_buttons.button_image",
+    "$button_image_visible|default": true,
+    "$button_image_size|default": [ "100% - 2px", "100% - 2px" ],
+    "$image_anchor|default": "center",
+    "$image_offset|default": [ 0, 0 ],
+    "$border_visible|default": true,
+    "$border_alpha|default": 1,
+    "$button_anchor_to|default": "center",
+    "$button_anchor_from|default": "center",
+    "anchor_to": "$button_anchor_to",
+    "anchor_from": "$button_anchor_from",
+    "$button_image_fill|default": false,
+    "$button_image_color|default": [ 1.0, 1.0, 1.0 ],
+    "controls": [
+      {
+        "$button_image@$button_image": {
+          "ignored": "(not $button_image_visible)",
+          "size": "$button_image_size",
+          "offset": "$image_offset",
+          "anchor_from": "$image_anchor",
+          "anchor_to": "$image_anchor",
+          "layer": 1,
+          "fill": "$button_image_fill",
+          "color": "$button_image_color"
+        }
+      },
+      {
+        "button_content": {
+          "type": "panel",
+          "$button_content_size|default": [ "100% - 6px", "100% - 6px" ],
+          "size": "$button_content_size",
+
+          "controls": [
+            {
+              "$button_type_panel@$button_type_panel": {
+                "layer": 3
+              }
+            }
+          ]
+        }
+      },
+      {
+        "border@common_buttons.focus_border": {
+          "color": "$border_color",
+          "layer": "$border_layer",
+          "alpha": "$border_alpha",
+          "ignored": "(not $border_visible)"
+        }
+      }
+    ]
+  },
+
+  "new_ui_form_fitting_button_panel": {
+    "type": "panel",
+    "layer": 1,
+    "size": "$button_size_override",
+    "$button_size_override|default": [ "100%c", "100%c" ],
+    "$focus_border_size_override|default": [ "100%c + 2px", "100%c + 2px" ],
+    "$button_image_size_override|default": [ "100%c + 2px", "100%c + 2px" ],
+    "$button_content_size_override|default": [ "100%c + 6px", "100%c + 6px" ],
+
+    "$content_alpha|default": 1,
+    "anchor_from": "$anchor",
+    "anchor_to": "$anchor",
+    "controls": [
+      {
+        "border@common_buttons.focus_border": {
+          "color": "$border_color",
+          "layer": "$border_layer",
+          "size": "$focus_border_size_override",
+          "$button_image|default": "common_buttons.button_image",
+          "controls": [
+            {
+              "$button_image@$button_image": {
+                "size": "$button_image_size_override",
+                "$form_fitting_min_size|default": [ 0, 0 ],
+                "min_size": "$form_fitting_min_size",
+                "layer": 1,
+                "controls": [
+                  {
+                    "button_content": {
+                      "type": "panel",
+                      "size": "$button_content_size_override",
+                      "controls": [
+                        {
+                          "$button_type_panel@$button_type_panel": {
+                            "layer": 3
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "new_ui_width_fitting_button_panel": {
+    "type": "panel",
+    "layer": 1,
+    "$button_size_override|default": [ "100%c", "100%" ],
+    "size": "$button_size_override",
+    "$content_alpha|default": 1,
+    "anchor_from": "$anchor",
+    "anchor_to": "$anchor",
+    "controls": [
+      {
+        "border@common_buttons.focus_border": {
+          "color": "$border_color",
+          "layer": "$border_layer",
+          "size": [ "100%c + 2px", "100%" ],
+          "$button_image|default": "common_buttons.button_image",
+          "controls": [
+            {
+              "$button_image@$button_image": {
+                "size": [ "100%c + 2px", "100% - 2px" ],
+                "layer": 1,
+                "controls": [
+                  {
+                    "button_content": {
+                      "type": "panel",
+                      "size": [ "100%c + 6px", "100% - 6px" ],
+                      "controls": [
+                        {
+                          "$button_type_panel@$button_type_panel": {
+                            "layer": 3
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "new_ui_height_fitting_button_panel": {
+    "type": "panel",
+    "layer": 1,
+    "$button_size_override|default": [ "100%", "100%c" ],
+    "size": "$button_size_override",
+    "$button_min_size_override|default": [ "100%", "100%c" ],
+    "min_size": "$button_min_size_override",
+    "$content_alpha|default": 1,
+    "$anchor|default": "center",
+    "anchor_from": "$anchor",
+    "anchor_to": "$anchor",
+    "controls": [
+      {
+        "border@common_buttons.focus_border": {
+          "color": "$border_color",
+          "layer": "$border_layer",
+          "size": [ "100%", "100%c + 2px" ],
+          "$button_border_min_size_override|default": [ "100%", "100%c + 2px" ],
+          "min_size": "$button_border_min_size_override",
+          "$button_image|default": "common_buttons.button_image",
+          "controls": [
+            {
+              "$button_image@$button_image": {
+                "size": [ "100% - 2px", "100%c + 2px" ],
+                "$button_image_min_size_override|default": [ "100% - 2px", "100%c + 2px" ],
+                "min_size": "$button_image_min_size_override",
+                "layer": 1,
+                "$button_image_color|default": [ 1.0, 1.0, 1.0 ],
+                "color": "$button_image_color",
+                "controls": [
+                  {
+                    "button_content": {
+                      "type": "panel",
+                      "size": [ "100% - 6px", "100%c + 6px" ],
+                      "controls": [
+                        {
+                          "$button_type_panel@$button_type_panel": {
+                            "layer": 3
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "borderless_form_fitting_button_panel": {
+    "type": "panel",
+    "layer": 1,
+    "$button_size_override|default": [ "100%c", "100%c" ],
+    "$button_image|default": "common_buttons.button_image",
+    "size": "$button_size_override",
+    "$button_panel_offset|default": [ 0, 0 ],
+    "offset": "$button_panel_offset",
+    "$content_alpha|default": 1,
+    "anchor_from": "$anchor",
+    "anchor_to": "$anchor",
+    "controls": [
+      {
+        "$button_image@$button_image": {
+          "size": [ "100%c + 4px", "100%c" ],
+          "layer": 1,
+          "controls": [
+            {
+              "button_content": {
+                "type": "panel",
+                "size": [ "100%c", "100%c" ],
+                "controls": [
+                  {
+                    "$button_type_panel@$button_type_panel": {
+                      "layer": 3
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  /////////////////////////////////
+  //
+  //  TEXT BUTTON
+  //
+  /////////////////////////////////
+
+  // This needs you to define the button mapping and the size of the button
+  "light_text_button@light_button_assets": {
+    "$button_offset|default": [ 0, 0 ],
+    "$button_pressed_offset|default": [ 0, 1 ],
+    "$button_text|default": "",
+    "$button_font_size|default": "normal",
+    "$button_font_scale_factor|default": 1.0,
+    "$pressed_alpha|default": 1,
+    "$default_button_alpha|default": 1,
+    "$default_hover_alpha|default": 1,
+    "$default_pressed_alpha|default": 1,
+    "$default_button_pressed_offset|default": [ 0, 1 ],
+
+    "$default_text_color|default": "$light_button_default_text_color",
+    "$hover_text_color|default": "$light_button_hover_text_color",
+    "$pressed_text_color|default": "$light_button_pressed_text_color",
+    "$locked_text_color|default": "$light_button_locked_text_color",
+
+    // For text bindings
+    "$button_text_binding_type|default": "none",
+    "$button_binding_condition|default": "none",
+    "$button_text_grid_collection_name|default": "",
+
+    "$button_type_panel": "common_buttons.new_ui_binding_button_label",
+    "$button_state_panel|default": "common_buttons.new_ui_button_panel",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$default_text_color",
+          "$secondary_text_color": "$light_button_secondary_default_text_color",
+          "$content_alpha": "$default_content_alpha",
+          "$border_color": "$light_border_default_color",
+          "$border_layer": 2,
+          "$default_state": true,
+          "$button_alpha": "$default_button_alpha",
+          "layer": 1
+        }
+      },
+      {
+        "hover@$button_state_panel": {
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$text_color": "$hover_text_color",
+          "$secondary_text_color": "$light_button_secondary_hover_text_color",
+          "$content_alpha": 1,
+          "$border_color": "$light_border_hover_color",
+          "$border_layer": 4,
+          "$hover_state": true,
+          "$button_alpha": "$default_hover_alpha",
+          "layer": 4 // This is several layers higher than default in case two buttons share a border and that shared border needs to turn with with either button hover/press state
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$text_color": "$pressed_text_color",
+          "$secondary_text_color": "$light_button_secondary_pressed_text_color",
+          "$button_offset|default": "$button_pressed_offset",
+          "$content_alpha": "$pressed_alpha",
+          "$border_color": "$light_border_pressed_color",
+          "$border_layer": 5,
+          "$pressed_state": true,
+          "$button_alpha": "$default_pressed_alpha",
+          "layer": 5
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$locked_text_color",
+          "$secondary_text_color": "$light_button_secondary_locked_text_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$light_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_layer": 1,
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "dark_text_button@dark_button_assets": {
+    "$button_offset|default": [ 0, 0 ],
+    "$button_pressed_offset|default": [ 0, 1 ],
+    "$button_text|default": "",
+    "$pressed_alpha|default": 1,
+
+    // For text bindings
+    "$button_text_binding_type|default": "none",
+    "$button_binding_condition|default": "none",
+    "$button_text_grid_collection_name|default": "",
+
+    "$button_type_panel": "common_buttons.new_ui_binding_button_label",
+    "$button_state_panel|default": "common_buttons.new_ui_button_panel",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$dark_button_default_text_color",
+          "$secondary_text_color": "$dark_button_secondary_default_text_color",
+          "$content_alpha": 1,
+          "$border_color": "$dark_border_default_color",
+          "$border_layer": 2,
+          "$default_state": true,
+          "layer": 1
+        }
+      },
+      {
+        "hover@$button_state_panel": {
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$text_color": "$dark_button_hover_text_color",
+          "$secondary_text_color": "$dark_button_secondary_hover_text_color",
+          "$content_alpha": 1,
+          "$border_color": "$dark_border_hover_color",
+          "$border_layer": 4,
+          "$hover_state": true,
+          "layer": 4 // This is several layers higher than default in case two buttons share a border and that shared border needs to turn with with either button hover/press state
+
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$text_color": "$dark_button_pressed_text_color",
+          "$secondary_text_color": "$dark_button_secondary_pressed_text_color",
+          "$button_offset|default": "$button_pressed_offset",
+          "$content_alpha": "$pressed_alpha",
+          "$border_color": "$dark_border_pressed_color",
+          "$border_layer": 5,
+          "$pressed_state": true,
+          "layer": 5
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$dark_button_locked_text_color",
+          "$secondary_text_color": "$dark_button_secondary_locked_text_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$dark_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_layer": 1,
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "new_ui_binding_button_label": {
+    "type": "label",
+    "layer": 2,
+    "text": "$button_text",
+    "color": "$text_color",
+    "$font_type|default": "default",
+    "font_type": "$font_type",
+    "font_size": "$button_font_size",
+    "$button_font_scale_factor|default": 1.0,
+    "font_scale_factor": "$button_font_scale_factor",
+    "$button_font_size|default": "normal",
+    "$new_ui_label_offset|default": "$button_offset",
+    "offset": "$new_ui_label_offset",
+    "$anchor|default": "center",
+    "anchor_from": "$anchor",
+    "anchor_to": "$anchor",
+    "shadow": false,
+    "$button_text_size|default": [ "default", "default" ],
+    "size": "$button_text_size",
+    "$button_text_max_size|default": [ "100%", 10 ], // Per design buttons are single line text only
+    "max_size": "$button_text_max_size",
+    "$text_alignment|default": "center",
+    "text_alignment": "$text_alignment",
+    "$tts_section_header|default": "",
+    "tts_section_header": "$tts_section_header",
+    "$button_text_collection_details|default": "none",
+    "$button_text_collection_prefix|default": "",
+    "bindings": [
+      {
+        "binding_type": "$button_text_collection_details",
+        "binding_collection_name": "$button_text_grid_collection_name",
+        "binding_collection_prefix": "$button_text_collection_prefix"
+      },
+      {
+        "binding_type": "$button_text_binding_type",
+        "binding_condition": "$button_binding_condition",
+        "binding_collection_name": "$button_text_grid_collection_name",
+        "binding_name": "$button_text",
+        "binding_name_override": "$button_text"
+      }
+    ]
+  },
+
+  "underline_button@common.button": {
+    "size": [ "100%c", "100%c" ],
+
+    "$underline_button_size|default": [ "100%c", "100%c" ],
+    "$single_label_size": [ "default", 8 ],
+    "$single_line_font_scale_factor": 0.8,
+    "$pressed_button_name|default": "",
+    "$mashup_collection_binding_type|default": "global",
+    "$mashup_collection_name|default": "",
+    "controls": [
+      {
+        "default": {
+          "type": "panel",
+          "size": "$underline_button_size",
+          "controls": [
+            {
+              "label_default@common.single_line_label": {
+                "$single_line_label_color": "$dark_button_default_text_color",
+                "$underline_control": [
+                  {
+                    "underline_default@common.underline": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "hover": {
+          "type": "panel",
+          "size": "$underline_button_size",
+          "controls": [
+            {
+              "label_hover@common.single_line_label": {
+                "$single_line_label_color|default": [ 0.215, 0.839, 0.118 ],
+                "$underline_control": [
+                  {
+                    "underline_hover@common.underline": {
+                      "$texture": "textures/ui/underline_focus"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "pressed": {
+          "type": "panel",
+          "size": "$underline_button_size",
+          "controls": [
+            {
+              "label_hover@common.single_line_label": {
+                "$single_line_label_color|default": [ 0.215, 0.839, 0.118 ],
+                "$underline_control": [
+                  {
+                    "underline_hover@common.underline": {
+                      "$texture": "textures/ui/underline_focus"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "read_button": {
+    "type": "panel",
+    "size": [ "100%", "100%c" ],
+    "$offset|default": [ 0, 0 ],
+    "controls": [
+      {
+        "read_button_inner@common_buttons.underline_button": {
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right",
+          "offset": "$offset",
+          "$bindings|default": [],
+          "bindings": "$bindings"
+        }
+      }
+    ]
+  },
+
+  /////////////////////////////////
+  //
+  //  FORM FITTING CONTENT BUTTON
+  //
+  /////////////////////////////////
+
+  // Max size will be the size specified for the button, otherwise will shrink the width to fit the text, also only single line
+  // The default height of the button will be 20 texels which is the minimum required for touch target size
+  "light_content_form_fitting_button@common_buttons.light_content_button": {
+    "size": [ "100%c", "20px" ],
+    "$button_state_panel|default": "common_buttons.new_ui_form_fitting_button_panel",
+    "$anchor": "top_left", // Cannot override this or will cause unsolvable layout!
+    "$button_offset|default": [ 3, 3 ],
+    "$button_pressed_offset|default": [ 3, 4 ],
+    "$button_type_panel": "common_buttons.horizontal_form_fitting"
+  },
+
+  "dark_content_form_fitting_button@common_buttons.dark_content_button": {
+    "size": [ "100%c", "20px" ],
+    "$button_state_panel|default": "common_buttons.new_ui_form_fitting_button_panel",
+    "$anchor": "top_left", // Cannot override this or will cause unsolvable layout!
+    "$button_offset|default": [ 3, 3 ],
+    "$button_pressed_offset|default": [ 3, 4 ],
+    "$button_type_panel": "common_buttons.horizontal_form_fitting"
+  },
+
+  /////////////////////////////////
+  //
+  //  FORM FITTING TEXT BUTTON
+  //
+  /////////////////////////////////
+
+  // Max size will be the size specified for the button, otherwise will shrink the width to fit the text, also only single line
+  // The default height of the button will be 20 texels which is the minimum required for touch target size
+  "light_text_form_fitting_button@common_buttons.light_text_button": {
+    "size": [ "100%c", "100%c" ],
+    "$button_state_panel|default": "common_buttons.new_ui_form_fitting_button_panel",
+    "$anchor": "top_left", // Cannot override this or will cause unsolvable layout!
+    "$button_offset|default": [ 3, 3 ],
+    "$button_pressed_offset|default": [ 3, 4 ],
+    "$button_text_max_size": [ "100%c", 10 ]
+  },
+
+  "dark_text_form_fitting_button@common_buttons.dark_text_button": {
+    "size": [ "100%c", "100%c" ],
+    "$button_state_panel|default": "common_buttons.new_ui_form_fitting_button_panel",
+    "$anchor": "top_left", // Cannot override this or will cause unsolvable layout!
+    "$button_offset|default": [ 3, 3 ],
+    "$button_pressed_offset|default": [ 3, 4 ],
+    "$button_text_max_size": [ "100%c", 10 ]
+  },
+
+  /////////////////////////////////
+  //
+  //  GENERIC CONTENT BUTTON
+  //
+  /////////////////////////////////
+
+  "transparent_content_button@common_buttons.light_content_button": {
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right",
+    "layer": 2,
+    "$default_button_texture": "textures/ui/imagetaggedcorner",
+    "$hover_button_texture": "textures/ui/imagetaggedcorner",
+    "$pressed_button_texture": "textures/ui/imagetaggedcorner",
+    "$locked_button_texture": "textures/ui/imagetaggedcorner",
+    "$default_color": "white",
+    "$default_font": "smooth",
+    "$button_offset": [ 0, 0 ],
+    "$border_visible": false,
+    "$default_state_border_visible": false,
+    "$hover_state_border_visible": false,
+    "$pressed_state_border_visible": false,
+    "$locked_state_border_visible": false
+  },
+
+  "single_image_with_border_button@common_buttons.light_content_button": {
+    "$button_offset": [ 0, 0 ],
+    "$button_content|default": "common.empty_panel",
+    "$button_image_visible": false,
+    "$button_content_size": [ "100% - 2px", "100% - 2px" ]
+  },
+
+  "light_content_button@light_button_assets": {
+
+    "$button_offset|default": [ 0, 0 ],
+    "$button_pressed_offset|default": [ 0, 1 ],
+    "$pressed_alpha|default": 1,
+    "$button_type_panel|default": "common_buttons.button_content_panel",
+    "$button_content|default": "common.empty_panel",
+    "$button_state_panel|default": "common_buttons.new_ui_button_panel",
+
+    "$default_button_alpha|default": 1,
+    "$default_hover_alpha|default": 1,
+    "$default_pressed_alpha|default": 1,
+    "$border_default_alpha|default": 1,
+
+    "$border_default_layer|default": 2,
+    "$border_hover_layer|default": 3,
+    "$border_pressed_layer|default": 3,
+    "$border_locked_layer|default": 1,
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+    "$default_state_border_visible|default": true,
+    "$hover_state_border_visible|default": true,
+    "$pressed_state_border_visible|default": true,
+    "$locked_state_border_visible|default": true,
+
+    "$default_text_color|default": "$light_button_default_text_color",
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$default_text_color",
+          "$content_alpha": "$default_content_alpha",
+          "$secondary_text_color": "$light_button_secondary_default_text_color",
+          "$glyph_color": "$light_glyph_default_color",
+          "$border_color": "$light_border_default_color",
+          "$button_alpha": "$default_button_alpha",
+          "$border_visible": "$default_state_border_visible",
+          "$border_layer": "$border_default_layer",
+          "$default_state": true,
+          "$border_alpha": "$border_default_alpha",
+          "layer": 1
+        }
+      },
+
+      {
+        "hover@$button_state_panel": {
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$text_color": "$light_button_hover_text_color",
+          "$secondary_text_color": "$light_button_secondary_hover_text_color",
+          "$glyph_color": "$light_glyph_hover_color",
+          "$content_alpha": "$hover_content_alpha",
+          "$border_color": "$light_border_hover_color",
+          "$border_visible": "$hover_state_border_visible",
+          "$border_layer": "$border_hover_layer",
+          "$hover_state": true,
+          "$button_alpha": "$default_hover_alpha",
+          "layer": 2
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$text_color": "$light_button_pressed_text_color",
+          "$secondary_text_color": "$light_button_secondary_pressed_text_color",
+          "$glyph_color": "$light_glyph_pressed_color",
+          "$content_alpha": "$pressed_alpha",
+          "$button_offset": "$button_pressed_offset",
+          "$border_color": "$light_border_pressed_color",
+          "$border_visible": "$pressed_state_border_visible",
+          "$border_layer": "$border_pressed_layer",
+          "$button_alpha": "$default_pressed_alpha",
+          "$pressed_state": true,
+          "layer": 3
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$light_button_locked_text_color",
+          "$secondary_text_color": "$light_button_secondary_locked_text_color",
+          "$glyph_color": "$light_glyph_locked_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$light_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_visible": "$locked_state_border_visible",
+          "$border_layer": "$border_locked_layer",
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "light_content_button_control_content@common_buttons.light_content_button": {
+
+    "$button_content|default": "common.empty_panel",
+    "$button_content_hover|default": "common.empty_panel",
+    "$button_content_pressed|default": "common.empty_panel",
+    "$button_content_locked|default": "common.empty_panel",
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$button_content": "$button_content",
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$default_text_color",
+          "$content_alpha": "$default_content_alpha",
+          "$secondary_text_color": "$light_button_secondary_default_text_color",
+          "$glyph_color": "$light_glyph_default_color",
+          "$border_color": "$light_border_default_color",
+          "$button_alpha": "$default_button_alpha",
+          "$border_visible": "$default_state_border_visible",
+          "$border_layer": 2,
+          "$default_state": true,
+          "$border_alpha": "$border_default_alpha",
+          "layer": 1
+        }
+      },
+
+      {
+        "hover@$button_state_panel": {
+          "$button_content": "$button_content_hover",
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$text_color": "$light_button_hover_text_color",
+          "$secondary_text_color": "$light_button_secondary_hover_text_color",
+          "$glyph_color": "$light_glyph_hover_color",
+          "$content_alpha": "$hover_content_alpha",
+          "$border_color": "$light_border_hover_color",
+          "$border_visible": "$hover_state_border_visible",
+          "$border_layer": 3,
+          "$hover_state": true,
+          "$button_alpha": "$default_hover_alpha",
+          "layer": 2
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$button_content": "$button_content_pressed",
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$text_color": "$light_button_pressed_text_color",
+          "$secondary_text_color": "$light_button_secondary_pressed_text_color",
+          "$glyph_color": "$light_glyph_pressed_color",
+          "$content_alpha": "$pressed_alpha",
+          "$button_offset": "$button_pressed_offset",
+          "$border_color": "$light_border_pressed_color",
+          "$border_visible": "$pressed_state_border_visible",
+          "$border_layer": 3,
+          "$button_alpha": "$default_pressed_alpha",
+          "$pressed_state": true,
+          "layer": 3
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$button_content": "$button_content_locked",
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$light_button_locked_text_color",
+          "$secondary_text_color": "$light_button_secondary_locked_text_color",
+          "$glyph_color": "$light_glyph_locked_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$light_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_visible": "$locked_state_border_visible",
+          "$border_layer": 1,
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "deactivated_light_content_button@common_buttons.light_content_button": {
+    "$default_button_texture": "textures/ui/disabledButtonNoBorder",
+    "$hover_button_texture": "textures/ui/disabledButtonNoBorder",
+    "$pressed_button_texture": "textures/ui/disabledButtonNoBorder",
+    "$locked_button_texture": "textures/ui/disabledButtonNoBorder"
+
+  },
+
+  "dark_content_button@dark_button_assets": {
+
+    "$button_offset|default": [ 0, 0 ],
+    "$button_pressed_offset|default": [ 0, 1 ],
+    "$pressed_alpha|default": 1,
+    "$button_type_panel|default": "common_buttons.button_content_panel",
+    "$button_content|default": "common.empty_panel",
+    "$button_state_panel|default": "common_buttons.new_ui_button_panel",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "$hover_button_image_fill|default": false,
+    "$hover_content_alpha|default": 1,
+    "$hover_button_image_color|default": [ 1.0, 1.0, 1.0 ],
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$dark_button_default_text_color",
+          "$secondary_text_color": "$dark_button_secondary_default_text_color",
+          "$glyph_color": "$dark_glyph_default_color",
+          "$content_alpha": 1,
+          "$border_color": "$dark_border_default_color",
+          "$border_layer": 2,
+          "$default_state": true,
+          "layer": 1
+        }
+      },
+      {
+        "hover@$button_state_panel": {
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$text_color": "$dark_button_hover_text_color",
+          "$secondary_text_color": "$dark_button_secondary_hover_text_color",
+          "$glyph_color": "$dark_glyph_hover_color",
+          "$content_alpha": "$hover_content_alpha",
+          "$border_color": "$dark_border_hover_color",
+          "$border_layer": 3,
+          "$hover_state": true,
+          "layer": 2,
+          "$button_image_fill": "$hover_button_image_fill",
+          "$button_image_color": "$hover_button_image_color"
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$text_color": "$dark_button_pressed_text_color",
+          "$secondary_text_color": "$dark_button_secondary_pressed_text_color",
+          "$glyph_color": "$dark_glyph_pressed_color",
+          "$content_alpha": "$pressed_alpha",
+          "$button_offset": "$button_pressed_offset",
+          "$border_color": "$dark_border_pressed_color",
+          "$border_layer": 3,
+          "$pressed_state": true,
+          "layer": 3
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$dark_button_locked_text_color",
+          "$secondary_text_color": "$dark_button_secondary_locked_text_color",
+          "$glyph_color": "$dark_glyph_locked_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$dark_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_layer": 1,
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "no_background_content_button@common.button": {
+
+    "size": [ "100%c", "100%c" ],
+    "$button_state_panel": "common_buttons.borderless_form_fitting_button_panel",
+    "$anchor": "top_left", // Cannot override this or will cause unsolvable layout!
+    "$button_text_max_size": [ "100%c", 10 ],
+
+    "$button_offset|default": [ 0, 3 ],
+    "$pressed_button_offset|default": [ 0, 4 ],
+    "$pressed_alpha|default": 1,
+    "$locked_alpha": 1,
+
+    // text color
+    "$default_text_color|default": "$light_button_default_text_color",
+    "$hover_text_color|default": "$light_button_hover_text_color",
+    "$pressed_text_color|default": "$light_button_pressed_text_color",
+
+    // For text bindings
+    "$button_text_binding_type|default": "none",
+    "$button_binding_condition|default": "none",
+    "$button_text_grid_collection_name|default": "",
+
+    "$button_type_panel": "common_buttons.button_content_panel",
+    "$border_visible": false,
+    "$button_image_visible": false,
+    "$button_content|default": "common.empty_panel",
+    "$button_image|default": "common.empty_panel",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "locked_control": "locked",
+
+    "$default_button_texture|default": "",
+    "$locked_button_texture|default": "textures/ui/disabledButtonNoBorder",
+
+    "controls": [
+      {
+        "default@$button_state_panel": {
+          "$new_ui_button_texture": "$default_button_texture",
+          "$text_color": "$default_text_color",
+          "$secondary_text_color": "$light_button_secondary_default_text_color",
+          "$glyph_color": "$light_glyph_default_color",
+          "$button_image_visible": false,
+          "$content_alpha": 1,
+          "$border_color": "$light_border_default_color",
+          "$border_layer": 2,
+          "$default_state": true,
+          "layer": 1
+        }
+      },
+      {
+        "hover@$button_state_panel": {
+          "$text_color": "$hover_text_color",
+          "$secondary_text_color": "$light_button_secondary_hover_text_color",
+          "$glyph_color": "$light_glyph_hover_color",
+          "$content_alpha": 1,
+          "$button_image": "common_buttons.background_button_image",
+          "$border_color": "$light_border_hover_color",
+          "$border_layer": 3,
+          "$hover_state": true,
+          "layer": 2
+        }
+      },
+      {
+        "pressed@$button_state_panel": {
+          "$text_color": "$pressed_text_color",
+          "$secondary_text_color": "$light_button_secondary_pressed_text_color",
+          "$glyph_color": "$light_glyph_pressed_color",
+          "$content_alpha": "$pressed_alpha",
+          "$button_image": "common_buttons.background_button_image",
+          "$button_offset": "$pressed_button_offset",
+          "$border_color": "$light_border_pressed_color",
+          "$border_layer": 3,
+          "$pressed_state": true,
+          "layer": 3
+        }
+      },
+      {
+        "locked@$button_state_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$text_color": "$light_button_locked_text_color",
+          "$secondary_text_color": "$light_button_secondary_locked_text_color",
+          "$glyph_color": "$light_glyph_locked_color",
+          "$content_alpha": "$locked_alpha",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_color": "$light_border_locked_color",
+          "$border_layer": 1,
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "button_content_panel": {
+    "type": "panel",
+    "offset": "$button_offset",
+    "controls": [
+      {
+        "content@$button_content": {
+          "layer": 2
+        }
+      }
+    ]
+  },
+
+  "form_fitting_button_content_panel": {
+    "type": "panel",
+    "size": [ "100%c", "100%c" ],
+    "offset": "$button_offset",
+    "controls": [
+      {
+        "content@$button_content": {
+          "layer": 2
+        }
+      }
+    ]
+  },
+
+
+  "horizontal_form_fitting": {
+    "type": "panel",
+    "size": [ "100%c", "100%c" ],
+    "offset": "$button_offset",
+    "controls": [
+      {
+        "content@$button_content": {
+          "layer": 2
+        }
+      }
+    ]
+  },
+
+  "width_fitting_button_content_panel": {
+    "type": "panel",
+    "size": [ "100%c", "100%" ],
+    "offset": "$button_offset",
+    "controls": [
+      {
+        "content@$button_content": {
+          "layer": 2
+        }
+      }
+    ]
+  },
+
+  "height_fitting_button_content_panel": {
+    "type": "panel",
+    "size": [ "100%", "100%c" ],
+    "offset": "$button_offset",
+    "controls": [
+      {
+        "content@$button_content": {
+          "layer": 2
+        }
+      }
+    ]
+  },
+
+  /////////////////////////////////
+  //
+  //  GLYPH BUTTON
+  //
+  /////////////////////////////////
+
+  "light_glyph_button@light_button_assets": {
+
+    "$button_content|default": "common.empty_panel",
+    "$button_content_offset|default": [ 0, 0 ],
+    "$pressed_alpha|default": 1,
+    "$button_type_panel": "common_buttons.glyph_content_panel",
+    "$default_button_alpha|default": 1,
+    "$default_hover_alpha|default": 1,
+    "$default_pressed_alpha|default": 1,
+    "$default_glyph_color|default": "$light_glyph_default_color",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "$button_default_offset|default": [ 0, 0 ],
+    "$button_hover_offset|default": [ 0, 0 ],
+    "$button_pressed_offset|default": [ 0, 1 ],
+    "$button_locked_offset|default": [ 0, 0 ],
+
+    "controls": [
+      {
+        "default@common_buttons.new_ui_button_panel": {
+          "layer": 1,
+          "$new_ui_button_texture": "$default_button_texture",
+          "$glyph_color": "$default_glyph_color",
+          "$content_alpha": "$default_content_alpha",
+          "$border_color": "$light_border_default_color",
+          "$border_layer": 2,
+          "$default_state": true,
+          "$button_alpha": "$default_button_alpha",
+          "$button_press_offset": "$button_default_offset"
+        }
+      },
+      {
+        "hover@common_buttons.new_ui_button_panel": {
+          "layer": 2,
+          "$new_ui_button_texture": "$hover_button_texture",
+          "$glyph_color": "$light_glyph_hover_color",
+          "$content_alpha": "$hover_content_alpha",
+          "$border_color": "$light_border_hover_color",
+          "$border_layer": 3,
+          "$hover_state": true,
+          "$button_alpha": "$default_hover_alpha",
+          "$button_press_offset": "$button_hover_offset"
+        }
+      },
+      {
+        "pressed@common_buttons.new_ui_button_panel": {
+          "layer": 3,
+          "$new_ui_button_texture": "$pressed_button_texture",
+          "$glyph_color": "$light_glyph_pressed_color",
+          "$content_alpha": "$pressed_alpha",
+          "$border_color": "$light_border_pressed_color",
+          "$border_layer": 3,
+          "$pressed_state": true,
+          "$button_alpha": "$default_pressed_alpha",
+          "$button_press_offset": "$button_pressed_offset"
+        }
+      },
+      {
+        "locked@common_buttons.new_ui_button_panel": {
+          "$new_ui_button_texture": "$locked_button_texture",
+          "$glyph_color": "$light_glyph_locked_color",
+          "$content_alpha": "$locked_alpha",
+          "$border_color": "$light_border_locked_color",
+          "$button_image": "common_buttons.locked_button_image",
+          "$border_layer": 1,
+          "$button_press_offset": "$button_locked_offset",
+          "$locked_state": true,
+          "layer": 1
+        }
+      }
+    ]
+  },
+
+  "dark_glyph_button_default@common_buttons.new_ui_button_panel": {
+    "$new_ui_button_texture": "$default_button_texture",
+    "$glyph_color": "$dark_glyph_default_color",
+    "$border_color": "$dark_border_default_color",
+    "$border_layer": 2,
+    "$default_state": true,
+    "$button_press_offset": [ 0, 0 ],
+    "layer": 1
+  },
+
+  "dark_glyph_button_hover@common_buttons.new_ui_button_panel": {
+    "$new_ui_button_texture": "$hover_button_texture",
+    "$glyph_color": "$dark_glyph_hover_color",
+    "$border_color": "$dark_border_hover_color",
+    "$border_layer": 3,
+    "$hover_state": true,
+    "$button_press_offset": [ 0, 0 ],
+    "layer": 2
+  },
+
+  "dark_glyph_button_pressed@common_buttons.new_ui_button_panel": {
+    "$new_ui_button_texture": "$pressed_button_texture",
+    "$glyph_color": "$dark_glyph_pressed_color",
+    "$border_color": "$dark_border_pressed_color",
+    "$border_layer": 3,
+    "$pressed_state": true,
+    "$button_press_offset": [ 0, 1 ],
+    "layer": 3
+  },
+
+  "dark_glyph_button_locked@common_buttons.new_ui_button_panel": {
+    "$new_ui_button_texture": "$locked_button_texture",
+    "$glyph_color": "$dark_glyph_locked_color",
+    "$content_alpha": "$locked_alpha",
+    "$border_color": "$dark_border_locked_color",
+    "$button_image": "common_buttons.locked_button_image",
+    "$border_layer": 1,
+    "$button_press_offset": [ 0, 0 ],
+    "$locked_state": true,
+    "layer": 1
+  },
+
+  "dark_glyph_button@dark_button_assets": {
+
+    "$button_content|default": "common.empty_image",
+    "$button_content_offset|default": [ 0, 0 ],
+    "$button_type_panel": "common_buttons.glyph_content_panel",
+
+    // These states are for passing the button state to the button content - do not set these in a parent!
+    "$default_state|default": false,
+    "$hover_state|default": false,
+    "$pressed_state|default": false,
+    "$locked_state|default": false,
+
+    "controls": [
+      {
+        "default@common_buttons.dark_glyph_button_default": {}
+      },
+      {
+        "hover@common_buttons.dark_glyph_button_hover": {}
+      },
+      {
+        "pressed@common_buttons.dark_glyph_button_pressed": {}
+      },
+      {
+        "locked@common_buttons.dark_glyph_button_locked": {}
+      }
+    ]
+  },
+
+  "dark_glyph_button_with_custom_control@common_buttons.dark_glyph_button": {
+    "controls": [
+      {
+        "custom_control@$custom_control": {}
+      },
+      {
+        "default@common_buttons.dark_glyph_button_default": {}
+      },
+      {
+        "hover@common_buttons.dark_glyph_button_hover": {}
+      },
+      {
+        "pressed@common_buttons.dark_glyph_button_pressed": {}
+      },
+      {
+        "locked@common_buttons.dark_glyph_button_locked": {}
+      }
+    ]
+  },
+
+  "glyph_content_panel": {
+    "type": "panel",
+    "anchor_from": "top_left",
+    "anchor_to": "top_left",
+    "offset": "$button_content_offset",
+    "controls": [
+      {
+        "glyph_button_content@$button_content": {
+          "color": "$glyph_color",
+          "layer": 3,
+          "offset": "$button_press_offset",
+          "alpha": "$content_alpha"
+        }
+      }
+    ]
+  },
+
+  "hyperlink_button@common_buttons.light_text_button": {
+    "$pressed_button_name": "button.menu_open_uri",
+    "property_bag": {
+      "#hyperlink": ""
+    }
+  },
+
+  "hyperlink_content_button@common_buttons.light_content_button": {
+    "$pressed_button_name": "button.menu_open_uri",
+    "property_bag": {
+      "#hyperlink": ""
+    }
+  },
+
+  /////////////////////////////////
+  //
+  //  Content button with label and
+  //  nested buttons
+  //
+  /////////////////////////////////
+  // Main control:
+  // -nestable_button
+  //
+  // Helper controls:
+  // -dark_nestable_button
+  // -transparent_label_nestable_button
+  //
+  // Helper labels:
+  // -nested_centered_label_control
+  // -nested_label_with_image_control
+  // -nested_six_part_label_control
+
+  // General Assets //
+
+  // Base definition for state driven assets
+  //
+  // <state> - expands to default, hover, pressed, and locked
+  //
+  // -- Required Variables --
+  // $nested_asset_<state>_texture - The image for each state
+  //
+  // -- Optional Variables --
+  // $nested_asset_<state>_alpha - The alpha for each state
+  // $nested_asset_<state>_color - The color tint for each state
+  //
+  "nested_button_assets": {
+    "type": "image",
+    "texture": "$nested_asset_texture",
+    "alpha": "$nested_asset_alpha",
+    "color": "$nested_asset_color",
+    "$nested_asset_texture|default": "",
+
+    "$nested_asset_alpha|default": "$nested_default_alpha",
+    "$nested_asset_default_alpha|default": "$nested_default_alpha",
+    "$nested_asset_hover_alpha|default": "$nested_default_alpha",
+    "$nested_asset_pressed_alpha|default": "$nested_default_alpha",
+    "$nested_asset_locked_alpha|default": "$nested_default_alpha",
+
+    "$nested_asset_color|default": "$nested_default_color",
+    "$nested_asset_default_color|default": "$nested_default_color",
+    "$nested_asset_hover_color|default": "$nested_default_color",
+    "$nested_asset_pressed_color|default": "$nested_default_color",
+    "$nested_asset_locked_color|default": "$nested_default_color",
+    "variables": [
+      {
+        "requires": "$default_state",
+        "$nested_asset_texture": "$nested_asset_default_texture",
+        "$nested_asset_alpha": "$nested_asset_default_alpha",
+        "$nested_asset_color": "$nested_asset_default_color"
+      },
+      {
+        "requires": "$hover_state",
+        "$nested_asset_texture": "$nested_asset_hover_texture",
+        "$nested_asset_alpha": "$nested_asset_hover_alpha",
+        "$nested_asset_color": "$nested_asset_hover_color"
+      },
+      {
+        "requires": "$pressed_state",
+        "$nested_asset_texture": "$nested_asset_pressed_texture",
+        "$nested_asset_alpha": "$nested_asset_pressed_alpha",
+        "$nested_asset_color": "$nested_asset_pressed_color"
+      },
+      {
+        "requires": "$locked_state",
+        "$nested_asset_texture": "$nested_asset_locked_texture",
+        "$nested_asset_alpha": "$nested_asset_locked_alpha",
+        "$nested_asset_color": "$nested_asset_locked_color"
+      }
+    ]
+  },
+
+  // Subtle light overlay
+  "nested_overlay_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture": "textures/ui/clickable_overlay",
+    "$nested_asset_default_alpha": "$nested_overlay_clickable_alpha",
+    "$nested_asset_hover_texture": "textures/ui/clickable_overlay",
+    "$nested_asset_hover_alpha": "$nested_overlay_clickable_alpha",
+    "$nested_asset_pressed_texture": "textures/ui/clickable_overlay_inverse",
+    "$nested_asset_pressed_alpha": "$nested_overlay_clickable_alpha",
+    "$nested_asset_locked_texture": "textures/ui/clickable_overlay",
+    "$nested_asset_locked_alpha": "$nested_overlay_clickable_alpha"
+  },
+
+  // Label Assets //
+
+  // Dark label background with green hover
+  "nested_label_content_background_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture": "textures/ui/White",
+    "$nested_asset_default_color": "$nested_dark_label_default_color",
+    "$nested_asset_hover_texture": "textures/ui/White",
+    "$nested_asset_hover_color": "$nested_dark_label_hover_color",
+    "$nested_asset_pressed_texture": "textures/ui/White",
+    "$nested_asset_pressed_color": "$nested_dark_label_pressed_color",
+    "$nested_asset_locked_texture": "textures/ui/White",
+    "$nested_asset_locked_color": "$nested_dark_label_default_color"
+  },
+
+  // Background for label content control
+  "nested_label_background_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture": "textures/ui/black_border",
+    "$nested_asset_hover_texture": "textures/ui/slider_border",
+    "$nested_asset_pressed_texture": "textures/ui/slider_border",
+    "$nested_asset_locked_texture": "textures/ui/black_border"
+  },
+
+  // Semitransparent background for label content control
+  //
+  // -- Optional Variables --
+  // $transparent_label_color - The color when not pressed
+  // $transparent_label_pressed_color - The color when pressed
+  //
+  "nested_transparent_label_content_background_assets": {
+    "type": "panel",
+    "$transparent_label_color|default": "$nested_transparent_label_default_color",
+    "$transparent_label_hover_color|default": "$transparent_label_color",
+    "$transparent_label_pressed_color|default": "$nested_transparent_label_default_pressed_color",
+
+    "controls": [
+      {
+        "assets@common_buttons.nested_button_assets": {
+
+          "$nested_asset_default_texture": "textures/ui/White",
+          "$nested_asset_default_color": "$transparent_label_color",
+          "$nested_asset_default_alpha": "$nested_transparent_label_alpha",
+          "$nested_asset_hover_texture": "textures/ui/White",
+          "$nested_asset_hover_color": "$transparent_label_hover_color",
+          "$nested_asset_pressed_texture": "textures/ui/White",
+          "$nested_asset_pressed_color": "$transparent_label_pressed_color",
+          "$nested_asset_locked_texture": "textures/ui/White",
+          "$nested_asset_locked_color": "$transparent_label_color"
+        }
+      }
+    ]
+  },
+
+  // Basic label bindings and variables
+  //
+  // -- Required Variables --
+  // $nested_label_text - Label text
+  //
+  // -- Optional Variables --
+  // $nested_label_font_type - Label font type (default: mojangles)
+  // $nested_label_bindings - Label bindings for dynamic text/type
+  // $nested_label_color - Label color
+  // $nested_label_locked_color - Label color when locked
+  //
+  "nested_base_label": {
+    "type": "label",
+    "shadow": true,
+    "$nested_label_alignment|default": "center",
+    "text_alignment": "$nested_label_alignment",
+    "$nested_label_color|default": "$generic_button_text_color",
+    "color": "$nested_label_color",
+
+    "$nested_label_text|default": "",
+    "text": "$nested_label_text",
+
+    "$nested_label_font_type|default": "default",
+    "font_type": "$nested_label_font_type",
+
+    "$nested_label_bindings|default": [],
+    "bindings": "$nested_label_bindings"
+  },
+
+  // Centered label
+  //
+  // -- Required Variables --
+  // See common_buttons.nested_base_label for more
+  //
+  // -- Optional Variables --
+  // $nested_label_max_size - For clipping label text
+  //
+  "nested_centered_label_control": {
+    "type": "panel",
+    "controls": [
+      {
+        "label@common_buttons.nested_base_label": {
+          "$nested_label_max_size|default": [ "100% - 2px", "100% - 2px" ],
+          "max_size": "$nested_label_max_size"
+        }
+      }
+    ]
+  },
+
+  // Label left justified with image prefix
+  //
+  // -- Required Variables --
+  // $nested_label_image - Prefix image
+  // See common_buttons.nested_base_label for more
+  //
+  // -- Optional Variables --
+  // $nested_label_max_size - For clipping label text (should be fine as is)
+  //
+  "nested_label_with_image_control": {
+    "type": "stack_panel",
+    "orientation": "horizontal",
+    "size": [ "100% - 6px", "100% - 3px" ],
+    "offset": [ 0, -0.5 ],
+    "controls": [
+      {
+        "image": {
+          "type": "image",
+          "$nested_label_image|default": "",
+          "texture": "$nested_label_image",
+          "size": [ "100%y", "100%" ],
+          "$nested_label_image_bindings|default": [],
+          "bindings": "$nested_label_image_bindings"
+        }
+      },
+      {
+        "image_to_label_padding@common.empty_panel": {
+          "size": [ 4, "100%" ]
+        }
+      },
+      {
+        "label_panel": {
+          "type": "panel",
+          "size": [ "fill", "100%" ],
+          "controls": [
+            {
+              "label@common_buttons.nested_base_label": {
+                "anchor_from": "left_middle",
+                "anchor_to": "left_middle",
+                "$nested_label_max_size|default": [ "100%", "100%" ],
+                "max_size": "$nested_label_max_size"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  // Empty definition for a six part label
+  "nested_six_part_empty_definition": {
+    "type": "label",
+    "text": "",
+    "color": "$generic_button_text_color"
+  },
+
+  // Label in each corner of the label control
+  //
+  // -- Optional Variables --
+  // <side> - Expands to left/right
+  // <anchor> - Expands to top/middle/bottom
+  // $<side>_<anchor>_label_definition - Json object that defines all required label variables (needs "type: label" and at least text and color)
+  //
+  "nested_six_part_label_control": {
+    "type": "panel",
+    "size": [ "100% - 6px", "100% - 2px" ],
+    "offset": [ 0, -1 ],
+    "$left_top_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "$left_middle_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "$left_bottom_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "$right_top_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "$right_middle_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "$right_bottom_label_definition|default": "common_buttons.nested_six_part_empty_definition",
+    "controls": [
+      {
+        "left_top_label@$left_top_label_definition": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left"
+        }
+      },
+      {
+        "left_middle_label@$left_middle_label_definition": {
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle"
+        }
+      },
+      {
+        "left_bottom_label@$left_bottom_label_definition": {
+          "anchor_from": "bottom_left",
+          "anchor_to": "bottom_left"
+        }
+      },
+      {
+        "right_top_label@$right_top_label_definition": {
+          "anchor_from": "top_right",
+          "anchor_to": "top_right"
+        }
+      },
+      {
+        "right_middle_label@$right_middle_label_definition": {
+          "anchor_from": "right_middle",
+          "anchor_to": "right_middle"
+        }
+      },
+      {
+        "right_bottom_label@$right_bottom_label_definition": {
+          "anchor_from": "bottom_right",
+          "anchor_to": "bottom_right"
+        }
+      }
+    ]
+  },
+
+  // Content Assets //
+
+  // Solid color content assets
+  "nested_dark_button_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture": "textures/ui/White",
+    "$nested_asset_default_color": "$nested_dark_content_default_color",
+    "$nested_asset_hover_texture": "textures/ui/White",
+    "$nested_asset_hover_color": "$nested_dark_content_hover_color",
+    "$nested_asset_pressed_texture": "textures/ui/White",
+    "$nested_asset_pressed_color": "$nested_dark_content_pressed_color",
+    "$nested_asset_locked_texture": "textures/ui/White",
+    "$nested_asset_locked_color": "$nested_dark_content_default_color"
+  },
+
+  // Background for button content control
+  "nested_content_background_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture": "textures/ui/Black",
+    "$nested_asset_hover_texture": "textures/ui/White",
+    "$nested_asset_pressed_texture": "textures/ui/White",
+    "$nested_asset_locked_texture": "textures/ui/Black"
+  },
+
+  // Darkened overlay for unselected buttons
+  "nested_content_overlay_assets@common_buttons.nested_button_assets": {
+    "$nested_asset_default_texture|default": "textures/ui/Black",
+    "$nested_asset_default_alpha": "$nested_content_unfocused_overlay_alpha",
+    "$nested_asset_hover_texture": "",
+    "$nested_asset_pressed_texture": "",
+    "$nested_asset_locked_texture": ""
+  },
+
+  // Solid color background with image in center
+  //
+  // -- Required Variables --
+  // $nested_control_image - The texture for the center image
+  //
+  // -- Optional Variables --
+  // $nested_control_image_size - The size of the image (default: [ 22, 22 ])
+  //
+  "nested_dark_control_with_image": {
+    "type": "panel",
+    "controls": [
+      { "background@common_buttons.nested_dark_button_assets": {} },
+      {
+        "image_panel": {
+          "type": "panel",
+          "size": [ 22, 22 ],
+          "offset": [ 0, 1.5 ],
+          "layer": 1,
+          "controls": [
+            {
+              "image": {
+                "type": "image",
+                "$nested_control_image_size": [ "100%", "100%" ],
+                "size": "$nested_control_image_size",
+                "$nested_control_image|default": "",
+                "texture": "$nested_control_image"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  // Controls //
+
+  // NESTED BUTTON DOCUMENTATION:
+  //
+  // -- For Nested Content --
+  // If using nested content all variables in this section required
+  // setUpCallbacksForNestedButton(
+  //   $pressed_button_name,
+  //   $nested_content_visibility_binding, - The binding name for nested visibility
+  //   firstControlName - The name of the control that will recieve focus after the base button is pressed
+  //   ignoredButtons - (optional) A vector of button names to ignore (default: { StringHash("button.scrollbar_touch") })
+  // );
+  // $nested_content_controls - The nested controls (parent size based on its sibling)
+  // $has_nested_controls - Set to true to use
+  //
+  // -- Advanced Nested Content --
+  // For factory built nestable buttons
+  // $has_special_nested_controls - Set to true to use
+  // $nested_content_controls - The nested controls (parent size based on its sibling)
+  // $special_nested_content_bindings - Bindings array for the nested controls
+  // $special_nested_button_bindings - Bindings array for the button
+  //
+  //
+  // -- Required Variables --
+  // $pressed_button_name, - The button name for the base button
+  //
+  // $nested_button_content_size - The size for the upper control
+  // $nested_content_control - The control for the upper part of the button (can make use of $default_state, $hover_state, $pressed_state, $locked_state)
+  //
+  // $nested_button_label_size - The size for the label control (can use "100%sm" for the x to keep consistent with top control)
+  // $nested_label_control_background: The background behind the label control
+  // $nested_label_control: The control for the background of the label (can make use of $default_state, $hover_state, $pressed_state, $locked_state)
+  //
+  // -- Other Variables --
+  // any common.button variable
+  //
+  // $nested_button_overlay - The overlay for the entire button (default: common_buttons.nested_overlay_assets)
+  // $nested_content_background_assets - The assets behind the button content control (default: common_buttons.nested_background_assets)
+  // $nested_content_overlay_assets - The assets to overlay the content (default: common.empty_panel)
+  // $nested_content_label_padding - If true adds a single texel gap between content and label (default: false)
+  // $nested_label_background_assets - The assets behind the label control (default: common_buttons.nested_label_background_assets)
+  // $nested_content_dark_alpha - The black overlay to display when nested content is shown
+  //
+  // $use_parent_size - If true will use parent size to size buttons (still needs $nested_button_content_size
+  //                    and $nested_button_label_size, will also need to set $nestable_button_size)
+  //                    If false uses content size (default: false)
+  // $nestable_button_size - The size of the button (default: [ "100%cm", "100%cm" ]
+  //
+  "nestable_button": {
+    "$use_parent_size|default": false,
+    "$nestable_button_size|default": [ "100%cm", "100%cm" ],
+    "size": "$nestable_button_size",
+
+    "type": "panel",
+    "$has_nested_controls|default": false,
+    "$has_special_nested_controls|default": false,
+    "$has_special_button_bindings|default": false,
+    "$has_padding_for_content_and_label|default": false,
+    "$nested_content_visibility_binding|default": "",
+    "controls": [
+      {
+        "nested_controls_panel": {
+          "ignored": "(not $has_nested_controls and not $has_special_nested_controls)",
+          "$nested_content_dark_alpha|default": 0.8,
+          "type": "input_panel",
+          "size": [ "100%sm", "100%sm" ],
+          "layer": 10,
+          "button_mappings": [
+            {
+              "from_button_id": "button.menu_select",
+              "to_button_id": "button.nested_background",
+              "mapping_type": "pressed"
+            },
+            {
+              "from_button_id": "button.menu_ok",
+              "to_button_id": "button.nested_background",
+              "mapping_type": "focused"
+            }
+          ],
+          "$_nested_content_visibility_binding|default": [
+            {
+              "binding_name": "$nested_content_visibility_binding",
+              "binding_name_override": "#visible"
+            }
+          ],
+          "variables": [
+            {
+              "requires": "$has_special_nested_controls",
+              "$_nested_content_visibility_binding": "$special_nested_content_bindings"
+            }
+          ],
+          "bindings": "$_nested_content_visibility_binding",
+          "controls": [
+            {
+              "locked_overlay": {
+                "type": "image",
+                "texture": "textures/ui/Black",
+                "alpha": "$nested_content_dark_alpha"
+              }
+            },
+            { "nested_controls@$nested_content_controls": {} }
+          ]
+        }
+      },
+      {
+        "base_button@common.button": {
+          "locked_control": "locked",
+
+          "layer": 1,
+
+          "$default_state|default": false,
+          "$hover_state|default": false,
+          "$pressed_state|default": false,
+          "$locked_state|default": false,
+
+          "variables": [
+            {
+              "requires": "$has_nested_controls",
+              "$button_bindings": [
+                {
+                  "binding_name": "(not $nested_content_visibility_binding)",
+                  "binding_name_override": "#enabled"
+                }
+              ]
+            },
+            {
+              "requires": "($has_special_nested_controls or $has_special_button_bindings)",
+              "$button_bindings": "$special_nested_button_bindings"
+            },
+            {
+              "requires": "$use_parent_size",
+              "$_nested_button_size": [ "100%", "100%" ]
+            }
+          ],
+          "$_nested_button_size|default": [ "100%c", "100%c" ],
+          "size": "$_nested_button_size",
+
+          "controls": [
+            {
+              "default@common_buttons.nested_button_base": {
+                "$default_state": true
+              }
+            },
+            {
+              "hover@common_buttons.nested_button_base": {
+                "$hover_state": true
+              }
+            },
+            {
+              "pressed@common_buttons.nested_button_base": {
+                "$pressed_state": true
+              }
+            },
+            {
+              "locked@common_buttons.nested_button_base": {
+                "$locked_state": true
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  // The base button control for the nested button
+  //
+  // Variables documented in parent control
+  //
+  "nested_button_base": {
+    "type": "panel",
+    "$nested_button_overlay|default": "common_buttons.nested_overlay_assets",
+    "controls": [
+      {
+        "button_overlay@$nested_button_overlay": {
+          "size": [ "100%sm", "100%sm" ],
+          "layer": 3
+        }
+      },
+      {
+        "button_control": {
+          "type": "stack_panel",
+          "orientation": "vertical",
+          "layer": 1,
+          "controls": [
+            {
+              "control_area": {
+                "type": "panel",
+                "size": "$nested_button_content_size",
+
+                "$nested_content_background_assets|default": "common_buttons.nested_content_background_assets",
+                "$nested_content_overlay_assets|default": "common.empty_panel",
+                "controls": [
+                  {
+                    "background@$nested_content_background_assets": {
+                      "layer": -1,
+                      "size": [ "100%sm + 2px", "100%sm + 1px" ],
+                      "offset": [ 0, -0.5 ]
+                    }
+                  },
+                  { "control@$nested_content_control": {} },
+                  { "overlay@$nested_content_overlay_assets": { "layer": 1 } }
+                ]
+              }
+            },
+            {
+              "button_stack_padding@common.empty_panel": {
+                "$nested_content_label_padding|default": false,
+                "$_content_to_label_padding_size|default": "$nested_no_padding",
+                "size": "$_content_to_label_padding_size",
+                "variables": [
+                  {
+                    "requires": "$nested_content_label_padding",
+                    "$_content_to_label_padding_size": "$nested_one_pixel_padding"
+                  }
+                ]
+              }
+            },
+            {
+              "label_area": {
+                "type": "panel",
+                "size": "$nested_button_label_size",
+
+                "$nested_label_background_assets|default": "common_buttons.nested_label_background_assets",
+                "controls": [
+                  {
+                    "background@$nested_label_background_assets": {
+                      "layer": -1,
+                      "size": [ "100%sm + 2px", "100%sm + 2px" ]
+                    }
+                  },
+                  { "control_background@$nested_label_control_background": {} },
+                  { "control@$nested_label_control": { "layer": 1 } }
+                ]
+              }
+            }
+          ],
+
+          "$_nested_button_control_size|default": [ "100%cm", "100%c" ],
+          "size": "$_nested_button_control_size",
+          "variables": [
+            {
+              "requires": "$use_parent_size",
+              "$_nested_button_control_size": [ "100%", "100%" ]
+            }
+          ]
+        }
+      }
+    ],
+
+    "$_nested_button_base_size|default": [ "100%cm + 2px", "100%cm + 2px" ],
+    "size": "$_nested_button_base_size",
+    "variables": [
+      {
+        "requires": "$use_parent_size",
+        "$_nested_button_base_size": [ "100% - 2px", "100% - 2px" ]
+      }
+    ]
+  },
+
+  // Helpers //
+
+  // Solid button with image and centered label
+  //
+  // -- Required Variables --
+  // $pressed_button_name - The button name for the base button
+  //
+  // $nested_button_content_size - Content control size
+  // $nested_control_image - Content image
+  //
+  // $nested_button_label_size - Label control size
+  // $nested_label_text - Label text
+  //
+  "dark_nestable_button@common_buttons.nestable_button": {
+    "$nested_content_control": "common_buttons.nested_dark_control_with_image",
+
+    "$nested_label_control_background": "common_buttons.nested_label_content_background_assets",
+    "$nested_label_control": "common_buttons.nested_centered_label_control"
+  },
+
+  // Content control is user defined
+  // Label has a semi transparent background with a image prefix before the label
+  //
+  // -- Required Variables --
+  // $pressed_button_name - The button name for the base button
+  //
+  // $nested_button_content_size - Content control size
+  // $nested_content_control - The upper content control
+  //
+  // $nested_button_label_size - Label control size
+  // $nested_label_control - The label content control
+  //
+  // -- Optional Variables --
+  // $nested_content_overlay_assets - The assets to overlay the content (default: common.nested_content_overlay_assets)
+  //
+  // $nested_label_control_background - The background behind the label control (default: common_buttons.nested_transparent_label_content_background_assets)
+  // $transparent_label_color - The color of the label when not pressed (can use if default $nested_label_control_background)
+  // $transparent_label_pressed_color - The color of the label when pressed (can use if default $nested_label_control_background)
+  // $nested_transparent_label_alpha - The alpha of the label background (default: 0.8, can use if default $nested_label_control_background)
+  //
+  "transparent_label_nestable_button@common_buttons.nestable_button": {
+    "$nested_content_overlay_assets": "common_buttons.nested_content_overlay_assets",
+
+    "$nested_content_label_padding": true,
+
+    "$nested_label_control_background": "common_buttons.nested_transparent_label_content_background_assets"
+  },
+
+  //////////  Tool Tip Types  //////////
+
+  "static_tooltip_notification_panel@common.button": {
+    "size": [ "100%", "100%" ],
+    "sound_volume": 0.0,
+    "layer": 1,
+
+    // background textures
+    "$tooltip_button_default_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_pressed_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_hover_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_locked_texture|default": "textures/ui/tooltip_notification_default_background",
+
+    "$tooltip_button_content_size|default": [ "100%", "100%" ],
+
+    // binding vars (should be same for all children)
+    "$tooltip_button_binding_type|default": "global",
+    "$tooltip_button_collection_name|default": "",
+
+    "locked_control": "locked",
+
+    "$tooltip_hovered_to_button_id|default": "button.is_hovered",
+    "button_mappings": [
+      {
+        "from_button_id": "button.menu_select",
+        "to_button_id": "$pressed_button_name",
+        "mapping_type": "pressed"
+      },
+      {
+        "from_button_id": "button.menu_ok",
+        "to_button_id": "$pressed_button_name",
+        "mapping_type": "focused"
+      },
+      {
+        "to_button_id": "$tooltip_hovered_to_button_id",
+        "mapping_type": "pressed"
+      }
+    ],
+
+    "controls": [
+      {
+        "default@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_default_texture"
+        }
+      },
+      {
+        "pressed@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_pressed_texture"
+        }
+      },
+      {
+        "hover@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_hover_texture"
+        }
+      },
+      {
+        "locked@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_locked_texture"
+        }
+      },
+      { "static_tooltip_popup_panel@common.static_tooltip_popup_with_image_and_text": {} }
+    ],
+    "bindings": [
+      {
+        "binding_name": "$static_tooltip_button_visibility_binding_name",
+        "binding_name_override": "#visible",
+        "binding_collection_name": "$tooltip_button_collection_name",
+        "binding_type": "$tooltip_button_binding_type"
+      }
+    ]
+  },
+
+
+  "dynamic_tooltip_notification_panel@common.button": {
+    "size": [ "100%", "100%" ],
+    "sound_volume": 0.0,
+    "layer": 1,
+
+    // background textures
+    "$tooltip_button_default_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_pressed_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_hover_texture|default": "textures/ui/tooltip_notification_default_background",
+    "$tooltip_button_locked_texture|default": "textures/ui/tooltip_notification_default_background",
+
+    "$tooltip_button_content_size|default": [ "100%", "100%" ],
+
+    // binding vars (should be same for all children)
+    "$tooltip_button_binding_type|default": "global",
+    "$tooltip_button_collection_name|default": "",
+    "$tooltip_button_visibility_binding_name|default": "#dynamic_tooltip_notification_visibility_binding_name",
+
+
+    "locked_control": "locked",
+
+    "$tooltip_hovered_to_button_id|default": "button.is_hovered",
+    "button_mappings": [
+      {
+        "from_button_id": "button.menu_select",
+        "to_button_id": "$pressed_button_name",
+        "mapping_type": "pressed"
+      },
+      {
+        "from_button_id": "button.menu_ok",
+        "to_button_id": "$pressed_button_name",
+        "mapping_type": "focused"
+      },
+      {
+        "to_button_id": "$tooltip_hovered_to_button_id",
+        "mapping_type": "pressed"
+      }
+    ],
+
+    "controls": [
+      {
+        "default@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_default_texture"
+        }
+      },
+      {
+        "pressed@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_pressed_texture"
+        }
+      },
+      {
+        "hover@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_hover_texture"
+        }
+      },
+      {
+        "locked@common.tooltip_button_content": {
+          "$tooltip_background_texture": "$tooltip_button_locked_texture"
+        }
+      },
+      { "dyanmic_tooltip_popup_panel@common.dynamic_tooltip_popup_with_image_and_text": {} }
+    ],
+    "bindings": [
+      {
+        "binding_name": "$tooltip_button_visibility_binding_name",
+        "binding_name_override": "#visible",
+        "binding_collection_name": "$tooltip_button_collection_name",
+        "binding_type": "$tooltip_button_binding_type"
+      }
+    ]
+  },
+
+  ///////////////////////////////////////////////////////////////////////////
+
+  "text_body_focus_border_for_controller_button@common.button": {
+    "$pressed_button_name": "button.no_interaction",
+    "sound_volume": 0.0,
+    "size": [ "100%", "100%cm" ],
+    "default_control": "default",
+    "pressed_control": "hover",
+    "hover_control": "hover",
+    "$text_control|default": "common.empty_panel",
+    "$text_control_size|default": [ "100%", "100%c" ],
+    "controls": [
+      {
+        "default@common.empty_panel": {
+          "size": [ "100%", 0 ]
+        }
+      },
+      {
+        "hover@common.empty_panel": {
+          "size": [ "100%", "100%sm" ],
+          "controls": [
+            {
+              "focus_border@common_buttons.focus_border": {
+                "size": [ "100%", "100% + 4px" ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "text_control@$text_control": {
+          "size": "$text_control_size"
+        }
+      }
+    ]
+  }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     202 548/236/203
+s 533
+f 548/236/203 612/235/202 614/237/204 550/238/205
+s 534
+f 550/238/205 614/237/204 616/239/206 552/240/207
+s 535
+f 552/240/207 616/239/206 618/241/208 554/242/209
+s 536
+f 554/242/209 618/241/208 620/214/181 556/213/180
+s 537
+f 529/243/210 527/244/210 557/245/210 555/246/210 553/247/210 551/248/210 549/249/210 547/250/210 545/251/210 543/252/210 541/253/210 539/254/210 537/255/210 535/256/210 533/257/210 531/258/210
+s 538
+f 653/259/211 589/260/212 559/261/213 622/262/214
+s 539
+f 526/263/183 591/264/182 592/265/215 528/266/216
+s 540
+f 526/267/217 528/268/217 530/269/217 532/270/217 534/271/217 536/272/217 538/273/217 540/274/217 542/275/217 544/276/217 546/277/217 548/278/217 550/279/217 552/280/217 554/281/217 556/282/217
+s 541
+f 588/283/218 652/284/219 623/285/220 558/286/221
+s 542
+f 562/287/222 626/288/223 628/289/224 564/290/225
+s 543
+f 564/290/225 628/289/224 630/291/226 566/292/227
+s 544
+f 566/292/227 630/291/226 632/293/228 568/294/229
+s 545
+f 568/294/229 632/293/228 634/295/230 570/296/231
+s 546
+f 570/296/231 634/295/230 636/297/232 572/298/233
+s 547
+f 572/298/233 636/297/232 638/299/234 574/300/235
+s 548
+f 574/300/235 638/299/234 640/301/236 576/302/237
+s 549
+f 576/302/237 640/301/236 642/303/238 578/304/239
+s 550
+f 578/304/239 642/303/238 644/305/240 580/306/241
+s 551
+f 580/306/241 644/305/240 646/307/242 582/308/243
+s 552
+f 582/308/243 646/307/242 648/309/244 584/310/245
+s 553
+f 584/310/245 648/309/244 650/311/246 586/312/247
+s 554
+f 586/312/247 650/311/246 652/284/219 588/283/218
+s 555
+f 561/313/210 559/314/210 589/315/210 587/316/210 585/317/210 583/318/210 581/319/210 579/320/210 577/321/210 575/322/210 573/323/210 571/324/210 569/325/210 567/326/210 565/327/210 563/328/210
+s 556
+f 558/329/221 623/330/220 624/331/248 560/332/249
+s 557
+f 558/333/217 560/334/217 562/335/217 564/336/217 566/337/217 568/338/217 570/339/217 572/340/217 574/341/217 576/342/217 578/343/217 580/344/217 582/345/217 584/346/217 586/347/217 588/348/217
+s 558
+f 528/266/216 592/265/215 594/218/185 530/217/184
+s 559
+f 619/349/250 555/350/251 557/351/252 621/352/253
+s 560
+f 617/353/254 553/354/255 555/350/251 619/349/250
+s 561
+f 615/355/256 551/356/257 553/354/255 617/353/254
+s 562
+f 613/357/258 549/358/259 551/356/257 615/355/256
+s 563
+f 611/359/260 547/360/261 549/358/259 613/357/258
+s 564
+f 609/361/262 545/362/263 547/360/261 611/359/260
+s 565
+f 607/363/264 543/364/265 545/362/263 609/361/262
+s 566
+f 605/365/266 541/366/267 543/364/265 607/363/264
+s 567
+f 603/367/268 539/368/269 541/366/267 605/365/266
+s 568
+f 601/369/270 537/370/271 539/368/269 603/367/268
+s 569
+f 599/371/272 535/372/273 537/370/271 601/369/270
+s 570
+f 597/373/274 533/374/275 535/372/273 599/371/272
+s 571
+f 595/375/276 531/376/277 533/374/275 597/373/274
+s 572
+f 593/377/278 529/378/279 531/376/277 595/375/276
+s 573
+f 590/379/280 527/380/281 529/378/279 593/377/278
+s 574
+f 560/332/249 624/331/248 626/288/223 562/287/222
+s 575
+f 651/381/282 587/382/283 589/260/212 653/259/211
+s 576
+f 649/383/284 585/384/285 587/382/283 651/381/282
+s 577
+f 647/385/286 583/386/287 585/384/285 649/383/284
+s 578
+f 645/387/288 581/388/289 583/386/287 647/385/286
+s 579
+f 643/389/290 579/390/291 581/388/289 645/387/288
+s 580
+f 641/391/292 577/392/293 579/390/291 643/389/290
+s 581
+f 639/393/294 575/394/295 577/392/293 641/391/292
+s 582
+f 637/395/296 573/396/297 575/394/295 639/393/294
+s 583
+f 635/397/298 571/398/299 573/396/297 637/395/296
+s 584
+f 633/399/300 569/400/301 571/398/299 635/397/298
+s 585
+f 631/401/302 567/402/303 569/400/301 633/399/300
+s 586
+f 629/403/304 565/404/305 567/402/303 631/401/302
+s 587
+f 627/405/306 563/406/307 565/404/305 629/403/304
+s 588
+f 625/407/308 561/408/309 563/406/307 627/405/306
+s 589
+f 622/409/214 559/410/213 561/408/309 625/407/308
+s 590
+f 621/352/253 590/411/280 591/215/182 620/214/181
+s 591
+f 619/349/250 621/352/253 620/214/181 618/241/208
+s 592
+f 617/353/254 619/349/250 618/241/208 616/239/206
+s 593
+f 615/355/256 617/353/254 616/239/206 614/237/204
+s 594
+f 613/357/258 615/355/256 614/237/204 612/235/202
+s 595
+f 611/359/260 613/357/258 612/235/202 610/233/200
+s 596
+f 609/361/262 611/359/260 610/233/200 608/231/198
+s 597
+f 607/363/264 609/361/262 608/231/198 606/229/196
+s 598
+f 605/365/266 607/363/264 606/229/196 604/227/194
+s 599
+f 603/367/268 605/365/266 604/227/194 602/225/192
+s 600
+f 601/369/270 603/367/268 602/225/192 600/223/190
+s 601
+f 599/371/272 601/369/270 600/223/190 598/221/188
+s 602
+f 597/373/274 599/371/272 598/221/188 596/219/186
+s 603
+f 595/375/276 597/373/274 596/219/186 594/218/185
+s 604
+f 593/377/278 595/375/276 594/218/185 592/265/215
+s 605
+f 590/379/280 593/377/278 592/265/215 591/264/182
+s 606
+f 653/259/211 622/262/214 623/285/220 652/284/219
+s 607
+f 651/381/282 653/259/211 652/284/219 650/311/246
+s 608
+f 649/383/284 651/381/282 650/311/246 648/309/244
+s 609
+f 647/385/286 649/383/284 648/309/244 646/307/242
+s 610
+f 645/387/288 647/385/286 646/307/242 644/305/240
+s 611
+f 643/389/290 645/387/288 644/305/240 642/303/238
+s 612
+f 641/391/292 643/389/290 642/303/238 640/301/236
+s 613
+f 639/393/294 641/391/292 640/301/236 638/299/234
+s 614
+f 637/395/296 639/393/294 638/299/234 636/297/232
+s 615
+f 635/397/298 637/395/296 636/297/232 634/295/230
+s 616
+f 633/399/300 635/397/298 634/295/230 632/293/228
+s 617
+f 631/401/302 633/399/300 632/293/228 630/291/226
+s 618
+f 629/403/304 631/401/302 630/291/226 628/289/224
+s 619
+f 627/405/306 629/403/304 628/289/224 626/288/223
+s 620
+f 625/407/308 627/405/306 626/288/223 624/331/248
+s 621
+f 622/409/214 625/407/308 624/331/248 623/330/220
+s 622
+f 621/352/253 557/351/252 527/412/281 590/411/280
+s 623
+f 353/17/18 354/10/13 287/14/13 291/18/19
+s 624
+f 327/93/84 328/79/70 245/413/82
+s 625
+f 351/135/118 352/162/117 298/161/142 301/168/147
+s 626
+f 267/24/25 356/23/24 272/30/30 268/111/98
+s 627
+f 351/135/118 306/175/153 307/169/148 302/20/21
+s 628
+f 306/175/153 351/135/118 301/168/147 305/171/150
+s 774
+f 519/128/113 277/127/112 806/414/310 795/415/177 520/208/176
+s 793
+f 95/55/54 814/54/53 815/46/46 96/45/45
+s 794
+f 814/54/53 105/59/56 107/69/65 815/46/46
+s 795
+f 97/416/37 817/417/44 818/48/48 820/51/38
+s 796
+f 819/40/40 818/56/48 817/418/44
+s 797
+f 826/41/41 819/40/40 817/419/44 825/420/47
+s 798
+f 824/71/67 826/41/41 825/421/47 822/422/64
+s 799
+f 823/66/60 821/65/62 822/423/64 106/424/57
+s 800
+f 822/425/64 821/72/62 824/71/67
+s 801
+f 95/55/54 96/45/45 817/426/44 97/75/37
+usemtl Black
+s 1
+f 17/427/311 10/428/312 14/429/313 1/430/314
+s 2
+f 30/431/315 34/432/316 32/433/317 33/434/318
+s 3
+f 2/435/319 16/436/320 10/437/312 17/438/311
+s 4
+f 11/439/321 3/440/322 7/441/323 14/429/313
+s 5
+f 7/441/323 3/440/322 5/442/324 4/443/325
+s 6
+f 22/444/326 26/445/327 25/446/328 24/447/329
+s 7
+f 8/448/330 4/449/325 5/450/324 6/451/331
+s 8
+f 15/452/332 11/453/321 12/454/333 13/455/334
+s 9
+f 9/456/335 6/457/331 5/458/324 3/459/322
+s 10
+f 16/436/320 13/460/334 12/461/333 10/437/312
+s 11
+f 23/462/336 29/463/337 9/456/335 15/452/332
+s 12
+f 36/464/338 39/465/339 30/431/315 22/444/326
+s 13
+f 38/466/340 18/467/341 8/448/330 28/468/342
+s 14
+f 8/448/330 18/467/341 20/469/343 4/449/325
+s 15
+f 29/463/337 33/434/318 32/433/317 31/470/344
+s 16
+f 28/468/342 31/471/344 32/433/317 34/432/316
+s 17
+f 15/452/332 9/456/335 3/459/322 11/453/321
+s 18
+f 21/472/345 24/447/329 25/446/328 27/473/346
+s 19
+f 23/462/336 27/474/346 25/446/328 26/445/327
+s 20
+f 14/429/313 7/441/323 19/475/347 1/430/314
+s 21
+f 14/429/313 10/428/312 12/476/333 11/439/321
+s 22
+f 4/443/325 20/477/343 19/475/347 7/441/323
+s 23
+f 21/472/345 35/478/348 37/479/349 24/447/329
+s 24
+f 24/447/329 37/479/349 36/464/338 22/444/326
+s 25
+f 38/466/340 28/468/342 34/432/316 40/480/350
+s 26
+f 40/480/350 34/432/316 30/431/315 39/465/339
+s 27
+f 29/463/337 23/462/336 26/445/327 33/434/318
+s 28
+f 33/434/318 26/445/327 22/444/326 30/431/315
+s 29
+f 16/436/320 21/472/345 27/473/346 13/460/334
+s 30
+f 13/455/334 27/474/346 23/462/336 15/452/332
+s 31
+f 28/468/342 8/448/330 6/451/331 31/471/344
+s 32
+f 31/470/344 6/457/331 9/456/335 29/463/337
+s 33
+f 2/435/319 35/478/348 21/472/345 16/436/320
+s 34
+f 57/481/351 50/482/352 54/483/353 41/484/354
+s 35
+f 70/485/355 74/486/356 72/487/357 73/488/358
+s 36
+f 42/489/359 56/490/360 50/491/352 57/492/351
+s 37
+f 51/493/361 43/494/362 47/495/363 54/483/353
+s 38
+f 47/495/363 43/494/362 45/496/364 44/497/365
+s 39
+f 62/498/366 66/499/367 65/500/368 64/501/369
+s 40
+f 48/502/370 44/503/365 45/504/364 46/505/371
+s 41
+f 55/506/372 51/507/361 52/508/373 53/509/374
+s 42
+f 49/510/375 46/511/371 45/512/364 43/513/362
+s 43
+f 56/490/360 53/514/374 52/515/373 50/491/352
+s 44
+f 63/516/376 69/517/377 49/510/375 55/506/372
+s 45
+f 76/518/378 79/519/379 70/485/355 62/498/366
+s 46
+f 78/520/380 58/521/381 48/502/370 68/522/382
+s 47
+f 48/502/370 58/521/381 60/523/383 44/503/365
+s 48
+f 69/517/377 73/488/358 72/487/357 71/524/384
+s 49
+f 68/522/382 71/525/384 72/487/357 74/486/356
+s 50
+f 55/506/372 49/510/375 43/513/362 51/507/361
+s 51
+f 61/526/385 64/501/369 65/500/368 67/527/386
+s 52
+f 63/516/376 67/528/386 65/500/368 66/499/367
+s 53
+f 54/483/353 47/495/363 59/529/387 41/484/354
+s 54
+f 54/483/353 50/482/352 52/530/373 51/493/361
+s 55
+f 44/497/365 60/531/383 59/529/387 47/495/363
+s 56
+f 61/526/385 75/532/388 77/533/389 64/501/369
+s 57
+f 64/501/369 77/533/389 76/518/378 62/498/366
+s 58
+f 78/520/380 68/522/382 74/486/356 80/534/390
+s 59
+f 80/534/390 74/486/356 70/485/355 79/519/379
+s 60
+f 69/517/377 63/516/376 66/499/367 73/488/358
+s 61
+f 73/488/358 66/499/367 62/498/366 70/485/355
+s 62
+f 56/490/360 61/526/385 67/527/386 53/514/374
+s 63
+f 53/509/374 67/528/386 63/516/376 55/506/372
+s 64
+f 68/522/382 48/502/370 46/505/371 71/525/384
+s 65
+f 71/524/384 46/511/371 49/510/375 69/517/377
+s 66
+f 42/489/359 75/532/388 61/526/385 56/490/360
+usemtl WoodDark
+s 100
+f 115/535/391 116/536/392 118/537/393 117/538/394
+s 101
+f 116/536/392 124/539/395 125/540/396 118/537/393
+s 102
+f 117/538/394 118/537/393 120/541/397 119/542/398
+s 103
+f 118/537/393 125/540/396 126/543/399 120/541/397
+s 104
+f 121/544/400 122/545/401 125/546/396 124/547/395
+s 105
+f 122/545/401 123/548/402 126/549/399 125/546/396
+s 106
+f 123/548/402 129/550/403 130/551/404 126/549/399
+s 107
+f 121/544/400 131/552/405 133/553/406 122/545/401
+s 108
+f 127/554/407 128/555/408 130/556/404 129/557/403
+s 109
+f 128/555/408 119/558/398 120/559/397 130/556/404
+s 110
+f 120/541/397 126/543/399 130/560/404
+s 111
+f 122/545/401 133/553/406 135/561/409 123/548/402
+s 112
+f 131/552/405 132/562/410 134/563/411 133/553/406
+s 113
+f 132/562/410 140/564/412 141/565/413 134/563/411
+s 114
+f 129/557/403 144/566/414 143/567/415 127/554/407
+s 115
+f 133/553/406 134/563/411 136/568/416 135/561/409
+s 116
+f 134/563/411 141/565/413 142/569/417 136/568/416
+s 117
+f 137/570/418 138/571/419 141/572/413 140/573/412
+s 118
+f 138/571/419 139/574/420 142/575/417 141/572/413
+s 119
+f 139/574/420 145/576/421 146/577/422 142/575/417
+s 120
+f 123/548/402 135/578/409 144/566/414 129/550/403
+s 121
+f 147/579/423 115/535/391 117/538/394 148/580/424
+s 122
+f 143/567/415 144/566/414 146/581/422 145/582/421
+s 123
+f 144/566/414 135/578/409 136/583/416 146/581/422
+s 124
+f 136/568/416 142/569/417 146/584/422
+s 125
+f 148/580/424 117/538/394 119/542/398 149/585/425
+s 126
+f 149/585/425 119/558/398 128/555/408 155/586/426
+s 127
+f 127/554/407 143/567/415 175/587/427 153/588/428
+s 128
+f 147/579/423 148/580/424 151/589/429 150/590/430
+s 129
+f 148/580/424 149/585/425 152/591/431 151/589/429
+s 130
+f 149/585/425 155/586/426 156/592/432 152/591/431
+s 131
+f 155/593/426 128/555/408 127/554/407 153/588/428
+s 132
+f 137/570/418 163/594/433 165/595/434 138/571/419
+s 133
+f 153/588/428 154/596/435 156/597/432 155/593/426
+s 134
+f 154/596/435 161/598/436 162/599/437 156/597/432
+s 135
+f 157/600/438 158/601/439 160/602/440 159/603/441
+s 136
+f 158/601/439 150/604/430 151/605/429 160/602/440
+s 137
+f 169/606/442 157/600/438 159/603/441 170/607/443
+s 138
+f 159/603/441 160/602/440 162/599/437 161/598/436
+s 139
+f 160/602/440 151/605/429 152/608/431 162/599/437
+s 140
+f 152/591/431 156/592/432 162/609/437
+s 141
+f 138/571/419 165/595/434 167/610/444 139/574/420
+s 142
+f 163/594/433 164/611/445 166/612/446 165/595/434
+s 143
+f 164/611/445 172/613/447 173/614/448 166/612/446
+s 144
+f 165/595/434 166/612/446 168/615/449 167/610/444
+s 145
+f 166/612/446 173/614/448 174/616/450 168/615/449
+s 146
+f 170/607/443 159/603/441 161/598/436 171/617/451
+s 147
+f 171/617/451 161/598/436 154/596/435 177/618/452
+s 148
+f 177/618/452 154/596/435 153/588/428 175/587/427
+s 149
+f 169/606/442 170/607/443 173/619/448 172/620/447
+s 150
+f 170/607/443 171/617/451 174/621/450 173/619/448
+s 151
+f 171/617/451 177/618/452 178/622/453 174/621/450
+s 152
+f 145/582/421 176/623/454 175/587/427 143/567/415
+s 153
+f 139/574/420 167/624/444 176/623/454 145/576/421
+s 154
+f 175/587/427 176/623/454 178/622/453 177/618/452
+s 155
+f 176/623/454 167/624/444 168/625/449 178/622/453
+s 156
+f 168/615/449 174/616/450 178/626/453
+s 157
+f 179/627/455 180/628/456 183/629/457 182/630/458
+s 158
+f 180/628/456 181/631/459 184/632/460 183/629/457
+s 159
+f 181/631/459 187/633/461 188/634/462 184/632/460
+s 160
+f 185/635/463 186/636/464 188/634/462 187/633/461
+s 161
+f 186/636/464 193/637/465 194/638/466 188/634/462
+s 162
+f 189/639/467 190/640/468 192/641/469 191/642/470
+s 163
+f 190/640/468 182/643/458 183/644/457 192/641/469
+s 164
+f 201/645/471 189/639/467 191/642/470 202/646/472
+s 165
+f 191/642/470 192/641/469 194/638/466 193/637/465
+s 166
+f 192/641/469 183/644/457 184/647/460 194/638/466
+s 167
+f 184/632/460 188/648/462 194/649/466
+s 168
+f 195/650/473 196/651/474 198/652/475 197/653/476
+s 169
+f 196/651/474 204/654/477 205/655/478 198/652/475
+s 170
+f 197/653/476 198/652/475 200/656/479 199/657/480
+s 171
+f 198/652/475 205/655/478 206/658/481 200/656/479
+s 172
+f 202/646/472 191/642/470 193/637/465 203/659/482
+s 173
+f 203/659/482 193/637/465 186/636/464 209/660/483
+s 174
+f 209/660/483 186/636/464 185/635/463 207/661/484
+s 175
+f 201/645/471 202/646/472 205/662/478 204/663/477
+s 176
+f 202/646/472 203/659/482 206/664/481 205/662/478
+s 177
+f 203/659/482 209/660/483 210/665/485 206/664/481
+s 178
+f 179/627/455 211/666/486 213/667/487 180/628/456
+s 179
+f 207/661/484 208/668/488 210/665/485 209/660/483
+s 180
+f 208/668/488 199/657/480 200/656/479 210/665/485
+s 181
+f 200/656/479 206/658/481 210/669/485
+s 182
+f 180/628/456 213/667/487 215/670/489 181/631/459
+s 183
+f 211/666/486 212/671/490 214/672/491 213/667/487
+s 184
+f 212/671/490 220/673/492 221/674/493 214/672/491
+s 185
+f 223/675/494 233/676/495 207/661/484 185/635/463
+s 186
+f 213/667/487 214/672/491 216/677/496 215/670/489
+s 187
+f 214/672/491 221/674/493 222/678/497 216/677/496
+s 188
+f 217/679/498 218/680/499 221/681/493 220/682/492
+s 189
+f 218/680/499 219/683/500 222/684/497 221/681/493
+s 190
+f 219/683/500 225/685/501 226/686/502 222/684/497
+s 191
+f 187/633/461 224/687/503 223/675/494 185/635/463
+s 192
+f 181/631/459 215/670/489 224/687/503 187/633/461
+s 193
+f 227/688/504 195/650/473 197/653/476 228/689/505
+s 194
+f 233/676/495 223/675/494 225/685/501 234/690/506
+s 195
+f 223/675/494 224/687/503 226/686/502 225/685/501
+s 196
+f 224/687/503 215/670/489 216/677/496 226/686/502
+s 197
+f 216/677/496 222/678/497 226/691/502
+s 198
+f 228/689/505 197/653/476 199/657/480 229/692/507
+s 199
+f 229/692/507 199/657/480 208/668/488 235/693/508
+s 200
+f 227/688/504 228/689/505 231/694/509 230/695/510
+s 201
+f 228/689/505 229/692/507 232/696/511 231/694/509
+s 202
+f 229/692/507 235/693/508 236/697/512 232/696/511
+s 203
+f 235/693/508 208/668/488 207/661/484 233/676/495
+s 204
+f 234/690/506 225/685/501 219/683/500 241/698/513
+s 205
+f 239/699/514 218/680/499 217/679/498 237/700/515
+s 206
+f 233/676/495 234/690/506 236/697/512 235/693/508
+s 207
+f 234/690/506 241/698/513 242/701/516 236/697/512
+s 208
+f 241/698/513 219/683/500 218/680/499 239/699/514
+s 209
+f 237/700/515 238/702/517 240/703/518 239/699/514
+s 210
+f 238/702/517 230/704/510 231/705/509 240/703/518
+s 211
+f 239/699/514 240/703/518 242/701/516 241/698/513
+s 212
+f 240/703/518 231/705/509 232/706/511 242/701/516
+s 213
+f 232/696/511 236/707/512 242/708/516
+s 214
+f 827/709/519 853/710/520 438/711/521 363/712/522
+s 215
+f 827/709/519 363/712/522 373/713/523 830/714/524
+s 216
+f 830/714/524 373/713/523 383/715/525 833/716/526
+s 217
+f 833/717/526 383/718/525 393/719/527 836/720/528
+s 218
+f 887/721/529 403/722/530 413/723/531 890/724/532
+s 219
+f 890/724/532 413/723/531 423/725/533 893/726/534
+s 220
+f 893/727/534 423/728/533 433/729/535 896/730/536
+s 221
+f 217/679/498 838/731/537 848/732/538 237/700/515
+s 222
+f 900/733/539 876/734/540 877/735/541 899/736/542
+s 223
+f 899/736/542 443/737/543 453/738/544 902/739/545
+s 224
+f 902/739/545 453/738/544 463/740/546 905/741/547
+s 225
+f 905/742/547 463/743/546 473/744/548 908/745/549
+s 226
+f 841/746/550 863/747/551 864/748/552 840/749/553
+s 227
+f 863/747/551 483/750/554 493/751/555 866/752/556
+s 228
+f 866/752/556 493/751/555 503/753/557 869/754/558
+s 229
+f 869/755/558 503/756/557 513/757/559 872/758/560
+s 230
+f 121/544/400 910/759/561 920/760/562 131/552/405
+s 231
+f 901/761/563 115/535/391 147/579/423 875/762/564
+s 232
+f 437/763/565 447/764/566 457/765/567 467/766/568 512/767/569 502/768/570 492/769/571 482/770/572 397/771/573 407/772/574 417/773/575 427/774/576 392/775/577 382/776/578 372/777/579 362/778/580
+s 233
+f 917/779/581 132/562/410 131/552/405 920/760/562
+s 234
+f 914/780/582 140/573/412 132/781/410 917/782/581
+s 235
+f 911/783/583 137/570/418 140/573/412 914/780/582
+s 236
+f 912/784/584 888/785/585 889/786/586 911/783/583
+s 237
+f 468/787/587 862/788/588 872/758/560 513/757/559
+s 238
+f 857/789/589 190/640/468 189/639/467 860/790/590
+s 239
+f 854/791/591 182/630/458 190/792/468 857/793/589
+s 240
+f 851/794/592 179/627/455 182/630/458 854/791/591
+s 241
+f 829/795/593 851/794/592 852/796/594 828/797/595
+s 242
+f 845/798/596 238/702/517 237/700/515 848/732/538
+s 243
+f 842/799/597 230/695/510 238/800/517 845/801/596
+s 244
+f 839/802/598 227/688/504 230/695/510 842/799/597
+s 245
+f 388/803/599 886/804/600 896/730/536 433/729/535
+s 246
+f 881/805/601 158/601/439 157/600/438 884/806/602
+s 247
+f 878/807/603 150/590/430 158/808/439 881/809/601
+s 248
+f 875/762/564 147/579/423 150/590/430 878/807/603
+s 249
+f 442/810/604 357/811/605 367/812/606 377/813/607 387/814/608 432/815/609 422/816/610 412/817/611 402/818/612 477/819/613 487/820/614 497/821/615 507/822/616 472/823/617 462/824/618 452/825/619
+s 278
+f 269/124/109 264/826/179 711/827/620
+s 293
+f 284/145/128 795/209/177 803/828/621 725/829/622
+s 324
+f 303/830/178 299/163/143 741/831/623
+s 344
+f 277/127/112 273/125/110 715/832/624 718/833/625
+s 346
+f 299/163/143 296/157/139 737/834/626 741/831/623
+s 348
+f 296/157/139 292/154/137 733/835/627 737/834/626
+s 349
+f 261/112/99 258/106/95 692/836/628 699/837/629
+s 350
+f 252/97/87 249/89/80 669/838/630 677/839/631
+s 352
+f 314/193/164 311/185/158 762/840/632 769/841/633
+s 353
+f 305/171/150 304/170/149 747/842/634 748/843/635
+s 355
+f 323/206/174 320/202/172 783/844/636 790/845/637
+s 357
+f 304/170/149 303/211/178 746/846/638 747/842/634
+s 360
+f 265/117/102 266/25/26 706/847/639 705/848/640
+s 361
+f 246/85/76 243/84/75 662/849/641 660/850/642
+s 363
+f 308/182/157 305/171/150 748/843/635 755/851/643
+s 364
+f 249/89/80 246/85/76 660/850/642 669/838/630
+s 366
+f 311/185/158 308/184/157 755/852/643 762/840/632
+s 367
+f 264/212/179 704/853/644 703/854/645
+s 368
+f 288/146/129 284/145/128 725/829/622 729/855/646
+s 370
+f 264/212/179 265/117/102 705/848/640 704/853/644
+s 373
+f 444/856/647 359/857/648 357/811/605 442/810/604
+s 374
+f 445/858/649 360/859/650 359/857/648 444/856/647
+s 375
+f 446/860/651 361/861/652 360/859/650 445/858/649
+s 376
+f 443/737/543 358/862/653 361/861/652 446/860/651
+s 377
+f 441/863/654 366/864/655 363/712/522 438/711/521
+s 378
+f 440/865/656 365/866/657 366/864/655 441/863/654
+s 379
+f 439/867/658 364/868/659 365/866/657 440/865/656
+s 380
+f 437/763/565 362/778/580 364/868/659 439/867/658
+s 381
+f 509/869/660 474/870/661 472/823/617 507/822/616
+s 382
+f 502/768/570 512/767/569 514/871/662 504/872/663
+s 383
+f 504/872/663 514/871/662 515/873/664 505/874/665
+s 384
+f 505/874/665 515/873/664 516/875/666 506/876/667
+s 385
+f 506/876/667 516/875/666 513/757/559 503/756/557
+s 386
+f 498/877/668 508/878/669 511/879/670 501/880/671
+s 387
+f 501/880/671 511/879/670 510/881/672 500/882/673
+s 388
+f 500/882/673 510/881/672 509/869/660 499/883/674
+s 389
+f 499/883/674 509/869/660 507/822/616 497/821/615
+s 390
+f 492/769/571 502/768/570 504/872/663 494/884/675
+s 391
+f 494/884/675 504/872/663 505/885/665 495/886/676
+s 392
+f 495/886/676 505/887/665 506/888/667 496/889/677
+s 393
+f 496/889/677 506/888/667 503/753/557 493/751/555
+s 394
+f 488/890/678 498/891/668 501/892/671 491/893/679
+s 395
+f 491/893/679 501/892/671 500/894/673 490/895/680
+s 396
+f 490/895/680 500/896/673 499/883/674 489/897/681
+s 397
+f 489/897/681 499/883/674 497/821/615 487/820/614
+s 398
+f 482/770/572 492/769/571 494/884/675 484/898/682
+s 399
+f 484/898/682 494/884/675 495/899/676 485/900/683
+s 400
+f 485/900/683 495/899/676 496/901/677 486/902/684
+s 401
+f 486/902/684 496/901/677 493/751/555 483/750/554
+s 402
+f 478/903/685 488/890/678 491/904/679 481/905/686
+s 403
+f 481/905/686 491/904/679 490/906/680 480/907/687
+s 404
+f 480/907/687 490/906/680 489/897/681 479/908/688
+s 405
+f 479/908/688 489/897/681 487/820/614 477/819/613
+s 406
+f 404/909/689 479/908/688 477/819/613 402/818/612
+s 407
+f 510/881/672 475/910/690 474/870/661 509/869/660
+s 408
+f 511/879/670 476/911/691 475/910/690 510/881/672
+s 409
+f 508/878/669 473/744/548 476/911/691 511/879/670
+s 410
+f 516/875/666 471/912/692 468/787/587 513/757/559
+s 411
+f 515/873/664 470/913/693 471/912/692 516/875/666
+s 412
+f 514/871/662 469/914/694 470/913/693 515/873/664
+s 413
+f 512/767/569 467/766/568 469/914/694 514/871/662
+s 414
+f 462/824/618 472/823/617 474/870/661 464/915/695
+s 415
+f 464/915/695 474/870/661 475/916/690 465/917/696
+s 416
+f 465/918/696 475/919/690 476/920/691 466/921/697
+s 417
+f 466/921/697 476/920/691 473/744/548 463/743/546
+s 418
+f 458/922/698 468/787/587 471/923/692 461/924/699
+s 419
+f 461/924/699 471/923/692 470/925/693 460/926/700
+s 420
+f 460/927/700 470/928/693 469/914/694 459/929/701
+s 421
+f 459/929/701 469/914/694 467/766/568 457/765/567
+s 422
+f 452/825/619 462/824/618 464/915/695 454/930/702
+s 423
+f 454/930/702 464/915/695 465/931/696 455/932/703
+s 424
+f 455/932/703 465/931/696 466/933/697 456/934/704
+s 425
+f 456/934/704 466/933/697 463/740/546 453/738/544
+s 426
+f 448/935/705 458/936/698 461/937/699 451/938/706
+s 427
+f 451/938/706 461/937/699 460/939/700 450/940/707
+s 428
+f 450/940/707 460/939/700 459/929/701 449/941/708
+s 429
+f 449/941/708 459/929/701 457/765/567 447/764/566
+s 430
+f 442/810/604 452/825/619 454/930/702 444/856/647
+s 431
+f 444/856/647 454/930/702 455/932/703 445/858/649
+s 432
+f 445/858/649 455/932/703 456/934/704 446/860/651
+s 433
+f 446/860/651 456/934/704 453/738/544 443/737/543
+s 434
+f 438/711/521 448/935/705 451/938/706 441/863/654
+s 435
+f 441/863/654 451/938/706 450/940/707 440/865/656
+s 436
+f 440/865/656 450/940/707 449/941/708 439/867/658
+s 437
+f 439/867/658 449/941/708 447/764/566 437/763/565
+s 438
+f 429/942/709 394/943/710 392/775/577 427/774/576
+s 439
+f 422/816/610 432/815/609 434/944/711 424/945/712
+s 440
+f 424/945/712 434/944/711 435/946/713 425/947/714
+s 441
+f 425/948/714 435/949/713 436/950/715 426/951/716
+s 442
+f 426/951/716 436/950/715 433/729/535 423/728/533
+s 443
+f 418/952/717 428/953/718 431/954/719 421/955/720
+s 444
+f 421/955/720 431/954/719 430/956/721 420/957/722
+s 445
+f 420/958/722 430/959/721 429/942/709 419/960/723
+s 446
+f 419/960/723 429/942/709 427/774/576 417/773/575
+s 447
+f 412/817/611 422/816/610 424/945/712 414/961/724
+s 448
+f 414/961/724 424/945/712 425/962/714 415/963/725
+s 449
+f 415/963/725 425/962/714 426/964/716 416/965/726
+s 450
+f 416/965/726 426/964/716 423/725/533 413/723/531
+s 451
+f 408/966/727 418/967/717 421/968/720 411/969/728
+s 452
+f 411/969/728 421/968/720 420/970/722 410/971/729
+s 453
+f 410/971/729 420/970/722 419/960/723 409/972/730
+s 454
+f 409/972/730 419/960/723 417/773/575 407/772/574
+s 455
+f 402/818/612 412/817/611 414/961/724 404/909/689
+s 456
+f 404/909/689 414/961/724 415/963/725 405/973/731
+s 457
+f 405/973/731 415/963/725 416/965/726 406/974/732
+s 458
+f 406/974/732 416/965/726 413/723/531 403/722/530
+s 459
+f 398/975/733 408/966/727 411/969/728 401/976/734
+s 460
+f 401/976/734 411/969/728 410/971/729 400/977/735
+s 461
+f 400/977/735 410/971/729 409/972/730 399/978/736
+s 462
+f 399/978/736 409/972/730 407/772/574 397/771/573
+s 463
+f 405/973/731 480/907/687 479/908/688 404/909/689
+s 464
+f 406/974/732 481/905/686 480/907/687 405/973/731
+s 465
+f 403/722/530 478/903/685 481/905/686 406/974/732
+s 466
+f 401/976/734 486/902/684 483/750/554 398/975/733
+s 467
+f 400/977/735 485/900/683 486/902/684 401/976/734
+s 468
+f 399/978/736 484/898/682 485/900/683 400/977/735
+s 469
+f 397/771/573 482/770/572 484/898/682 399/978/736
+s 470
+f 430/979/721 395/980/737 394/943/710 429/942/709
+s 471
+f 431/981/719 396/982/738 395/980/737 430/979/721
+s 472
+f 428/953/718 393/719/527 396/982/738 431/981/719
+s 473
+f 436/983/715 391/984/739 388/803/599 433/729/535
+s 474
+f 435/985/713 390/986/740 391/984/739 436/983/715
+s 475
+f 434/944/711 389/987/741 390/986/740 435/985/713
+s 476
+f 432/815/609 387/814/608 389/987/741 434/944/711
+s 477
+f 382/776/578 392/775/577 394/943/710 384/988/742
+s 478
+f 384/988/742 394/943/710 395/980/737 385/989/743
+s 479
+f 385/989/743 395/980/737 396/982/738 386/990/744
+s 480
+f 386/990/744 396/982/738 393/719/527 383/718/525
+s 481
+f 378/991/745 388/803/599 391/984/739 381/992/746
+s 482
+f 381/992/746 391/984/739 390/986/740 380/993/747
+s 483
+f 380/993/747 390/986/740 389/987/741 379/994/748
+s 484
+f 379/994/748 389/987/741 387/814/608 377/813/607
+s 485
+f 372/777/579 382/776/578 384/988/742 374/995/749
+s 486
+f 374/995/749 384/988/742 385/996/743 375/997/750
+s 487
+f 375/998/750 385/999/743 386/1000/744 376/1001/751
+s 488
+f 376/1001/751 386/1000/744 383/715/525 373/713/523
+s 489
+f 368/1002/752 378/1003/745 381/1004/746 371/1005/753
+s 490
+f 371/1005/753 381/1004/746 380/1006/747 370/1007/754
+s 491
+f 370/1008/754 380/1009/747 379/994/748 369/1010/755
+s 492
+f 369/1010/755 379/994/748 377/813/607 367/812/606
+s 493
+f 362/778/580 372/777/579 374/995/749 364/868/659
+s 494
+f 364/868/659 374/995/749 375/1011/750 365/866/657
+s 495
+f 365/866/657 375/1011/750 376/1012/751 366/864/655
+s 496
+f 366/864/655 376/1012/751 373/713/523 363/712/522
+s 497
+f 358/862/653 368/1002/752 371/1013/753 361/861/652
+s 498
+f 361/861/652 371/1013/753 370/1014/754 360/859/650
+s 499
+f 360/859/650 370/1014/754 369/1010/755 359/857/648
+s 500
+f 359/857/648 369/1010/755 367/812/606 357/811/605
+s 501
+f 273/125/110 269/124/109 711/827/620 715/832/624
+s 502
+f 255/103/92 252/97/87 677/839/631 684/1015/756
+s 503
+f 317/199/169 314/193/164 769/841/633 776/1016/757
+s 504
+f 258/106/95 255/103/92 684/1015/756 692/836/628
+s 505
+f 801/1017/758 685/1018/759 719/1019/760
+s 506
+f 320/202/172 317/199/169 776/1016/757 783/844/636
+s 517
+f 266/25/26 261/112/99 699/837/629 706/847/639
+s 518
+f 730/1020/761 685/1021/759 734/1022/762
+s 519
+f 303/1023/178 745/1024/763 746/846/638
+s 520
+f 243/84/75 323/206/174 790/845/637 662/849/641
+s 521
+f 703/854/645 711/827/620 264/826/179
+s 522
+f 292/154/137 288/146/129 729/855/646 733/835/627
+s 629
+f 654/1025/764 794/1026/765 661/1027/766
+s 630
+f 662/849/641 792/1028/767 659/1029/768 660/850/642
+s 631
+f 656/1030/769 794/1026/765 655/1031/770
+s 632
+f 801/1032/758 707/1033/771 685/1034/759
+s 633
+f 793/1035/772 663/1036/773 656/1030/769 657/1037/774
+s 634
+f 791/1038/775 793/1035/772 657/1037/774 658/1039/776
+s 635
+f 685/1040/759 670/1041/777 654/1042/764
+s 636
+f 657/1037/774 656/1030/769 665/1043/778 666/1044/779
+s 637
+f 655/1031/770 807/1045/780 664/1046/781
+s 638
+f 658/1039/776 657/1037/774 666/1044/779 667/1047/782
+s 639
+f 660/850/642 659/1029/768 668/1048/783 669/838/630
+s 640
+f 656/1030/769 655/1031/770 664/1046/781 665/1043/778
+s 641
+f 669/838/630 668/1048/783 676/1049/784 677/839/631
+s 642
+f 665/1043/778 664/1046/781 672/1050/785 673/1051/786
+s 643
+f 666/1044/779 665/1043/778 673/1051/786 674/1052/787
+s 644
+f 667/1047/782 666/1044/779 674/1052/787 675/1053/788
+s 645
+f 672/1050/785 807/1045/780 671/1054/789
+s 646
+f 675/1053/788 674/1052/787 681/1055/790 682/1056/791
+s 647
+f 672/1050/785 671/1057/789 678/1058/792 679/1059/793
+s 648
+f 677/839/631 676/1049/784 683/1060/794 684/1015/756
+s 649
+f 673/1051/786 672/1050/785 679/1059/793 680/1061/795
+s 650
+f 674/1052/787 673/1051/786 680/1061/795 681/1055/790
+s 651
+f 686/1062/796 808/1063/797 809/1064/798 693/1065/799
+s 652
+f 681/1055/790 680/1061/795 688/1066/800 689/1067/801
+s 653
+f 682/1056/791 681/1055/790 689/1067/801 690/1068/802
+s 654
+f 679/1059/793 678/1058/792 686/1062/796 687/1069/803
+s 655
+f 684/1015/756 683/1060/794 691/1070/804 692/836/628
+s 656
+f 680/1061/795 679/1059/793 687/1069/803 688/1066/800
+s 657
+f 687/1069/803 686/1062/796 693/1065/799 694/1071/805
+s 658
+f 692/836/628 691/1070/804 698/1072/806 699/837/629
+s 659
+f 688/1066/800 687/1069/803 694/1071/805 695/1073/807
+s 660
+f 689/1067/801 688/1066/800 695/1073/807 696/1074/808
+s 661
+f 690/1068/802 689/1067/801 696/1074/808 697/1075/809
+s 662
+f 707/1076/771 798/1077/810 685/1078/759
+s 663
+f 697/1075/809 696/1074/808 703/854/645 704/853/644
+s 664
+f 694/1071/805 693/1065/799 700/1079/811 701/1080/812
+s 665
+f 699/837/629 698/1072/806 705/848/640 706/847/639
+s 666
+f 695/1073/807 694/1071/805 701/1080/812 702/1081/813
+s 667
+f 696/1074/808 695/1073/807 702/1081/813 703/854/645
+s 668
+f 702/1081/813 701/1080/812 709/1082/814 710/1083/815
+s 669
+f 703/854/645 702/1081/813 710/1083/815 711/827/620
+s 670
+f 701/1080/812 700/1079/811 708/1084/816 709/1082/814
+s 671
+f 709/1082/814 708/1084/816 712/1085/817 713/1086/818
+s 672
+f 710/1083/815 709/1082/814 713/1086/818 714/1087/819
+s 673
+f 711/827/620 710/1083/815 714/1087/819 715/832/624
+s 674
+f 715/832/624 714/1087/819 717/1088/820 718/833/625
+s 675
+f 720/1089/821 801/1090/758 719/1019/760
+s 676
+f 714/1087/819 713/1086/818 716/1091/822 717/1088/820
+s 677
+f 719/1019/760 685/1092/759 722/1093/823
+s 678
+f 720/1094/821 719/1019/760 722/1093/823 723/1095/824
+s 679
+f 721/1096/825 720/1094/821 723/1095/824 724/1097/826
+s 680
+f 722/1093/823 685/1098/759 726/1099/827
+s 681
+f 725/829/622 724/1097/826 728/1100/828 729/855/829
+s 682
+f 726/1099/827 685/1101/759 730/1020/761
+s 683
+f 723/1095/824 722/1093/823 726/1099/827 727/1102/830
+s 684
+f 724/1097/826 723/1095/824 727/1102/830 728/1100/828
+s 685
+f 728/1100/828 727/1102/830 731/1103/831 732/1104/832
+s 686
+f 729/855/829 728/1100/828 732/1104/832 733/835/833
+s 687
+f 727/1102/830 726/1099/827 730/1020/761 731/1103/831
+s 688
+f 731/1103/831 730/1020/761 734/1022/762 735/1105/834
+s 689
+f 732/1104/832 731/1103/831 735/1105/834 736/1106/835
+s 690
+f 734/1022/762 685/1107/759 738/1108/836
+s 691
+f 733/835/833 732/1104/832 736/1106/835 737/834/626
+s 692
+f 737/834/626 736/1106/835 740/1109/837 741/831/623
+s 693
+f 738/1108/836 685/1110/759 742/1111/838
+s 694
+f 735/1105/834 734/1022/762 738/1108/836 739/1112/839
+s 695
+f 736/1106/835 735/1105/834 739/1112/839 740/1109/837
+s 696
+f 740/1109/837 739/1112/839 743/1113/840 744/1114/841
+s 697
+f 742/1111/838 685/1115/759 749/1116/842
+s 698
+f 741/831/623 740/1109/837 744/1114/841 745/1024/763
+s 699
+f 739/1112/839 738/1108/836 742/1111/838 743/1113/840
+s 700
+f 746/846/638 745/1024/763 752/1117/843 753/1118/844
+s 701
+f 743/1113/840 742/1111/838 749/1116/842 750/1119/845
+s 702
+f 748/843/635 747/842/634 754/1120/846 755/851/643
+s 703
+f 744/1114/841 743/1113/840 750/1119/845 751/1121/847
+s 704
+f 749/1122/842 685/1123/759 756/1124/848
+s 705
+f 745/1024/763 744/1114/841 751/1121/847 752/1117/843
+s 706
+f 756/1124/848 685/1125/759 763/1126/849
+s 707
+f 752/1127/843 751/1128/847 758/1129/850 759/1130/851
+s 708
+f 753/1131/844 752/1127/843 759/1130/851 760/1132/852
+s 709
+f 750/1133/845 749/1122/842 756/1124/848 757/1134/853
+s 710
+f 755/852/643 754/1135/846 761/1136/854 762/840/632
+s 711
+f 751/1128/847 750/1133/845 757/1134/853 758/1129/850
+s 712
+f 762/840/632 761/1136/854 768/1137/855 769/841/633
+s 713
+f 758/1129/850 757/1134/853 764/1138/856 765/1139/857
+s 714
+f 763/1126/849 685/1140/759 770/1141/858
+s 715
+f 759/1130/851 758/1129/850 765/1139/857 766/1142/859
+s 716
+f 760/1132/852 759/1130/851 766/1142/859 767/1143/860
+s 717
+f 757/1134/853 756/1124/848 763/1126/849 764/1138/856
+s 718
+f 770/1141/858 685/1144/759 777/1145/861
+s 719
+f 767/1143/860 766/1142/859 773/1146/862 774/1147/863
+s 720
+f 764/1138/856 763/1126/849 770/1141/858 771/1148/864
+s 721
+f 769/841/633 768/1137/855 775/1149/865 776/1016/757
+s 722
+f 765/1139/857 764/1138/856 771/1148/864 772/1150/866
+s 723
+f 766/1142/859 765/1139/857 772/1150/866 773/1146/862
+s 724
+f 777/1145/861 685/1151/759 784/1152/867
+s 725
+f 773/1146/862 772/1150/866 779/1153/868 780/1154/869
+s 726
+f 774/1147/863 773/1146/862 780/1154/869 781/1155/870
+s 727
+f 771/1148/864 770/1141/858 777/1145/861 778/1156/871
+s 728
+f 776/1016/757 775/1149/865 782/1157/872 783/844/636
+s 729
+f 772/1150/866 771/1148/864 778/1156/871 779/1153/868
+s 730
+f 778/1156/871 777/1145/861 784/1152/867 785/1158/873
+s 731
+f 783/844/636 782/1157/872 789/1159/874 790/845/637
+s 732
+f 779/1153/868 778/1156/871 785/1158/873 786/1160/875
+s 733
+f 784/1152/867 685/1161/759 661/1027/766
+s 734
+f 780/1154/869 779/1153/868 786/1160/875 787/1162/876
+s 735
+f 781/1155/870 780/1154/869 787/1162/876 788/1163/877
+s 736
+f 661/1027/766 685/1164/759 654/1025/764
+s 737
+f 788/1163/877 787/1162/876 793/1035/772 791/1038/775
+s 738
+f 785/1158/873 784/1152/867 661/1027/766 794/1026/765
+s 739
+f 790/845/637 789/1159/874 792/1028/767 662/849/641
+s 740
+f 786/1160/875 785/1158/873 794/1026/765 663/1036/773
+s 741
+f 787/1162/876 786/1160/875 663/1036/773 793/1035/772
+s 742
+f 789/1159/874 788/1163/877 791/1038/775 792/1028/767
+s 743
+f 782/1157/872 781/1155/870 788/1163/877 789/1159/874
+s 744
+f 775/1149/865 774/1147/863 781/1155/870 782/1157/872
+s 745
+f 768/1137/855 767/1143/860 774/1147/863 775/1149/865
+s 746
+f 761/1136/854 760/1132/852 767/1143/860 768/1137/855
+s 747
+f 754/1135/846 753/1131/844 760/1132/852 761/1136/854
+s 748
+f 747/842/634 746/846/638 753/1118/844 754/1120/846
+s 749
+f 698/1072/806 697/1075/809 704/853/644 705/848/640
+s 750
+f 691/1070/804 690/1068/802 697/1075/809 698/1072/806
+s 751
+f 683/1060/794 682/1056/791 690/1068/802 691/1070/804
+s 752
+f 676/1049/784 675/1053/788 682/1056/791 683/1060/794
+s 753
+f 668/1048/783 667/1047/782 675/1053/788 676/1049/784
+s 754
+f 659/1029/768 658/1039/776 667/1047/782 668/1048/783
+s 755
+f 792/1028/767 791/1038/775 658/1039/776 659/1029/768
+s 756
+f 713/1086/818 712/1165/817 716/1091/822
+s 757
+f 803/1166/621 721/1096/825 724/1097/826 725/829/622
+s 758
+f 798/1167/810 670/1168/777 685/1169/759
+s 759
+f 806/1170/310 277/127/112 718/833/625 811/1171/878
+s 760
+f 799/1172/879 797/1173/880 670/1168/881 798/1167/882
+s 761
+f 798/1077/882 707/1076/883 800/1174/884 799/1175/879
+s 762
+f 693/1065/799 809/1064/798 810/1176/885 700/1079/811
+s 763
+f 678/1058/792 808/1063/797 686/1062/796
+s 764
+f 671/1177/789 808/1178/797 678/1058/792
+s 765
+f 700/1079/811 810/1179/885 708/1084/816
+s 766
+f 708/1084/816 810/1180/885 712/1085/817
+s 767
+f 721/1181/825 803/1182/621 795/1183/177 804/1184/886
+s 768
+f 718/833/625 717/1088/820 812/1185/887 811/1171/878
+s 769
+f 720/1089/888 721/1181/825 804/1184/886 805/1186/889
+s 770
+f 717/1088/820 716/1187/822 812/1185/887
+s 771
+f 654/1042/764 670/1041/881 797/1188/880 796/1189/890
+s 772
+f 707/1190/883 801/1032/891 802/1191/892 800/1192/884
+s 773
+f 801/1090/891 720/1089/888 805/1186/889 802/1191/892
+s 775
+f 671/1054/789 807/1045/780 796/1193/893
+s 776
+f 806/1170/310 811/1171/878 795/1194/177
+s 777
+f 809/1064/894 808/1063/895 797/1195/896 799/1196/897
+s 778
+f 810/1176/885 809/1064/894 799/1196/897 800/1197/898
+s 779
+f 808/1178/895 671/1177/789 797/1198/896
+s 780
+f 811/1171/878 812/1185/887 804/1199/899 795/1200/177
+s 781
+f 812/1185/887 716/1187/900 805/1201/901 804/1199/899
+s 782
+f 671/1054/789 796/1193/893 797/1202/896
+s 783
+f 712/1203/817 810/1180/885 800/1204/898 802/1205/902
+s 784
+f 716/1187/900 712/1206/817 802/1207/902 805/1201/901
+s 785
+f 807/1045/780 655/1031/770 796/1208/893
+s 786
+f 654/1209/764 796/1208/890 655/1031/770
+s 787
+f 672/1050/785 664/1046/781 807/1045/780
+s 788
+f 663/1036/773 794/1026/765 656/1030/769
+s 789
+f 655/1031/770 794/1026/765 654/1025/764
+s 790
+f 745/1024/763 303/830/178 741/831/623
+s 791
+f 264/212/179 269/124/109 517/123/108
+s 792
+f 303/211/178 525/164/144 299/163/143
+s 802
+f 393/719/527 428/953/718 850/1210/903 836/720/528
+s 803
+f 841/746/550 398/975/733 483/750/554 863/747/551
+s 804
+f 398/975/733 841/746/550 844/1211/904 408/966/727
+s 805
+f 841/746/550 840/749/553 843/1212/905 844/1211/904
+s 806
+f 840/749/553 839/802/598 842/799/597 843/1212/905
+s 807
+f 408/966/727 844/1211/904 847/1213/906 418/967/717
+s 808
+f 844/1211/904 843/1212/905 846/1214/907 847/1213/906
+s 809
+f 843/1212/905 842/799/597 845/801/596 846/1214/907
+s 810
+f 418/952/717 847/1215/906 850/1210/903 428/953/718
+s 811
+f 847/1215/906 846/1216/907 849/1217/908 850/1210/903
+s 812
+f 846/1216/907 845/798/596 848/732/538 849/1217/908
+s 813
+f 837/1218/909 836/720/528 850/1210/903 849/1217/908
+s 814
+f 838/731/537 837/1218/909 849/1217/908 848/732/538
+s 815
+f 839/802/598 865/1219/910 195/650/473 227/688/504
+s 816
+f 828/797/595 852/796/594 853/710/520 827/709/519
+s 817
+f 438/711/521 853/710/520 856/1220/911 448/935/705
+s 818
+f 853/710/520 852/796/594 855/1221/912 856/1220/911
+s 819
+f 852/796/594 851/794/592 854/791/591 855/1221/912
+s 820
+f 448/935/705 856/1220/911 859/1222/913 458/936/698
+s 821
+f 856/1220/911 855/1221/912 858/1223/914 859/1222/913
+s 822
+f 855/1221/912 854/791/591 857/793/589 858/1223/914
+s 823
+f 458/922/698 859/1224/913 862/788/588 468/787/587
+s 824
+f 859/1224/913 858/1225/914 861/1226/915 862/788/588
+s 825
+f 858/1225/914 857/789/589 860/790/590 861/1226/915
+s 826
+f 189/639/467 201/645/471 874/1227/916 860/790/590
+s 827
+f 860/790/590 874/1227/916 873/1228/917 861/1226/915
+s 828
+f 861/1226/915 873/1228/917 872/758/560 862/788/588
+s 829
+f 204/663/477 871/1229/918 874/1227/916 201/645/471
+s 830
+f 871/1229/918 870/1230/919 873/1228/917 874/1227/916
+s 831
+f 870/1230/919 869/755/558 872/758/560 873/1228/917
+s 832
+f 196/651/474 868/1231/920 871/1232/918 204/654/477
+s 833
+f 868/1231/920 867/1233/921 870/1234/919 871/1232/918
+s 834
+f 867/1233/921 866/752/556 869/754/558 870/1234/919
+s 835
+f 195/650/473 865/1219/910 868/1231/920 196/651/474
+s 836
+f 865/1219/910 864/748/552 867/1233/921 868/1231/920
+s 837
+f 864/748/552 863/747/551 866/752/556 867/1233/921
+s 838
+f 840/749/553 864/748/552 865/1219/910 839/802/598
+s 839
+f 220/682/492 835/1235/922 838/731/537 217/679/498
+s 840
+f 835/1235/922 834/1236/923 837/1218/909 838/731/537
+s 841
+f 834/1236/923 833/717/526 836/720/528 837/1218/909
+s 842
+f 212/671/490 832/1237/924 835/1238/922 220/673/492
+s 843
+f 832/1237/924 831/1239/925 834/1240/923 835/1238/922
+s 844
+f 831/1239/925 830/714/524 833/716/526 834/1240/923
+s 845
+f 211/666/486 829/795/593 832/1237/924 212/671/490
+s 846
+f 829/795/593 828/797/595 831/1239/925 832/1237/924
+s 847
+f 828/797/595 827/709/519 830/714/524 831/1239/925
+s 848
+f 829/795/593 211/666/486 179/627/455 851/794/592
+s 849
+f 899/736/542 877/735/541 358/862/653 443/737/543
+s 850
+f 358/862/653 877/735/541 880/1241/926 368/1002/752
+s 851
+f 877/735/541 876/734/540 879/1242/927 880/1241/926
+s 852
+f 876/734/540 875/762/564 878/807/603 879/1242/927
+s 853
+f 368/1002/752 880/1241/926 883/1243/928 378/1003/745
+s 854
+f 880/1241/926 879/1242/927 882/1244/929 883/1243/928
+s 855
+f 879/1242/927 878/807/603 881/809/601 882/1244/929
+s 856
+f 378/991/745 883/1245/928 886/804/600 388/803/599
+s 857
+f 883/1245/928 882/1246/929 885/1247/930 886/804/600
+s 858
+f 882/1246/929 881/805/601 884/806/602 885/1247/930
+s 859
+f 157/600/438 169/606/442 898/1248/931 884/806/602
+s 860
+f 911/783/583 889/786/586 163/594/433 137/570/418
+s 861
+f 473/744/548 508/878/669 922/1249/932 908/745/549
+s 862
+f 913/1250/933 887/721/529 888/785/585 912/784/584
+s 863
+f 478/903/685 913/1250/933 916/1251/934 488/890/678
+s 864
+f 913/1250/933 912/784/584 915/1252/935 916/1251/934
+s 865
+f 912/784/584 911/783/583 914/780/582 915/1252/935
+s 866
+f 488/890/678 916/1251/934 919/1253/936 498/891/668
+s 867
+f 916/1251/934 915/1252/935 918/1254/937 919/1253/936
+s 868
+f 915/1252/935 914/780/582 917/782/581 918/1254/937
+s 869
+f 498/877/668 919/1255/936 922/1249/932 508/878/669
+s 870
+f 919/1255/936 918/1256/937 921/1257/938 922/1249/932
+s 871
+f 918/1256/937 917/779/581 920/760/562 921/1257/938
+s 872
+f 909/1258/939 908/745/549 922/1249/932 921/1257/938
+s 873
+f 910/759/561 909/1258/939 921/1257/938 920/760/562
+s 874
+f 124/547/395 907/1259/940 910/759/561 121/544/400
+s 875
+f 907/1259/940 906/1260/941 909/1258/939 910/759/561
+s 876
+f 906/1260/941 905/742/547 908/745/549 909/1258/939
+s 877
+f 116/536/392 904/1261/942 907/1262/940 124/539/395
+s 878
+f 904/1261/942 903/1263/943 906/1264/941 907/1262/940
+s 879
+f 903/1263/943 902/739/545 905/741/547 906/1264/941
+s 880
+f 115/535/391 901/761/563 904/1261/942 116/536/392
+s 881
+f 901/761/563 900/733/539 903/1263/943 904/1261/942
+s 882
+f 900/733/539 899/736/542 902/739/545 903/1263/943
+s 883
+f 913/1250/933 478/903/685 403/722/530 887/721/529
+s 884
+f 901/761/563 875/762/564 876/734/540 900/733/539
+s 885
+f 884/806/602 898/1248/931 897/1265/944 885/1247/930
+s 886
+f 885/1247/930 897/1265/944 896/730/536 886/804/600
+s 887
+f 172/620/447 895/1266/945 898/1248/931 169/606/442
+s 888
+f 895/1266/945 894/1267/946 897/1265/944 898/1248/931
+s 889
+f 894/1267/946 893/727/534 896/730/536 897/1265/944
+s 890
+f 164/611/445 892/1268/947 895/1269/945 172/613/447
+s 891
+f 892/1268/947 891/1270/948 894/1271/946 895/1269/945
+s 892
+f 891/1270/948 890/724/532 893/726/534 894/1271/946
+s 893
+f 163/594/433 889/786/586 892/1268/947 164/611/445
+s 894
+f 889/786/586 888/785/585 891/1270/948 892/1268/947
+s 895
+f 888/785/585 887/721/529 890/724/532 891/1270/948

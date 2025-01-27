@@ -1,0 +1,1429 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:sheep",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:loot_sheared": {
+        "minecraft:loot": {
+          "table": "loot_tables/entities/sheep_sheared.json"
+        }
+      },
+      "minecraft:loot_wooly": {
+        "minecraft:loot": {
+          "table": "loot_tables/entities/sheep.json"
+        }
+      },
+      "minecraft:rideable_sheared": {
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "seats": {
+            "position": [ 0.0, 0.9, 0.0 ]
+          }
+        }
+      },
+      "minecraft:rideable_wooly": {
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "seats": {
+            "position": [ 0.0, 0.975, 0.0 ]
+          }
+        }
+      },
+      "minecraft:sheep_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value": 0.5
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": "wheat",
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.follow_parent": {
+          "priority": 6,
+          "speed_multiplier": 1.1
+        }
+      },
+
+      "minecraft:sheep_adult": {
+        "minecraft:experience_reward": {
+          "on_bred": "Math.Random(1,7)",
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:behavior.breed": {
+          "priority": 3,
+          "speed_multiplier": 1.0
+        },
+        "minecraft:breedable": {
+          "require_tame": false,
+          "breeds_with": {
+            "mate_type": "minecraft:sheep",
+            "baby_type": "minecraft:sheep"
+          },
+          "breed_items": "wheat"
+        }
+      },
+      "minecraft:sheep_dyeable": {
+        "minecraft:is_dyeable": {
+          "interact_text": "action.interact.dye"
+        }
+      },
+      "minecraft:sheep_sheared": {
+        "minecraft:is_sheared": {
+        }
+      },
+      "minecraft:sheep_white": {
+        "minecraft:color": {
+          "value": 0
+        }
+      },
+      "minecraft:sheep_brown": {
+        "minecraft:color": {
+          "value": 12
+        }
+      },
+      "minecraft:sheep_black": {
+        "minecraft:color": {
+          "value": 15
+        }
+      },
+      "minecraft:sheep_gray": {
+        "minecraft:color": {
+          "value": 8
+        }
+      },
+      "minecraft:sheep_light_gray": {
+        "minecraft:color": {
+          "value": 7
+        }
+      },
+      "minecraft:sheep_pink": {
+        "minecraft:color": {
+          "value": 6
+        }
+      },
+      "minecraft:sheep_red": {
+        "minecraft:color": {
+          "value": 14
+        }
+      }
+    },
+
+
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "sheep", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:collision_box": {
+        "width": 0.9,
+        "height": 1.3
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:health": {
+        "value": 8,
+        "max": 8
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true
+      },
+      "minecraft:movement.basic": {
+        
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:interact": {
+        "interactions": [
+          {
+            "cooldown": 2.5,
+            "use_item": false,
+            "hurt_item": 1,
+            "spawn_items": { "table": "loot_tables/entities/sheep_shear.json" },
+            "play_sounds": "shear",
+            "interact_text": "action.interact.shear",
+            "on_interact": {
+              "filters": {
+                "all_of": [
+                  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "shears"},
+                  { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                  { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:is_baby"},
+                  { "test" :  "has_component", "value" :  "minecraft:is_dyeable"}
+                ]
+              },
+              "event": "minecraft:on_sheared",
+              "target": "self"
+            }
+          }
+        ]
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:balloonable": {
+        "mass": 0.75
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.25
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 2,
+        "speed_multiplier": 1.5,
+        "target_dist": 0.0,
+        "track_target": true
+      },
+      "minecraft:behavior.tempt": {
+        "priority": 4,
+        "speed_multiplier": 1.25,
+        "items": [
+          "wheat"
+        ]
+      },
+      "minecraft:behavior.follow_parent": {
+        "priority": 5,
+        "speed_multiplier": 1.1
+      },
+      "minecraft:behavior.eat_block": {
+        "priority": 6,
+        "success_chance": "query.is_baby ? 0.02 : 0.001",
+        "time_until_eat": 1.8,
+        "eat_and_replace_block_pairs": [
+          { "eat_block": "grass", "replace_block": "dirt" },
+          { "eat_block": "tallgrass", "replace_block": "air" }
+        ],
+        "on_eat": {
+          "event": "minecraft:on_eat_block",
+          "target": "self"
+        }
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 7,
+        "speed_multiplier": 0.8
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 8,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 9
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+    "events": {
+      "minecraft:entity_spawned": {
+        "sequence": [
+          {
+            "randomize": [
+              {
+                "weight": 95,
+                "remove": {
+                },
+                "trigger": "spawn_adult"
+              },
+              {
+                "weight": 5,
+                "remove": {
+                },
+                "trigger": "spawn_baby"
+              }
+            ]
+          },
+          {
+            "randomize": [
+              {
+                "weight": 81836,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_white"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_black"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_light_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 5000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_gray"
+                  ]
+                }
+              },
+              {
+                "weight": 3000,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_brown"
+                  ]
+                }
+              },
+              {
+                "weight": 164,
+                "add": {
+                  "component_groups": [
+                    "minecraft:sheep_pink"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "spawn_adult": {
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_adult",
+            "minecraft:sheep_dyeable",
+            "minecraft:rideable_wooly",
+            "minecraft:loot_wooly"
+          ]
+        }
+      },
+      "spawn_baby": {
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_baby",
+            "minecraft:sheep_dyeable",
+            "minecraft:rideable_sheared"
+          ]
+        }
+      },
+      "minecraft:entity_born": {
+        "remove": {
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_baby",
+            "minecraft:sheep_dyeable",
+            "minecraft:rideable_sheared"
+          ]
+        }
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:sheep_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_adult",
+            "minecraft:rideable_wooly",
+            "minecraft:loot_wooly"
+          ]
+        }
+      },
+      "minecraft:on_sheared": {
+        "remove": {
+          "component_groups": [
+            "minecraft:sheep_dyeable",
+            "minecraft:loot_wooly"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_sheared",
+            "minecraft:rideable_sheared",
+            "minecraft:loot_sheared"
+          ]
+        }
+      },
+      "minecraft:on_eat_block": {
+        "sequence": [
+          {
+            "remove": {
+              "component_groups": [
+                "minecraft:sheep_sheared"
+              ]
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:sheep_dyeable"
+              ]
+            }
+          },
+          {
+            "filters": {
+              "test": "has_component",
+              "subject": "other",
+              "operator": "!=",
+              "value": "minecraft:is_baby"
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:rideable_wooly",
+                "minecraft:loot_wooly"
+              ]
+            },
+            "remove": {
+              "component_groups": [
+                "minecraft:loot_sheared"
+              ]
+            }
+          }
+        ]
+      },
+      "wololo": {
+        "add": {
+          "component_groups": [
+            "minecraft:sheep_red"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:shulker",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:shulker_purple": {
+        "minecraft:variant": {
+          "value": 5
+        }
+      },
+      "minecraft:shulker_black": {
+        "minecraft:variant": {
+          "value": 0
+        }
+      },
+      "minecraft:shulker_blue": {
+        "minecraft:variant": {
+          "value": 4
+        }
+      },
+      "minecraft:shulker_brown": {
+        "minecraft:variant": {
+          "value": 3
+        }
+      },
+      "minecraft:shulker_cyan": {
+        "minecraft:variant": {
+          "value": 6
+        }
+      },
+      "minecraft:shulker_gray": {
+        "minecraft:variant": {
+          "value": 8
+        }
+      },
+      "minecraft:shulker_green": {
+        "minecraft:variant": {
+          "value": 2
+        }
+      },
+      "minecraft:shulker_light_blue": {
+        "minecraft:variant": {
+          "value": 12
+        }
+      },
+      "minecraft:shulker_lime": {
+        "minecraft:variant": {
+          "value": 10
+        }
+      },
+      "minecraft:shulker_magenta": {
+        "minecraft:variant": {
+          "value": 13
+        }
+      },
+      "minecraft:shulker_orange": {
+        "minecraft:variant": {
+          "value": 14
+        }
+      },
+      "minecraft:shulker_pink": {
+        "minecraft:variant": {
+          "value": 9
+        }
+      },
+      "minecraft:shulker_red": {
+        "minecraft:variant": {
+          "value": 1
+        }
+      },
+      "minecraft:shulker_silver": {
+        "minecraft:variant": {
+          "value": 7
+        }
+      },
+      "minecraft:shulker_undyed": {
+        "minecraft:variant": {
+          "value": 16
+        }
+      },
+      "minecraft:shulker_white": {
+        "minecraft:variant": {
+          "value": 15
+        }
+      },
+      "minecraft:shulker_yellow": {
+        "minecraft:variant": {
+          "value": 11
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:experience_reward": {
+        "on_death": "query.last_hit_by_player ? 5 : 0"
+      },
+      "minecraft:type_family": {
+        "family": [ "shulker", "monster", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+        "default_values": {
+          "max_optimized_distance": 80.0,
+          "max_dropped_ticks": 10,
+          "use_motion_prediction_hints": true
+        }
+      },
+      "minecraft:health": {
+        "value": 30,
+        "max": 30
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.0,
+        "max": 0.0
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/shulker.json"
+      },
+      "minecraft:peek": {
+        "on_open": {
+          "event": "minecraft:on_open"
+        },
+        "on_close": {
+          "event": "minecraft:on_close"
+        },
+        "on_target_open": {
+          "event": "minecraft:on_open"
+        }
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 1,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:shooter": {
+        "def": "minecraft:shulker_bullet"
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
+      },
+      "minecraft:behavior.ranged_attack": {
+        "attack_interval_min": 1,
+        "attack_interval_max": 3,
+        "attack_radius": 15
+      },
+      "minecraft:behavior.hurt_by_target": {
+        "priority": 2
+      },
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 3,
+        "entity_types": {
+          "filters": { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+          "max_dist": 16
+        },
+        "must_see": true
+      },
+      "minecraft:navigation.walk": {
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:interact": {
+        "interactions": [
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    {
+                      "any_of": [
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:0"},
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:16"}
+                      ]
+                    },
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_black"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:8"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_gray"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:7"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_silver"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    {
+                      "any_of": [
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:15"},
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:19"}
+                      ]
+                    },
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_white"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:12"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_light_blue"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:14"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_orange"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:1"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_red"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    {
+                      "any_of": [
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:4"},
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:18"}
+                      ]
+                    },
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_blue"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:5"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_purple"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:13"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_magenta"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:9"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_pink"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    {
+                      "any_of": [
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:3"},
+                        { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:17"}
+                      ]
+                    },
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_brown"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:11"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_yellow"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:10"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_lime"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:2"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_green"
+            },
+            "use_item": true
+          },
+          {
+            "on_interact": {
+              "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:6"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
+                  ]
+              },
+              "event": "minecraft:turn_cyan"
+            },
+            "use_item": true
+          }
+        ]
+      },
+      "minecraft:physics": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_undyed"
+          ]
+        }
+      },
+      "minecraft:turn_purple": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_purple"
+          ]
+        }
+      },
+      "minecraft:turn_black": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_black"
+          ]
+        }
+      },
+      "minecraft:turn_blue": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_blue"
+          ]
+        }
+      },
+      "minecraft:turn_brown": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_brown"
+          ]
+        }
+      },
+      "minecraft:turn_cyan": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_cyan"
+          ]
+        }
+      },
+      "minecraft:turn_gray": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_gray"
+          ]
+        }
+      },
+      "minecraft:turn_green": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_green"
+          ]
+        }
+      },
+      "minecraft:turn_light_blue": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_light_blue"
+          ]
+        }
+      },
+      "minecraft:turn_lime": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_lime"
+          ]
+        }
+      },
+      "minecraft:turn_magenta": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_magenta"
+          ]
+        }
+      },
+      "minecraft:turn_orange": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_orange"
+          ]
+        }
+      },
+      "minecraft:turn_pink": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_pink"
+          ]
+        }
+      },
+      "minecraft:turn_red": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_red"
+          ]
+        }
+      },
+      "minecraft:turn_silver": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_silver"
+          ]
+        }
+      },
+      "minecraft:turn_white": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_white"
+          ]
+        }
+      },
+      "minecraft:turn_yellow": {
+        "add": {
+          "component_groups": [
+            "minecraft:shulker_yellow"
+          ]
+        }
+      }
+    }
+  }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:silverfish",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:silverfish_calm": {
+        "minecraft:on_target_acquired" : {
+          "event": "minecraft:become_angry",
+          "target": "self"
+        }
+      },
+      "minecraft:silverfish_angry": {
+        "minecraft:angry": {
+          "duration": -1,
+          "broadcast_anger": true,
+          "broadcast_range": 20,
+          "calm_event": {
+            "event": "minecraft:on_calm",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.melee_attack": {
+          "priority": 4,
+          "track_target": true
+        },
+        "minecraft:behavior.silverfish_wake_up_friends": {
+          "priority": 1
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:experience_reward": {
+        "on_death": "query.last_hit_by_player ? 5 : 0"
+      },
+	  "minecraft:type_family": {
+		  "family":["silverfish", "monster", "mob", "arthropod" ]          
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/silverfish.json"
+      },
+      "minecraft:health": {
+        "value": 8,
+        "max": 8
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true
+      },
+      "minecraft:movement.basic": {
+        
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:attack": {
+        "damage": 1
+      },
+      "minecraft:collision_box": {
+        "width": 0.4,
+        "height": 0.3
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 1
+      },      
+      "minecraft:behavior.silverfish_merge_with_stone": {
+        "priority": 5
+      },
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 2,
+        "attack_interval": 10,
+        "entity_types": [
+          {
+            "filters": {
+                "any_of": [
+                  { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                  { "test" :  "is_family", "subject" : "other", "value" :  "snowgolem"},
+                  { "test" :  "is_family", "subject" : "other", "value" :  "irongolem"}
+                ]
+            },
+            "max_dist": 8
+          }
+        ]
+      },
+      "minecraft:behavior.hurt_by_target": {
+        "priority": 1,
+        "alert_same_type": true
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+    "events": {
+      "minecraft:entity_spawned": {
+	    "remove": {
+		},
+		"add": {
+          "component_groups": [
+            "minecraft:silverfish_calm"
+          ]
+        }
+      },
+      "minecraft:become_angry": {
+        "remove": {
+          "minecraft:silverfish_calm": { }
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:silverfish_angry"
+          ]
+        }
+      },
+      "minecraft:on_calm": {
+        "remove": {
+          "minecraft:silverfish_angry": { }
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:silverfish_calm"
+          ]
+        }
+      }
+    }
+  }
+}                             {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:skeleton_horse",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:skeleton_horse_r5_upgrade": {
+        "minecraft:rideable": {
+        }
+      },
+      "minecraft:skeleton_horse_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale_by_age": {
+          "start_scale": 0.5,
+          "end_scale": 1.0
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.follow_parent": {
+          "priority": 4,
+          "speed_multiplier": 1.0
+        }
+      },
+      "minecraft:skeleton_horse_adult": {
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/skeleton_horse.json"
+        },
+        "minecraft:collision_box": {
+          "width": 1.4,
+          "height": 1.6
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "player",
+            "skeleton",
+            "zombie"
+          ],
+          "interact_text": "action.interact.ride.horse",
+          "seats": {
+            "position": [ 0.0, 1.2, -0.2 ]
+          }
+        }
+      },
+
+      "minecraft:skeleton_trap": {
+        "minecraft:behavior.skeleton_horse_trap": {
+          "within_radius": 10.0,
+          "duration": 900.0,
+          "priority": 2
+        }
+      },
+
+      "minecraft:lightning_immune": {
+        "minecraft:damage_sensor": {
+          "triggers": {
+            "on_damage": {
+              "filters": {
+                "test": "is_family",
+                "subject": "other",
+                "value": "lightning"
+              }
+            },
+            "deals_damage": false
+          }
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "skeletonhorse", "undead", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0,
+        "breathes_water": true
+      },
+      "minecraft:health": {
+        "value": 15,
+        "max": 15
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.2
+      },
+      "minecraft:underwater_movement": {
+        "value": 0.08
+      },
+      "minecraft:navigation.walk": {
+        "is_amphibious": true,
+        "avoid_water": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:horse.jump_strength": {
+        "value": {
+          "range_min": 0.4,
+          "range_max": 1.0
+        }
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:rideable": {
+        "seat_count": 1,
+        "family_types": [
+          "player",
+          "skeleton",
+          "zombie"
+        ],
+        "interact_text": "action.interact.ride.horse",
+        "seats": {
+          "position": [ 0.0, 1.2, -0.2 ]
+        }
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 2,
+        "speed_multiplier": 1.5,
+        "target_dist": 4.0,
+        "track_target": true
+      },
+      "minecraft:behavior.player_ride_tamed": {
+      },
+      "minecraft:input_ground_controlled": {
+      },
+      "minecraft:can_power_jump": {
+      },
+      "minecraft:balloonable": {
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 0.7
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
+      },
+      "minecraft:is_tamed": {
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 36,
+            "add": {
+              "component_groups": [
+                "minecraft:skeleton_horse_adult"
+              ]
+            }
+          },
+          {
+            "weight": 9,
+            "remove": {
+              "component_groups": [
+                "minecraft:skeleton_horse_r5_upgrade"
+              ]
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:skeleton_horse_baby"
+              ]
+            }
+          }
+        ]
+      },
+
+      "minecraft:set_trap": {
+        "add": { "component_groups": [ "minecraft:skeleton_trap", "minecraft:lightning_immune" ] }
+      },
+
+      "minecraft:spring_trap": {
+        "add": { "component_groups": [ "minecraft:skeleton_horse_adult", "minecraft:lightning_immune" ] }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   {
+  "format_version": "1.12.0",
+ "minecraft:entity": {
+  "description": {
+    "identifier": "minecraft:small_fireball",
+    "is_spawnable": false,
+    "is_summonable": false,
+    "is_experimental": false
+  },
+  "components": {
+   "minecraft:collision_box": {
+    "width": 0.31,
+    "height": 0.31
+   },
+   "minecraft:projectile": {
+
+    "on_hit": {
+      "impact_damage": {
+        "damage": 5,
+        "knockback": false,
+        "catch_fire": true,
+        "semi_random_diff_damage": false
+      },
+      "catch_fire": {
+        "fire_affected_by_griefing": true
+      },
+      "remove_on_hit": { }
+    },
+    "power": 1.3,
+    "gravity": 0.00,
+    "inertia": 1,
+    "liquid_inertia": 1,
+    "anchor": 2,
+    "offset": [ 0, 0.5, 0 ],
+    "semi_random_diff_damage": true,
+    "uncertainty_base": 10.0,
+    "reflect_on_hurt": true
+   },
+   "minecraft:physics": {
+   },
+   "minecraft:pushable": {
+    "is_pushable": true,
+    "is_pushable_by_piston": true
+   },
+   "minecraft:conditional_bandwidth_optimization": {
+    "default_values": {
+      "max_optimized_distance": 80.0,
+      "max_dropped_ticks": 10,
+      "use_motion_prediction_hints": true
+    }
+  }
+  }
+ }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          g¼KÆ)û“>‰WxÏÇêiÕ?ÏÃø‡ù¡ŸÊÛð§ñgí¢¿øŒù‰—ñðA{!ßOôwkzê1z¢Þ:^ò%ûn÷óÛÁ^ä«íGÁ³&îÕï\ô|‘?_¯äÿ…þÀÇy¾pOzÜŠ?Û…?ìï©CµÏ5óµ7ý‚û´5Þ<éþÄŸúƒ×ª¯¡~¿ð«ÿ^mËyØÞIŸèçÄÿâ÷×ŒÏ.pWþ¢®´zÕ¯«8Ñ¥ãƒÎ÷eªO·ÒüÏàHÿðŸ'Þv1è3ì½Ðû…s¿&Gí3éE|GÝjúÓœˆûÿy=¯MŸj›øêçiÂíøÔï¼ôz¹ýÇ#<Þnùû]ù=™ã~¨Gæý cõG©ß#ó/»Q¯X‡¥;Ç¯ùÖÝ°~ÜüÅ:në÷¯­ÎÓåª>ƒÃ;?¿f8>]×Úâ }$Nµƒ‡V/÷|^ìŒK»ŠÏºÅÎ9?ùFÿ¬WêåQëÇþ¶ÄÞ=qÈ~ð—zÒ8'þ•yUïŒGv&ý­Ô¼.ý|§æGH}Ê¾ýõó2ñ5Å½•žc]ïÎÏQõ|S>„wj¼Ú?ûqÞO9ÿÐ¼‡ð©ÓxÿŽïF“¿=¯Ì[Ð5ü~û×¯ãÄð¹Íþ@íXMàa<ñÐîúìç?ø×ïHþ½?z’=óµwâëx×·æ¸Ü9^|:oàƒoÚÌ§=ÔÇà§ê‹ÛØ»¦î.•ó…>ž/€_ó§ú#ü¡¯¶¿®iý¨Ýß‡t«>~óG¼'Þ¶¾4ÓqÁ___ÛÇ×“ãÿúj}%?Œ°Ÿ >{=ðŠî[=•¿·|¾«.Åúªõõ"uA|ä‹v×ë­ì/ŸÛ¿n“oêÁ€ßxð£+x|o«¿àS^bý±.«m¾¶´‡?Ù³ž®ù|À/ë²kÜŒŸøñu¡ýä}Tãß|~WþÃoúÏé{OÞG‡Ÿçàb>mù3jßÑê÷‚ýÿ¥õÞó+Ïô:­7â?|“µã¹Õþþ•øä'âÎõª¶ã—½¸¢§¶?V¿ó³7=`Oý“.á<]ÄO=“I{âÀþ`ïa}“ôã¼Ã‡øb}Lû;w¼'¾äƒñG~ÿpyòÿ•×C½Ëžñ©Ÿ|F»Õ+â¶¾‰WvŒó–v…Ïq¿ùÆŸÚŽŸñý÷¿ºo¼ô÷÷gñvózÔóiÒóé?ñ´óÈWç{[­OÛì9_]/òß§ðû†úÿ¡üÿS¨ÒüÁO¯WkÓË’<ó}ëžø¸¯ñÆyAçM?ò7Õ«kýÞ|ÆîOJìg~$?Žð³çú¾à	Ü¥·°—ö×w{¡ù‰çÿ“óÖ“øütõ%õ¶¥ÿ5qv<òu§Õ—þ>!;Ö'|Èžó!{¾/þ|üþêéß×åÿÇEý9JïÆ³¿öC[þàÝùQÛþáçì¯zâ~Í÷u©xí¼Š‹ï7XÇGîGBweoZÃü©Þlà"ïU/ÌÓQÏ;ê•ëƒæÙ>|
+Wä§í—¼ú§?àõø[úUñ¯­>‰ûþÉ?ãÕo¾Ö¼îíýôHüôc'Þõˆ÷oþI~çO®Ý4þ-qmãüGœÄÕöKý¼wI^±'b]å|øãþ9¾öOÖ‰ü‡X¿2øè³fê3Î#y’ýà¿ë|muŽoõi/¡—ôþ£ë­Õ'áâýÃøÔ¶áWmê¡í/è’¼$~Ã¿ùÙ“×qÒ_úŠ<~Æús´z³eüà%^ðõÁºÞj=8Î½øs{À<TþÜîïòãû×Ä¥ö\Ÿ^è‹ç#ø±·Wò†ýWïs—ö|_Ö™ì›oÙ5²çû¯öCë=ñ¼à¼˜øu}XöÄâg|¯7ýüsà?ÖÓÇë‘ýbO×9?íû{ø:Ç·ú³füð'>©Áã‹z#»^_üBíé³$OºéxÄö¯[æÉ÷ÿ_5
++Û     X  UVIndexiœ     K  xMÙuÐoUÝ@ñKwww§twwI#Hˆ4‚"Ý©¤ÒJ·")
+RÒ H©`Ðõ®ÏÃÌËÌwö:ëì½Îó«ûsŽ6bÄcŒñ»QGŒ¸e”#þ:bÄˆ¹[§É­Ý½—F1bãæˆø×­ûµÎ`_s{g>i]¼™±{ö;wHíº>²ë3Ûsk÷hý×ÿ;cÏW-{ÝÓ|<Þ»{š›wæÛ­³wýV~Öä.‹o¶©ÿ¯Üÿây›+Ú;yëØ­÷4cÇµ³ö=Òœ“3XCkä¾Üç¹k<{«g/Ýz\û¦i=£kìoô·q_½Vï‰×ó·æ°xDïƒç³ëå[uõ¦mÝ¢³^Ÿ÷ÎëöÞœÒºBë†›vè„#F½jü¦ñžz¿<×{ýE×^¯×ýEÎë=·ëCZßÏ½›[¾=oÇsÄšm¾Ù}í9ŸûY]?›òY[]ûÌÿÔ½_Å¾+äõ9û¼5|VV×^“× ©áµlÑ:iÞ{æ½›ÛžÜï»ö÷cmß-Îûá}ñÝò}X¡–ÏØg»pì{Àaß¯yägž÷â¼~ûÜ½¯ÞOû5¼Ÿ‡ÏÅëÚ±­þ>ç××Vßß¯Å9ß/¿“ã;3aë|]_Þ,ÒÞ-ÞõŠ­§¶ÿÊf®ÎnÔÞ¿hÆÓ5x“ö­=¸ÝÚ‡¹—›k:¿cûx×+4Å+¶ç¦að<¹{‡ÁËÓÞ1[_ï<æF‰w¬9JÇáí³ºÞ§{_ïžÁO´ÿÑx²öìÔ5æÆo½»ëòëvÎLÜõ›¯î=ÛžkÚkïúîá>o¿sîÚ½ëšóæúxù¼¹!^£ÕÜïÐ9sS¼G«™¯¹§–™?þ{su{~Û9óËø­æWñRÝ7×ÄïtÆ\ØýCòçv½tïËL57ÌÝÖ½·ãUs?ìþV¹Ÿ¶çýÜÍ$¹E[mÅ—tÿÜÁá£»w_/ØÙG‡=ß³¹ŸÅcmüh££¿—×áðµu8ìµir[·çó®u´ñÏÛ§Ãáí:£Ãá	;£Ãaï›&÷£Ö÷m¼I]oÔ>Ï‘×á°ÏD“[­÷ôüöéhã5jèpxôöépxº¼‡}ÞšÜ;ÿ~ût´ñ"ÝÓáðÖíÓáð”íÓá°ï’&w{Ï8¤ÑÑÆs´O‡Ãï4:·†‡÷hŸ&·Q÷÷šÚxƒöéhãg‡‡oé¬Ž6Þ¡ž&7s×Óæu´ñx9ÿµÑáðÉÕá°ß×ƒ[¦æ~íÓÑÆåt8ül¬Ãáó{Ž‡ýv5¹óšQò:ÚxæVÕŸ^C‡Ãþ]ÐäÖË=<4µñ_ò:ÚøÚöëpøÞ¡ÃáC‡¦öú¹WkÏ›×âõ:gî‹—m¿¹?^«Õü%¾º®y.^˜ç[o®a^Œïn5/Åìœy9~ªÕ¼ÏÕsÌñÿÚ»Ló\Ýºþ¤¿mõ®ÔÞƒ»þ}×Sv½I×·´ç•øÕæÓøÉî-=ð7ìk8¼jg·ë‡ÇŽOö|Ïæn­uBû4µñ¹­:Þ§U‡Ã_M{mšÚ›6G´OG/Ó3¯Ãá;«Ãaï›&7U{Nit´ñByÿ¯ÑáðÚ§ÃaŸ‰&÷‡ÎlÑm¼p÷t8¼rût8|igt8ìóÖä~;¥çèhãÉó:~³ÑáðOÚ§Ãaß'Mî´î\CG/Ù>¿:t8|Egu´±ï©&·F×´êhãqr:~ªÑáð~ÕáðZ­šÜ§oÙÑÆ¿šÚø¡¤Ž6¾¤³:öûÒänl>»5²¯:Þ¥=:ÚøÇ5t8ì·«É=ß¼Ü>m|v«‡ïm‡gnÕá°4¹;óó¼Ž6>yèpø÷9m|iN‡ÃþÍÑä~Ù|ÿº}æÓxÖö™Ïâ…[Í—ñ|Ã¼×™%cóïx©aþÓºQ}óßø¦Î™Úww«ù0¾s˜Zÿ0ÌÇ­ëþSý{Æ7Ö«×¼nnÖÜ®õ~›{3Þ"÷½ö|7w`³On²ö>ÝŠ/êþ4‡S#Vm?‡?­³Úà°¿Á³¹ïÇ;m¼t{t´ñÚuu8|M¬Ãa¯O“Û²=g6:ÚxÆöèpøÅF‡ÃÿnŸ‡½ošÜ[Ù¦}:ÚxæîépøñX‡ÃÇvF‡Ã>Mî®ÎO‘×ÑÆ“äu8üR£ÃáïµO‡Ã>oMîÛ¹ñm|£Ãá_¶O‡Ã§¶O‡Ã¾OšÜlÍG]ëhã‰z–‡Ÿmt8|dgu8ì{ªÉ­×ý·bm|Q«‡Žu8<o^‡Ã~šÜØ}F£åu´ñé5t8¼wût8¼ugu8ì÷¥ÉÝÔýÛ§£/ÏépxÃöépxüVûíjr{5ÿŠu´ñ9­:^¿=:5¯Ãaÿ.hruÂöéhãoæu8¼äÐáðš½mìßMîéîÏÖ\”3sÆ3Wëôí7sÇs´šyâ{–™7^¥ÕÌÏ\ÓÌ¯ÔóÌñÊµÍ•ñz­æªø’a~ÚºYçîÈ¯ÿ¬Þ})£9¨ëK»>³û‹õ7Lœ[§ýë6{Æ?ïÞ¯»‡ç‰ÿ>8ü|~…ÎpøG9±‡ýžÍMoÙm<n«‡ht8üÎépØkÓäïë¶OGÏÜßëpøÇíÓáðÊõ4¹³ZGäu´ñ”y¿ÚèpøÄ:ö™¬ÜQî²øëíÑÑÆ“ÔÕáðoÚ§Ãá;£Ãá™Û§É}/÷÷®u´ñ5t8¼KiïÞ>û.ircæþëhãës:Þ¦†‡§ÌëpØ÷T“{¹ým|\ût´ñÊ­:Þ«=:ž£çhr®ùç¡£’ÓÑÆKµO‡ÃŸ7:öûÒä~ÞÖ>m|t«‡·o‡ÿ3t8ü`û4µ×ˆ÷«¡£çÏëpxöèpøÝF‡ÃµO“;¸='v­£WËëpxßÎép#¹¿E‡[ ~ºU“Û£=+µÿúaVn=2gVÝóÌjñÕ1«Ç·µš5â1ºoÖŒ¿Vß¬OPß\]kÖVó«x®a®i]l˜k[7èþƒû{Ý¹šÃº>??^nÑú‹åžŒš{?»§ùVîªæ¡Üý?VçÞöqøñ„õ8ìoðlîƒ®·:Úxê^Ž6¾¿½:>¼s:öú4¹Ÿµþ³ÑÑÆã×Ðáð^yoÒ{ß4¹§:³\ût´ñÑáðOÛ§Ãá#;£ÃaŸ‰&·xîõXGŸšÓáðZíÓáðíÓá°Ï[“[,÷|¬£/ÌépxÅ:-¯Ãaß%Mnüæ±¡©÷jŸŽ6^µU‡Ã›vV‡Ã¾§šÜ¹bm|A«‡—hŸ‡?nt8ì7 ÉÞõ¶CSŸ^CG¯Ñ>ÿsèpØïKS{îÖß¶OGOŸÓáðí×áð‡ýv5¹7Ú¿ÕÐÑÆ“¶êhãG?ëpøúöir¿ëþ]ëhã•‡&‡GkŸŽ6¾¥U‡ÃþÍÑäæl=°3ß‰ÍAñòí1ßèúŒ®Íöñ…­fçøäf—ø'­æ[ñXõÌ>í»«†Ù/¯{fÿxšVs@<ã0ßmÝ¨sgægí}œ'Þ4Þ¼óÿ­?I³Cî—íý2·\³b³Jû§ïÞYÝÃWuæ›‡oÍßÖŸÚ™¿uÃþÏæFíü[]ëhã¿vF‡Ãwäu8üõ¡Ãa¯MSûÚÖ‡Ú§£í9:þUût8<Q{t8ì}Óävj}¦ÑÑÆû×Ðáð:y‡#;ö™hjOÞž‡‡¦6¾´M:ÚxáöépøŸ‡}ÞšÜãíy,ÐÑÆ·O‡ÃµêpøµX‡Ã¾KšÜ­¿kt´ñlyÏQC‡Ãþûžjr[5;´OGO›­áð3‡ïî¬‡ý4¹Ísk…:Úx¬îépx†öépøÍF‡Ã~_šÜü]¯54G¶ãÏÛ§£oš~qhjc¿]MíÙúÎ-§×hãÉZu8|ùÐáð±ÕÑÆþ]Ðä~Þúp^Gÿ¢=:Þtèpx¢¡£ý›£©=A|B<nlNŒ3'Å³·ßœÌsjëiÃLÚz^çÌdñÏZÍäñg5Ì1ñÅ5Ì±ñÄ9s\<m«9>^°×³Hgïÿ×ºA×çto×ÎÝÐëø2·|³l×GvýLü—æÎ®G´.6ðëùNÃáÕÃójrxµø¤ÁaÏ÷lîèæúzšÚø‡C‡ÃË´GGÜèpØkÓä–Ó‰u´ñQ5t8¼Tût8üöÐá°÷MS{¥öÜÜèhã½;£Ãáiò:~¦Ñá°ÏD“5·}«Ž6Þ6§Ãá%Û¯Ãá‡bû¼5¹›;¿q££'ÈëpxööêpøÝF‡Ã¾KšÜîÍ†CGïÔm<SŸ‡é¬‡}W5G¶s_šÚøƒFGOQC‡Ãßë9:ö;Ðä6Îm54ÏkÅoMm|wût´ñî5t8ì÷¥É}Øýõ‡Ž6§UGŸÓ>oÐªÃa¿]MîþºKmüZ«Ž6¾²=:^½³:öï‚&wtó‹FG?=t8¼Dçt´ñâC“ÃþÍÑÔ¾ªùgî³®Í¿â±‡y·uüÎ›÷âÉºovíüÉÃ|»õìavkÝ¹žy³ýçóVëñ5ÌÛñ[Í;ñ˜ýÍæñƒÍh½¹Îñ­nÏ,¹m{æ=¹ÿÆ/åfjöÍÙž³š;ãÑ»?ÆÀµoþ†Ã³äè‡ßhé‡=ß³¹ïÔúV^SïÑ=¯Ó>/Ñy{mš#]|yût´ñ÷;£Ãá±ò:~¥Ñá°÷M“{¥u•ž£3ËÀ{·O‡Ãs¶O‡ÃOMû\4µß—®§©¿ht8<CÞ>û¼5¹ûÚ³L«Ž6^·}:¾¶3:¾«}:ö}Òä¾Ñù…müïF‡Ã—´O‡Ã›wV‡Ã¾«šÜlÍJíÓÑÆoßÒm¼^ûhrOå¦šÚøåFG¿}:Þ¸U‡Ã~_šÜ‰ÍCS?Ù>mü‹ž­Ãá5;«Ãa¿_Mî¶îß9t´ñwZu´ñÅíÑápÇFv8ìßMí÷ÚÿÝ¼Ž6^¤×©ÃáÚ§ÃäÎêpÇþÍÑäŽ‹g>éž¹,÷dÎ\O˜3WÄ3EûGé¾™2ž<o¦Šgh5SÇ{3Më…5Ì´ñÞ3ÓÅµšéãËšIûûìú€uýßx‡Îý°¿û']ßÑõ,]¯×õíÙ¨Y;÷ÏÜäÅ¶ïƒÃ·w¼®9|_g¶ö|Ïæ6h~ZKGÛªÃá1Û£ÃáÇ›ûòöÚ4¹Ù:¿Zût´±ÿt8ÿÝÞèpø÷±‡½ošÜoZ—ª¡£?š5¯ã?üÇF‡Ã>MîÜxÞVmüBût8|Z^‡ÃwÅ:öykr?êüLŽ6þO£ÃácjèpxëöépØwI“Û±y,ÖÑÆ/ßØm¼j{t8ì{ªÉ½O=4µñ_m|Jût8¼J«‡ý4¹‡»ÝÐÔÆÏ´OG/Ù>/QC‡Ã~_šÜA­m|D«Ž6ž§=:~³Ñá°ß®&·p|ÃÐÑÆÛµêhã©[u8¼Pgu8ìßMn·f¬º:Úø79ï›×áð­:öoŽ&·y³XshÞ,Ûj–Ž_¬iæé·=ú0ó¶¾^ÃÌÿ»ÕÌÙ9³LgÇÉ™¹ó[ôwš¯åçì¾Y$>´¶Y4^²½gä'êú„®Öþ»^¾ó³ç6íþorÿŠ×ÊÑž³šEÛ³c÷ÎnÅÿk~58<n{¦k?‡ÿÜ|cpØó=›[§}‹ômüz¬ÃáóÚ«Ãá?Ä:öÚ4¹÷Z§hŽ6~¢Ñáð‡íÓáðÖ­:ö¾ir¿hÕÑÆ¿‹u8|q^‡ÃëvV‡Ã>MîëñLymüN£Ãá³kèpxöépØç­ÉÍ‘»mhjã?ät´ñQÑáð|íÑá°ï’&·bïÙÄŽ6þN÷t8üÝöépx³º:~=Öä.nÿ¯‡Ž6Þ9§£gjŸ‡×®¡Ãa¿Mî¹ëjèhãÝr;Ç>°}:^´ó:~±}šÜIÍ%CS¯Ô>m<z«‡gï¬‡í9šÜ¤­?:ÚxÏVmüÙÐäðCSûwASûãöoëhã©:£Ãáýs:^`hrxó¼¦ö\ñî­{³]÷·æ­{³}ëŸê›âS:ovêÜß†Ù¹õÃìÒºz¯ùVüQgÌ®ñ.=Ó|;Þ¿ÕìOWï„Ö)º^±ç¬Ôõ+ñsñÍ$]_×õu‰§ÏÍØ,›Û²s'5ø‘îß98|uþïíãðñsç°ç{6÷§fÔ¡£Ÿkt´ñ1íÑáð
+­:öÚ4¹£ºž¥÷@Gÿ)ÖéZÏhŸ‡íŒ‡½ošÜ­SÕÐÑÆ·O“Ã‡ÕÐáð6Ñá°ÏD“›¬ý¿ht´ñíÓáðiyÏRW‡Ã>sMn¢ÜùíÓÑÆ÷Ñ>/ÛYû>ir/´çª¡©×¬¡£ÇoŸ‡®¡ÃaßSMîµÜwÛ§£×ïž‡Çj¿‡ïit8ì7 É­ÒzåÐÔÆ«´OGÞ~ßëpØoL“[¹õü¯:]ãM<§³Úø£¡ÃáßMmì÷«©=UgoŽ6ž»U‡Ã£´êpø‡Õáð­šÜ¥­ËÖÕÑÆÿ:Þ,§£7nÕá°s4¹i{æa]¯™7‡Ç›´š£â¯wÞ¿3æ˜øOÃÛúÂ0Çµ>Ý9s|üZ«ùaçŸæG­ÿ­aN‹×ïùæôxúÎìÚþ/Zwo¦ëïÛ·ë[Û;^{6ÌÍ™Û³½÷åþ¿Û|–û¶³ñ[—ëšÃßjÏéy/ßô•‹=ß³¹ßw}}ût´ñ=5t8ü“öêpøkyM{mšÜ¾¿²ÑÑÆ[¶O‡ÃÛçu8<{«‡½wšÜ¼í?©ÑÑÆ··O‡ÃSµêpxê:ö™hr›¶ÿöéhãÍÚ§Ãá	Û«Ãáû¼5¹‰ÆèÿOMm¼vm<nût8<i{t8ìû¤ÉÝÑžcm¼l÷t8üöépø²ž£ÃaßUMnÿÜBíÑÑÆæt8<fût8üã:öÐäflfÍëhãW0t8|ÿÐÔÆ~_šÚ{t=ñÐÔÆsç^m6þO£Ãá:«Ãa¿]Mn´Þ³1‡Ž6¾«ÑÑÆoÄ:^³³:öï‚&7Nóx££Ïîž‡—šþ´ÑÑÆþÍùïMîÿ ®
+ü             xÜ        LayerElementMaterialI    wÛ        VersionIe   Û        NameS    ¾Û        MappingInformationTypeS	   ByPolygonõÛ        ReferenceInformationTypeS   IndexToDirectkÜ     `   	Materialsi¯     S   xí’A
+  ­ÿ?Ú$Eèâ©ÃáŠ¹ŽYž•ÒB×¼”ž²¿Ÿx„y÷Ñ‡S?õ×¸OÒ¯ü‰wÌ9À À À À À üÂ€ŒØ€             ^Þ        LayerI    ¨Ü        VersionId   Ý          LayerElementéÜ        TypeS   LayerElementNormalÝ        
+TypedIndexI                 Ý          LayerElementVÝ        TypeS   LayerElementSmoothingrÝ        
+TypedIndexI                 åÝ          LayerElement¼Ý        TypeS   LayerElementUVØÝ        
+TypedIndexI                 QÞ          LayerElement(Þ        TypeS   LayerElementMaterialDÞ        
+TypedIndexI                                           ãß     .   ModelLù¿/    S   chest_rare_mimic ModelS   MeshÄÞ        VersionIè   fß          Properties70#ß     8   PS   DefaultAttributeIndexS   intS   IntegerS    I    Yß     (   PS   InheritTypeS   enumS    S    I                ‚ß        
+MultiLayerI    ß        	MultiTakeI    ³ß        ShadingCÖß        CullingS
+   CullingOff             ³ã     !   MaterialL„e¯$    S   Gold MaterialS    2à        VersionIf   Uà     
+   ShadingModelS   Phongqà        
+MultiLayerI    ¦ã          Properties70Ùà     A   PS   DiffuseColorS   ColorS    S   AD   `ÃÌß?D   àdÕ?D   €_»?)á     B   PS   EmissiveColorS   ColorS    S   AD   `ÃÌß?D   àdÕ?D   €_»?iá     2   PS   EmissiveFactorS   NumberS    S   AD        ¸á     A   PS   AmbientColorS   ColorS    S   AD   @nª?D   @nª?D   @nª?÷á     1   PS   AmbientFactorS   NumberS    S   AD        Gâ     B   PS   SpecularColorS   ColorS    S   AD   `ÃÌß?D   àdÕ?D   €_»?‡â     2   PS   SpecularFactorS   NumberS    S   AD      Ð?Ââ     -   PS	   ShininessS   NumberS    S   AD°žÝÊ±TM@ã     5   PS   ShininessExponentS   NumberS    S   AD°žÝÊ±TM@Wã     D   PS   ReflectionColorS   ColorS    S   AD   `ÃÌß?D   àdÕ?D   €_»?™ã     4   PS   ReflectionFactorS   NumberS    S   AD   À‹.Ú?                          „ç     "   MaterialLÂ    S   White MaterialS    ä        VersionIf   &ä     
+   ShadingModelS   PhongBä        
+MultiLayerI    wç          Properties70ªä     A   PS   DiffuseColorS   ColorS    S   AD    @’é?D    @’é?D    @’é?úä     B   PS   EmissiveColorS   ColorS    S   AD    @’é?D    @’é?D    @’é?:å     2   PS   EmissiveFactorS   NumberS    S   AD        ‰å     A   PS   AmbientColorS   ColorS    S   AD   @nª?D   @nª?D   @nª?Èå     1   PS   AmbientFactorS   NumberS    S   AD        æ     B   PS   SpecularColorS   ColorS    S   AD    @’é?D    @’é?D    @’é?Xæ     2   PS   SpecularFactorS   NumberS    S   AD      Ð?“æ     -   PS	   ShininessS   NumberS    S   AD      9@Öæ     5   PS   ShininessExponentS   NumberS    S   AD      9@(ç     D   PS   ReflectionColorS   ColorS    S   AD    @’é?D    @’é?D    @’é?jç     4   PS   ReflectionFactorS   NumberS    S   AD                                  Uë     "   MaterialLâò!    S   Black MaterialS    Ôç        VersionIf   ÷ç     
+   ShadingModelS   Phongè        
+MultiLayerI    Hë          Properties70{è     A   PS   DiffuseColorS   ColorS    S   AD    áD”?D   €?l ?D   `,'£?Ëè     B   PS   EmissiveColorS   ColorS    S   AD    áD”?D   €?l ?D   `,'£?é     2   PS   EmissiveFactorS   NumberS    S   AD        Zé     A   PS   AmbientColorS   ColorS    S   AD   @nª?D   @nª?D   @nª?™é     1   PS   AmbientFactorS   NumberS    S   AD        éé     B   PS   SpecularColorS   ColorS    S   AD    áD”?D   €?l ?D   `,'£?)ê     2   PS   SpecularFactorS   NumberS    S   AD    ™™É?dê     -   PS	   ShininessS   NumberS    S   AD      9@§ê     5   PS   ShininessExponentS   NumberS    S   AD      9@ùê     D   PS   ReflectionColorS   ColorS    S   AD    áD”?D   €?l ?D   `,'£?;ë     4   PS   ReflectionFactorS   NumberS    S   AD                                               Jì          Connections¡ë        CS   OOLù¿/    L        Èë        CS   OOL%Ã©    Lù¿/    ïë        CS   OOL„e¯$    Lù¿/    ì        CS   OOLÂ    Lù¿/    =ì        CS   OOLâò!    Lù¿/                 ‚ì          Takesuì        CurrentS                              ú¼«	ÐÈÔf±vûƒ÷&~                 è                                                                                                                          øZŒjÞõÙ~ìéãu)

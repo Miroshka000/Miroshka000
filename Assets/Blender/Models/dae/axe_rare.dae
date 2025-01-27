@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.80.75 commit date:2019-07-29, commit time:14:47, hash:f6cb5f54494e</authoring_tool>
+    </contributor>
+    <created>2020-11-12T12:53:32</created>
+    <modified>2020-11-12T12:53:32</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="White-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.7991028 0.7991028 0.7991028 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Metal-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.4012643 0.4784925 0.5173345 1</color>
+            </diffuse>
+            <reflectivity>
+              <float sid="specular">0.2</float>
+            </reflectivity>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Gold-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.4968728 0.334259 0.1058864 1</color>
+            </diffuse>
+            <reflectivity>
+              <float sid="specular">0.4090909</float>
+            </reflectivity>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Red-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">1 0.02505292 0.1180246 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images/>
+  <library_materials>
+    <material id="White-material" name="White">
+      <instance_effect url="#White-effect"/>
+    </material>
+    <material id="Metal-material" name="Metal">
+      <instance_effect url="#Metal-effect"/>
+    </material>
+    <material id="Gold-material" name="Gold">
+      <instance_effect url="#Gold-effect"/>
+    </material>
+    <material id="Red-material" name="Red">
+      <instance_effect url="#Red-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_4259-mesh" name="Cube.4259">
+      <mesh>
+        <source id="Cube_4259-mesh-positions">
+          <float_array id="Cube_4259-mesh-positions-array" count="1161">-8.83371e-6 -0.03996795 -0.1178347 -0.03462219 -0.01998394 -0.1178347 -0.03462219 0.019984 -0.1178346 -8.81543e-6 0.03996801 -0.1178346 0.03460443 0.019984 -0.1178347 0.03460443 -0.01998394 -0.1178347 -0.05305892 -0.0306285 -0.1524362 -8.66639e-6 -0.061257 -0.1524362 -0.05305892 0.03062856 -0.1524362 -8.64376e-6 0.06125706 -0.1524362 0.05304139 0.0306285 -0.1524362 0.05304139 -0.03062844 -0.1524362 -0.02526718 -0.01458293 -0.1883213 -8.66639e-6 -0.02916586 -0.1883213 -0.02526718 0.01458299 -0.1883213 -8.82478e-6 0.02916592 -0.1883213 0.0252ï»¿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Package IgnorableNamespaces="uap uap3 uap5 uap10 com mp rescap wincap desktop desktop6 build" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5" xmlns:uap10="http://schemas.microsoft.com/appx/manifest/uap/windows10/10" xmlns:com="http://schemas.microsoft.com/appx/manifest/com/windows10" xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10" xmlns:desktop6="http://schemas.microsoft.com/appx/manifest/desktop/windows10/6" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" xmlns:wincap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/windowscapabilities" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <Identity Name="Microsoft.GamingApp" ProcessorArchitecture="x64" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="2410.1001.55.0" />
+  <mp:PhoneIdentity PhoneProductId="1c96664e-4937-40ce-855e-70c1b8526d19" PhonePublisherId="95d94207-0c7c-47ed-82db-d75c81153c35" />
+  <Properties>
+    <DisplayName>Xbox</DisplayName>
+    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <Logo>assets\Xbox_StoreLogo.png</Logo>
+    <desktop6:RegistryWriteVirtualization>disabled</desktop6:RegistryWriteVirtualization>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.18362.0" MaxVersionTested="10.0.19041.0" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00" MinVersion="14.0.33519.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00.UWPDesktop" MinVersion="14.0.33728.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.UI.Xaml.2.8" MinVersion="8.2310.30001.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="EN-US" />
+    <Resource Language="EN-GB" />
+    <Resource Language="EN-AU" />
+    <Resource Language="EN-CA" />
+    <Resource Language="EN-IE" />
+    <Resource Language="EN-IN" />
+    <Resource Language="EN-NZ" />
+    <Resource Language="EN-SA" />
+    <Resource Language="EN-SG" />
+    <Resource uap:Scale="200" />
+  </Resources>
+  <Applications>
+    <Application Id="Microsoft.Xbox.App" Executable="XboxPcApp.exe" EntryPoint="XboxPcApp.App">
+      <uap:VisualElements DisplayName="Xbox" Description="XboxPcApp" Square150x150Logo="assets\Xbox_MedTile.png" Square44x44Logo="assets\Xbox_AppList.png" BackgroundColor="#107C10">
+        <uap:DefaultTile ShortName="Xbox" Square71x71Logo="assets\Xbox_SmallTile.png" Wide310x150Logo="assets\Xbox_WideTile.png" Square310x310Logo="assets\Xbox_LargeTile.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\Xbox_SplashScreen.png" BackgroundColor="#000000" />
+      </uap:VisualElements>
+      <Extensions>
+        <com:Extension Category="windows.comServer">
+          <com:ComServer>
+            <com:ExeServer Executable="XboxPcAppFT.exe" LaunchAndActivationPermission="O:PSG:BUD:(A;;11;;;WD)(A;;11;;;S-1-15-2-1723189366-2159580849-2248400763-1481059666-1951766778-2756563051-3565589001)S:(ML;;NX;;;LW)">
+              <com:Class Id="2DE3095A-B49E-418F-B5C1-69D2CCF62A8F" DisplayName="XboxPcAppFT" />
+              <com:Class Id="B0B875DB-EFB6-4F7F-B86E-8A2DB2C612F1" DisplayName="GameInterop" />
+              <com:Class Id="4D627906-0F66-4442-876A-D98EB4F98BDC" DisplayName="XpaftPublicFactory" />
+            </com:ExeServer>
+          </com:ComServer>
+        </com:Extension>
+        <com:Extension Category="windows.comServer">
+          <com:ComServer>
+            <com:ExeServer Executable="XboxPcAppAdminServer.exe" LaunchAndActivationPermission="O:PSG:BUD:(A;;11;;;WD)(A;;11;;;S-1-15-2-1723189366-2159580849-2248400763-1481059666-1951766778-2756563051-3565589001)S:(ML;;NX;;;LW)">
+              <com:Class Id="1B222FE2-5B77-416A-B96E-CDD98B18EA20" DisplayName="XboxPcAppAdminServer" />
+            </com:ExeServer>
+          </com:ComServer>
+        </com:Extension>
+        <com:Extension Category="windows.comServer">
+          <com:ComServer>
+            <com:ExeServer Executable="XboxPartyChatHost.exe" LaunchAndActivationPermission="O:PSG:BUD:(A;;11;;;WD)(A;;11;;;S-1-15-2-1723189366-2159580849-2248400763-1481059666-1951766778-2756563051-3565589001)S:(ML;;NX;;;LW)">
+              <com:Class Id="BE6AC024-8B81-4515-8A8F-BF16BE5284E5" DisplayName="XboxPartyChatHost" />
+            </com:ExeServer>
+          </com:ComServer>
+        </com:Extension>
+        <uap3:Extension Category="windows.appExecutionAlias" Executable="XboxPcAppAdminServer.exe" EntryPoint="Windows.FullTrustApplication">
+          <uap3:AppExecutionAlias>
+            <desktop:ExecutionAlias Alias="XboxPcAppAdminServer.exe" />
+          </uap3:AppExecutionAlias>
+        </uap3:Extension>
+        <uap5:Extension Category="windows.startupTask" Executable="XboxPcTray.exe" EntryPoint="Windows.FullTrustApplication">
+          <uap5:StartupTask TaskId="Xbox.App.Tasks.FullTrustComponent" Enabled="false" DisplayName="Xbox" />
+        </uap5:Extension>
+        <uap:Extension Category="windows.appService">
+          <uap3:AppService Name="XboxAppGameBarAppService" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="msxbox" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="msgamingapp" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol" Executable="XboxPcTray.exe" EntryPoint="Windows.FullTrustApplication">
+          <uap:Protocol Name="msgamelaunch" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="msgamepass" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="xbox" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="xbox-friendfinder" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="xbox-gamehub" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="xbox-profile" />
+        </uap:Extension>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="xbox-settings" />
+        </uap:Extension>
+      </Extensions>
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="https://*.*.microsoft.com" Type="include" WindowsRuntimeAccess="none" />
+        <uap:Rule Match="https://*.microsoft.com" Type="include" WindowsRuntimeAccess="none" />
+      </uap:ApplicationContentUriRules>
+    </Application>
+    <Application Id="Microsoft.Xbox.WidgetsApp" Executable="XboxGameBarWidgets.exe" EntryPoint="XboxGameBarWidgets.App">
+      <uap:VisualElements AppListEntry="none" DisplayName="Xbox Game Bar Widgets" Description="Xbox Game Bar Widgets" Square150x150Logo="assets\Xbox_MedTile.png" Square44x44Logo="assets\Xbox_AppList.png" BackgroundColor="#107C10">
+        <uap:DefaultTile ShortName="Xbox" Square71x71Logo="assets\Xbox_SmallTile.png" Wide310x150Logo="assets\Xbox_WideTile.png" Square310x310Logo="assets\Xbox_LargeTile.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\Xbox_SplashScreen.png" BackgroundColor="#000000" />
+      </uap:VisualElements>
+      <Extensions>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="SocialWidget" DisplayName="ms-resource:SocialWidgetTitle" Description="Widget providing Xbox social functionality" PublicFolder="SocialPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <ActivateAfterInstall>true</ActivateAfterInstall>
+                <FavoriteAfterInstall>true</FavoriteAfterInstall>
+                <HomeMenuVisible>true</HomeMenuVisible>
+                <PinningSupported>false</PinningSupported>
+                <SettingsSupported AppExtensionId="XboxSettingsWidget" />
+                <Window>
+                  <AllowForegroundTransparency>false</AllowForegroundTransparency>
+                  <Size>
+                    <Height>392</Height>
+                    <Width>320</Width>
+                    <MinHeight>280</MinHeight>
+                    <MinWidth>320</MinWidth>
+                    <MaxHeight>1080</MaxHeight>
+                    <MaxWidth>1080</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>true</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="MessagingWidget" DisplayName="ms-resource:ChatWidgetTitle" Description="Widget providing Xbox text chat functionality" PublicFolder="MessagingPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <HomeMenuVisible>true</HomeMenuVisible>
+                <PinningSupported>true</PinningSupported>
+                <SettingsSupported AppExtensionId="XboxSettingsWidget" />
+                <Window>
+                  <AllowForegroundTransparency>false</AllowForegroundTransparency>
+                  <Size>
+                    <Height>400</Height>
+                    <Width>500</Width>
+                    <MinHeight>400</MinHeight>
+                    <MinWidth>400</MinWidth>
+                    <MaxHeight>1080</MaxHeight>
+                    <MaxWidth>1080</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>true</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="PartyWidget" DisplayName="ms-resource:PartyWidgetTitle" Description="Widget providing for Xbox Party chat functionality" PublicFolder="PartyPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <HomeMenuVisible>false</HomeMenuVisible>
+                <PinningSupported>true</PinningSupported>
+                <SettingsSupported AppExtensionId="XboxSettingsWidget" />
+                <Window>
+                  <AllowForegroundTransparency>true</AllowForegroundTransparency>
+                  <Size>
+                    <Height>200</Height>
+                    <Width>220</Width>
+                    <MinHeight>1</MinHeight>
+                    <MinWidth>220</MinWidth>
+                    <MaxHeight>1080</MaxHeight>
+                    <MaxWidth>1080</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>false</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="AchievementsWidget" DisplayName="ms-resource:AchievementsWidgetTitle" Description="Widget providing for Xbox Achievements functionality" PublicFolder="AchievementsPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <HomeMenuVisible>true</HomeMenuVisible>
+                <PinningSupported>true</PinningSupported>
+                <SettingsSupported AppExtensionId="XboxSettingsWidget" />
+                <Window>
+                  <AllowForegroundTransparency>true</AllowForegroundTransparency>
+                  <Size>
+                    <Height>470</Height>
+                    <Width>320</Width>
+                    <MinHeight>120</MinHeight>
+                    <MinWidth>320</MinWidth>
+                    <MaxHeight>1080</MaxHeight>
+                    <MaxWidth>600</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>true</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="LfgWidget" DisplayName="ms-resource:LfgWidgetTitle" Description="Widget providing for Xbox Looking for Group functionality" PublicFolder="LfgPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <HomeMenuVisible>true</HomeMenuVisible>
+                <PinningSupported>false</PinningSupported>
+                <SettingsSupported AppExtensionId="XboxSettingsWidget" />
+                <Window>
+                  <AllowForegroundTransparency>false</AllowForegroundTransparency>
+                  <Size>
+                    <Height>432</Height>
+                    <Width>320</Width>
+                    <MinHeight>432</MinHeight>
+                    <MinWidth>320</MinWidth>
+                    <MaxHeight>1080</MaxHeight>
+                    <MaxWidth>1080</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>true</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="XCloudWidget" DisplayName="ms-resource:XCloudWidgetTitle" Description="Widget providing for xCloud functionality while streaming in the Xbox app" PublicFolder="XCloudPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Standard">
+                <HomeMenuVisible>false</HomeMenuVisible>
+                <PinningSupported>false</PinningSupported>
+                <Window>
+                  <AllowForegroundTransparency>false</AllowForegroundTransparency>
+                  <Size>
+                    <Height>96</Height>
+                    <Width>416</Width>
+                    <MinHeight>96</MinHeight>
+                    <MinWidth>416</MinWidth>
+                    <MaxHeight>600</MaxHeight>
+                    <MaxWidth>600</MaxWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>false</Horizontal>
+                    <Vertical>false</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="microsoft.gameBarUIExtension" Id="XboxSettingsWidget" DisplayName="ms-resource:SettingsWidgetTitle" Description="Widget providing settings for Xbox widgets" PublicFolder="SettingsPublicAssets">
+            <uap3:Properties>
+              <GameBarWidget Type="Settings">
+                <Window>
+                  <AllowForegroundTransparency>false</AllowForegroundTransparency>
+                  <Size>
+                    <Height>620</Height>
+                    <Width>620</Width>
+                    <MinHeight>460</MinHeight>
+                    <MinWidth>620</MinWidth>
+                  </Size>
+                  <ResizeSupported>
+                    <Horizontal>true</Horizontal>
+                    <Vertical>true</Vertical>
+                  </ResizeSupported>
+                </Window>
+              </GameBarWidget>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Extensions>
+    <Extension Category="windows.activatableClass.proxyStub">
+      <ProxyStub ClassId="00000355-0000-0000-C000-000000000046">
+        <Path>Microsoft.Gaming.XboxGameBar.winmd</Path>
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarAppTargetHost" InterfaceId="38CDC43C-0A0E-4B3B-BBD3-A581AE220D53" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarAppTargetInfo" InterfaceId="D7689E93-5587-47D1-A42E-78D16B2FA807" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarActivityHost" InterfaceId="2B113C9B-E370-49B2-A20B-83E0F5737577" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarHotkeyManagerHost" InterfaceId="F6225A53-B34C-4833-9511-AA377B43316F" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetAuthHost" InterfaceId="DC263529-B12F-469E-BB35-B94069F5B15A" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetControlHost" InterfaceId="C309CAC7-8435-4082-8F37-784523747047" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetForegroundWorkerHost" InterfaceId="DDB52B57-FA83-420C-AFDE-6FA556E18B83" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetForegroundWorkerPrivate" InterfaceId="42BACDFC-BB28-4E71-99B4-24C034C7B7E0" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarNavigationKeyCombo" InterfaceId="5EEA3DBF-09BB-42A5-B491-CF561E33C172" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetActivatedEventArgsPrivate" InterfaceId="782535A7-9407-4572-BFCB-316B4086F102" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost" InterfaceId="5D12BC93-212B-4B9F-9091-76B73BF56525" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost2" InterfaceId="28717C8B-D8E8-47A8-AF47-A1D5263BAE9B" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost3" InterfaceId="3F5A3F12-C1E4-4942-B80D-3117BC948E29" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost4" InterfaceId="FA696D9E-2501-4B01-B26F-4BB85344740F" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost5" InterfaceId="A6C878CC-2B08-4B94-B1C3-222C6A913F3C" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetHost6" InterfaceId="CE6F0D73-C44F-4BBD-9652-A0FC52C37A34" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetNotificationHost" InterfaceId="6F68D392-E4A9-46F7-A024-5275BC2FE7BA" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetNotificationPrivate" InterfaceId="C94C8DC8-C8B5-4560-AF6E-A588B558213A" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetPrivate" InterfaceId="22ABA97F-FB0F-4439-9BDD-2C67B2D5AA8F" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetPrivate2" InterfaceId="B2F7DB8C-7540-48DA-9B46-4E60CE0D9DEB" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetPrivate3" InterfaceId="4FB89FB6-7CB8-489D-8408-2269E6C733A1" />
+        <Interface Name="Microsoft.Gaming.XboxGameBar.Private.IXboxGameBarWidgetPrivate4" InterfaceId="5638D65A-3733-48CC-90E5-984688D62786" />
+      </ProxyStub>
+    </Extension>
+    <Extension Category="windows.activatableClass.proxyStub">
+      <ProxyStub ClassId="b6fbef4c-449e-4ace-b6b6-077a3648dd34">
+        <Path>xCommsPs.dll</Path>
+        <Interface Name="__FIKeyValuePair_2_HSTRING_xCommsUwp__CPerPartyMemberInfo" InterfaceId="3f984725-5096-5b55-8f2d-6ba4ddf10e8b" />
+        <Interface Name="__FIIterator_1___FIKeyValuePair_2_HSTRING_xCommsUwp__CPerPartyMemberInfo" InterfaceId="591b6af5-d949-53f2-b4b3-0aadb9b0f98a" />
+        <Interface Name="__FIIterable_1___FIKeyValuePair_2_HSTRING_xCommsUwp__CPerPartyMemberInfo" InterfaceId="c9cb9bff-142b-5e21-840f-ca8cb07ff265" />
+        <Interface Name="__FIMapView_2_HSTRING_xCommsUwp__CPerPartyMemberInfo" InterfaceId="24661a7c-8f1b-5bff-aa76-a758027abed4" />
+        <Interface Name="__FIIterator_1_xCommsUwp__CPartyMemberStatus" InterfaceId="0d92fa9e-3c03-5eed-a2db-7c857409ca0f" />
+        <Interface Name="__FIIterable_1_xCommsUwp__CPartyMemberStatus" InterfaceId="c2c8b03a-556e-5844-9f11-4cb3b08fc695" />
+        <Interface Name="__FIVectorView_1_xCommsUwp__CPartyMemberStatus" InterfaceId="3ffec303-5748-521e-8dbf-c1710ac0e336" />
+        <Interface Name="__FIIterator_1_xCommsUwp__CPartyPreviewMember" InterfaceId="07987ca7-6c32-5324-bf20-e950a1fc62d9" />
+        <Interface Name="__FIIterable_1_xCommsUwp__CPartyPreviewMember" InterfaceId="7b7a6b65-e90c-5002-a033-cc8cfcd4de19" />
+        <Interface Name="__FIVectorView_1_xCommsUwp__CPartyPreviewMember" InterfaceId="cbe071b7-9b1b-5d72-8cb4-1b3011677f20" />
+        <Interface Name="__FIIterator_1_xCommsUwp__CAudioDeviceInfo" InterfaceId="8108ecd6-405b-5d37-b47d-0ede198816b2" />
+        <Interface Name="__FIIterator_1_xCommsUwp__CAudioDeviceInfo" InterfaceId="8bf34cf4-1570-5e27-8571-df5152771b14" />
+        <Interface Name="__FIVectorView_1_xCommsUwp__CAudioDeviceInfo" InterfaceId="5155aa17-46bf-59bd-ba27-35802ede8f3a" />
+        <Interface Name="__FIAsyncOperationCompletedHandler_1___FIVectorView_1_xCommsUwp__CAudioDeviceInfo" InterfaceId="eadf7a27-c54e-572b-aabc-9148f7dfa156" />
+        <Interface Name="__FIAsyncOperation_1___FIVectorView_1_xCommsUwp__CAudioDeviceInfo" InterfaceId="17f31eff-9b6a-5448-aa7c-6d1d278807b9" />
+      </ProxyStub>
+    </Extension>
+    <Extension Category="windows.publisherCacheFolders">
+      <PublisherCacheFolders>
+        <Folder Name="XboxGameBarWidgetsMigratedSettings" />
+      </PublisherCacheFolders>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.GamePlatform.Services.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.SupportedFeatures" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackageRequest" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Package" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackageUpdate" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Storage" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackageSpecifier" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.GameStreaming" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackagePreview" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Store" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackageSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.ProcessMonitor" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Identity.XboxAuthInitializationArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Identity.TokenRequest" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Identity.XboxAuthManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.PackageQueue" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.GamingRepair.GamingRepair" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.UploadQueue" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.Customization" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.GamePlatform.Services.GameFolder" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.Gaming.XboxGameBar.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarForegroundWorker" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarWidgetActivity" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarWidget" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.Authentication.XboxGameBarWebAuthenticationBroker" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarWidgetControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarWidgetNotificationManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarWidgetNotificationBuilder" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.Input.XboxGameBarHotkeyWatcher" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Gaming.XboxGameBar.XboxGameBarAppTargetTracker" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.Graphics.Canvas.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasBitmap" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Brushes.CanvasSolidColorBrush" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Brushes.CanvasLinearGradientBrush" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Brushes.CanvasImageBrush" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Brushes.CanvasRadialGradientBrush" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasRenderTarget" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasCommandList" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.BlendEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ExposureEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.LinearTransferEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.CrossFadeEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TileEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.InvertEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TableTransferEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.AlphaMaskEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.SpotDiffuseEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DisplacementMapEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.MorphologyEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.OpacityEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ColorManagementProfile" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.AtlasEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.CropEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ColorMatrixEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ShadowEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TintEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.EdgeDetectionEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ContrastEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.SaturationEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ConvolveMatrixEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TableTransfer3DEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.SharpenEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.BorderEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.StraightenEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ColorSourceEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.SepiaEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ScaleEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ChromaKeyEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.Transform3DEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DistantDiffuseEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.PosterizeEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.HueToRgbEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.HueRotationEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.SpotSpecularEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.Transform2DEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.LuminanceToAlphaEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DpiCompensationEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ArithmeticCompositeEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DistantSpecularEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.GaussianBlurEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.PremultiplyEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.EmbossEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.BrightnessEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.PointSpecularEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.ColorManagementEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.GammaTransferEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.RgbToHueEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.GrayscaleEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DiscreteTransferEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.DirectionalBlurEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.EffectTransferTable3D" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.PointDiffuseEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TemperatureAndTintEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.UnPremultiplyEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.TurbulenceEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.WhiteLevelAdjustmentEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.CompositeEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.PixelShaderEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.HighlightsAndShadowsEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.OpacityMetadataEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.HdrToneMapEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Effects.VignetteEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasSwapChain" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasDevice" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasSpriteBatch" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Svg.CanvasSvgDocument" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasVirtualBitmap" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasAnimatedControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasAnimatedDrawEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasVirtualControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasVirtualImageSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasSwapChainPanel" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasAnimatedUpdateEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasDrawEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Xaml.CanvasImageSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.CanvasCreateResourcesEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.UI.Composition.CanvasComposition" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.CanvasImage" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasTextLayout" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasFontSet" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasNumberSubstitution" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasTextRenderingParameters" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasTypography" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasTextFormat" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Text.CanvasTextAnalyzer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Printing.CanvasPrintDocument" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Geometry.CanvasGradientMesh" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Geometry.CanvasCachedGeometry" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Geometry.CanvasPathBuilder" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Geometry.CanvasStrokeStyle" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Graphics.Canvas.Geometry.CanvasGeometry" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.Web.WebView2.Core.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2EnvironmentOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2ControllerWindowReference" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2CompositionController" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2Controller" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2Environment" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.Xbox.ChatAudio.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.ChatParticipant" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.ChatChannel" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.RemoteChatUser" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.LocalAudioDeviceInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.PrivacyInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.ChatEncoder" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.LocalChatUser" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.Format" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.ChatDecoder" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.ChatSession" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Xbox.ChatAudio.RemoteAudioDeviceInfo" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>xCommsUwp.dll</Path>
+        <ActivatableClass ActivatableClassId="xCommsUwp.XCommsUwp" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>gamestreaming_sdk.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Nano.Streaming.WindowsWinRTSchemeHandler" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.InputConfigurationOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.AudioConfiguration" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.TouchBundleMetadata" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.InputConfiguration" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.ClientDeviceCapabilities" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.StreamClientConfiguration" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.StreamSessionConfiguration" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.TitleEnumerationState" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.VideoConfiguration" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.StreamClient" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="gamestreaming_sdk.ConsoleEnumerationState" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>GamepadNavigation.dll</Path>
+        <ActivatableClass ActivatableClassId="GamepadNavigation.FocusGroup" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.GlobalTrappable" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.FocusContainer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.FocusRect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.GamepadScrollable" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.GamepadInteractable" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.Interactable" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="GamepadNavigation.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.ReactNative.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactViewOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.JsiRuntime" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactApplication" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactDispatcherHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactPropertyBagHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.RedBoxHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.XamlUIService" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ViewPanel" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.CoreAppPage" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.QuirkSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactNotificationServiceHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactRootView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.LayoutService" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.DevMenuControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactInstanceSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ViewControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactCoreInjection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.DynamicAutomationPeer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.XamlHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.DynamicAutomationProperties" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.DynamicValueProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.ReactNative.ReactNativeHost" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>GameStreaming.UI.dll</Path>
+        <ActivatableClass ActivatableClassId="GameStreaming.UI.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>ReactNativeGameStreaming.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativeGameStreaming.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>ReactNativeAsyncStorage.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativeAsyncStorage.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>RNCNetInfoCPP.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativeNetInfo.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>SliderWindows.dll</Path>
+        <ActivatableClass ActivatableClassId="SliderWindows.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="SliderWindows.SliderView" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>ReactNativePicker.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativePicker.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ReactNativePicker.ReactPickerView" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>RNPermissions.dll</Path>
+        <ActivatableClass ActivatableClassId="RNPermissions.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>OrientationWindows.dll</Path>
+        <ActivatableClass ActivatableClassId="OrientationWindows.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Gaming.React.Primitives.dll</Path>
+        <ActivatableClass ActivatableClassId="Gaming.React.Primitives.ReactVideoTransportControls" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Gaming.React.Primitives.ViewPanelAutomationPeer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Gaming.React.Primitives.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Gaming.React.Primitives.ViewPanel" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Gaming.React.Primitives.ReactVideoElement" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>ReactNativeWebView.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativeWebView.ReactWebView2" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ReactNativeWebView.WebBridge" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ReactNativeWebView.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ReactNativeWebView.ReactWebView" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>ReactNativeVideoCPP.dll</Path>
+        <ActivatableClass ActivatableClassId="ReactNativeVideoCPP.ReactVideoView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="ReactNativeVideoCPP.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>RNDeviceInfoCPP.dll</Path>
+        <ActivatableClass ActivatableClassId="RNDeviceInfoCPP.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Clipboard.dll</Path>
+        <ActivatableClass ActivatableClassId="NativeClipboard.ReactPackageProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>RNSVG.dll</Path>
+        <ActivatableClass ActivatableClassId="RNSVG.DefsViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.PatternViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.ClipPathViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.EllipseView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.TSpanViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.PatternView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.ClipPathView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.UseView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.BrushView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RadialGradientViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.ImageView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.UseViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.CircleViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.DefsView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RectViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.ImageViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.TextView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.TSpanView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.SvgView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.PathView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.CircleView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.SvgViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.LineView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.SVGLength" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.EllipseViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.LinearGradientViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RectView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.TextViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RenderableViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.SymbolViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.LineViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.GroupViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.LinearGradientView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.SymbolView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.PathViewManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RadialGradientView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.GroupView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RNSVG.RenderableView" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>LottieReactNative.dll</Path>
+        <ActivatableClass ActivatableClassId="LottieReactNative.ReactPackageProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="LottieReactNative.LottieView" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Microsoft.Streaming.XccWebRtc.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Streaming.XccWebRtc.GameStreamingControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Streaming.XccWebRtc.XamlMetaDataProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+  <Capabilities>
+    <uap:Capability Name="videosLibrary" />
+    <rescap:Capability Name="allowElevation" />
+    <uap3:Capability Name="backgroundMediaPlayback" />
+    <wincap:Capability Name="shellExperience" />
+    <wincap:Capability Name="storeConfiguration" />
+    <rescap:Capability Name="packageManagement" />
+    <rescap:Capability Name="packageQuery" />
+    <rescap:Capability Name="unvirtualizedResources" />
+    <rescap:Capability Name="confirmAppClose" />
+    <rescap:Capability Name="gameList" />
+    <rescap:Capability Name="extendedExecutionUnconstrained" />
+    <rescap:Capability Name="storeLicenseManagement" />
+    <rescap:Capability Name="storeAppInstallation" />
+    <rescap:Capability Name="runFullTrust" />
+    <rescap:Capability Name="appDiagnostics" />
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="webcam" />
+    <DeviceCapability Name="microphone" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="cl.exe" Version="19.41.34120.0" />
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETFramework,Version=v4.5.1" />
+    <build:Item Name="VisualStudio" Version="17.0" />
+    <build:Item Name="OperatingSystem" Version="10.0.20348.1 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="17.11.40329.36016" />
+    <build:Item Name="ProjectGUID" Value="fc715c08-96f8-4f60-89bb-ef03202ecb3d" />
+    <build:Item Name="OptimizingToolset" Value="None" />
+    <build:Item Name="TargetRuntime" Value="Native" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="10.0.19041.685" />
+    <build:Item Name="MakePri.exe" Version="10.0.19041.685 (WinBuild.160101.0800)" />
+    <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
+    <build:Item Name="Microsoft.Build.DesktopBridge.Tasks.dll" Version="17.11.40146.31104" />
+  </build:Metadata>
+</Package>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ï»¿<?xml version="1.0" encoding="utf-8"?>
+<Package 
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
+  xmlns:desktop3="http://schemas.microsoft.com/appx/manifest/desktop/windows10/3"
+  xmlns:desktop4="http://schemas.microsoft.com/appx/manifest/desktop/windows10/4"
+  xmlns:desktop5="http://schemas.microsoft.com/appx/manifest/desktop/windows10/5"
+  xmlns:desktop6="http://schemas.microsoft.com/appx/manifest/desktop/windows10/6"
+  xmlns:uap10="http://schemas.microsoft.com/appx/manifest/uap/windows10/10"
+  xmlns:com="http://schemas.microsoft.com/appx/manifest/com/windows10"
+  IgnorableNamespaces="uap rescap uap10">
+  <!-- CertificateCN and BuildNumber are properties that are replaced during build time-->
+  <Identity Name="Microsoft.OneDriveSync" ProcessorArchitecture="neutral" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="22012.117.3.0" />
+  <Properties>
+    <DisplayName>OneDrive</DisplayName>
+    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <Logo>AppBlue.png</Logo> <!-- Images are actually not used as Executable is headless-->
+    <uap10:AllowExternalContent>true</uap10:AllowExternalContent>
+    <desktop6:RegistryWriteVirtualization>disabled</desktop6:RegistryWriteVirtualization>
+    <desktop6:FileSystemWriteVirtualization>disabled</desktop6:FileSystemWriteVirtualization>
+  </Properties>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19042.0" MaxVersionTested="10.0.19044.0" />
+  </Dependencies>
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+    <rescap:Capability Name="unvirtualizedResources"/>
+  </Capabilities>
+  <Applications>
+  <!-- Executable is not used for context menu. Use a "stub.exe" as a placeholder so package can compile -->
+  <!-- Images are actually not used either. -->
+    <Application Id="OneDrive" Executable="stub.exe" uap10:TrustLevel="mediumIL" uap10:RuntimeBehavior="win32App">
+      <!-- Square44x44Logo represents the App logo image in the context menu -->
+      <!-- To avoid having an icon backplate, File Explorer requires a bundle of visual assets (See files in the Assets folder for more details)-->
+      <!-- These images are auto generated by the Visual Studios Manifest designer https://docs.microsoft.com/en-us/windows/apps/design/style/app-icons-and-logos -->
+      <!-- When images are generated, there is a corresponding Resources.pri file. -->
+      <!-- For Explorer to load the app logo image, OneDrive needs to drop the images & resources.pri file to our External Location URI-->
+      <!-- See https://blogs.windows.com/windowsdeveloper/2019/10/29/identity-registration-and-activation-of-non-packaged-win32-apps/ for more info-->    
+      <uap:VisualElements 
+        AppListEntry="none" 
+        DisplayName="OneDrive" 
+        Description="Microsoft OneDrive" 
+        BackgroundColor="transparent" 
+        Square150x150Logo="AppBlue.png" 
+        Square44x44Logo="Assets\Square44x44Logo.png">
+      </uap:VisualElements>
+      <Extensions>
+        <desktop3:Extension Category="windows.cloudFiles">
+          <desktop3:CloudFiles>
+            <desktop3:CustomStateHandler Clsid="389510B7-9E58-40D7-98BF-60B911CB0EA9"/> 
+            <desktop3:ThumbnailProviderHandler Clsid="021E4F06-9DCC-49AD-88CF-ECC2DA314C8A"/>
+            <!-- not supported by OneDrive but it is a required field -->
+            <desktop3:ExtendedPropertyHandler Clsid="20000000-0000-0000-0000-000000000001"/>
+            <desktop3:BannersHandler Clsid="2E7C0A19-0438-41E9-81E3-3AD3D64F55BA"/>
+            <desktop4:ContentUriSource Clsid="9489FEB2-1925-4D01-B788-6D912C70F7F2"/>
+            <desktop3:CloudFilesContextMenus>
+              <!-- 5250E46F-BB09-D602-5891-F476DC89B700 (00) is a placeholder command to initialize the context menu. -->
+              <!-- CloudFilesContextMenus only affects files/folders within the OneDrive Root directory.-->
+              <!-- These CLSIDS are placeholder verbs,  BaseExplorerCommand handles the actual context menu population logic -->
+              <desktop3:Verb Id="ODContextMenuCommand00" Clsid="5250E46F-BB09-D602-5891-F476DC89B700" />
+              <desktop3:Verb Id="ODContextMenuCommand01" Clsid="5250E46F-BB09-D602-5891-F476DC89B701" />
+              <desktop3:Verb Id="ODContextMenuCommand02" Clsid="5250E46F-BB09-D602-5891-F476DC89B702" />
+              <desktop3:Verb Id="ODContextMenuCommand03" Clsid="5250E46F-BB09-D602-5891-F476DC89B703" />
+              <desktop3:Verb Id="ODContextMenuCommand04" Clsid="5250E46F-BB09-D602-5891-F476DC89B704" />
+              <desktop3:Verb Id="ODContextMenuCommand05" Clsid="5250E46F-BB09-D602-5891-F476DC89B705" />
+              <desktop3:Verb Id="ODContextMenuCommand06" Clsid="5250E46F-BB09-D602-5891-F476DC89B706" />
+              <desktop3:Verb Id="ODContextMenuCommand07" Clsid="5250E46F-BB09-D602-5891-F476DC89B707" />
+              <desktop3:Verb Id="ODContextMenuCommand08" Clsid="5250E46F-BB09-D602-5891-F476DC89B708" />
+              <desktop3:Verb Id="ODContextMenuCommand09" Clsid="5250E46F-BB09-D602-5891-F476DC89B709" />
+              <desktop3:Verb Id="ODContextMenuCommand10" Clsid="5250E46F-BB09-D602-5891-F476DC89B710" />
+              <desktop3:Verb Id="ODContextMenuCommand11" Clsid="5250E46F-BB09-D602-5891-F476DC89B711" />
+              <desktop3:Verb Id="ODContextMenuCommand12" Clsid="5250E46F-BB09-D602-5891-F476DC89B712" />
+              <desktop3:Verb Id="ODContextMenuCommand13" Clsid="5250E46F-BB09-D602-5891-F476DC89B713" />
+              <desktop3:Verb Id="ODContextMenuCommand14" Clsid="5250E46F-BB09-D602-5891-F476DC89B714" />
+            </desktop3:CloudFilesContextMenus >
+            <desktop4:DesktopIconOverlayHandlers>
+              <!-- ErrorOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="BBACC218-34EA-4666-9D7A-C78F2274A524"/>
+              <!-- SharedOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="5AB7172C-9C11-405C-8DD5-AF20F3606282"/>
+              <!-- UpToDateCloudOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="A78ED123-AB77-406B-9962-2A5D9D2F7F30"/>
+              <!-- SyncingOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E"/>
+              <!-- UpToDatePinnedOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="F241C880-6982-4CE5-8CF7-7085BA96DA5A"/>
+              <!-- ReadOnlyOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="9AA2F32D-362A-42D9-9328-24A483E2CCC3"/>
+              <!-- UpToDateUnpinnedOverlayHandler -->
+              <desktop4:DesktopIconOverlayHandler Clsid="C5FF006E-2AE9-408C-B85B-2DFDD5449D9C"/>
+              <!-- ErrorOverlayHandler Server 2012 -->
+              <desktop4:DesktopIconOverlayHandler Clsid="7AFDFDDB-F914-11E4-8377-6C3BE50D980C"/>
+              <!-- SyncingOverlayHandler Server 2012 -->
+              <desktop4:DesktopIconOverlayHandler Clsid="82CA8DE3-01AD-4CEA-9D75-BE4C51810A9E"/>
+              <!-- UpToDateOverlayHandler Server 2012 -->
+              <desktop4:DesktopIconOverlayHandler Clsid="1BF42E4C-4AF4-4CFD-A1A0-CF2960B8F63E"/>
+            </desktop4:DesktopIconOverlayHandlers>
+          </desktop3:CloudFiles>
+        </desktop3:Extension>
+        <!-- FileExplorerContextMenu is an extension category that is called for all files in and out of the OneDrive root directory. -->
+        <!-- This is mainly used for commands outside of the sync root like "Move to OneDrive". -->
+        <desktop4:Extension Category="windows.fileExplorerContextMenus">
+          <desktop4:FileExplorerContextMenus>
+            <!-- Manifest file set CLSIDs based on an ItemType. These CLSIDs should cover all files or folders-->
+            <!-- Type=Directory represents all folders -->
+            <desktop5:ItemType Type="Directory">
+              <!-- 1FA0E654-C9F2-4A1F-9800-B9A75D744B00 (00) is a placeholder command to initialize the context menu. -->
+              <!-- Refer to BaseExplorerCommand.h to see which classes are placeholders -->
+              <desktop5:Verb Id="Command0"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B00" />
+              <desktop5:Verb Id="Command1"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B01" />
+              <desktop5:Verb Id="Command2"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B02" />
+              <desktop5:Verb Id="Command3"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B03" />
+              <desktop5:Verb Id="Command4"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B04" />
+              <desktop5:Verb Id="Command5"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B05" />
+            </desktop5:ItemType>
+            <!-- Type=* represents all Files with any extensions. Files with no extensions will also be covered here -->
+            <desktop5:ItemType Type="*">
+              <desktop5:Verb Id="Command0"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B00" />
+              <desktop5:Verb Id="Command1"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B01" />
+              <desktop5:Verb Id="Command2"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B02" />
+              <desktop5:Verb Id="Command3"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B03" />
+              <desktop5:Verb Id="Command4"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B04" />
+              <desktop5:Verb Id="Command5"  Clsid="1FA0E654-C9F2-4A1F-9800-B9A75D744B05" />
+            </desktop5:ItemType>
+            <!-- For LNK files, Explorer will check the extension of the target. This does not work well with Vault shortcut because the target is an odopen protocol -->
+            <!-- To initialize the context menu for Vault, ItemType ="*" will not work. We must explicitly add the CLSID to initialize the context menu for LNK files -->
+            <!-- The rest of the context menu commands will be handled by CloudFilesContextMenus and fileExplorerContextMenus. There is no need to add other CLSIDs here-->
+            <desktop5:ItemType Type=".lnk">
+              <desktop5:Verb Id="Command0"  Clsid="5250E46F-BB09-D602-5891-F476DC89B700" />
+            </desktop5:ItemType>
+          </desktop4:FileExplorerContextMenus>
+        </desktop4:Extension>
+        <com:Extension Category="windows.comServer">
+          <com:ComServer>
+           <!-- SurrogateServer specifies that all COM calls will be an out of proc call to DLLhost.exe-->
+            <com:SurrogateServer DisplayName="Context Menu Items">
+              <!-- Depending on build arch, FileSyncShellPath will replaced with either FileSyncShell64.dll or FileSyncShell.dll -->
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B700" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B701" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B702" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B703" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B704" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B705" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B706" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B707" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B708" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B709" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B710" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B711" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B712" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B713" Path="FileSyncShell64.dll" ThreadingModel="STA"/> 
+              <com:Class Id="5250E46F-BB09-D602-5891-F476DC89B714" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B00" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B01" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B02" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B03" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B04" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+              <com:Class Id="1FA0E654-C9F2-4A1F-9800-B9A75D744B05" Path="FileSyncShell64.dll" ThreadingModel="STA"/>
+            </com:SurrogateServer>
+          </com:ComServer>
+        </com:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     INDX( 	 Á.x           (   ð  è       Û                    i‡    x h     h‡    Ê˜—ÛÕÜ«—ÛÊ˜—ÛÕÜ«—Û €       €              A c t i v a t i o n S t o r e . d a t j‡    ˆ r     h‡    g,›—Ûg,›—Ûg,›—Ûg,›—Û €       €      &       A c t i v a t i o n S t o r e . d a t . L O G 1 ÿÿ‚yGk‡    ˆ r     h‡    g,›—Ûg,›—Ûg,›—Ûg,›—Û                &       A c t i v a t i o n S t o r e . d a t . L O G 2     i‡    p Z     h‡    Ê˜—ÛÕÜ«—ÛÊ˜—ÛÕÜ«—  €       €              A C T I V A ~ 1 . D A T       j‡    p Z     h‡    g,›—Ûg,›—Ûg,›—Ûg,›—Û €       €      &       A C T I V A ~ 1 . L O G       k‡    p Z     h‡    g,›—Ûg,›—Ûg,›—Ûg,›—Û                &       A C T I V A ~ 2 . L O G       l‡    p `     h‡    öX%—ÛöX%—ÛöX%—ÛöX%—Û                     m a c h i n e . p c k g d e p l‡    p Z     h‡    öX%—ÛöX%—ÛöX%—ÛöX%—Û                     M A C H I N ~ 1 . P C K                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       1679 169 323 1680 166 295 1681 218 324 1682 190 313 1683 226 351 1684 227 326 1685 207 331 1686 232 400 1687 231 332 1688 157 290 1689 161 392 1690 215 334 1691 209 336 1692 234 353 1693 233 337 1694 184 308 1695 181 401 1696 223 339 1697 172 299 1698 220 398 1699 221 344 1700 104 188 1701 102 188 1702 103 188 1703 211 346 1704 212 657 1705 237 347 1706 166 295 1707 163 294 1708 217 349 1709 190 313 1710 187 312 1711 225 350 1712 210 352 1713 235 380 1714 234 353 1715 215 354 1716 202 236 1717 228 355 1718 102 357 1719 202 236 1720 215 354 1721 229 359 1722 230 658 1723 218 360 1724 218 360 1725 230 658 1726 231 362 1727 216 356 1728 228 355 1729 229 359 1730 237 364 1731 238 377 1732 226 365 1733 220 367 1734 232 378 1735 233 368 1736 227 370 1737 214 197 1738 103 371 1739 234 373 1740 235 379 1741 223 374 1742 224 376 1743 236 659 1744 237 364 1745 238 377 1746 214 197 1747 227 370 1748 233 368 1749 234 373 1750 222 375 1751 219 363 1752 231 362 1753 232 378 1754 235 379 1755 236 659 1756 224 376 1757 211 346 1758 236 348 1759 235 380 1760 178 304 1761 175 303 1762 221 381 1763 205 383 1764 230 386 1765 229 384 1766 206 333 1767 231 332 1768 230 386 1769 184 308 1770 224 340 1771 225 387 1772 157 290 1773 216 335 1774 217 389 1775 203 329 1776 204 660 1777 229 391 1778 161 661 1779 199 318 1780 84 320 1781 213 341 1782 238 343 1783 237 394 1784 193 327 1785 227 326 1786 85 662 1787 172 299 1788 169 323 1789 219 325 1790 207 331 1791 208 663 1792 233 399 1793 178 304 1794 222 382 1795 223 339 1796 310 464 1905 303 492 1906 305 465 1907 324 470 1911 326 481 1912 320 471 1913 313 476 1917 310 464 1918 311 466 1919 321 480 1923 323 489 1924 326 481 1925 313 476 1929 314 477 1930 308 484 1931 321 480 1935 315 502 1936 317 488 1937 303 492 1941 300 514 1942 302 493 1943 319 472 1947 320 471 1948 299 496 1949 293 501 1956 292 513 1957 307 485 1958 315 502 1959 294 506 1960 296 503 1961 294 506 1965 336 676 1966 338 507 1967 335 512 1974 334 679 1975 292 513 1976 300 514 1977 330 680 1978 332 515 1979 329 519 1986 328 683 1987 298 497 1988 328 520 1989 329 684 1990 332 521 1991 336 526 1995 334 686 1996 335 527 1997 292 171 2001 108 148 2002 112 129 2003 19 11 2004 66 90 2005 78 532 2006</p>
+        </triangles>
+        <triangles material="Red-material" count="112">
+          <input semantic="VERTEX" source="#Cube_4259-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_4259-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_4259-mesh-map-0" offset="2" set="0"/>
+          <p>246 402 741 239 403 742 243 404 743 261 405 744 265 405 745 260 405 746 240 406 747 245 407 748 244 408 749 239 409 750 244 410 751 243 411 752 245 412 753 242 413 754 246 414 755 245 415 756 263 415 757 244 415 758 243 416 759 263 416 760 246 416 761 246 417 762 263 417 763 245 417 764 252 418 765 264 418 766 251 418 767 254 419 768 247 420 769 251 421 770 248 422 771 253 423 772 252 424 773 247 425 774 252 426 775 251 427 776 253 428 777 250 429 778 254 430 779 253 431 780 264 431 781 252 431 782 251 432 783 264 432 784 254 432 785 253 433 786 254 433 787 264 433 788 259 434 789 260 434 790 265 434 791 262 435 792 255 436 793 259 437 794 256 438 795 261 439 796 260 440 797 255 441 798 260 442 799 259 443 800 261 444 801 258 445 802 262 446 803 259 447 804 265 447 805 262 447 806 262 448 807 265 448 808 261 448 809 244 449 810 263 449 811 243 449 812 347 533 990 341 534 991 351 535 992 342 536 993 355 537 994 353 538 995 361 539 996 339 540 997 350 541 998 343 542 999 357 543 1000 355 544 1001 344 545 1002 359 546 1003 357 547 1004 359 548 1005 346 549 1006 361 550 1007 343 551 1008 342 552 1009 341 553 1010 341 554 1011 353 555 1012 351 556 1013 350 557 1014 340 558 1015 347 559 1016 347 560 1017 349 561 1018 350 562 1019 351 563 1020 348 564 1021 347 565 1022 351 566 1023 354 567 1024 352 568 1025 353 569 1026 356 570 1027 354 571 1028 355 572 1029 358 573 1030 356 574 1031 357 575 1032 360 576 1033 358 577 1034 361 578 1035 360 579 1036 359 580 1037 350 581 1038 362 582 1039 361 583 1040 371 584 1041 365 585 1042 375 586 1043 366 587 1044 379 588 1045 377 589 1046 385 590 1047 363 591 1048 374 592 1049 367 593 1050 381 594 1051 379 595 1052 368 596 1053 383 597 1054 381 598 1055 383 599 1056 370 600 1057 385 601 1058 369 602 1059 367 603 1060 365 604 1061 365 605 1062 377 606 1063 375 607 1064 374 608 1065 364 609 1066 371 610 1067 371 611 1068 373 612 1069 374 613 1070 375 614 1071 372 615 1072 371 616 1073 375 617 1074 378 618 1075 376 619 1076 377 620 1077 380 621 1078 378 622 1079 379 623 1080 382 624 1081 380 625 1082 381 626 1083 384 626 1084 382 627 1085 385 628 1086 384 629 1087 383 630 1088 374 631 1089 386 632 1090 385 633 1091 246 402 1797 242 664 1798 239 403 1799 240 406 1800 241 665 1801 245 407 1802 239 409 1803 240 666 1804 244 410 1805 245 412 1806 241 667 1807 242 413 1808 254 419 1809 250 668 1810 247 420 1811 248 422 1812 249 669 1813 253 423 1814 247 425 1815 248 670 1816 252 426 1817 253 428 1818 249 671 1819 250 429 1820 262 435 1821 258 672 1822 255 436 1823 256 438 1824 257 673 1825 261 439 1826 255 441 1827 256 674 1828 260 442 1829 261 444 1830 257 675 1831 258 445 1832 347 533 2007 340 688 2008 341 534 2009 342 536 2010 343 689 2011 355 537 2012 361 539 2013 346 690 2014 339 540 2015 343 542 2016 344 691 2017 357 543 2018 344 545 2019 345 692 2020 359 546 2021 359 548 2022 345 693 2023 346 549 2024 341 553 2025 340 694 2026 345 694 2027 340 694 2028 339 694 2029 345 694 2030 339 694 2031 346 694 2032 345 694 2033 345 694 2034 344 694 2035 341 553 2036 344 694 2037 343 551 2038 341 553 2039 341 554 2040 342 695 2041 353 555 2042 350 557 2043 339 696 2044 340 558 2045 347 560 2046 348 697 2047 349 561 2048 351 563 2049 352 698 2050 348 564 2051 351 566 2052 353 699 2053 354 567 2054 353 569 2055 355 700 2056 356 570 2057 355 572 2058 357 701 2059 358 573 2060 357 575 2061 359 702 2062 360 576 2063 361 578 2064 362 703 2065 360 579 2066 350 581 2067 349 704 2068 362 582 2069 371 584 2070 364 705 2071 365 585 2072 366 587 2073 367 706 2074 379 588 2075 385 590 2076 370 707 2077 363 591 2078 367 593 2079 368 708 2080 381 594 2081 368 596 2082 369 709 2083 383 597 2084 383 599 2085 369 710 2086 370 600 2087 365 604 2088 364 711 2089 363 712 2090 363 712 2091 370 713 2092 365 604 2093 370 713 2094 369 602 2095 365 604 2096 369 602 2097 368 714 2098 367 603 2099 367 603 2100 366 715 2101 365 604 2102 365 605 2103 366 716 2104 377 606 2105 374 608 2106 363 717 2107 364 609 2108 371 611 2109 372 718 2110 373 612 2111 375 614 2112 376 719 2113 372 615 2114 375 617 2115 377 720 2116 378 618 2117 377 620 2118 379 721 2119 380 621 2120 379 623 2121 381 722 2122 382 624 2123 381 626 2124 383 723 2125 384 626 2126 385 628 2127 386 724 2128 384 629 2129 374 631 2130 373 725 2131 386 632 2132</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="axe_rare" name="axe_rare" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Cube_4259-mesh" name="axe_rare">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="White-material" target="#White-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="Metal-material" target="#Metal-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="Gold-material" target="#Gold-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="Red-material" target="#Red-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

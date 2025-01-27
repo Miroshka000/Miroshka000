@@ -1,0 +1,3044 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.80.75 commit date:2019-07-29, commit time:14:47, hash:f6cb5f54494e</authoring_tool>
+    </contributor>
+    <created>2020-11-12T12:53:40</created>
+    <modified>2020-11-12T12:53:40</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Stone-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.1923278 0.2281934 0.2461952 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="WoodDark-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.1537781 0.1165666 0.1059123 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images/>
+  <library_materials>
+    <material id="Stone-material" name="Stone">
+      <instance_effect url="#Stone-effect"/>
+    </material>
+    <material id="WoodDark-material" name="WoodDark">
+      <instance_effect url="#WoodDark-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_4379-mesh" name="Cube.4379">
+      <mesh>
+        <source id="Cube_4379-mesh-positions">
+          <float_array id="Cube_4379-mesh-positions-array" count="1503">-0.7554892 1.944499 0.1815311 0.7579991 1.944499 0.1815311 0.7579991 0.05263918 0.1815311 -0.7554892 0.05263918 0.1815311 -0.9446753 0.2418251 0.1815311 -0.9446753 1.755313 0.1815311 0.9471852 1.755313 0.1815311 0.9471852 0.2418251 0.1815311 0.8067751 1.80409 0.1876322 0.8067751 0.1930491 0.1876322 -0.8042653 1.80409 0.1876322 -0.8042653 0.1930491 0.1876322 -0.8047468 0.1925667 0 -0.8047468 1.804572 0 0.8072583 1.804572 0 0.8072583 0.1925669 0 0.7703384 1.767652 0.1596339 0.7703384 0.2294867 0.1596339 -0.7678267 1.767652 0.1596339 -0.7678267 0.2294867 0.1596339 -0.3590315 1.767652 0.1596339 -0.3022689 1.767652 0.1596339 -0.3285355 1.752745 0.136927 0.3047807 1.767652 0.1596339 0.3615432 1.767652 0.1596339 0.3310474 1.752745 0.136927 -0.3022689 0.2294867 0.1596339 -0.3590315 0.2294867 0.1596339 -0.3285355 0.2443934 0.136927 0.3615432 0.2294867 0.1596339 0.3047807 0.2294867 0.1596339 0.3310474 0.2443934 0.136927 -0.9446753 0.1923452 0.1815311 -0.9446753 0.05263918 0.04182511 -0.8049693 0.05263918 0.1815311 -0.9446753 0.123774 0.1608018 -0.9239459 0.123774 0.1815311 -0.9282892 0.09213513 0.165145 -0.9239459 0.05263918 0.1103962 -0.9446753 0.07336843 0.1103962 -0.9282892 0.06902515 0.1420351 -0.8735404 0.07336843 0.1815311 -0.8735404 0.05263918 0.1608018 -0.9051793 0.06902515 0.165145 -0.8049693 1.944499 0.1815311 -0.9446753 1.944499 0.04182511 -0.9446753 1.804793 0.1815311 -0.8735404 1.944499 0.1608018 -0.8735404 1.92377 0.1815311 -0.9051793 1.928113 0.165145 -0.9446753 1.92377 0.1103962 -0.9239459 1.944499 0.1103962 -0.9282892 1.928113 0.1420351 -0.9239459 1.873365 0.1815311 -0.9446753 1.873365 0.1608018 -0.9282892 1.905004 0.165145 0.8074792 0.05263918 0.1815311 0.9471852 0.05263918 0.04182511 0.9471852 0.1923452 0.1815311 0.8760502 0.05263918 0.1608018 0.8760502 0.07336843 0.1815311 0.9076892 0.06902515 0.165145 0.9471852 0.07336843 0.1103962 0.9264558 0.05263918 0.1103962 0.9307991 0.06902515 0.1420351 0.9264558 0.123774 0.1815311 0.9471852 0.123774 0.1608018 0.9307991 0.09213513 0.165145 0.9471852 1.804793 0.1815311 0.9471852 1.944499 0.04182511 0.8074792 1.944499 0.1815311 0.9471852 1.873365 0.1608018 0.9264558 1.873365 0.1815311 0.9307991 1.905004 0.165145 0.9264558 1.944499 0.1103962 0.9471852 1.92377 0.1103962 0.9307991 1.928113 0.1420351 0.8760502 1.92377 0.1815311 0.8760502 1.944499 0.1608018 0.9076892 1.928113 0.165145 0.8525926 0.1472321 0.2061609 0.8525925 0.1886486 0.1946448 0.8769365 0.1807387 0.1946448 0.8919819 0.1600304 0.1946448 0.8919819 0.1344338 0.1946448 0.8769365 0.1137255 0.1946448 0.8525925 0.1058157 0.1946448 0.8282486 0.1137255 0.1946448 0.8132032 0.1344337 0.1946448 0.8132032 0.1600304 0.1946448 0.8282486 0.1807387 0.1946448 0.8525925 0.192821 0.1808392 0.8793891 0.1841143 0.1808392 0.8959502 0.1613199 0.1808392 0.8959502 0.1331444 0.1808392 0.8793891 0.11035 0.1808392 0.8525925 0.1016432 0.1808392 0.825796 0.11035 0.1808392 0.809235 0.1331444 0.1808392 0.809235 0.1613199 0.1808392 0.825796 0.1841143 0.1808392 0.8525926 1.849907 0.2061609 0.8525925 1.891323 0.1946448 0.8769365 1.883413 0.1946448 0.8919819 1.862705 0.1946448 0.8919819 1.837108 0.1946448 0.8769365 1.8164 0.1946448 0.8525925 1.80849 0.1946448 0.8282486 1.8164 0.1946448 0.8132032 1.837108 0.1946448 0.8132032 1.862705 0.1946448 0.8282486 1.883413 0.1946448 0.8525925 1.895495 0.1808392 0.8793891 1.886789 0.1808392 0.8959502 1.863994 0.1808392 0.8959502 1.835819 0.1808392 0.8793891 1.813024 0.1808392 0.8525925 1.804318 0.1808392 0.825796 1.813024 0.1808392 0.809235 1.835819 0.1808392 0.809235 1.863994 0.1808392 0.825796 1.886789 0.1808392 -0.8500818 1.849907 0.2061609 -0.8500818 1.891323 0.1946448 -0.8257379 1.883413 0.1946448 -0.8106925 1.862705 0.1946448 -0.8106925 1.837108 0.1946448 -0.8257379 1.8164 0.1946448 -0.8500818 1.80849 0.1946448 -0.8744258 1.8164 0.1946448 -0.8894712 1.837108 0.1946448 -0.8894712 1.862705 0.1946448 -0.8744258 1.883413 0.1946448 -0.8500818 1.895495 0.1808392 -0.8232853 1.886789 0.1808392 -0.8067243 1.863994 0.1808392 -0.8067243 1.835819 0.1808392 -0.8232853 1.813024 0.1808392 -0.8500818 1.804318 0.1808392 -0.8768783 1.813024 0.1808392 -0.8934394 1.835819 0.1808392 -0.8934394 1.863994 0.1808392 -0.8768783 1.886789 0.1808392 -0.8500818 0.1472321 0.2061609 -0.8500818 0.1886486 0.1946448 -0.8257379 0.1807387 0.1946448 -0.8106925 0.1600304 0.1946448 -0.8106925 0.1344338 0.1946448 -0.8257379 0.1137255 0.1946448 -0.8500818 0.1058157 0.1946448 -0.8744258 0.1137255 0.1946448 -0.8894712 0.1344337 0.1946448 -0.8894712 0.1600304 0.1946448 -0.8744258 0.1807387 0.1946448 -0.8500818 0.192821 0.1808392 -0.8232853 0.1841143 0.1808392 -0.8067243 0.1613199 0.1808392 -0.8067243 0.1331444 0.1808392 -0.8232853 0.11035 0.1808392 -0.8500818 0.1016432 0.1808392 -0.8768783 0.11035 0.1808392 -0.8934394 0.1331444 0.1808392 -0.8934394 0.1613199 0.1808392 -0.8768783 0.1841143 0.1808392 0.9718152 1.849906 0.08693808 0.9602991 1.891323 0.08693808 0.9602991 1.883413 0.06259411 0.9602991 1.862705 0.04754871 0.9602991 1.837108 0.04754871 0.9602991 1.8164 0.06259411 0.9602991 1.80849 0.08693808 0.9602991 1.8164 0.111282 0.9602991 1.837108 0.1263274 0.9602991 1.862705 0.1263274 0.9602991 1.883413 0.111282 0.9464937 1.895495 0.08693808 0.9464937 1.886789 0.06014162 0.9464937 1.863994 0.04358047 0.9464937 1.835819 0.04358047 0.9464937 1.813024 0.06014162 0.9464937 1.804317 0.08693808 0.9464937 1.813024 0.1137344 0.9464937 1.835819 0.1302955 0.9464937 1.863994 0.1302955 0.9464937 1.886789 0.1137344 0.9718155 0.1472321 0.08693796 0.9602992 0.1886486 0.08693796 0.9602992 0.1807387 0.06259399 0.9602992 0.1600305 0.04754859 0.9602992 0.1344338 0.04754859 0.9602992 0.1137256 0.06259399 0.9602992 0.1058158 0.08693796 0.9602992 0.1137256 0.1112819 0.9602992 0.1344338 0.1263273 0.9602992 0.1600305 0.1263273 0.9602992 0.1807387 0.1112819 0.9464938 0.192821 0.08693796 0.9464938 0.1841143 0.0601415 0.9464938 0.1613199 0.04358035 0.9464938 0.1331444 0.04358035 0.9464938 0.11035 0.0601415 0.9464938 0.1016432 0.08693796 0.9464938 0.11035 0.1137343 0.9464938 0.1331444 0.1302954 0.9464938 0.1613199 0.130{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:zombie_horse",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:horse_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale_by_age": {
+          "start_scale": 0.5,
+          "end_scale": 1.0
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.follow_parent": {
+          "priority": 4,
+          "speed_multiplier": 1.0
+        }
+      },
+      "minecraft:horse_adult": {
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/zombie_horse.json"
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "interact_text": "action.interact.ride.horse",
+          "seats": {
+            "position": [ 0.0, 1.2, -0.2 ]
+          }
+        },
+        "minecraft:behavior.mount_pathing": {
+          "priority": 2,
+          "speed_multiplier": 1.5,
+          "target_dist": 0.0,
+          "track_target": true
+        },
+        "minecraft:behavior.player_ride_tamed": {
+  
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "zombiehorse", "undead", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0,
+        "breathes_water": true
+      },
+      "minecraft:collision_box": {
+        "width": 1.4,
+        "height": 1.6
+      },
+      "minecraft:health": {
+        "value": 15,
+        "max": 15
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.2
+      },
+      "minecraft:navigation.walk": {
+        "is_amphibious": true,
+        "avoid_water": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:is_tamed": {
+      },
+      "minecraft:horse.jump_strength": {
+        "value": {
+          "range_min": 0.4,
+          "range_max": 1.0
+        }
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:balloonable": {
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.2
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 0.7
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 36,
+            "add": {
+              "component_groups": [
+                "minecraft:horse_adult"
+              ]
+            }
+          },
+          {
+            "weight": 9,
+            "add": {
+              "component_groups": [
+                "minecraft:horse_baby"
+              ]
+            }
+          }
+        ]
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:horse_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:horse_adult"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:zombie_pigman",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:pig_zombie_baby": {
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? 12 + (query.equipment_count * Math.Random(1,3)) : 0"
+        },
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value": 0.5
+        }
+      },
+
+      "minecraft:pig_zombie_adult": {
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "seats": {
+            "position": [ 0.0, 1.1, -0.35 ],
+            "lock_rider_rotation": 0
+          }
+        },
+        "minecraft:experience_reward": {
+          "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
+        }
+      },
+      "minecraft:pig_zombie_angry": {
+        "minecraft:angry": {
+          "duration": 25,
+          "broadcast_anger": true,
+          "broadcast_range": 20,
+          "calm_event": {
+            "event": "minecraft:on_calm",
+            "target": "self"
+          }
+        }
+      },
+      "minecraft:pig_zombie_calm": {
+        "minecraft:on_target_acquired": {
+          "event": "minecraft:become_angry",
+          "target": "self"
+        }
+      },
+      "minecraft:strider_jockey": {
+        "minecraft:equipment": {
+          "table": "loot_tables/entities/zombified_piglin_rider_gear.json"
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0,
+        "breathes_water": true
+      },
+      "minecraft:equip_item": {
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.9
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:navigation.walk": {
+        "is_amphibious": true,
+        "can_pass_doors": true,
+        "can_open_doors": true,
+        "avoid_water": true,
+        "avoid_portals": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:fire_immune": {
+      },
+      "minecraft:type_family": {
+        "family": [ "zombie_pigman", "undead", "monster", "mob" ]
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/zombie_pigman.json"
+      },
+      "minecraft:equipment": {
+        "table": "loot_tables/entities/zombie_pigman_gear.json"
+      },
+      "minecraft:health": {
+        "value": 20,
+        "max": 20
+      },
+      "minecraft:movement": {
+        "value": 0.23
+      },
+      "minecraft:attack": {
+        "damage": 5
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:shareables": {
+        "items": [
+          {
+            "item": "minecraft:netherite_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:diamond_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:iron_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 1
+          },
+          {
+            "item": "minecraft:stone_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 2
+          },
+          {
+            "item": "minecraft:golden_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 3
+          },
+          {
+            "item": "minecraft:wooden_sword",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 4
+          },
+          {
+            "item": "minecraft:netherite_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:diamond_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 1
+          },
+          {
+            "item": "minecraft:iron_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 2
+          },
+          {
+            "item": "minecraft:chainmail_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 3
+          },
+          {
+            "item": "minecraft:golden_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 4
+          },
+          {
+            "item": "minecraft:leather_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 5
+          },
+          {
+            "item": "minecraft:turtle_helmet",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 6
+          },
+          {
+            "item": "minecraft:skull:0",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 7
+          },
+          {
+            "item": "minecraft:skull:1",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 7
+          },
+          {
+            "item": "minecraft:carved_pumpkin",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 7
+          },
+          {
+            "item": "minecraft:netherite_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:diamond_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 1
+          },
+          {
+            "item": "minecraft:iron_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 2
+          },
+          {
+            "item": "minecraft:chainmail_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 3
+          },
+          {
+            "item": "minecraft:golden_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 4
+          },
+          {
+            "item": "minecraft:leather_chestplate",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 5
+          },
+          {
+            "item": "minecraft:netherite_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:diamond_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 1
+          },
+          {
+            "item": "minecraft:iron_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 2
+          },
+          {
+            "item": "minecraft:chainmail_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 3
+          },
+          {
+            "item": "minecraft:golden_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 4
+          },
+          {
+            "item": "minecraft:leather_leggings",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 5
+          },
+          {
+            "item": "minecraft:netherite_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 0
+          },
+          {
+            "item": "minecraft:diamond_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 1
+          },
+          {
+            "item": "minecraft:iron_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 2
+          },
+          {
+            "item": "minecraft:chainmail_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 3
+          },
+          {
+            "item": "minecraft:golden_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 4
+          },
+          {
+            "item": "minecraft:leather_boots",
+            "want_amount": 1,
+            "surplus_amount": 1,
+            "priority": 5
+          }
+        ]
+      },
+      "minecraft:behavior.hurt_by_target": {
+        "priority": 1
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 2,
+        "speed_multiplier": 1.25,
+        "target_dist": 0,
+        "track_target": true
+      },
+      "minecraft:behavior.equip_item": {
+        "priority": 3
+      },
+      "minecraft:behavior.melee_attack": {
+        "priority": 4,
+        "speed_multiplier": 1.5
+      },
+      "minecraft:behavior.stomp_turtle_egg": {
+        "priority": 5,
+        "speed_multiplier": 1,
+        "search_range": 10,
+        "search_height": 2,
+        "goal_radius": 1.14,
+        "interval": 20
+      },
+      "minecraft:behavior.pickup_items": {
+        "priority": 6,
+        "max_dist": 3,
+        "goal_radius": 2,
+        "speed_multiplier": 1.0,
+        "pickup_based_on_chance": true,
+        "can_pickup_any_item": true
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 7,
+        "speed_multiplier": 1.0
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 8,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 9
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+
+    "events": {
+      "minecraft:entity_transformed": {
+        "sequence": [
+          // Transform baby pig to baby zombie pigman
+          {
+            "filters": {
+              "test": "has_component",
+              "subject": "other",
+              "value": "minecraft:is_baby"
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:pig_zombie_baby",
+                "minecraft:pig_zombie_calm"
+              ]
+            }
+          },
+          // Transform adult pig to adult zombie pigman
+          {
+            "filters": {
+              "test": "has_component",
+              "subject": "other",
+              "operator": "!=",
+              "value": "minecraft:is_baby"
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:pig_zombie_adult",
+                "minecraft:pig_zombie_calm"
+              ]
+            }
+          }
+        ]
+      },
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 95,
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:pig_zombie_adult",
+                "minecraft:pig_zombie_calm"
+              ]
+            }
+          },
+          {
+            "weight": 5,
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:pig_zombie_baby",
+                "minecraft:pig_zombie_calm"
+              ]
+
+            }
+          }
+        ]
+      },
+      "minecraft:on_calm": {
+        "remove": {
+          "component_groups": [
+            "minecraft:pig_zombie_angry"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_zombie_calm"
+          ]
+        }
+      },
+      "minecraft:become_angry": {
+        "remove": {
+          "component_groups": [
+            "minecraft:pig_zombie_calm"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_zombie_angry"
+          ]
+        }
+      },
+      "minecraft:spawn_as_strider_jockey": {
+        "add": {
+          "component_groups": [
+            "minecraft:strider_jockey"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:paper",
+                  "quantity": 24,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 7,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emptymap:0",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:glass_pane",
+                  "quantity": 11,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 13,
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:compass",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:map",
+                  "functions": [
+                    {
+                      "function": "exploration_map",
+                      "destination": "monument"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:compass",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 14,
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:compass",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:map",
+                  "functions": [
+                    {
+                      "function": "exploration_map",
+                      "destination": "mansion"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 7,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:frame",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:banner",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_aux_value",
+                      "values": {
+                        "min": 0,
+                        "max": 15
+                      }
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:banner_pattern:2",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:banner_pattern:4",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:banner_pattern:5",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:rotten_flesh",
+                  "quantity": 32,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:redstone",
+                  "quantity": 2
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:gold_ingot",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:dye:4",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:rabbit_foot",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:glowstone_dust",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:turtle_shell_piece",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:glass_bottle",
+                  "quantity": 9,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:ender_pearl",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:nether_wart",
+                  "quantity": 22,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:experience_bottle",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:string",
+                  "quantity": 20,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:coal:0",
+                  "quantity": 10,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bucket:2",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 16,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                },
+                {
+                  "item": "minecraft:fish",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cooked_fish",
+                  "quantity": 6
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:fish",
+                  "quantity": 15,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:campfire",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                },
+                {
+                  "item": "minecraft:salmon",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cooked_salmon",
+                  "quantity": 6
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:salmon",
+                  "quantity": 13,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:fishing_rod",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_with_levels",
+                      "treasure": false,
+                      "levels": {
+                        "min": 5,
+                        "max": 19
+                      }
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 3,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:clownfish",
+                  "quantity": 6,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:pufferfish",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:boat",
+                  "quantity": 1,
+                  "price_multiplier": 0.05,
+                  "functions": [
+                    {
+                      "function": "trader_material_type"
+                    }
+                  ]
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                       3333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.75 0 0.8333333 0 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.8333333 0.2999999 0.75 0.3999999 0.75 0.4999999 0.8333333 0.3999999 0.75 0.4999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.8333333 0.5999999 0.75 0.6999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.8333333 0.8 0.75 0.9 0.75 1 0.8333333 0.9 0.75 1 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.6999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.5999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.4999999 0.8333333 0.4999999 0.8333333 0.3999999 1 0.3999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.8333333 0 0.75 0.0999999 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.75 0.2999999 0.8333333 0.2999999 0.75 0.4999999 0.75 0.3999999 0.8333333 0.3999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.75 0.5999999 0.8333333 0.5999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.8333333 0.8 0.75 0.9 0.75 1 0.8333333 0.9 0.75 1 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.6999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.5999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.4999999 0.8333333 0.4999999 0.8333333 0.3999999 1 0.3999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.75 0 0.8333333 0 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.75 0.2999999 0.8333333 0.2999999 0.75 0.4999999 0.8333333 0.3999999 0.75 0.4999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.75 0.5999999 0.8333333 0.5999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.75 0.7999999 0.8333333 0.8 0.75 1 0.8333333 0.9 0.75 1 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.6999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.5999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.4999999 0.8333333 0.4999999 0.8333333 0.3999999 1 0.3999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.75 0 0.8333333 0 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.8333333 0.2999999 0.75 0.3999999 0.75 0.4999999 0.8333333 0.3999999 0.75 0.4999999 0.75 0.5999999 0.8333333 0.4999999 0.75 0.5999999 0.75 0.6999999 0.8333333 0.5999999 0.75 0.6999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.75 0.7999999 0.8333333 0.8 0.75 1 0.75 0.9 0.8333333 0.9 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.6999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.5999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.4999999 0.8333333 0.4999999 0.8333333 0.3999999 1 0.3999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.75 0 0.8333333 0 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.75 0.2999999 0.8333333 0.2999999 0.75 0.4999999 0.8333333 0.3999999 0.75 0.4999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.8333333 0.5999999 0.75 0.6999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.75 0.7999999 0.8333333 0.8 0.75 1 0.8333333 0.9 0.75 1 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.8 1 0.6999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.5999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.4999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.3999999 0.8333333 0.4999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 1 0.1999999 0.8333333 0.2999999 0.8333333 0.1089315 0.0558359 0.3910685 0.0558359 0.4782536 0.324164 0.1999999 1 0.0999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0 0.8333333 0.0999999 0.8333333 0.0999999 0.8333333 0 0.75 0.0999999 0.75 0.1999999 0.8333333 0.0999999 0.75 0.1999999 0.75 0.2999999 0.8333333 0.1999999 0.75 0.2999999 0.75 0.3999999 0.75 0.2999999 0.8333333 0.2999999 0.75 0.4999999 0.75 0.3999999 0.8333333 0.3999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.75 0.5999999 0.8333333 0.5999999 0.75 0.8 0.75 0.6999999 0.8333333 0.6999999 0.75 0.9 0.8333333 0.8 0.75 0.9 0.75 1 0.8333333 0.9 0.75 1 0.75 1 0.8333333 0.9 1 0.9 0.8333333 0.9 0.8333333 0.8 1 0.7999999 0.8333333 0.7999999 0.8333333 0.6999999 1 0.6999999 0.8333333 0.6999999 0.8333333 0.5999999 1 0.5999999 0.8333333 0.5999999 0.8333333 0.4999999 1 0.4999999 0.8333333 0.4999999 0.8333333 0.3999999 1 0.3999999 0.8333333 0.3999999 0.8333333 0.2999999 1 0.2999999 0.8333333 0.2999999 0.8333333 0.1999999 1 0.1999999 0.8333333 0.1999999 0.8333333 0.0999999 1 0.0999999 0.8333333 0.0999999 0.8333333 0 1 0 0.8333333 0.0999999 0.75 0 0.8333333 0 0.75 0.1999999 0.75 0.0999999 0.8333333 0.0999999 0.75 0.2999999 0.75 0.1999999 0.8333333 0.1999999 0.75 0.3999999 0.8333333 0.2999999 0.75 0.3999999 0.75 0.4999999 0.75 0.3999999 0.8333333 0.3999999 0.75 0.5999999 0.75 0.4999999 0.8333333 0.4999999 0.75 0.6999999 0.8333333 0.5999999 0.75 0.6999999 0.75 0.7999999 0.8333333 0.6999999 0.75 0.8 0.75 0.9 0.8333333 0.8 0.75 0.9 0.75 1 0.8333333 0.9 0.75 1 0.75 0.5 0.5 0.5625 0.625 0.5 0.625 0.5 0.625 0.5625 0.75 0.5 0.75 0.5625 0.75 0.5 0.875 0.5 0.75 0.5 0.875 0.5625 1 0.5 1 0.5625 0 0.5 0.125 0.5 0 0.5 0.125 0.5625 0.25 0.5 0.25 0.5625 0.25 0.5 0.375 0.5 0.25 0.5625 0.375 0.5 0.5 0.5 0.375 0.5625 0.5 0.625 0.625 0.5625 0.625 0.5625 0.625 0.625 0.75 0.5625 0.75 0.625 0.75 0.5625 0.875 0.5625 0.75 0.625 0.875 0.5625 1 0.5625 0.875 0.5625 0 0.625 0.125 0.5625 0.125 0.5625 0.125 0.625 0.25 0.5625 0.25 0.625 0.25 0.5625 0.375 0.5625 0.25 0.5625 0.375 0.625 0.5 0.5625 0.5 0.625 0.5 0.6875 0.625 0.625 0.625 0.6875 0.625 0.625 0.75 0.625 0.625 0.6875 0.75 0.625 0.875 0.625 0.75 0.6875 0.875 0.625 1 0.625 0.875 0.6875 0 0.625 0.125 0.625 0 0.625 0.125 0.6875 0.25 0.625 0.25 0.625 0.25 0.6875 0.375 0.625 0.375 0.625 0.375 0.6875 0.5 0.625 0.5 0.6875 0.5 0.75 0.625 0.6875 0.625 0.6875 0.625 0.75 0.75 0.6875 0.75 0.6875 0.75 0.75 0.875 0.6875 0.875 0.75 0.875 0.6875 1 0.6875 0.875 0.75 0 0.6875 0.125 0.6875 0 0.75 0.125 0.6875 0.25 0.6875 0.125 0.75 0.25 0.6875 0.375 0.6875 0.25 0.75 0.375 0.6875 0.5 0.6875 0.375 0.8125 0.5 0.75 0.625 0.75 0.5 0.8125 0.625 0.75 0.75 0.75 0.625 0.8125 0.75 0.75 0.875 0.75 0.75 0.8125 0.875 0.75 1 0.75 0.875 0.75 0 0.8125 0.125 0.75 0.125 0.75 0.125 0.8125 0.25 0.75 0.25 0.75 0.25 0.8125 0.375 0.75 0.375 0.75 0.375 0.8125 0.5 0.75 0.5 0.875 0.5 0.8125 0.625 0.8125 0.5 0.8125 0.625 0.875 0.75 0.8125 0.75 0.8125 0.75 0.875 0.875 0.8125 0.875 0.875 0.875 0.8125 1 0.8125 0.875 0.8125 0 0.875 0.125 0.8125 0.125 0.875 0.125 0.8125 0.25 0.8125 0.125 0.875 0.25 0.8125 0.375 0.8125 0.25 0.8125 0.375 0.875 0.5 0.8125 0.5 0.875 0.5 0.9375 0.625 0.875 0.625 0.9375 0.625 0.875 0.75 0.875 0.625 0.9375 0.75 0.875 0.875 0.875 0.75 0.9375 0.875 0.875 1 0.875 0.875 0.875 0 0.9375 0.125 0.875 0.125 0.875 0.125 0.9375 0.25 0.875 0.25 0.875 0.25 0.9375 0.375 0.875 0.375 0.9375 0.375 0.875 0.5 0.875 0.375 1 0.5 0.9375 0.625 0.9375 0.5 0.9375 0.625 1 0.75 0.9375 0.75 0.9375 0.75 1 0.875 0.9375 0.875 0.9375 0.875 1 1 0.9375 1 1 0 0.9375 0.125 {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:wheat",
+                  "quantity": 20,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:potato",
+                  "quantity": 26,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:beetroot",
+                  "quantity": 15,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:carrot",
+                  "quantity": 22,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bread",
+                  "quantity": 6
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:pumpkin",
+                  "quantity": 6,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:pumpkin_pie",
+                  "quantity": 4
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:apple",
+                  "quantity": 4
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:melon_block",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cookie",
+                  "quantity": 18
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:suspicious_stew:0",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_aux_value",
+                      "values": {
+                        "min": 0,
+                        "max": 5
+                      }
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cake",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:golden_carrot",
+                  "quantity": 3
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:speckled_melon",
+                  "quantity": 3
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:stick",
+                  "quantity": 32,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:arrow:0",
+                  "quantity": 16
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                },
+                {
+                  "item": "minecraft:gravel",
+                  "quantity": 10,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:flint",
+                  "quantity": 10
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:flint",
+                  "quantity": 26,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bow",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:string",
+                  "quantity": 14,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:crossbow",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:feather",
+                  "quantity": 24,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bow",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_with_levels",
+                      "treasure": false,
+                      "levels": {
+                        "min": 5,
+                        "max": 19
+                      }
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 3,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:tripwire_hook",
+                  "quantity": 8,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:crossbow",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_with_levels",
+                      "treasure": false,
+                      "levels": {
+                        "min": 5,
+                        "max": 19
+                      }
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 3,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                },
+                {
+                  "item": "minecraft:arrow:0",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:arrow:6",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:8",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:10",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:13",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:15",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:18",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:20",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:22",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:24",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:26",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:29",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:32",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:35",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:37",
+                      "quantity": 5
+                    },
+                    {
+                      "item": "minecraft:arrow:38",
+                      "quantity": 5
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:leather",
+                  "quantity": 6,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_leggings",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 7,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_chestplate",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:flint",
+                  "quantity": 26,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_helmet",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_boots",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:rabbit_hide",
+                  "quantity": 9,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 7,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_chestplate",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:turtle_shell_piece",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 6,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:horsearmorleather",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:leather_helmet",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_dye"
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 6,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:saddle",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:paper",
+                  "quantity": 24,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 2,
+              "max_uses": 16,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 9,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bookshelf",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_book_for_trading",
+                      "base_cost": 2,
+                      "base_random_cost": 5,
+                      "per_level_random_cost": 10,
+                      "per_level_cost": 3
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 1,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 10,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:book",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:lantern",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_book_for_trading",
+                      "base_cost": 2,
+                      "base_random_cost": 5,
+                      "per_level_random_cost": 10,
+                      "per_level_cost": 3
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 5,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 70,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:dye:0",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 20,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:glass",
+                  "quantity": 4
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_book_for_trading",
+                      "base_cost": 2,
+                      "base_random_cost": 5,
+                      "per_level_random_cost": 10,
+                      "per_level_cost": 3
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 10,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "total_exp_required": 150,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:writable_book",
+                  "quantity": 2,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:compass",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:clock",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "price_multiplier": 0.2
+                },
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "price_multiplier": 0.2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:book",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "enchant_book_for_trading",
+                      "base_cost": 2,
+                      "base_random_cost": 5,
+                      "per_level_random_cost": 10,
+                      "per_level_cost": 3
+                    }
+                  ]
+                }
+              ],
+              "trader_exp": 15,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total_exp_required": 250,
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 20,
+                  "price_multiplier": 0.05
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:nametag",
+                  "quantity": 1
+                }
+              ],
+              "trader_exp": 30,
+              "max_uses": 12,
+              "reward_exp": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             431 783 2370 439 800 2371 440 784 2372 432 785 2373 440 801 2374 441 786 2375 441 787 2376 442 804 2377 434 788 2378 442 789 2379 443 806 2380 435 790 2381 435 791 2382 443 807 2383 444 792 2384 444 793 2385 437 810 2386 429 794 2387 445 795 2388 446 812 2389 438 780 2390 446 797 2391 447 814 2392 439 798 2393 447 799 2394 448 816 2395 440 784 2396 440 801 2397 448 817 2398 449 802 2399 441 787 2400 449 820 2401 450 803 2402 442 789 2403 450 822 2404 451 805 2405 443 807 2406 451 824 2407 452 808 2408 444 793 2409 452 825 2410 445 809 2411 453 811 2412 454 828 2413 446 812 2414 446 797 2415 454 829 2416 455 813 2417 447 799 2418 455 831 2419 456 815 2420 448 817 2421 456 834 2422 457 818 2423 457 819 2424 458 836 2425 450 803 2426 458 821 2427 459 838 2428 451 805 2429 459 823 2430 460 840 2431 452 808 2432 452 825 2433 460 841 2434 453 826 2435 461 827 2436 462 843 2437 454 828 2438 454 829 2439 462 844 2440 463 830 2441 455 831 2442 463 845 2443 464 832 2444 464 833 2445 465 846 2446 457 818 2447 465 835 2448 466 847 2449 458 836 2450 466 837 2451 467 848 2452 459 838 2453 467 839 2454 468 849 2455 460 840 2456 460 841 2457 468 850 2458 461 842 2459 461 827 2460 341 595 2461 342 597 2462 462 844 2463 342 598 2464 343 600 2465 343 603 2466 344 602 2467 464 832 2468 344 604 2469 345 606 2470 465 846 2471 465 835 2472 345 609 2473 346 608 2474 466 837 2475 346 610 2476 347 612 2477 347 615 2478 348 614 2479 468 849 2480 348 618 2481 341 617 2482 461 842 2483 469 851 2484 470 1064 2485 472 852 2486 478 854 2487 476 1065 2488 475 855 2489 475 857 2490 476 1066 2491 474 858 2492 480 860 2493 470 1067 2494 469 861 2495 477 863 2496 475 1068 2497 473 864 2498 478 866 2499 472 1069 2500 470 867 2501 478 866 2502 480 868 2503 474 869 2504 477 871 2505 479 1070 2506 469 872 2507 473 874 2508 474 1071 2509 480 860 2510 471 875 2511 472 1072 2512 478 854 2513 12 876 2514 481 876 2515 482 876 2516 14 876 2517 483 876 2518 484 876 2519 14 876 2520 13 876 2521 485 876 2522 15 876 2523 487 876 2524 488 876 2525 494 877 2526 495 1073 2527 499 877 2528 12 0 2529 494 0 2530 493 0 2531 14 0 2532 496 0 2533 495 0 2534 13 0 2535 495 0 2536 494 0 2537 496 882 2541 500 1074 2542 499 883 2543 494 885 2544 498 1075 2545 497 886 2546 496 888 2547 493 890 2548 497 889 2549</p>
+        </triangles>
+        <triangles material="WoodDark-material" count="16">
+          <input semantic="VERTEX" source="#Cube_4379-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_4379-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_4379-mesh-map-0" offset="2" set="0"/>
+          <p>26 0 57 23 0 58 21 0 59 19 0 66 20 0 67 18 0 68 29 0 81 16 0 82 24 0 83 21 54 84 28 55 85 26 55 86 22 56 87 27 57 88 28 58 89 24 59 90 31 60 91 29 60 92 25 61 93 30 62 94 31 63 95 499 879 1365 497 880 1366 498 881 1367 26 0 1524 30 0 1525 23 0 1526 19 0 1542 27 0 1543 20 0 1544 29 0 1602 17 0 1603 16 0 1604 21 54 1605 22 54 1606 28 55 1607 22 56 1608 20 56 1609 27 57 1610 24 59 1611 25 59 1612 31 60 1613 25 61 1614 23 61 1615 30 62 1616 499 879 2538 500 876 2539 497 880 2540</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="trapdoor" name="trapdoor" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Cube_4379-mesh" name="trapdoor">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Stone-material" target="#Stone-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+              <instance_material symbol="WoodDark-material" target="#WoodDark-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

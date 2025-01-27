@@ -1,0 +1,2817 @@
+# Blender v2.80 (sub 75) OBJ File: 'KayKit Character Exporter.blend'
+# www.blender.org
+mtllib mageHeadC.mtl
+o mageHeadC_Cube.3537
+v 0.225161 0.421585 0.426276
+v 0.254519 0.375472 0.406292
+v 0.258003 0.447108 0.468028
+v 0.249593 0.479715 0.448255
+v 0.261642 0.473731 0.460872
+v 0.275663 0.479715 0.456007
+v 0.237896 0.447108 0.456217
+v 0.267254 0.493221 0.436234
+v 0.279147 0.447108 0.464197
+v 0.249593 0.388979 0.448255
+v 0.258003 0.421585 0.468028
+v 0.261642 0.394962 0.460872
+v 0.275663 0.388979 0.456007
+v 0.237896 0.421585 0.456217
+v 0.279147 0.421585 0.464197
+v 0.267254 0.375472 0.436234
+v 0.236859 0.388979 0.418314
+v 0.254519 0.493221 0.406292
+v 0.225161 0.447108 0.426276
+v 0.236859 0.479715 0.418314
+v 0.301152 0.375472 0.413111
+v 0.329668 0.421585 0.393127
+v 0.313116 0.421585 0.441074
+v 0.318498 0.388979 0.401089
+v 0.320546 0.394962 0.420761
+v 0.327219 0.421585 0.420862
+v 0.309633 0.388979 0.432884
+v 0.301212 0.493221 0.421964
+v 0.313116 0.447108 0.441074
+v 0.309633 0.479715 0.432884
+v 0.320532 0.473731 0.420761
+v 0.327205 0.447108 0.420862
+v 0.318509 0.479715 0.409942
+v 0.287910 0.375472 0.383170
+v 0.315720 0.421585 0.363186
+v 0.304895 0.388979 0.371148
+v 0.288128 0.493221 0.383170
+v -0.315637 0.421585 0.363186
+v -0.287885 0.375472 0.383170
+v -0.327202 0.447108 0.420863
+v -0.318494 0.479715 0.409942
+v -0.320530 0.473731 0.420762
+v -0.309633 0.479715 0.432884
+v -0.301211 0.493221 0.421964
+v -0.313116 0.447108 0.441074
+v -0.318483 0.388979 0.401090
+v -0.327216 0.421585 0.420863
+v -0.320545 0.394962 0.420762
+v -0.309633 0.388979 0.432884
+v -0.329634 0.421585 0.393127
+v -0.313116 0.421585 0.441074
+v -0.301149 0.375472 0.413111
+v -0.304844 0.388979 0.371148
+v -0.288113 0.493221 0.383170
+v -0.267253 0.375472 0.436234
+v -0.237896 0.421585 0.456217
+v -0.279147 0.421585 0.464197
+v -0.249593 0.388979 0.448255
+v -0.261642 0.394962 0.460872
+v -0.258003 0.421585 0.468028
+v -0.275663 0.388979 0.456007
+v -0.267253 0.493221 0.436234
+v -0.279147 0.447108 0.464197
+v -0.237896 0.447108 0.456217
+v -0.275663 0.479715 0.456007
+v -0.261642 0.473731 0.460872
+v -0.258003 0.447108 0.468028
+v -0.249593 0.479715 0.448255
+v -0.254519 0.375472 0.406292
+v -0.225161 0.421585 0.426276
+v -0.236858 0.388979 0.418314
+v -0.254519 0.493221 0.406292
+v -0.225161 0.447108 0.426276
+v -0.236858 0.479715 0.418314
+v -0.188422 0.025092 0.291642
+v -0.133234 0.025092 0.337847
+v -0.068967 0.025092 0.369376
+v -0.000000 0.025092 0.378455
+v 0.068967 0.025092 0.369376
+v 0.133234 0.025092 0.337847
+v 0.188422 0.025092 0.291642
+v -0.250000 0.079768 0.325969
+v -0.176777 0.078566 0.382155
+v -0.091506 0.080361 0.417475
+v -0.000000 0.080361 0.429522
+v 0.091506 0.080361 0.417475
+v 0.176777 0.078566 0.382155
+v 0.250000 0.079768 0.325969
+v -0.017213 0.249633 0.461790
+v -0.017257 0.292023 0.560268
+v -0.089423 0.330084 0.466964
+v -0.015369 0.252625 0.509226
+v -0.030968 0.251421 0.462221
+v -0.028236 0.254473 0.511687
+v -0.059944 0.260498 0.465834
+v -0.052944 0.262805 0.522266
+v -0.030950 0.292831 0.558115
+v -0.056375 0.302759 0.553593
+v -0.017000 0.271749 0.556128
+v -0.031294 0.272268 0.553294
+v -0.055153 0.280796 0.550658
+v -0.016431 0.260587 0.544395
+v -0.029432 0.261903 0.541798
+v -0.048584 0.268261 0.542350
+v -0.091252 0.301951 0.468482
+v -0.085211 0.279005 0.469132
+v -0.078990 0.318590 0.532445
+v -0.078481 0.293155 0.533974
+v -0.070143 0.275235 0.531324
+v -0.005021 0.458303 0.490048
+v -0.011324 0.458303 0.487264
+v -0.020716 0.458303 0.481177
+v -0.035711 0.474983 0.429134
+v -0.030671 0.458303 0.467152
+v -0.020165 0.252820 0.309561
+v -0.088022 0.349265 0.309561
+v -0.035414 0.257892 0.309561
+v -0.062403 0.278167 0.309561
+v -0.087493 0.325715 0.309561
+v -0.082340 0.302985 0.309561
+v -0.056120 0.458303 0.294710
+v 0.017216 0.249637 0.461790
+v 0.089454 0.330042 0.466964
+v 0.017264 0.292023 0.560268
+v 0.030973 0.251417 0.462222
+v 0.059953 0.260488 0.465835
+v 0.015373 0.252625 0.509226
+v 0.028344 0.254483 0.511635
+v 0.052939 0.262778 0.522200
+v 0.079018 0.318561 0.532445
+v 0.091276 0.301920 0.468482
+v 0.078503 0.293248 0.534047
+v 0.085228 0.278986 0.469133
+v 0.070096 0.275174 0.531337
+v 0.017006 0.271748 0.556128
+v 0.016435 0.260587 0.544395
+v 0.030960 0.292831 0.558115
+v 0.031182 0.272158 0.553261
+v 0.029376 0.261908 0.541836
+v 0.056392 0.302739 0.553592
+v 0.055229 0.280770 0.550631
+v 0.048594 0.268253 0.542349
+v 0.005025 0.458303 0.490048
+v 0.011383 0.458303 0.487276
+v 0.020701 0.458303 0.481215
+v 0.035712 0.474983 0.429134
+v 0.030670 0.458303 0.467058
+v 0.020169 0.252820 0.309561
+v 0.088026 0.349265 0.309561
+v 0.035418 0.257892 0.309561
+v 0.062407 0.278167 0.309561
+v 0.087497 0.325715 0.309561
+v 0.082344 0.302985 0.309561
+v 0.056124 0.458303 0.294710
+v 0.329901 0.523685 0.326507
+v 0.301347 0.528906 0.356786
+v 0.267030 0.530293 0.383017
+v 0.361430 0.615727 0.322242
+v 0.376309 0.579428 0.347671
+v 0.394230 0.572713 0.300549
+v 0.366112 0.613628 0.330361
+v 0.370481 0.608253 0.337606
+v 0.370983 0.610810 0.314071
+v 0.375918 0.608355 0.322069
+v 0.379423 0.603465 0.328805
+v 0.380118 0.603291 0.307659
+v 0.384051 0.601346 0.315891
+v 0.385721 0.598177 0.322426
+v 0.384568 0.576322 0.338100
+v 0.391100 0.574181 0.328223
+v 0.375771 0.590269 0.346710
+v 0.384215 0.587494 0.336473
+v 0.390142 0.585159 0.327202
+v 0.373848 0.600207 0.343245
+v 0.382124 0.596769 0.333416
+v 0.387558 0.593370 0.325755
+v 0.392596 0.583529 0.301097
+v 0.387681 0.593979 0.303373
+v 0.396468 0.572763 0.309375
+v 0.394710 0.583979 0.310280
+v 0.390154 0.593560 0.312259
+v 0.395312 0.573158 0.318677
+v 0.393580 0.584145 0.319051
+v 0.390020 0.592465 0.319676
+v 0.376517 0.542741 0.348213
+v 0.364166 0.509430 0.322483
+v 0.394336 0.535923 0.300875
+v 0.376004 0.532651 0.347262
+v 0.374287 0.523405 0.343829
+v 0.384809 0.539807 0.338720
+v 0.384417 0.529283 0.337551
+v 0.382473 0.520913 0.334723
+v 0.391356 0.537704 0.328872
+v 0.390411 0.527631 0.328409
+v 0.387887 0.520625 0.327307
+v 0.373055 0.508168 0.315117
+v 0.381391 0.510763 0.309103
+v 0.368033 0.511138 0.330795
+v 0.377321 0.510079 0.323318
+v 0.384816 0.512556 0.317479
+v 0.371530 0.515948 0.338157
+v 0.380212 0.514752 0.330187
+v 0.386214 0.516109 0.324036
+v 0.396571 0.536033 0.309690
+v 0.395478 0.536539 0.319123
+v 0.392776 0.525666 0.301994
+v 0.394873 0.525560 0.311325
+v 0.393802 0.526550 0.320177
+v 0.388261 0.516880 0.304716
+v 0.390498 0.517576 0.313739
+v 0.390297 0.519672 0.321160
+v 0.357706 0.615965 0.315560
+v 0.391066 0.572832 0.293831
+v 0.347179 0.580025 0.287363
+v 0.367342 0.611054 0.307463
+v 0.376582 0.603530 0.301046
+v 0.353465 0.614415 0.307385
+v 0.363405 0.609063 0.298884
+v 0.372123 0.602035 0.293345
+v 0.350137 0.609379 0.299683
+v 0.360036 0.604316 0.292164
+v 0.367998 0.599009 0.288334
+v 0.385670 0.573127 0.286458
+v 0.377586 0.573774 0.281286
+v 0.389332 0.583690 0.294406
+v 0.383355 0.584384 0.286990
+v 0.375714 0.584762 0.282459
+v 0.384279 0.594177 0.296729
+v 0.378601 0.594187 0.289654
+v 0.372711 0.593239 0.285538
+v 0.347038 0.591111 0.289049
+v 0.347997 0.601343 0.293353
+v 0.357193 0.576985 0.281264
+v 0.357489 0.588292 0.282823
+v 0.358186 0.597664 0.287004
+v 0.367711 0.574971 0.279308
+v 0.367388 0.585922 0.280962
+v 0.366625 0.594188 0.284631
+v 0.360940 0.509302 0.315584
+v 0.348380 0.542605 0.287784
+v 0.391162 0.536017 0.294139
+v 0.357039 0.510850 0.307207
+v 0.353518 0.515492 0.299451
+v 0.369843 0.508088 0.308268
+v 0.366066 0.509809 0.299417
+v 0.362552 0.514278 0.292504
+v 0.378198 0.510751 0.302281
+v 0.373942 0.512464 0.294178
+v 0.369785 0.515857 0.288926
+v 0.357934 0.539805 0.281601
+v 0.368111 0.537966 0.279580
+v 0.348955 0.532049 0.289123
+v 0.358918 0.528908 0.283040
+v 0.368296 0.527581 0.281348
+v 0.350720 0.522773 0.293160
+v 0.360254 0.520388 0.287192
+v 0.368099 0.520368 0.285063
+v 0.389597 0.525722 0.295216
+v 0.385072 0.516908 0.297902
+v 0.385758 0.536287 0.286705
+v 0.383801 0.525648 0.287685
+v 0.379672 0.517613 0.290519
+v 0.377772 0.536879 0.281527
+v 0.376323 0.526622 0.282961
+v 0.373918 0.519593 0.286163
+v -0.359355 0.613821 0.320112
+v -0.394122 0.571218 0.301796
+v -0.371215 0.577536 0.346661
+v -0.369617 0.608953 0.312904
+v -0.379324 0.601529 0.307434
+v -0.363122 0.611729 0.328597
+v -0.373681 0.606496 0.321239
+v -0.382301 0.599619 0.315971
+v -0.366642 0.606371 0.336183
+v -0.376385 0.601602 0.328311
+v -0.383260 0.596419 0.322633
+v -0.395401 0.571296 0.310771
+v -0.393217 0.571628 0.319874
+v -0.392417 0.581985 0.302176
+v -0.393531 0.582369 0.311537
+v -0.391437 0.582504 0.320049
+v -0.387281 0.592331 0.303932
+v -0.388751 0.591934 0.313020
+v -0.387811 0.590789 0.320331
+v -0.370804 0.588404 0.345668
+v -0.369320 0.598332 0.342063
+v -0.380377 0.574531 0.337986
+v -0.380139 0.585777 0.336384
+v -0.378470 0.594939 0.333161
+v -0.387949 0.572546 0.328883
+v -0.387095 0.583492 0.327746
+v -0.384692 0.591640 0.326096
+v -0.361873 0.507564 0.320528
+v -0.371379 0.540872 0.347230
+v -0.394192 0.534412 0.302099
+v -0.364848 0.509271 0.329139
+v -0.367539 0.514088 0.336776
+v -0.371511 0.506347 0.314064
+v -0.374845 0.508277 0.322691
+v -0.376974 0.512918 0.329694
+v -0.380459 0.509024 0.308914
+v -0.382993 0.510835 0.317558
+v -0.383635 0.514354 0.324182
+v -0.380558 0.538030 0.338614
+v -0.388133 0.536033 0.329513
+v -0.370983 0.530780 0.346233
+v -0.380386 0.527540 0.337370
+v -0.387271 0.525952 0.328961
+v -0.369660 0.521539 0.342663
+v -0.378757 0.519069 0.334381
+v -0.384923 0.518885 0.327586
+v -0.392538 0.524104 0.303024
+v -0.387765 0.515244 0.305255
+v -0.395465 0.534521 0.311052
+v -0.393603 0.523926 0.312420
+v -0.389036 0.515926 0.314372
+v -0.393326 0.534963 0.320279
+v -0.391553 0.524888 0.321146
+v -0.388001 0.517982 0.321739
+v -0.356372 0.614060 0.313129
+v -0.348683 0.578081 0.284113
+v -0.391680 0.571296 0.294808
+v -0.353019 0.612498 0.304605
+v -0.350490 0.607425 0.296636
+v -0.366716 0.609195 0.305995
+v -0.363636 0.607215 0.297094
+v -0.361028 0.602481 0.290143
+v -0.376529 0.601757 0.300527
+v -0.372934 0.600221 0.292426
+v -0.369338 0.597211 0.287082
+v -0.359256 0.575138 0.279025
+v -0.369922 0.573227 0.278102
+v -0.348412 0.589162 0.285777
+v -0.359486 0.586357 0.280563
+v -0.369434 0.584133 0.279707
+v -0.348973 0.599387 0.290146
+v -0.359752 0.595801 0.284818
+v -0.368342 0.592392 0.283277
+v -0.389894 0.582112 0.295217
+v -0.384620 0.592512 0.297007
+v -0.387080 0.571542 0.286957
+v -0.384748 0.582816 0.287318
+v -0.379766 0.592465 0.289444
+v -0.379559 0.572118 0.281031
+v -0.377562 0.583102 0.282017
+v -0.374301 0.591494 0.284774
+v -0.359393 0.507438 0.313384
+v -0.391748 0.534477 0.295109
+v -0.349734 0.540713 0.284620
+v -0.369043 0.506274 0.306970
+v -0.378003 0.509013 0.301848
+v -0.356393 0.508955 0.304708
+v -0.366287 0.507983 0.297855
+v -0.374604 0.510705 0.293445
+v -0.353685 0.513599 0.296682
+v -0.363439 0.512473 0.290623
+v -0.371003 0.514105 0.287810
+v -0.387139 0.534707 0.287202
+v -0.379698 0.535238 0.281276
+v -0.390092 0.524147 0.295999
+v -0.385086 0.524101 0.287916
+v -0.378150 0.524983 0.282555
+v -0.385313 0.515259 0.298197
+v -0.380673 0.515929 0.290349
+v -0.375405 0.517895 0.285480
+v -0.350176 0.530157 0.286001
+v -0.351534 0.520883 0.290178
+v -0.359886 0.537996 0.279402
+v -0.360678 0.527055 0.280959
+v -0.361628 0.518598 0.285165
+v -0.370249 0.536247 0.278392
+v -0.370292 0.525826 0.280176
+v -0.369707 0.518623 0.283821
+v 0.230381 0.528017 0.397807
+v 0.333048 0.518946 0.334495
+v 0.303834 0.524055 0.365021
+v 0.268400 0.525441 0.391913
+v 0.231354 0.523165 0.407191
+v 0.233315 0.521486 0.426738
+v 0.270620 0.523762 0.410496
+v 0.308402 0.522379 0.381969
+v 0.339559 0.517399 0.351117
+v 0.336591 0.517336 0.343470
+v 0.306428 0.522380 0.374186
+v 0.269727 0.523765 0.402015
+v 0.232424 0.521487 0.417863
+v 0.228729 0.555835 0.384192
+v 0.264489 0.558115 0.370333
+v 0.297515 0.556634 0.345022
+v 0.325312 0.551198 0.314876
+v 0.226822 0.594361 0.381850
+v 0.262002 0.596599 0.367776
+v 0.295119 0.594931 0.343461
+v 0.322970 0.589293 0.314490
+v 0.226196 0.605517 0.382491
+v 0.261270 0.607735 0.368771
+v 0.294596 0.605996 0.344915
+v 0.322448 0.600368 0.316399
+v 0.225930 0.615530 0.386465
+v 0.260957 0.617742 0.372863
+v 0.294983 0.615848 0.349272
+v 0.323097 0.610401 0.320997
+v 0.335845 0.624047 0.351162
+v 0.302676 0.629723 0.382147
+v 0.264651 0.631655 0.407800
+v 0.229685 0.629346 0.423156
+v 0.226143 0.623387 0.393381
+v 0.261173 0.625608 0.379724
+v 0.296372 0.623491 0.356097
+v 0.325067 0.618265 0.327922
+v 0.226939 0.628260 0.402720
+v 0.261963 0.630505 0.388598
+v 0.298155 0.628416 0.36ˇ˛#  
+ #   C o p y r i g h t   ( c )   M i c r o s o f t   C o r p o r a t i o n .  
+ #  
+ #   T H E   S O F T W A R E   I S   P R O V I D E D   " A S   I S " ,   W I T H O U T   W A R R A N T Y   O F   A N Y   K I N D ,   E X P R E S S   O R  
+ #   I M P L I E D ,   I N C L U D I N G   B U T   N O T   L I M I T E D   T O   T H E   W A R R A N T I E S   O F   M E R C H A N T A B I L I T Y ,  
+ #   F I T N E S S   F O R   A   P A R T I C U L A R   P U R P O S E   A N D   N O N I N F R I N G E M E N T .   I N   N O   E V E N T   S H A L L   T H E  
+ #   A U T H O R S   O R   C O P Y R I G H T   H O L D E R S   B E   L I A B L E   F O R   A N Y   C L A I M ,   D A M A G E S   O R   O T H E R  
+ #   L I A B I L I T Y ,   W H E T H E R   I N   A N   A C T I O N   O F   C O N T R A C T ,   T O R T   O R   O T H E R W I S E ,   A R I S I N G   F R O M ,  
+ #   O U T   O F   O R   I N   C O N N E C T I O N   W I T H   T H E   S O F T W A R E   O R   T H E   U S E   O R   O T H E R   D E A L I N G S   I N  
+ #   T H E   S O F T W A R E .  
+ #  
+ C o n v e r t F r o m - S t r i n g D a t a   @ '  
+ # # # P S L O C  
+         S t a r t G e t P a c k a g e = B e g i n   i n v o k i n g   G e t - p a c k a g e   { 0 }   u s i n g   P S M o d u l e P a t h   { 1 } .  
+         P a c k a g e F o u n d = P a c k a g e   ' { 0 } '   f o u n d .  
+         P a c k a g e N o t F o u n d = P a c k a g e   ' { 0 } '   n o t   f o u n d .  
+         M u l t i p l e P a c k a g e s F o u n d = M o r e   t h a n   o n e   p a c k a g e   f o u n d   f o r   p a c k a g e   ' { 0 } ' .  
+         S t a r t T e s t P a c k a g e = T e s t - T a r g e t R e s o u r c e   c a l l i n g   G e t - T a r g e t R e s o u r c e   u s i n g   { 0 } .  
+         I n D e s i r e d S t a t e = R e s o u r c e   { 0 }   i s   i n   t h e   d e s i r e d   s t a t e .   R e q u i r e d   E n s u r e   i s   { 1 }   a n d   a c t u a l   E n s u r e   i s   { 2 }  
+         N o t I n D e s i r e d S t a t e = R e s o u r c e   { 0 }   i s   n o t   i n   t h e   d e s i r e d   s t a t e .   R e q u i r e d   E n s u r e   i s   { 1 }   a n d   a c t u a l   E n s u r e   i s   { 2 }  
+         S t a r t S e t P a c k a g e = S e t - T a r g e t R e s o u r c e   c a l l i n g   T e s t - T a r g e t R e s o u r c e   u s i n g   { 0 } .  
+         I n s t a l l P a c k a g e I n S e t = C a l l i n g   I n s t a l l - P a c k a g e   u s i n g   { 0 } .  
+ # # # P S L O C  
+  
+ ' @  
+  
+  
+ #   S I G   #   B e g i n   s i g n a t u r e   b l o c k  
+ #   M I I n p A Y J K o Z I h v c N A Q c C o I I n l T C C J 5 E C A Q E x D z A N B g l g h k g B Z Q M E A g E F A D B 5 B g o r  
+ #   B g E E A Y I 3 A g E E o G s w a T A 0 B g o r B g E E A Y I 3 A g E e M C Y C A w E A A A Q Q H 8 w 7 Y F l L C E 6 3 J N L G  
+ #   K X 7 z U Q I B A A I B A A I B A A I B A A I B A D A x M A 0 G C W C G S A F l A w Q C A Q U A B C D i f a x d R J w w G 4 / T  
+ #   m Y o B r f n u 8 F w G Q b W K w v g W l a / w 4 D b 0 O a C C D Y U w g g Y D M I I D 6 6 A D A g E C A h M z A A A C U + O D  
+ #   3 p b e x W 7 M A A A A A A J T M A 0 G C S q G S I b 3 D Q E B C w U A M H 4 x C z A J B g N V B A Y T A l V T M R M w E Q Y D  
+ #   V Q Q I E w p X Y X N o a W 5 n d G 9 u M R A w D g Y D V Q Q H E w d S Z W R t b 2 5 k M R 4 w H A Y D V Q Q K E x V N a W N y  
+ #   b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 x K D A m B g N V B A M T H 0 1 p Y 3 J v c 2 9 m d C B D b 2 R l I F N p Z 2 5 p  
+ #   b m c g U E N B I D I w M T E w H h c N M j E w O T A y M T g z M z A w W h c N M j I w O T A x M T g z M z A w W j B 0 M Q s w  
+ #   C Q Y D V Q Q G E w J V U z E T M B E G A 1 U E C B M K V 2 F z a G l u Z 3 R v b j E Q M A 4 G A 1 U E B x M H U m V k b W 9 u  
+ #   Z D E e M B w G A 1 U E C h M V T W l j c m 9 z b 2 Z 0 I E N v c n B v c m F 0 a W 9 u M R 4 w H A Y D V Q Q D E x V N a W N y  
+ #   b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 w g g E i M A 0 G C S q G S I b 3 D Q E B A Q U A A 4 I B D w A w g g E K A o I B  
+ #   A Q D L h x H w q 3 O h H + 4 J + S X 4 q S / V Q G 8 H y b c c H 7 t n G + B U q r X u b f G u D F Y P Z 2 9 u C u H f Q l O 1  
+ #   l y g L g M p J 4 G e h 6 / 6 p o Q 5 V k D K f V s s n 6 a A 1 P C z I h 8 i O P M Q 9 M j u 3 s L F 9 S n + P z u a i e 4 B N  
+ #   r p 0 M u Z L D E X g V Y x 2 W N j m z q c x C 7 d Y 9 S C 3 z n O h 5 q U y 2 v n m W y g C 7 b 9 k j 0 d 3 J r G t j c 5 q 5  
+ #   0 W f V 3 W L X A Q H k e R R O s J F B Z f X F G o S v R l j F F U A j U / z d h P 9 2 P + 1 J i R R R i k V y / s q I h M D Y  
+ #   + 7 t V d z l E 2 f w n K O v 9 L S h g K e y E e v g M l 0 B 1 F q 7 E 2 Y e B Z K F 6 K l h m Y i 9 C E 1 3 5 0 c n T U o U 4  
+ #   Y p Q S n Z o 0 Y A n a e n R E D L f F G K T d A g M B A A G j g g G C M I I B f j A f B g N V H S U E G D A W B g o r B g E E  
+ #   A Y I 3 T A g B B g g r B g E F B Q c D A z A d B g N V H Q 4 E F g Q U l Z p L W I c c X o x e s s A / D R b e 2 6 g l h E M w  
+ #   V A Y D V R 0 R B E 0 w S 6 R J M E c x L T A r B g N V B A s T J E 1 p Y 3 J v c 2 9 m d C B J c m V s Y W 5 k I E 9 w Z X J h  
+ #   d G l v b n M g T G l t a X R l Z D E W M B Q G A 1 U E B R M N M j M w M D E y K z Q 2 N z U 5 O D A f B g N V H S M E G D A W  
+ #   g B R I b m T l U A X T g q o X N z c i t W 2 o y n U C l T B U B g N V H R 8 E T T B L M E m g R 6 B F h k N o d H R w O i 8 v  
+ #   d 3 d 3 L m 1 p Y 3 J v c 2 9 m d C 5 j b 2 0 v c G t p b 3 B z L 2 N y b C 9 N a W N D b 2 R T a W d Q Q 0 E y M D E x X z I w  
+ #   M T E t M D c t M D g u Y 3 J s M G E G C C s G A Q U F B w E B B F U w U z B R B g g r B g E F B Q c w A o Z F a H R 0 c D o v  
+ #   L 3 d 3 d y 5 t a W N y b 3 N v Z n Q u Y 2 9 t L 3 B r a W 9 w c y 9 j Z X J 0 c y 9 N a W N D b 2 R T a W d Q Q 0 E y M D E x  
+ #   X z I w M T E t M D c t M D g u Y 3 J 0 M A w G A 1 U d E w E B / w Q C M A A w D Q Y J K o Z I h v c N A Q E L B Q A D g g I B  
+ #   A K V Y + y K c J V V x f 9 W 2 v N k L 5 u f j O p q c v V O O O d V y j y 1 d m s O 4 O 8 k h W h q r e c d V Z p 0 9 a d O Z  
+ #   8 k c M t Q 0 U + o K x 4 8 4 J g 1 1 c c 4 C k 0 F y O B n p + Y I F b O x Y C q z a q M c a R A g y 4 8 n 1 t b z / E F Y i F  
+ #   z J m M i G n l g W F C S t O N P v Q O B D 2 y / E j 3 q B R n G y 9 E Z S 1 E D l R N / 8 l 5 R s 3 H X 2 l Z h d 9 W u u k R  
+ #   b U k 8 3 U 9 9 T P J y o 1 2 c U 0 M b 3 n 1 H J v / J Z p w S y q b 3 O 0 o 4 H E x V J S k w N 1 m 4 2 f S V I V t X V V S a  
+ #   Y Z i V p v 3 2 G o D / d y A S / g y p l f R 6 F I 3 R n C O o m z l y c S q o z 0 z B C P F i C M h V h Q 6 q n + J 0 G h g R  
+ #   B J v G K i z w + 5 l T f n B F o q K Z J D R O z + u G D l 9 t w 6 J v n V q A Z K G r W v / C s Y a e g a P e P F r A V S x A  
+ #   y U w O F T k A q t N C 8 u A e e + r v 2 V 5 x L w 8 F f p K J 5 y K i M K n C K r I a F Q D r 5 A Z 7 f 2 e j G G D f + 8 T z  
+ #   O i K 1 A g B v O W 3 i T E E a / a t 8 Z 4 + s 1 C m n E A k A i 0 c L j B 7 2 C J e d U 1 L A s w d O C W M 2 M D I Z V o 9 j  
+ #   0 T 7 4 O k J L T j P d 3 W N E y w 0 r B X T y h l b Y Q s Y t 7 E l T 2 l 2 T T l F 5 E m p V i x G t j 4 C h N j W o K r 9 y  
+ #   T A q t a d d 2 Y m 5 F N B 7 9 2 G z w N w a 6 3 1 B P C g B J m c R p F K X t 0 V E Q q 7 U X V N Y B i B R d + x 4 y v j q q  
+ #   5 a F 7 X C 5 n X C g j b C k 7 I X w m O p h N u N D N i R q 8 3 E j j n c 7 m x r J G M I I H e j C C B W K g A w I B A g I K  
+ #   Y Q 6 Q 0 g A A A A A A A z A N B g k q h k i G 9 w 0 B A Q s F A D C B i D E L M A k G A 1 U E B h M C V V M x E z A R B g N V  
+ #   B A g T C l d h c 2 h p b m d 0 b 2 4 x E D A O B g N V B A c T B 1 J l Z G 1 v b m Q x H j A c B g N V B A o T F U 1 p Y 3 J v  
+ #   c 2 9 m d C B D b 3 J w b 3 J h d G l v b j E y M D A G A 1 U E A x M p T W l j c m 9 z b 2 Z 0 I F J v b 3 Q g Q 2 V y d G l m  
+ #   a W N h d G U g Q X V 0 a G 9 y a X R 5 I D I w M T E w H h c N M T E w N z A 4 M j A 1 O T A 5 W h c N M j Y w N z A 4 M j E w  
+ #   O T A 5 W j B + M Q s w C Q Y D V Q Q G E w J V U z E T M B E G A 1 U E C B M K V 2 F z a G l u Z 3 R v b j E Q M A 4 G A 1 U E  
+ #   B x M H U m V k b W 9 u Z D E e M B w G A 1 U E C h M V T W l j c m 9 z b 2 Z 0 I E N v c n B v c m F 0 a W 9 u M S g w J g Y D  
+ #   V Q Q D E x 9 N a W N y b 3 N v Z n Q g Q 2 9 k Z S B T a W d u a W 5 n I F B D Q S A y M D E x M I I C I j A N B g k q h k i G  
+ #   9 w 0 B A Q E F A A O C A g 8 A M I I C C g K C A g E A q / D 6 c h A c L q 3 Y b q q C E E 0 0 u v K 2 W C G f Q h s q a + l a  
+ #   U K q 4 B j g a B E m 6 f 8 M M H t 0 3 a 8 Y S 2 A v w O M K Z B r D I O d U B F D F C 0 4 k N e W S H f p R g J G y v n k m c  
+ #   6 W h e 0 t + b U 7 I K L M O v 2 a k r r n o J r 9 e W W c p g G g X p Z n b o M l I m E i / n q w h Q z 7 N E t 1 3 Y x C 4 D  
+ #   d a t o 8 8 t t 8 z p c o R b 0 R r r g O G S s b m Q 1 e K a g Y w 8 t 0 0 C T + O P e B w 3 V X H m l S S n n D b 6 g E 3 e +  
+ #   l D 3 v + + M r W h A f T V Y o o n p y 4 B I 6 t 0 l e 2 O 3 t Q 5 G D 2 X u y e 4 Y b 2 T 6 x j F 3 o i U + E G v K h L 1 n k  
+ #   k D s t r j N Y x b c + / j L T s w M 9 s b K v k j h + 0 p 2 A L P V O V p E h N S X D O W 5 k f 1 O 6 n A + t G S O E y / S 6  
+ #   A 4 a N 9 1 / w 0 F K / j J S H v M A h d C V f G C i 2 z C c o O C W Y O U o 2 z 3 y x k q 4 c I 6 e p Z u x h H 2 r h K E m d  
+ #   X 4 j i J V 3 T I U s + U s S 1 V z 8 k A / D R e l s v 1 S P j c F 0 P U U Z 3 s / g A 4 b y s A o J f 2 8 A V s 7 0 b 1 F V L  
+ #   5 z m h D + k j S b w Y u E R 8 R e T B w 3 J 6 4 H L n J N + / R p n F 7 8 I c V 9 u D j e x N S T C n q 4 7 f 7 F u f r / z d  
+ #   s G b i w Z e B e + 3 W 7 U v n S S m n E y i m p 3 1 n g O a K Y n h f s i + E 1 1 e c X L 9 3 K C j x 7 W 3 D K I 8 s j 0 A 3  
+ #   T 8 H h h U S J x A l M x d S l Q y 9 0 l f d u + H g g W C w T X W C V m j 5 P M 4 T a s I g X 3 p 5 O 9 J a w v E a g b J j S  
+ #   4 N a I j A s C A w E A A a O C A e 0 w g g H p M B A G C S s G A Q Q B g j c V A Q Q D A g E A M B 0 G A 1 U d D g Q W B B R I  
+ #   b m T l U A X T g q o X N z c i t W 2 o y n U C l T A Z B g k r B g E E A Y I 3 F A I E D B 4 K A F M A d Q B i A E M A Q T A L  
+ #   B g N V H Q 8 E B A M C A Y Y w D w Y D V R 0 T A Q H / B A U w A w E B / z A f B g N V H S M E G D A W g B R y L T o C M Z B D  
+ #   u R Q F T u H q p 8 c x 0 S O J N D B a B g N V H R 8 E U z B R M E + g T a B L h k l o d H R w O i 8 v Y 3 J s L m 1 p Y 3 J v  
+ #   c 2 9 m d C 5 j b 2 0 v c G t p L 2 N y b C 9 w c m 9 k d W N 0 c y 9 N a W N S b 2 9 D Z X J B d X Q y M D E x X z I w M T F f  
+ #   M D N f M j I u Y 3 J s M F 4 G C C s G A Q U F B w E B B F I w U D B O B g g r B g E F B Q c w A o Z C a H R 0 c D o v L 3 d 3  
+ #   d y 5 t a W N y b 3 N v Z n Q u Y 2 9 t L 3 B r a S 9 j Z X J 0 c y 9 N a W N S b 2 9 D Z X J B d X Q y M D E x X z I w M T F f  
+ #   M D N f M j I u Y 3 J 0 M I G f B g N V H S A E g Z c w g Z Q w g Z E G C S s G A Q Q B g j c u A z C B g z A / B g g r B g E F  
+ #   B Q c C A R Y z a H R 0 c D o v L 3 d 3 d y 5 t a W N y b 3 N v Z n Q u Y 2 9 t L 3 B r a W 9 w c y 9 k b 2 N z L 3 B y a W 1 h  
+ #   c n l j c H M u a H R t M E A G C C s G A Q U F B w I C M D Q e M i A d A E w A Z Q B n A G E A b A B f A H A A b w B s A G k A  
+ #   Y w B 5 A F 8 A c w B 0 A G E A d A B l A G 0 A Z Q B u A H Q A L i A d M A 0 G C S q G S I b 3 D Q E B C w U A A 4 I C A Q B n  
+ #   8 o a l m O B U e R o u 0 9 h 0 Z y K b C 5 Y R 4 W O S m U K W f d J 5 D J D B Z V 8 u L D 7 4 w 3 L R b Y P + v j / o C s o 7  
+ #   v 0 e p o / N p 2 2 O / I j W l l 1 1 l h J B 9 i 0 Z Q V d g M k n z S G k s c 8 z x C i 1 L Q s P 1 r 4 z 4 H L i m b 5 j 0 b  
+ #   p d S 1 H X e U O e L p Z M l E P X h 6 I / M T f a a Q d I O N 9 M s m A k Y q w o o Q u 6 S p B Q y b 7 W j 6 a C 6 V o C o /  
+ #   K m t Y S W M f C W l u W p i W 5 I P 0 w I / z R i v e / D v Q v T X v b i W u 5 a 8 n 7 d D d 8 w 6 v m S i X m E 0 O P Q v y  
+ #   C I n W H 8 M y G O L w x S 3 O W 5 6 0 S T k K x g r C x q 2 u 5 b L Z 2 x W I U U V Y O D J x J x p / s f Q n + N 4 s O i B p  
+ #   m L J Z i W h u b 6 e 3 d M N A B Q a m A S o o P o I / E 0 1 m C 8 C z T f X h j 3 8 c b x V 9 R a d 2 5 U A q Z a P D X V J i  
+ #   h s M d Y z a X h t / a 8 / j y F q G a J + H N p Z f Q 7 l 1 j Q e N b B 5 y H P g Z 3 B t E G s X U f F L 5 h Y b X w 3 M Y b  
+ #   B L 7 f Q c c O K O 7 e Z S / s l / a h X J b Y A N a h R r 1 Z 8 5 e l C U t I E J m A H 9 A A K c W x m 6 U / R X c e N c b S  
+ #   o q K f e n o i + k i V H 6 v 7 R y O A 9 Z 7 4 v 2 u 3 S 5 f i 6 3 V 4 G u z q N 5 l 5 G E v / 1 r M j a H X m r / r 8 i + s L  
+ #   g O p p O 6 / 8 M O 0 E T I 7 f 3 3 V t Y 5 E 9 0 Z 1 W T k + / g F c i o X g R M i F 6 7 0 E K s T / 7 q M y k X c G h i J t X  
+ #   c V Z O S E X A Q s m b d l s K g E h r / X m f w b 1 t b W r J U n M T D X p Q z T G C G X U w g h l x A g E B M I G V M H 4 x  
+ #   C z A J B g N V B A Y T A l V T M R M w E Q Y D V Q Q I E w p X Y X N o a W 5 n d G 9 u M R A w D g Y D V Q Q H E w d S Z W R t  
+ #   b 2 5 k M R 4 w H A Y D V Q Q K E x V N a W N y b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 x K D A m B g N V B A M T H 0 1 p  
+ #   Y 3 J v c 2 9 m d C B D b 2 R l I F N p Z 2 5 p b m c g U E N B I D I w M T E C E z M A A A J T 4 4 P e l t 7 F b s w A A A A A  
+ #   A l M w D Q Y J Y I Z I A W U D B A I B B Q C g g a 4 w G Q Y J K o Z I h v c N A Q k D M Q w G C i s G A Q Q B g j c C A Q Q w  
+ #   H A Y K K w Y B B A G C N w I B C z E O M A w G C i s G A Q Q B g j c C A R U w L w Y J K o Z I h v c N A Q k E M S I E I P d 8  
+ #   k k p z F I A T E c T A D M O b z l h J C B A J S f Q T q 8 S M X N q G e 9 g 4 M E I G C i s G A Q Q B g j c C A Q w x N D A y  
+ #   o B S A E g B N A G k A Y w B y A G 8 A c w B v A G Y A d K E a g B h o d H R w O i 8 v d 3 d 3 L m 1 p Y 3 J v c 2 9 m d C 5 j  
+ #   b 2 0 w D Q Y J K o Z I h v c N A Q E B B Q A E g g E A t f 5 r 2 U / h q C 1 A v Z L d s Z 3 C r d 2 h i f + V 8 k v r 6 G j 8  
+ #   z K Z z S Y 9 2 m v r k W Q S 8 0 Y j A H x B + G F B V r p A 5 c B g H 1 R L u / R C 8 L q f r 6 s 7 q N A l w a o p L T d M s  
+ #   7 b M S 1 W h l C h 9 a 3 6 d J 2 L F c m E k g 6 5 n P l Y J x l P o H k 5 8 o u e Q W 3 y 2 Q G J A r 8 q 8 s v P 6 P d C S T  
+ #   U B U + 6 + P K K / 4 c h Q Z v K g 7 + 6 / j n H c M R / L O s I R U R B X R b d k n h v a 7 P V q N 8 D z c p l H z i N M C c  
+ #   z T 1 A I V k w R p P W y 4 7 y x e n i w 5 9 F a n Q w 7 X D 2 a M b Q M f m u y 6 y A x s L J 7 r S p h I O V I y P 0 0 1 8 i  
+ #   x N S q h z n q A P E d o J r M O b 8 h Q a 5 c H Q o s g F z g x I X c 7 P y r R Q 0 L w + 4 L S q G C F v 8 w g h b 7 B g o r  
+ #   B g E E A Y I 3 A w M B M Y I W 6 z C C F u c G C S q G S I b 3 D Q E H A q C C F t g w g h b U A g E D M Q 8 w D Q Y J Y I Z I  
+ #   A W U D B A I B B Q A w g g F R B g s q h k i G 9 w 0 B C R A B B K C C A U A E g g E 8 M I I B O A I B A Q Y K K w Y B B A G E  
+ #   W Q o D A T A x M A 0 G C W C G S A F l A w Q C A Q U A B C D B 0 A V b p 7 V V P j m 3 3 O 5 N X + p F n V T U Y 1 r x l g k l  
+ #   i 6 A N b 6 s e 7 w I G Y r S 7 O H E G G B M y M D I y M D c w M T I x M D A w M S 4 2 N T N a M A S A A g H 0 o I H Q p I H N  
+ #   M I H K M Q s w C Q Y D V Q Q G E w J V U z E T M B E G A 1 U E C B M K V 2 F z a G l u Z 3 R v b j E Q M A 4 G A 1 U E B x M H  
+ #   U m V k b W 9 u Z D E e M B w G A 1 U E C h M V T W l j c m 9 z b 2 Z 0 I E N v c n B v c m F 0 a W 9 u M S U w I w Y D V Q Q L  
+ #   E x x N a W N y b 3 N v Z n Q g Q W 1 l c m l j Y S B P c G V y Y X R p b 2 5 z M S Y w J A Y D V Q Q L E x 1 U a G F s Z X M g  
+ #   V F N T I E V T T j o 0 O U J D L U U z N 0 E t M j M z Q z E l M C M G A 1 U E A x M c T W l j c m 9 z b 2 Z 0 I F R p b W U t  
+ #   U 3 R h b X A g U 2 V y d m l j Z a C C E V Y w g g c M M I I E 9 K A D A g E C A h M z A A A B l w P P W Z x r i X g / A A E A  
+ #   A A G X M A 0 G C S q G S I b 3 D Q E B C w U A M H w x C z A J B g N V B A Y T A l V T M R M w E Q Y D V Q Q I E w p X Y X N o  
+ #   a W 5 n d G 9 u M R A w D g Y D V Q Q H E w d S Z W R t b 2 5 k M R 4 w H A Y D V Q Q K E x V N a W N y b 3 N v Z n Q g Q 2 9 y  
+ #   c G 9 y Y X R p b 2 4 x J j A k B g N V B A M T H U 1 p Y 3 J v c 2 9 m d C B U a W 1 l L V N 0 Y W 1 w I F B D Q S A y M D E w  
+ #   M B 4 X D T I x M T I w M j E 5 M D U x N F o X D T I z M D I y O D E 5 M D U x N F o w g c o x C z A J B g N V B A Y T A l V T  
+ #   M R M w E Q Y D V Q Q I E w p X Y X N o a W 5 n d G 9 u M R A w D g Y D V Q Q H E w d S Z W R t b 2 5 k M R 4 w H A Y D V Q Q K  
+ #   E x V N a W N y b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 x J T A j B g N V B A s T H E 1 p Y 3 J v c 2 9 m d C B B b W V y  
+ #   a W N h I E 9 w Z X J h d G l v b n M x J j A k B g N V B A s T H V R o Y W x l c y B U U 1 M g R V N O O j Q 5 Q k M t R T M 3  
+ #   Q S 0 y M z N D M S U w I w Y D V Q Q D E x x N a W N y b 3 N v Z n Q g V G l t Z S 1 T d G F t c C B T Z X J 2 a W N l M I I C  
+ #   I j A N B g k q h k i G 9 w 0 B A Q E F A A O C A g 8 A M I I C C g K C A g E A 7 Q B K 6 k p B T f P w n v 3 L K x 1 V n L 9 Y  
+ #   k o z U w K z y h D K i j 1 E 6 W C V / E w W Z f P C z a 6 c O G x K T 4 p j v h L X J Y u U Q a G R I n q P k s 2 F J 2 9 P p  
+ #   y h F m h G I L m 4 K f h 0 x W Y g / O S 5 X e 5 p N l 4 P d S j A x N s j H j i B 9 g x 6 U 7 J + a d C 3 9 A g 5 X z x O R z  
+ #   s K T + f 7 7 F M T X g 1 j F u s 7 E r i l O v W i + z n M p N + l T M g i o x z T C + u 1 Z m T C Q T u 2 1 9 b 2 F U o T r 0  
+ #   K m V J M Q q Q k d 7 M 5 s R 0 9 P b O p 4 c C 3 j Q s + 5 z J 1 O z x I j R l c U m L v l d B E 6 a R a S u 0 x 3 B m A D G t  
+ #   0 m G Y 0 M R s g z n O y d t J B L n e r c + Q K 0 k c x u O 6 r H A 3 z 2 K r 9 f m p H s f N c N / e R P t Z H O L r p H 5 9  
+ #   A n i r Q A 7 p u z 6 k a 2 0 T A + 8 M h Z 1 9 h b 8 m s r R o 9 L m i r j F x S b G f s H 3 Z N E b L j 3 l h 7 V c + D E Q h  
+ #   M H 2 K 9 X P i U 5 J k t 5 / 6 b x 6 / 2 / O d 3 a N v C 6 D x 3 s 5 N 3 U s W 5 4 k K I 1 t w U 2 C S 5 q 1 H o v 5 + A R y u  
+ #   Z k 0 / D b s R u s 6 D 9 7 f B 1 Z o Q l v / 4 t r B c M V R z 7 M k O r H a 8 b P 4 W q b D 0 e b L Y t i E x v x 4 H u E n h  
+ #   + 0 p 3 v e N j h 3 g P 0 + 7 D k i V w I Y c f V c l I h F F G s f n S i F e x r u u 6 4 6 u U l a + V T U u G 3 b j q S 7 F h  
+ #   I 3 h h 6 T H o v / 9 8 X f H c W e N h v x A 5 K + f i + 1 B c S L g Q K v q / H Y j / w / M k f 3 b u 7 3 O E R i s N a a c a  
+ #   a O C R / T J 2 H 3 f s 1 A 7 l I H E C A w E A A a O C A T Y w g g E y M B 0 G A 1 U d D g Q W B B R t z w H P K O s w b p Z V  
+ #   C 9 G x v t 1 + v R U A Y D A f B g N V H S M E G D A W g B S f p x V d A F 5 i X Y P 0 5 d J l p x t T N R n p c j B f B g N V  
+ #   H R 8 E W D B W M F S g U q B Q h k 5 o d H R w O i 8 v d 3 d 3 L m 1 p Y 3 J v c 2 9 m d C 5 j b 2 0 v c G t p b 3 B z L 2 N y  
+ #   b C 9 N a W N y b 3 N v Z n Q l M j B U a W 1 l L V N 0 Y W 1 w J T I w U E N B J T I w M j A x M C g x K S 5 j c m w w b A Y I  
+ #   K w Y B B Q U H A Q E E Y D B e M F w G C C s G A Q U F B z A C h l B o d H R w O i 8 v d 3 d 3 L m 1 p Y 3 J v c 2 9 m d C 5 j  
+ #   b 2 0 v c G t p b 3 B z L 2 N l c n R z L 0 1 p Y 3 J v c 2 9 m d C U y M F R p b W U t U 3 R h b X A l M j B Q Q 0 E l M j A y  
+ #   M D E w K D E p L m N y d D A M B g N V H R M B A f 8 E A j A A M B M G A 1 U d J Q Q M M A o G C C s G A Q U F B w M I M A 0 G  
+ #   C S q G S I b 3 D Q E B C w U A A 4 I C A Q A E S N h h 0 i T t M x 5 7 I X L f h 4 L u H b D 1 N G 9 M l L A 1 w Y Q H Q B n R  
+ #   9 U / r g 3 q t 3 N x 6 e 7 + Q u E K M E h K q d L f 3 g 5 R R 4 R / o Z L 5 v E J V W U f I S H / o S W d z q r S h q c m T 4  
+ #   O x z c 2 C B s 0 U t n y o p V D m 4 W 2 C u m o 3 q u y k Y P p B o G d e i r v D d d 1 5 3 A w s J k I M g m / 8 s x J K b I  
+ #   B e T 8 2 t n r U n g N m N o 8 u 7 l 1 u E 0 h s M A q 1 b i v Q 6 3 f Q I n r + V q Y J v Y T 0 W / 0 P W 7 p A 3 q h 4 o c N  
+ #   j i X 6 Z 8 d 9 k j x 8 L 7 u B P I / H s x i f C j / 8 m F R v p V B Y O y q P 7 Y 5 d i 5 Z A n j T D S H M Z N U F P H t + n  
+ #   h F X U c H j X P R R H C M q q J g 4 D 6 3 X 6 b 0 V 0 R 8 7 Q 9 3 i p w G I X B M z O M Q N I t J O R e k H t H l L i 3 b g 6  
+ #   L n p j s 0 a C o 5 / R l H C j N k S D g + x V 7 q Y e a 3 7 L / O K T N j q m H 3 p N A a 3 B v P / r D Q i G E Y v g A b V H  
+ #   E I Q z 7 W M W S Y s W e U P F Z I 3 6 m C j g U Y 6 V 5 3 8 C k Q t D w M 8 B D i A c y + q u O 8 e p y k i P 0 H 3 2 y q w D  
+ #   h 8 5 2 B e W m 1 e t F + P k w / t 8 X O 3 Q + d i F u 7 G g i q j d e m j 4 V f p R s m 2 t T N 9 H n A e w r r b 0 X w Y 8 Q  
+ #   E 2 t p 0 h R d N 2 b 0 U i S x M m B 4 h N y K K X V a D L O F C d i L n s f p D 0 r j O H 8 j b E C Z O b a W W L n 9 e E v D  
+ #   r + Q N Q P v S 4 r 4 7 L 9 A a 8 L r 1 H r 4 7 V w J 5 E 2 g C E n v Y w I R D z p J h M R i 0 K i j Y N 4 3 y T 6 X S G R 4 N  
+ #   9 j C C B 3 E w g g V Z o A M C A Q I C E z M A A A A V x e d r n g K b S Z k A A A A A A B U w D Q Y J K o Z I h v c N A Q E L  
+ #   B Q A w g Y g x C z A J B g N V B A Y T A l V T M R M w E Q Y D V Q Q I E w p X Y X N o a W 5 n d G 9 u M R A w D g Y D V Q Q H  
+ #   E w d S Z W R t b 2 5 k M R 4 w H A Y D V Q Q K E x V N a W N y b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 x M j A w B g N V  
+ #   B A M T K U 1 p Y 3 J v c 2 9 m d C B S b 2 9 0 I E N l c n R p Z m l j Y X R l I E F 1 d G h v c m l 0 e S A y M D E w M B 4 X  
+ #   D T I x M D k z M D E 4 M j I y N V o X D T M w M D k z M D E 4 M z I y N V o w f D E L M A k G A 1 U E B h M C V V M x E z A R  
+ #   B g N V B A g T C l d h c 2 h p b m d 0 b 2 4 x E D A O B g N V B A c T B 1 J l Z G 1 v b m Q x H j A c B g N V B A o T F U 1 p  
+ #   Y 3 J v c 2 9 m d C B D b 3 J w b 3 J h d G l v b j E m M C Q G A 1 U E A x M d T W l j c m 9 z b 2 Z 0 I F R p b W U t U 3 R h  
+ #   b X A g U E N B I D I w M T A w g g I i M A 0 G C S q G S I b 3 D Q E B A Q U A A 4 I C D w A w g g I K A o I C A Q D k 4 a Z M  
+ #   5 7 R y I Q t 5 o s v X J H m 9 D t W C 0 / 3 u n A c H 0 q l s T n X I y j V X 9 g F / b E r g 4 r 2 5 P h d g M / 9 c T 8 d m  
+ #   9 5 V T c V r i f k p a / r g 2 Z 4 V G I w y 1 j R P P d z L A E B j o Y H 1 q U o N E t 6 a O R m s H F P P F d v W G U N z B  
+ #   R M h x X F E x N 6 A K O G 6 N 7 d c P 2 C Z T f D l h A n r E q v 1 y a a 8 d q 6 z 2 N r 4 1 J m T a m D u 6 G n s z r Y B b  
+ #   f o w Q H J 1 S / r b o Y i X c a g / P X f T + j l P P 1 u y F V k 3 v 3 b y N p O O R j 7 I 5 L F G c 6 X B p D c o 2 L X C O  
+ #   M c g 1 K L 3 j t I c k w + D J j 3 6 1 V I / c + g V V m G 1 o O 5 p G v e 2 k r n o p N 6 z L 6 4 N F 5 0 Z u y j L V w I Y w  
+ #   X E 8 s 4 m K y z b n i j Y j k l q w B S r u + c a k X W 2 d g 3 v i S k R 4 d P f 0 g z 3 N 9 Q Z p G d c 3 E X z T d E o n W  
+ #   / a U g f X 7 8 2 Z 5 F 3 7 Z y L 9 t 9 X 4 C 6 2 6 p + N u w 2 T P Y r b q g S U e i / B Q O j 0 X O m T T d 0 l B w 0 g g / w  
+ #   E P K 3 R x j t p + i Z f D 9 M 2 6 9 e w v P V 2 H M 9 Q 0 7 B M z l M j g K 8 Q m g u E O q E U U b i 0 b 1 q G F p h A X P K  
+ #   Z 6 J e 1 y h 2 A u I z G H L X p y D w w v o S C t d j b w z J N m S L W 6 C m g y F d X z B 0 k Z S U 2 L l Q + Q u J Y f M 2  
+ #   B j U Y h E f b 3 B v R / b L U H M V r 9 l x S U V 0 S 2 y W 6 r 1 A F e m z F E R 1 y 7 4 3 5 U s S F F 5 P A P B X b G j f H  
+ #   C B U Y P 3 i r R b b 1 H o d e 2 o + e F n J p x q 5 7 t 7 c + a u I u r Q I D A Q A B o 4 I B 3 T C C A d k w E g Y J K w Y B  
+ #   B A G C N x U B B A U C A w E A A T A j B g k r B g E E A Y I 3 F Q I E F g Q U K q d S / m T E m r 6 C k T x G N S n P E P 8 v  
+ #   B O 4 w H Q Y D V R 0 O B B Y E F J + n F V 0 A X m J d g / T l 0 m W n G 1 M 1 G e l y M F w G A 1 U d I A R V M F M w U Q Y M  
+ #   K w Y B B A G C N 0 y D f Q E B M E E w P w Y I K w Y B B Q U H A g E W M 2 h 0 d H A 6 L y 9 3 d 3 c u b W l j c m 9 z b 2 Z 0  
+ #   L m N v b S 9 w a 2 l v c H M v R G 9 j c y 9 S Z X B v c 2 l 0 b 3 J 5 L m h 0 b T A T B g N V H S U E D D A K B g g r B g E F  
+ #   B Q c D C D A Z B g k r B g E E A Y I 3 F A I E D B 4 K A F M A d Q B i A E M A Q T A L B g N V H Q 8 E B A M C A Y Y w D w Y D  
+ #   V R 0 T A Q H / B A U w A w E B / z A f B g N V H S M E G D A W g B T V 9 l b L j + i i X G J o 0 T 2 U k F v X z p o Y x D B W  
+ #   B g N V H R 8 E T z B N M E u g S a B H h k V o d H R w O i 8 v Y 3 J s L m 1 p Y 3 J v c 2 9 m d C 5 j b 2 0 v c G t p L 2 N y  
+ #   b C 9 w c m 9 k d W N 0 c y 9 N a W N S b 2 9 D Z X J B d X R f M j A x M C 0 w N i 0 y M y 5 j c m w w W g Y I K w Y B B Q U H  
+ #   A Q E E T j B M M E o G C C s G A Q U F B z A C h j 5 o d H R w O i 8 v d 3 d 3 L m 1 p Y 3 J v c 2 9 m d C 5 j b 2 0 v c G t p  
+ #   L 2 N l c n R z L 0 1 p Y 1 J v b 0 N l c k F 1 d F 8 y M D E w L T A 2 L T I z L m N y d D A N B g k q h k i G 9 w 0 B A Q s F  
+ #   A A O C A g E A n V V 9 / C q t 4 S w f Z w E x J F v h n n J L / K l v 6 l w U t j 5 O R 2 R 4 s Q a T l z 0 x M 7 U 5 1 8 J x  
+ #   N j / a Z G x 8 0 H U 5 b b s P M e T C j / t s 0 a G U G C L u 6 W Z n O l N N 3 Z i 6 t h 5 4 2 D Y u n K m C V g A D s A W +  
+ #   i e h p 4 L o J 7 n v f a m + + K c t u 2 D 9 I d Q H Z G N 5 t g g z 1 b S N U 5 H h T d S R X u d 2 f 8 4 4 9 x v N o 3 2 X 2  
+ #   p F a q 9 5 W 2 K F U n 0 C S 9 Q K C / G b Y S E h F d P S f g Q J Y 4 r P f 5 K Y n D v B e w V I V C s / w M n o s Z i e f w  
+ #   C 2 q B w o E Z Q h l S d Y o 2 w h 3 D Y X M u L G t 7 b j 8 s C X g U 6 Z G y q V v f S a N 0 D L z s k Y D S P e Z K P m Y 7  
+ #   T 7 u G + j I a 2 Z b 0 j / a R A f b O x n T 9 9 k x y b x C r d T D F N L B 6 2 F D + C l j d Q D z H V G 2 d Y 3 R I L L F O  
+ #   R y 3 B F A R x v 2 T 5 J L 5 z b c q O C b 2 z A V d J V G T Z c 9 d / H l t E A Y 5 a G Z F r D Z + k K N x n G S g k u j h L  
+ #   m m 7 7 I V R r a k U R R 6 n x t 6 7 I 6 I l e T 5 3 S 0 E x 2 t V d U C b F p A U R + f K F h b H P + C r v s Q W Y 9 a f 3 L  
+ #   w U F J f n 6 T v s v 4 O + S 3 F b + 0 z j 6 l M V G E v L 8 C w Y K i e x c d F Y m N c P 7 n t d A o G o k L j z b a u k z 5  
+ #   m / 8 K 6 T T 4 J D V n K + A N u O a M m d b h I u r w J 0 I 9 J Z T m d H R b a t G e P u 1 + o D E z f b z L 6 X u / O H B E  
+ #   0 Z D x y K s 6 i j o I Y n / Z c G N T T Y 3 u g m 2 l B R D B c Q Z q E L Q d V T N Y s 6 F w Z v K h g g L N M I I C N g I B  
+ #   A T C B + K G B 0 K S B z T C B y j E L M A k G A 1 U E B h M C V V M x E z A R B g N V B A g T C l d h c 2 h p b m d 0 b 2 4 x  
+ #   E D A O B g N V B A c T B 1 J l Z G 1 v b m Q x H j A c B g N V B A o T F U 1 p Y 3 J v c 2 9 m d C B D b 3 J w b 3 J h d G l v  
+ #   b j E l M C M G A 1 U E C x M c T W l j c m 9 z b 2 Z 0 I E F t Z X J p Y 2 E g T 3 B l c m F 0 a W 9 u c z E m M C Q G A 1 U E  
+ #   C x M d V G h h b G V z I F R T U y B F U 0 4 6 N D l C Q y 1 F M z d B L T I z M 0 M x J T A j B g N V B A M T H E 1 p Y 3 J v  
+ #   c 2 9 m d C B U a W 1 l L V N 0 Y W 1 w I F N l c n Z p Y 2 W i I w o B A T A H B g U r D g M C G g M V A G F A 0 r C N m E k 0  
+ #   z U 1 2 D Y N G M U 3 B 1 m P R o I G D M I G A p H 4 w f D E L M A k G A 1 U E B h M C V V M x E z A R B g N V B A g T C l d h  
+ #   c 2 h p b m d 0 b 2 4 x E D A O B g N V B A c T B 1 J l Z G 1 v b m Q x H j A c B g N V B A o T F U 1 p Y 3 J v c 2 9 m d C B D  
+ #   b 3 J w b 3 J h d G l v b j E m M C Q G A 1 U E A x M d T W l j c m 9 z b 2 Z 0 I F R p b W U t U 3 R h b X A g U E N B I D I w  
+ #   M T A w D Q Y J K o Z I h v c N A Q E F B Q A C B Q D m a c V r M C I Y D z I w M j I w N z A y M D M x M T M 5 W h g P M j A y  
+ #   M j A 3 M D M w M z E x M z l a M H Y w P A Y K K w Y B B A G E W Q o E A T E u M C w w C g I F A O Z p x W s C A Q A w C A I B  
+ #   A A I D A J z b M A g C A Q A C A w F I 3 j A K A g U A 5 m s W 6 w I B A D A 2 B g o r B g E E A Y R Z C g Q C M S g w J j A M  
+ #   B g o r B g E E A Y R Z C g M C o A o w C A I B A A I D B 6 E g o Q o w C A I B A A I D A Y a g M A 0 G C S q G S I b 3 D Q E B  
+ #   B Q U A A 4 G B A H w U 1 e r q u F z y 9 B i r X y + R 3 w o n b Z A 8 0 7 Y m P f a A w V N V / p J w X 7 F h c 2 M K y k f G  
+ #   w 0 P R 4 S C a d i k U C 5 O f I J K d W 0 M j z Y 7 p B x E 8 V n M d H o z j t f o v c i R Q N I D 8 3 T d N Q s W 4 b D t T  
+ #   z e B 4 z l O d v 0 7 6 r U 1 J b Z w e 2 u 8 G 3 4 C P g p 3 u G R 1 N k W E a u K 4 v B U q i 5 J l h M Y I E D T C C B A k C  
+ #   A Q E w g Z M w f D E L M A k G A 1 U E B h M C V V M x E z A R B g N V B A g T C l d h c 2 h p b m d 0 b 2 4 x E D A O B g N V  
+ #   B A c T B 1 J l Z G 1 v b m Q x H j A c B g N V B A o T F U 1 p Y 3 J v c 2 9 m d C B D b 3 J w b 3 J h d G l v b j E m M C Q G  
+ #   A 1 U E A x M d T W l j c m 9 z b 2 Z 0 I F R p b W U t U 3 R h b X A g U E N B I D I w M T A C E z M A A A G X A 8 9 Z n G u J  
+ #   e D 8 A A Q A A A Z c w D Q Y J Y I Z I A W U D B A I B B Q C g g g F K M B o G C S q G S I b 3 D Q E J A z E N B g s q h k i G  
+ #   9 w 0 B C R A B B D A v B g k q h k i G 9 w 0 B C Q Q x I g Q g r q k K k M Q s / R V J w i k o y C U i N 1 q 9 P l g y T y / J  
+ #   9 I d t c O i N S r Y w g f o G C y q G S I b 3 D Q E J E A I v M Y H q M I H n M I H k M I G 9 B C B b e 9 o b E J V 6 O P 4 E  
+ #   D M V J 8 z F 8 d D 5 v H G S o L D w u Q x j 9 B n i m v z C B m D C B g K R + M H w x C z A J B g N V B A Y T A l V T M R M w  
+ #   E Q Y D V Q Q I E w p X Y X N o a W 5 n d G 9 u M R A w D g Y D V Q Q H E w d S Z W R t b 2 5 k M R 4 w H A Y D V Q Q K E x V N  
+ #   a W N y b 3 N v Z n Q g Q 2 9 y c G 9 y Y X R p b 2 4 x J j A k B g N V B A M T H U 1 p Y 3 J v c 2 9 m d C B U a W 1 l L V N 0  
+ #   Y W 1 w I F B D Q S A y M D E w A h M z A A A B l w P P W Z x r i X g / A A E A A A G X M C I E I H L f 0 u q V n 9 W E Z 3 U J  
+ #   p s S r 6 g W l + L p b V X a n f T a C w W l J T O a x M A 0 G C S q G S I b 3 D Q E B C w U A B I I C A F j A Y h d 7 T V / x  
+ #   3 T s l 9 P J H B p 3 7 M c 5 W w j a d w 1 e q D v T N d w T l I f n q b q 9 X u d m O p 2 B f d 2 z + k R I 9 U L m K 9 P j R  
+ #   R N z K p s 2 h C r d z w r L v f L L u 7 7 4 I k e P h w U 1 F G 2 0 E T J C 1 v T Y b 3 + o K x v I T A G H S Z o u a f j V S  
+ #   W J S K P j l 8 8 W M N z i W f R j V d b S q L 9 u t f 3 1 f l 7 r z p l z 1 0 6 U v y b k 2 X + q b T x q o E H g 5 k 8 Z U Y  
+ #   B Q I T J j p + F O d w w T 5 W M K a 4 w + U j b N E A M X i 7 2 U Y g Y z u Q I y e f b g f r Z T / J 7 b 0 e z V f J 0 O e 6  
+ #   4 k U D 5 o P R R w c 9 A V G 1 A 2 c e c 0 D h O + 6 3 d C c W 9 t V w h F y d w a u u N k Z k f x p Q k R A J F L z i / X 7 1  
+ #   Y o 5 r 3 t / 6 T M x T o Y / v 0 U g A + / J K 6 u O h 0 a T A T w U p U Q d 6 u I + q j E W L u 1 W w T Q 1 7 C l H w F f U 4  
+ #   T + t r / y w l l C 3 a v v W H J a 0 M i e u T E c m X U W W U + s j C p w r 0 K X t C 5 F 0 O t w R K 8 p M c 0 I q 4 l r / z  
+ #   7 P 5 8 3 9 9 e b T A 8 3 e C g V 5 R 7 D s e H p a j H u 9 p 3 Y 0 / B / e q L 2 K z 6 d U m d o m 7 F l G B w P 8 j r H H g h  
+ #   h R b h o z a a L z D V 2 Z g d x K 5 P U X N M M P C F 4 O A v h S I 9 W F 2 h f G g R Z e Y 1 5 L l 4 b D D I F E b Y 2 h + L  
+ #   1 C i i a P S 1 D Y A w p 9 4 g 7 p c 2 C E Z t X 9 V M 0 l c D o W B z 6 I 7 Z D m O H Z Q c D m X c 2 G p f 1 r G l h 1 6 / w  
+ #   T q C b y + C 6 z N l W N 5 i p M 8 b S G B E O k n u o a d I X  
+ #   S I G   #   E n d   s i g n a t u r e   b l o c k  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             MZê       ˇˇ  ∏       @                                   –   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       A˜«ñvîñvîñvî÷‰~ïñvî÷‰vïñvî÷‰rïñvî÷‰âîñvî÷‰tïñvîRichñvî                PE  dÜ ‰ø=         "      0                Ä         
+   
+   
+        @     ’ü   `A                                   p  º           0             0  ‡!             p                                                                           .rdata                         @  @.data   Ä                           @  ¿.rsrc      0                     @  @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ‰ø=       ;   ,  ,      ‰ø=       t   h  h      ‰ø=       $   ‹  ‹      ‰ø=                    ‰ø=    B           ò  ‹     r  ñ  π  €     +  e  û  À  Û    H  p  ú         e  à  ≠  Œ  Ò    G  å  π  Ê  	  6  c  Ü  ª  ‚              	 
+       api-ms-win-core-console-l1-2-0.dll AllocConsole kernel32.AllocConsole AttachConsole kernel32.AttachConsole FreeConsole kernel32.FreeConsole GetConsoleCP kernel32.GetConsoleCP GetConsoleMode kernel32.GetConsoleMode GetConsoleOutputCP kernel32.GetConsoleOutputCP GetNumberOfConsoleInputEvents kernel32.GetNumberOfConsoleInputEvents PeekConsoleInputA kernel32.PeekConsoleInputA PeekConsoleInputW kernel32.PeekConsoleInputW ReadConsoleA kernel32.ReadConsoleA ReadConsoleInputA kernel32.ReadConsoleInputA ReadConsoleInputW kernel32.ReadConsoleInputW ReadConsoleW kernel32.ReadConsoleW SetConsoleCtrlHandler kernel32.SetConsoleCtrlHandler SetConsoleMode kernel32.SetConsoleMode WriteConsoleA kernel32.WriteConsoleA WriteConsoleW kernel32.WriteConsoleW RSDSKˇµ¿S÷€◊K9   api-ms-win-core-console-l1-2-0.pdb  GCTL   p   .rdata  p  º  .edata  ,  ÿ   .rdata$zzzdbg       Ä   .bss     0  `   .rsrc$01    `0  ê  .rsrc$02        Kˇµ¿S÷€◊K9∂ºà%èîŸÊË‹‰ø=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Ä                  0  Ä               	  H   `0  å                  Ñ4   V S _ V E R S I O N _ I N F O     ΩÔ˛     
+ ¬ U  
+ ¬ U?                        ‚   S t r i n g F i l e I n f o   æ   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   H   F i l e D e s c r i p t i o n     A p i S e t   S t u b   D L L   l &  F i l e V e r s i o n     1 0 . 0 . 2 2 0 0 0 . 1 9 4   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )   6   I n t e r n a l N a m e   a p i s e t s t u b     Ä .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   >   O r i g i n a l F i l e n a m e   a p i s e t s t u b     j %  P r o d u c t N a m e     M i c r o s o f t Æ   W i n d o w s Æ   O p e r a t i n g   S y s t e m     B   P r o d u c t V e r s i o n   1 0 . 0 . 2 2 0 0 0 . 1 9 4     D    V a r F i l e I n f o     $    T r a n s l a t i o n     	∞                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ‡!    0Ç!Œ	*ÜHÜ˜†Ç!ø0Ç!ª10	`ÜHe 0\
++Ç7†N0L0
++Ç70	 †¢Ä 010	`ÜHe  Ä  ≠'?¬¬6`VÏl”‰eåõ“CÑ°/.n†Çv0Ç˛0ÇÊ†3  ﬂ˚j„Ù'Ï∂£    ﬂ0	*ÜHÜ˜ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100201215212420Z211202212420Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÏÚjïÛä‚≠Ì¬ôu’l| H?p‰Nj˘πR˝4dLêFÀ2˝/ôÍ¬›æíÂ˘âCÜg›pz=≤8∫_Ãbˆ[º±If®ì}ÊÂÿœ+6è∆∂tZ£Ëb^°:
+o“X,EEh-'=øÆ8Oaéã-_Ójö‘#Túti!AGdË⁄ô}Ë„“·≥€â 5ˇ
+©Ïﬁÿw}khØ~Y»é’€4Ù¸97óf	u=‡¥…0¸ñO˜T7È?»&W^æ˛G6Ëå£)\´œ=mJˆÉ'«9˘2¿¨`¢§¬6[ #¿Ñª¬M`0:óúú§≥´$>ÿ6ıö‹◊HÄhéÓaÈ± £Ç}0Çy0U%0
++Ç7=+0UÅŒãµµÃ…F›‡£)sa&óe”B0TUM0K§I0G1-0+U$Microsoft Ireland Operations Limited10U230865+4631340U#0ÄÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0Uˇ0 0	*ÜHÜ˜ Ç …Ì‡]ÑGy˛∫	dBxÔiv:g”◊Æ‚æŒbNdb#‡A¡?Jj
+è ì”?Q÷ó°Òá#„Éï’NY~5∑Ç	¸weÂô ¿hŸ`óÆ´©)º,¬¢∆f›©`á6r√´<pqBJ¶{zˆüÎÕ2°√à!âvZ*Öã¶EÅ&õ¶ÊVd≠∏ai/≤B÷)Î¯Å2:>ß,u≤-–—=˙∆Ü·IŒ¿pi—òpÇH[§Ok#%&ÛzU∫√ˇo“”uÓ^5	LæúUÏ∆m˚îé õ>réVÎÖ14“RRÚ`!È∂µ¢Ò©’àò<h9Ìò#°ílBõxR˘¨0Çp0ÇX†
+aRL     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100706204017Z250706205017Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÈdPygµƒ„˝	 Lûî¨˜VhÍDÿœ≈XO©•v|mE∫”9í¥§˘˘eÇ‰“è˝DúËeìŒ,UÑø}„.+®A+∑¢KnILkﬁ—“¬âqîÕµK¥ØÿÃà÷kî:ìŒ&?ÏÊ˛4òW’]Iˆ≤*.’ÖªY?¯ê¥+Ét +≥;F„FI¡fT…ΩƒUbWr¯gπ% 4ﬁ]¶•ï^´(ÄÕ’≤ûÂµc”≤»¡»ä&
+YÏˇÌÄ5L¶æR[ı¶⁄‡ãHw÷ÖG’π∆Ë™Óãj-\`∆¥*[ú#_E„o7À3ÄjâM£jfcxì’0œï £Ç„0Çﬂ0	+Ç7 0UÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0ÅùU Åï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç tÔWO){ƒÖx∏P”"¸	ù¨Çó¯4ˇ*,óïÂ‰øœøì»„4©€Å∏‹ æ“5oØÂyïwÂ‘ÒÎÿÕNa¢¬Z#å®bQEg„?<ì¯0Ö»9@¶◊≥!)Â•°iå"ìÃtòÁ°GCÚS¨¿0i˛“% moa”ﬂ’Ÿr ,iÜv=Q€¶9H…7am›SÀß÷a¬ø‚É´‡kõï÷}(Q∞âJQ§öl»∑Ji©◊‹¡~—Ip™∂≠ªrGc˙¶÷¢¶ÜÏ®Dõc∂≤iâ«FÜz?Ë≈!’{˘#-≈AÀøL»Ô±ú¸"KIän„¶v[—SyëÖù’“€=s5Û<ÆT≤RGj¿™ï“é⁄ôg^2å˚7Ö—‹uÖúá∆ZWÖ¬ø›èåõ-Î¥Óœ'”µ^i˙§ß$gsœMO∂ﬁVóz˜ÈRMÙwOÖ∆ÿÒéÌB	—v„#Vx"&6æ ±ån™‰Ö⁄G3bè§…ë3_q@Øòe…"ËB!%ä-`Ÿ7âAâ*◊a<îh`RÔ÷Gô†Ä@ÓÅw>ú‡SP8ïõf3'9xá6ŒN√_≤ı=GS∂‡Â€a=*◊í,Œ7Z>@B1§¬Vúø$]Qùjy“”⁄¡îé{%qD´jÊ‘∆ﬂ#öñu≈1ÇÀ0Ç«0Åï0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20103  ﬂ˚j„Ù'Ï∂£    ﬂ0	`ÜHe †Ç0	*ÜHÜ˜	1
++Ç70
++Ç710
++Ç70/	*ÜHÜ˜	1" ŒπÙ‰´qÁ}H÷!c9¿Û€ ¶™–¥êΩ‰Ãû_»¸,F0<
++Ç7
+1.,sPY7xPB7hT5g5HHrYt8rDLSM9VuZRuWZaef2e22Rs54=0Z
++Ç71L0J†$Ä" M i c r o s o f t   W i n d o w s°"Ä http://www.microsoft.com/windows0	*ÜHÜ˜ Ç øx§@¯z∫BÜEç9üS“%¢È:†I&Å«
+;ﬁzg7¸ço˜jÔ«ëñ3ëM?z¡÷~–é!Ö9{Y\1Ò¡FÂ`EEeFöLxﬁ–1e€¿‡†∞ÿMºEoπY4ŒòÃ∑szEÕeÇŸ˝Ló∂ÉîhÙÿ˝˛ËÆ◊ $R>64h9°öÒ2:…ı{L’i◊KA#!ìCs%}f~ˆ#LÍ∞DL±<ü¢ú¶≈_ÌjdÓC}^ü"g*Zè’u≠r”âú®"2≥ù(’ÿ‰⁄Meà&.ü3+;∂•Æ™¯?#^È›7Õ^™÷E˝Áqçd_BùÔv$Ã}9≥<°Ç˛0Ç˙
++Ç71ÇÍ0ÇÊ	*ÜHÜ˜†Ç◊0Ç”10	`ÜHe 0ÇY*ÜHÜ˜	†ÇHÇD0Ç@
++ÑY
+010	`ÜHe  7çßO/õ°Ÿ4ÄU]‘´JX]v&io˜ÍöÊ…‰õ¸áêa13Sj20210912030500.023Z0ÄÙ†Åÿ§Å’0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Service†ÇM0Ç˘0Ç·†3  ;í#RZ•    ;0	*ÜHÜ˜ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100201015172822Z220112172822Z0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç „6÷ï–÷Â0RÛ¬˜U ≠±OŸ»]Á™–∞˘TJ··±ò’›@Ö!m˜¨õ%Ì€§zº<π(•ñüÄò@ˆësr $/çÏyYYuˇÊÄ$6⁄€1¶LÖÖÉÑ√¡·9J√¬ù¿Íseëx∆p‡ieôππ~BuÅ⁄´vπÚŸKÆ*ÌÏ06C¢÷~‘ŒV§Î≈ÍZ/ñ:!˙∑øêì´∞û„÷AŸêñ¡ädé‹bwØDÃ¶‹@,Ù›>Bö^#®∞≤1njæ2Ä+õ˝$PíåD›•FäJ“VV√S‰{˜≥Ω€Ä˜”NMnhõØp1%E;˙_v‚4ç˙õ"d%5–!D1 £Ç0Ç0U«œèÕ‚ËW†äVd	AE∫æÔÊàë0U#0Ä’c:\ä1êÛC{|F≈3hZÖmU0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0Uˇ0 0U%0
++0	*ÜHÜ˜ Ç A∞Ò¥Êπ5ØU˚1-LØ‹Óê5D1ıßoﬁcÛï˝ÂmmMá]Ä0¢ø"x6~æe¶Õ.=≥U`oêÔ£[hôÕkfd‘(ˆ…˚ü•}™{oÃ–ç¡Ÿçteì›◊-Ö>u›#∂ímWoä‰∞Ê%öØ¶Aúy+å®$=jó<^Ê¸°ûë m1¯˘áˇ∏«Ö”*ùXëúí#V)Ê'9∫©sT˘T™Ê≤Fπ‡égJ£Ôa≤F,yëlÜPòË}UR®#L±FŒu,Ç§ú∏ÆûP!ƒπı¸°èÇ[∞õ)Í≠•x§K≈ üúõ“ÈÊPTUÓ=Æ”À"0Çq0ÇY†
+a	Å*     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100701213655Z250701214655Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ©ºwä: Ï¸óı˙iîktT’•
+ ÇÖ˚Ì|hK,_≈√Âa¬v∑>f+[S'1AïŒ	é|a0Y±0DÒ`àÑTC◊M∏8≥B›ì¨÷s0W&Ç£E–ÍıGÅÕø$`2X`FÚXGÜ2Ñtagë_ÅT±œìLí¡ƒ¶]—an(∆˘ÜÄªﬂa¸F¡'$gr!äØKdâPb±]˝w=Wu¨ΩäBM@Q—ú>gıf¿ñD~Ô–K˝nÂö ±®Úz*
+1⁄Në∂à5Ëx∞ÈôÕ<Á/D∫ßÙ‹dΩ§¡ 	ìxÕ¸º¿…D]^úO"M £ÇÊ0Ç‚0	+Ç7 0U’c:\ä1êÛC{|F≈3hZÖmU0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0Å†U ˇÅï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç ÊàQ‚∆‡ò?Åq=ù£°!o≥Î¶Ãı1æœ‚©˛˙Wm0≥¬≈f…jﬂıÁxΩ«®û%„˘ºÌkTW+QÇD˚πSåÃÙ`ävÃ@@Aõ‹\ˇ\˘^5ò$VKtÔB»Øø∆Ú7}Z?ÚôyJëR Ø8ı/yÅeŸ©µk‰«Œˆ z oK0D$"<œÌ•ñèY)º∂˝·pü2J'˝UØ/˛∂Âé3ªb_ö€W@ÈÒŒôfêåˇjb›≈Jë&‚9ÏJqcù{!m√ú£¢<˙}ñjêx¶m“·ú˘¸8ÿîÙ∆•
+ñÜ§ΩûÆBÉ∏µÄõ"8 µ%ÂdÏ˜Ùø~cY%z.9Wv¢q™äâ∫aßÀöÿGöÄ≈–Õß–Ô}É·;q	ﬂ]tò"a⁄∞PoΩÒ· ﬂÁ1§ì:˜eGxË¯®H´˜ﬁr~akow©ÅÀß	¨9ªÏ∆ÀÿÇ¥rÕÙ∏ÖÄ˚â*T9≤[⁄»Uôzás;Êò-Íç‡3.)ı¿/T'!˜»¨N⁄(∏±©€ñ≤ßB¢…œAM‡Ü˘*ö£f0”ªt2Kﬂc{ıôä/«!ØYµÆ‹D<óPq◊°“≈U„iﬁW¡—ﬁ0¿˝ÃÊM˚ø]OÈù8/ºœX.Ô†P5⁄Ô	'’≥~5∫⁄6€”_èﬁtàI°Ç◊0Ç@0Ç °Åÿ§Å’0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Service¢#
+0+ (3¬Ôπ)‘ùFÎ{>Eu$ÂÇ\}‰†ÅÉ0ÅÄ§~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*ÜHÜ˜  ‰Áè0"20210912042456Z20210913042456Z0w0=
++ÑY
+1/0-0
+ ‰Áè 0
+ 4ˇ0 70
+ ‰Ë‡ò 06
++ÑY
+1(0&0
++ÑY
+†
+0 ° °
+0 Ü†0	*ÜHÜ˜ ÅÅ †V˚ZÍP’#À÷1™ô+§p˛ÓWˆ«â~≥wßË˜çê‹Ú®“Fx°*ª.∏h0òÛ†0òX“!‚‡3zx%¸OMù€„∆ÙËLÿ/…¶ÅŒ 4qÚô»FG⁄à%˜§ˆÕ4Ò ÍÏ*˚∆˜)®–M∏g?€“ŸÊ1Ç0Ç	0Åì0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ;í#RZ•    ;0	`ÜHe †ÇJ0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" çj]≈Dä∏1•R¡⁄qÑéî3bJJ;±áÎü_˜0Å˙*ÜHÜ˜	/1ÅÍ0ÅÁ0Å‰0ÅΩ 6Á7y≈&ÿmŸüÔB≈U∑QkXÌ ∆QΩ;d·ƒ@0Åò0ÅÄ§~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ;í#RZ•    ;0" ¿8˝ﬁ1∞3¢y,H£
+ìt«ÅqÅ ∫05âD:t0	*ÜHÜ˜ Ç àONJPk¨Rœ16çòæŒˆ —Œ±12ïåQæÛít∂X∫5∂<‚¯å≥0æl∆c$o'Ñ¶Õ@ó* ΩwÊ˛° Le˝˘≤6åçÕsæo¨1ü‚rÒBΩ≤jl?˛ÔÚjWû∂lë¸—hgÎÎ[¬7—mBK-Z6ÍßäÙ3¸¨V¯ŒØDiÁr6ˆ”{:Ÿw˝˜µm„E/‚…	¥µaì8k‘π†ﬁ@õS÷[¢¸ë.ÅzÎ¨Íé"ﬂ¥˜èÄª≈LÏ~ój‰aºm›Ö¢‘ˆ∏SÃxc˜–|!áàË‚d~ﬁ“›y¢‰ÁJâ(hcPGƒ"™§’                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      MZê       ˇˇ  ∏       @                                   –   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       A˜«ñvîñvîñvî÷‰~ïñvî÷‰vïñvî÷‰rïñvî÷‰âîñvî÷‰tïñvîRichñvî                PE  dÜ FBe∫         "      0                Ä         
+   
+   
+        @     ≤,  `A                                   p             0             0  ÿ!             p                                                                           .rdata  X                       @  @.data   Ä                           @  ¿.rsrc      0                     @  @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    FBe∫       <   Ä  Ä      FBe∫       t   º  º      FBe∫       $   0  0      FBe∫          T  T      FBe∫    ¿           ò  ®  ∏  Û    A  h  ‰    2  Y       api-ms-win-core-datetime-l1-1-0.dll GetDateFormatA kernel32.GetDateFormatA GetDateFormatW kernel32.GetDateFormatW GetTimeFormatA kernel32.GetTimeFormatA GetTimeFormatW kernel32.GetTimeFormatW RSDSR⁄H6Î ·íÛ	›Ôw1   api-ms-win-core-datetime-l1-1-0.pdb GCTL   p   .rdata  p    .edata  Ä  ÿ   .rdata$zzzdbg       Ä   .bss     0  `   .rsrc$01    `0  ê  .rsrc$02        R⁄H6Î ·íÛ	›Ôw1àÛ,o?ªàIrƒFBe∫                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Ä                  0  Ä               	  H   `0  å                  Ñ4   V S _ V E R S I O N _ I N F O     ΩÔ˛     
+ ¬ U  
+ ¬ U?                        ‚   S t r i n g F i l e I n f o   æ   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   H   F i l e D e s c r i p t i o n     A p i S e t   S t u b   D L L   l &  F i l e V e r s i o n     1 0 . 0 . 2 2 0 0 0 . 1 9 4   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )   6   I n t e r n a l N a m e   a p i s e t s t u b     Ä .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   >   O r i g i n a l F i l e n a m e   a p i s e t s t u b     j %  P r o d u c t N a m e     M i c r o s o f t Æ   W i n d o w s Æ   O p e r a t i n g   S y s t e m     B   P r o d u c t V e r s i o n   1 0 . 0 . 2 2 0 0 0 . 1 9 4     D    V a r F i l e I n f o     $    T r a n s l a t i o n     	∞                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ÿ!    0Ç! 	*ÜHÜ˜†Ç!ª0Ç!∑10	`ÜHe 0\
++Ç7†N0L0
++Ç70	 †¢Ä 010	`ÜHe  ˆ›ít¢™O}Ø5Vq=¢§M¶In=ßqRvj."˙†Çv0Ç˛0ÇÊ†3  ﬂ˚j„Ù'Ï∂£    ﬂ0	*ÜHÜ˜ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100201215212420Z211202212420Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÏÚjïÛä‚≠Ì¬ôu’l| H?p‰Nj˘πR˝4dLêFÀ2˝/ôÍ¬›æíÂ˘âCÜg›pz=≤8∫_Ãbˆ[º±If®ì}ÊÂÿœ+6è∆∂tZ£Ëb^°:
+o“X,EEh-'=øÆ8Oaéã-_Ójö‘#Túti!AGdË⁄ô}Ë„“·≥€â 5ˇ
+©Ïﬁÿw}khØ~Y»é’€4Ù¸97óf	u=‡¥…0¸ñO˜T7È?»&W^æ˛G6Ëå£)\´œ=mJˆÉ'«9˘2¿¨`¢§¬6[ #¿Ñª¬M`0:óúú§≥´$>ÿ6ıö‹◊HÄhéÓaÈ± £Ç}0Çy0U%0
++Ç7=+0UÅŒãµµÃ…F›‡£)sa&óe”B0TUM0K§I0G1-0+U$Microsoft Ireland Operations Limited10U230865+4631340U#0ÄÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0Uˇ0 0	*ÜHÜ˜ Ç …Ì‡]ÑGy˛∫	dBxÔiv:g”◊Æ‚æŒbNdb#‡A¡?Jj
+è ì”?Q÷ó°Òá#„Éï’NY~5∑Ç	¸weÂô ¿hŸ`óÆ´©)º,¬¢∆f›©`á6r√´<pqBJ¶{zˆüÎÕ2°√à!âvZ*Öã¶EÅ&õ¶ÊVd≠∏ai/≤B÷)Î¯Å2:>ß,u≤-–—=˙∆Ü·IŒ¿pi—òpÇH[§Ok#%&ÛzU∫√ˇo“”uÓ^5	LæúUÏ∆m˚îé õ>réVÎÖ14“RRÚ`!È∂µ¢Ò©’àò<h9Ìò#°ílBõxR˘¨0Çp0ÇX†
+aRL     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100706204017Z250706205017Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÈdPygµƒ„˝	 Lûî¨˜VhÍDÿœ≈XO©•v|mE∫”9í¥§˘˘eÇ‰“è˝DúËeìŒ,UÑø}„.+®A+∑¢KnILkﬁ—“¬âqîÕµK¥ØÿÃà÷kî:ìŒ&?ÏÊ˛4òW’]Iˆ≤*.’ÖªY?¯ê¥+Ét +≥;F„FI¡fT…ΩƒUbWr¯gπ% 4ﬁ]¶•ï^´(ÄÕ’≤ûÂµc”≤»¡»ä&
+YÏˇÌÄ5L¶æR[ı¶⁄‡ãHw÷ÖG’π∆Ë™Óãj-\`∆¥*[ú#_E„o7À3ÄjâM£jfcxì’0œï £Ç„0Çﬂ0	+Ç7 0UÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0ÅùU Åï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç tÔWO){ƒÖx∏P”"¸	ù¨Çó¯4ˇ*,óïÂ‰øœøì»„4©€Å∏‹ æ“5oØÂyïwÂ‘ÒÎÿÕNa¢¬Z#å®bQEg„?<ì¯0Ö»9@¶◊≥!)Â•°iå"ìÃtòÁ°GCÚS¨¿0i˛“% moa”ﬂ’Ÿr ,iÜv=Q€¶9H…7am›SÀß÷a¬ø‚É´‡kõï÷}(Q∞âJQ§öl»∑Ji©◊‹¡~—Ip™∂≠ªrGc˙¶÷¢¶ÜÏ®Dõc∂≤iâ«FÜz?Ë≈!’{˘#-≈AÀøL»Ô±ú¸"KIän„¶v[—SyëÖù’“€=s5Û<ÆT≤RGj¿™ï“é⁄ôg^2å˚7Ö—‹uÖúá∆ZWÖ¬ø›èåõ-Î¥Óœ'”µ^i˙§ß$gsœMO∂ﬁVóz˜ÈRMÙwOÖ∆ÿÒéÌB	—v„#Vx"&6æ ±ån™‰Ö⁄G3bè§…ë3_q@Øòe…"ËB!%ä-`Ÿ7âAâ*◊a<îh`RÔ÷Gô†Ä@ÓÅw>ú‡SP8ïõf3'9xá6ŒN√_≤ı=GS∂‡Â€a=*◊í,Œ7Z>@B1§¬Vúø$]Qùjy“”⁄¡îé{%qD´jÊ‘∆ﬂ#öñu≈1Ç«0Ç√0Åï0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20103  ﬂ˚j„Ù'Ï∂£    ﬂ0	`ÜHe †Ç0	*ÜHÜ˜	1
++Ç70
++Ç710
++Ç70/	*ÜHÜ˜	1" \ﬂ´ŸˇÈÚg”˜øiÿtÉÆJHﬂ"ÑÑy®˝ÆÑ0<
++Ç7
+1.,sPY7xPB7hT5g5HHrYt8rDLSM9VuZRuWZaef2e22Rs54=0Z
++Ç71L0J†$Ä" M i c r o s o f t   W i n d o w s°"Ä http://www.microsoft.com/windows0	*ÜHÜ˜ Ç !mãˆÄQ£|+}øî£œ:Ceè+Ù+“Ÿƒ™a©•ì ≠è›ˇp∆îπ)Ö±àüÃÔ9∂ç	˜î˛ô2'f∆ÙÉMÜ«EäùôœãNkI%<
+-ø‚ûÚ˝…}MÙ/94G:™›:ÕöY(uÈ ?7YÛüì˚ﬂU35üY∑áÆ`]Âë–¨há[,£û⁄/RÀOœ
+≥hêßh.⁄AK–˙Æ∆<Á=ÌÒwÜ	ù‘!v˘˝∏Ã€â*∂ìu∂ì¯Rñ∆ﬁˇKv£Cyè∏‹Á¬‚>$ï™ ◊À>ÉŒìÏ‘)l 	Î¨˝D‡√Zn∫_òã∂R∫^Ê|°Ç˙0Çˆ
++Ç71ÇÊ0Ç‚	*ÜHÜ˜†Ç”0Çœ10	`ÜHe 0ÇY*ÜHÜ˜	†ÇHÇD0Ç@
++ÑY
+010	`ÜHe  ÖZZ∫Œ€ *Ïûz¨L'.„ì<ªY¯Q£<‡mÚ·Aa1	'ñí20210912030501.593Z0ÄÙ†Åÿ§Å’0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:86DF-4BBC-93351%0#UMicrosoft Time-Stamp Service†ÇI0Ç˘0Ç·†3  >Œ wR≈˜4+    >0	*ÜHÜ˜ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100201015172825Z220112172825Z0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:86DF-4BBC-93351%0#UMicrosoft Time-Stamp Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ºTƒ»<Ÿ~ú,„N H-$∑ÖR…Ôk~∏ºˆ∆˜–6˚–õ)Èñ°Û—ëŸ[ÊÊÜµ8}œ¥-'i1≈òW5Ø3Ó&ÙÕp‰+$˘:´[∏ˇî9B-∫¢ÚÊË‡Jí¶AÎkFm◊òˆØÚ	ñÓ›ëc™ò1úqíL8cõõwZ~L‹≈É…ÛÄüd¿C8∆ˆ@”a6+¯Ò”›±ò¨r˙t_K[°è]‘Ï°t%ÂÚ Nä7⁄3]òÿ’”|é5„R–SÔ](‚êÌÅE÷L(~·Ü√–+äcÉZ
+˙TU\47vµ∆π∏|∞F„{CÚ†„óÌf· £Ç0Ç0UìZÛù¯ª–b-kµ∂T∂Üà˝{0U#0Ä’c:\ä1êÛC{|F≈3hZÖmU0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0Uˇ0 0U%0
++0	*ÜHÜ˜ Ç ¶≥˘}ZüÜíπèßÂÿ¬uW©$\Æ| I÷¢•	e·:Ü pÌúsD.⁄&8mœPS›Ïkf¬0˜™|¶_Y)&≠À¨„‘ÙAès—p"¡@≠Ä&ÿZ`L¨M¨„G˙…Œ∞ˇ&Ë¥%®P+¯√∑L∆fÅ1ºg<fï@fõ“…vÛªä∂o
+˘˜T.Rû,DW$‘,| ªÿuÑçb£ë ¬-Ô‡u¶√°Óµß≈9—ch§q+'—#K}çπ®Íßª†À¯–(Ô=ÍGÅÑ¢ïjÂŸe√ç~ÀΩıA-:z€v]Ω€!ç#,bñí<\c`∆q(ﬁï®∞q‚•XÊ0Çq0ÇY†
+a	Å*     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100701213655Z250701214655Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ©ºwä: Ï¸óı˙iîktT’•
+ ÇÖ˚Ì|hK,_≈√Âa¬v∑>f+[S'1AïŒ	é|a0Y±0DÒ`àÑTC◊M∏8≥B›ì¨÷s0W&Ç£E–ÍıGÅÕø$`2X`FÚXGÜ2Ñtagë_ÅT±œìLí¡ƒ¶]—an(∆˘ÜÄªﬂa¸F¡'$gr!äØKdâPb±]˝w=Wu¨ΩäBM@Q—ú>gıf¿ñD~Ô–K˝nÂö ±®Úz*
+1⁄Në∂à5Ëx∞ÈôÕ<Á/D∫ßÙ‹dΩ§¡ 	ìxÕ¸º¿…D]^úO"M £ÇÊ0Ç‚0	+Ç7 0U’c:\ä1êÛC{|F≈3hZÖmU0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0Å†U ˇÅï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç ÊàQ‚∆‡ò?Åq=ù£°!o≥Î¶Ãı1æœ‚©˛˙Wm0≥¬≈f…jﬂıÁxΩ«®û%„˘ºÌkTW+QÇD˚πSåÃÙ`ävÃ@@Aõ‹\ˇ\˘^5ò$VKtÔB»Øø∆Ú7}Z?ÚôyJëR Ø8ı/yÅeŸ©µk‰«Œˆ z oK0D$"<œÌ•ñèY)º∂˝·pü2J'˝UØ/˛∂Âé3ªb_ö€W@ÈÒŒôfêåˇjb›≈Jë&‚9ÏJqcù{!m√ú£¢<˙}ñjêx¶m“·ú˘¸8ÿîÙ∆•
+ñÜ§ΩûÆBÉ∏µÄõ"8 µ%ÂdÏ˜Ùø~cY%z.9Wv¢q™äâ∫aßÀöÿGöÄ≈–Õß–Ô}É·;q	ﬂ]tò"a⁄∞PoΩÒ· ﬂÁ1§ì:˜eGxË¯®H´˜ﬁr~akow©ÅÀß	¨9ªÏ∆ÀÿÇ¥rÕÙ∏ÖÄ˚â*T9≤[⁄»Uôzás;Êò-Íç‡3.)ı¿/T'!˜»¨N⁄(∏±©€ñ≤ßB¢…œAM‡Ü˘*ö£f0”ªt2Kﬂc{ıôä/«!ØYµÆ‹D<óPq◊°“≈U„iﬁW¡—ﬁ0¿˝ÃÊM˚ø]OÈù8/ºœX.Ô†P5⁄Ô	'’≥~5∫⁄6€”_èﬁtàI°Ç”0Ç<0Ç °Åÿ§Å’0Å“10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1&0$UThales TSS ESN:86DF-4BBC-93351%0#UMicrosoft Time-Stamp Service¢#
+0+ †LËÙ∆0ìå)5±7S)ØìÃê‘†ÅÉ0ÅÄ§~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*ÜHÜ˜  ‰Ád·0"20210912012449Z20210913012449Z0s09
++ÑY
+1+0)0
+ ‰Ád· 0 w0 $0
+ ‰Ë∂a 06
++ÑY
+1(0&0
++ÑY
+†
+0 ° °
+0 Ü†0	*ÜHÜ˜ ÅÅ e9cÏJÆ˛˙€˚<≥ZŸ6:†Ê%∂ózŒ\Ç8”aSUå l†XÛè/ë˙®ÏmYØá
+≈Ò„ÂØ,Â‘∑‰§PÎïÉÏ™yÕ3Ê47Ü°ò/ù;CÂùW\≈˚^ÜseWÖ¨°˛–6kÙØæ’π∞b0x%÷=O¨¢1Ç0Ç	0Åì0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  >Œ wR≈˜4+    >0	`ÜHe †ÇJ0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" ≠-Ã=©•“ﬂP≠Øã&~áIL˝T<˚ëQŒæÚa°0Å˙*ÜHÜ˜	/1ÅÍ0ÅÁ0Å‰0ÅΩ ãÎŒç™çNÚédk≠„—◊Æ´pR=ô
+uN∫∞p~1õ0Åò0ÅÄ§~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  >Œ wR≈˜4+    >0" ∞d"€Ø—@®‘,ÔºÜõ,=,ÂUÔ}ÀÖŒ0	*ÜHÜ˜ Ç OWhåHsÙ÷iŒ®%p∏≈.?… ŒÎ˚/ÑçVVHT0ìÕ≈öı!Xò—j§öÜ0àﬂ™ÇÏg˙#ü≈i0UÒh^>!kD&gÒ‰l3áW7c¶πß˜BûûÍ5„F“WgAÑ>Ía~5à"9ãÙ¨˛◊%
+€∫–ÎØe´YÊÉ›Ra Ï-º¶&€Ú» ıÖM¶L"’ùRπñıü	L°J n0(Y∆èZAHùND´Péb‚ª˜r=fìTÄ¡¥É◊t¢7,˛õlo˚˙Ú∆ˇ¬ßπ	ÃπìD2/~nª^;¶‹Ï4Üö©Ö¿∞¯)n––¥ 2¯+óóŒÂ…«ÇÊì¯B⁄                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          .3756 -0.7507 0.5434
+vn -0.4009 -0.7577 0.5149
+vn -0.3704 -0.7739 0.5137
+vn -0.1156 -0.9381 0.3265
+vn -0.1804 -0.9379 0.2962
+vn -0.2154 -0.9343 0.2839
+vn 0.1026 -0.9870 0.1234
+vn 0.0156 -0.9958 0.0901
+vn -0.0687 -0.9948 0.0758
+vn 0.6452 0.2167 -0.7326
+vn 0.6270 0.2023 -0.7523
+vn 0.5185 0.1988 -0.8317
+vn 0.5271 0.4996 -0.6875
+vn 0.5280 0.4927 -0.6917
+vn 0.4544 0.4938 -0.7414
+vn 0.3333 0.7652 -0.5508
+vn 0.3595 0.7601 -0.5413
+vn 0.3355 0.7617 -0.5543
+vn 0.0771 0.9434 -0.3225
+vn 0.1310 0.9461 -0.2962
+vn 0.1685 0.9462 -0.2764
+vn -0.0547 0.9959 -0.0721
+vn 0.0327 0.9985 -0.0437
+usemtl Beige
+s 65
+f 503/1/1 511/2/2 87/3/3 88/4/4
+s 66
+f 641/5/5 640/6/6 76/7/7 75/8/8
+s 67
+f 655/9/9 654/10/10 85/11/11 86/12/12
+s 68
+f 75/8/8 82/13/13 558/14/14 642/15/15
+s 69
+f 494/16/16 656/17/17 486/18/18 485/19/19
+s 70
+f 77/20/20 84/21/21 83/22/22 76/7/7
+s 71
+f 656/23/17 503/1/1 88/4/4 495/24/23
+s 72
+f 76/7/7 83/22/22 82/13/13 75/8/8
+s 73
+f 80/25/24 87/3/3 86/12/12 79/26/25
+s 74
+f 79/26/25 86/12/12 85/11/11 78/27/26
+s 75
+f 78/27/26 85/11/11 84/21/21 77/20/20
+s 76
+f 634/28/27 495/24/23 88/4/4 81/29/28
+s 77
+f 81/29/28 88/4/4 87/3/3 80/25/24
+s 78
+f 143/30/29 110/31/30 90/32/31 124/33/32
+s 79
+f 154/34/33 146/35/34 123/36/35 149/37/36
+s 80
+f 89/38/37 92/39/38 94/40/39 93/41/40
+s 81
+f 94/40/39 103/42/41 104/43/42 96/44/43
+s 82
+f 93/41/40 94/40/39 96/44/43 95/45/44
+s 83
+f 107/46/45 108/47/46 101/48/47 98/49/48
+s 84
+f 90/32/31 97/50/49 100/51/50 99/52/51
+s 85
+f 97/50/49 98/49/48 101/48/47 100/51/50
+s 86
+f 108/47/46 109/53/52 104/54/42 101/48/47
+s 87
+f 99/52/51 100/51/50 103/55/41 102/56/53
+s 88
+f 100/51/50 101/48/47 104/54/42 103/55/41
+s 89
+f 96/57/43 104/43/42 109/53/52
+s 90
+f 91/58/54 105/59/55 108/47/46 107/46/45
+s 91
+f 105/59/55 106/60/56 109/53/52 108/47/46
+s 92
+f 106/60/56 95/61/44 96/57/43 109/53/52
+s 93
+f 136/62/57 127/63/58 128/64/59 139/65/60
+s 94
+f 97/50/49 111/66/61 112/67/62 98/49/48
+s 95
+f 107/46/45 114/68/63 113/69/64 91/58/54
+s 96
+f 130/70/65 147/71/66 145/72/67 140/73/68
+s 97
+f 143/30/29 124/33/32 137/74/69 144/75/70
+s 98
+f 122/76/71 125/77/72 128/64/59 127/63/58
+s 99
+f 125/77/72 126/78/73 129/79/74 128/64/59
+s 100
+f 126/78/73 133/80/75 134/81/76 129/79/74
+s 101
+f 139/65/60 128/64/59 129/79/74 142/82/77
+s 102
+f 134/81/76 142/83/77 129/79/74
+s 103
+f 130/70/65 140/73/68 141/84/78 132/85/79
+s 104
+f 123/36/35 130/70/65 132/85/79 131/86/80
+s 105
+f 132/85/79 141/84/78 142/82/77 134/81/76
+s 106
+f 131/86/80 132/85/79 134/81/76 133/80/75
+s 107
+f 98/49/48 112/87/62 114/68/63 107/46/45
+s 108
+f 124/33/32 135/88/81 138/89/82 137/74/69
+s 109
+f 135/88/81 136/62/57 139/65/60 138/89/82
+s 110
+f 137/74/69 138/89/82 141/84/78 140/73/68
+s 111
+f 138/89/82 139/65/60 142/82/77 141/84/78
+s 112
+f 144/75/70 137/74/69 140/73/68 145/72/67
+s 113
+f 127/63/58 136/90/57 102/91/53 92/39/38
+s 114
+f 147/71/66 130/70/65 123/36/35 146/35/34
+s 115
+f 113/69/64 121/92/83 116/93/84 91/58/54
+s 116
+f 115/94/85 89/38/37 93/41/40 117/95/86
+s 117
+f 117/95/86 93/41/40 95/45/44 118/96/87
+s 118
+f 118/96/87 95/45/44 106/97/56 120/98/88
+s 119
+f 120/99/88 106/60/56 105/59/55 119/100/89
+s 120
+f 119/100/89 105/59/55 91/58/54 116/93/84
+s 121
+f 122/76/71 148/101/90 150/102/91 125/77/72
+s 122
+f 125/77/72 150/102/91 151/103/92 126/78/73
+s 123
+f 126/78/73 151/103/92 153/104/93 133/80/75
+s 124
+f 133/80/75 153/104/93 152/105/94 131/86/80
+s 125
+f 131/86/80 152/105/94 149/37/36 123/36/35
+s 126
+f 89/38/37 122/76/71 127/63/58 92/39/38
+s 127
+f 102/56/53 136/62/57 135/88/81 99/52/51
+s 128
+f 99/52/51 135/88/81 124/33/32 90/32/31
+s 418
+f 623/106/95 419/107/96 425/108/97 426/109/98
+s 419
+f 421/110/99 625/111/100 429/112/101 430/113/102
+s 420
+f 420/114/103 623/106/95 426/109/98 427/115/104
+s 421
+f 628/116/105 441/117/106 450/118/107 629/119/108
+s 422
+f 622/120/109 460/121/110 424/122/111
+s 423
+f 422/123/112 421/110/99 430/113/102 431/124/113
+s 424
+f 624/125/114 420/114/103 427/115/104 428/126/115
+s 425
+f 419/107/96 622/120/109 424/122/111 425/108/97
+s 426
+f 626/127/116 422/123/112 431/124/113 432/128/117
+s 427
+f 872/129/118 624/125/114 428/126/115 849/130/119
+s 428
+f 424/122/111 460/131/110 433/132/120
+s 429
+f{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:mooshroom",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:mooshroom_become_cow": {
+        "minecraft:transformation": {
+          "into": "minecraft:cow"
+        }
+      },
+      "minecraft:cow_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value":0.5
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": "wheat",
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.follow_parent": {
+          "priority": 6,
+          "speed_multiplier": 1.1
+        }
+      },
+
+      "minecraft:cow_adult": {
+        "minecraft:experience_reward": {
+          "on_bred": "Math.Random(1,7)",
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/mooshroom.json"
+        },
+        "minecraft:behavior.breed": {
+          "priority": 3,
+          "speed_multiplier": 1.0
+        },
+        "minecraft:breedable": {
+          "require_tame": false,
+          "breed_items": "wheat",
+          "breeds_with": {
+            "mate_type": "minecraft:mooshroom",
+            "baby_type": "minecraft:mooshroom",
+            "breed_event": {
+              "event": "minecraft:entity_born",
+              "target": "baby"
+            }
+          },
+          "deny_parents_variant": {
+            "chance": 0.00098, // Roughly 1/1024
+            "min_variant": 0,
+            "max_variant": 1
+          }
+        },
+
+        "minecraft:interact": {
+          "interactions": [
+            {
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "bowl"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"}
+                  ]
+                },
+                "event": "minecraft:flowerless",
+                "target": "self"
+              },
+              "add_items": {
+                "table": "loot_tables/gameplay/entities/mooshroom_milking.json"
+              },
+              "use_item": true,
+              "play_sounds": "milk_suspiciously",
+              "interact_text": "action.interact.moostew"
+            },
+            {
+              "on_interact": {
+                "filters": { // allium
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:2"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 7}
+                  ]
+                },
+                "event": "minecraft:ate_allium",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // bluet
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:3"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 3}
+                  ]
+                },
+                "event": "minecraft:ate_bluet",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // orchid
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:1"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 6}
+                  ]
+                },
+                "event": "minecraft:ate_orchid",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // cornflower
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:9"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 1}
+                  ]
+                },
+                "event": "minecraft:ate_cornflower",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // Dandelion
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "yellow_flower"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 5}
+                  ]
+                },
+                "event": "minecraft:ate_dandelion",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // lily of the valley
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:10"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 4}
+                  ]
+                },
+                "event": "minecraft:ate_lily",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // daisy
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:8"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 8}
+                  ]
+                },
+                "event": "minecraft:ate_daisy",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // poppy
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:0"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 0}
+                  ]
+                },
+                "event": "minecraft:ate_poppy",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // tulips
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:4"},
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:5"},
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:6"},
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "red_flower:7"}
+                  ],
+                  "all_of": [
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 2}
+                  ]
+                },
+                "event": "minecraft:ate_tulip",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": { // rose
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "wither_rose"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1},
+                    { "test": "is_mark_variant", "subject": "self", "operator": "!=", "value": 9}
+                  ]
+                },
+                "event": "minecraft:ate_rose",
+                "target": "self"
+              },
+              "use_item": true,
+              "play_sounds": "eat",
+              "particle_on_start": { "particle_type": "smoke", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.feed"
+            },
+            {
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "shears"},
+                    { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 0}
+                  ]
+                },
+                "event": "become_cow",
+                "target": "self"
+              },
+              "use_item": false,
+              "hurt_item": 1,
+              "play_sounds": "shear",
+              "spawn_items": { "table": "loot_tables/entities/mooshroom_shear.json" },
+              "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.mooshear"
+            },
+            {
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "shears"},
+                    { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"},
+                    { "test": "is_variant", "subject": "self", "operator": "==", "value": 1}
+                  ]
+                },
+                "event": "become_cow",
+                "target": "self"
+              },
+              "use_item": false,
+              "hurt_item": 1,
+              "play_sounds": "shear",
+              "spawn_items": { "table": "loot_tables/entities/brown_mooshroom_shear.json" },
+              "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 0.25, "particle_offset_towards_interactor": true },
+              "interact_text": "action.interact.mooshear"
+            },
+            {
+              "on_interact": {
+                "filters": {
+                  "all_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "bucket:0"},
+                    { "test" :  "is_family", "subject" : "other", "value" :  "player"}
+                  ]
+                }
+              },
+              "use_item": true,
+              "transform_to_item": "bucket:1",
+              "play_sounds": "milk",
+              "interact_text": "action.interact.milk"
+            }
+          ]
+        }
+      },
+
+      "minecraft:mooshroom_fed_nothing": {
+        "minecraft:mark_variant": {
+          "value": -1
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_poppy": {
+        "minecraft:mark_variant": {
+          "value": 0
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_cornflower": {
+        "minecraft:mark_variant": {
+          "value": 1
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_tulips": {
+        "minecraft:mark_variant": {
+          "value": 2
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_azure_bluet": {
+        "minecraft:mark_variant": {
+          "value": 3
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_lily_of_the_valley": {
+        "minecraft:mark_variant": {
+          "value": 4
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_dandelion": {
+        "minecraft:mark_variant": {
+          "value": 5
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_blue_orchid": {
+        "minecraft:mark_variant": {
+          "value": 6
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_allium": {
+        "minecraft:mark_variant": {
+          "value": 7
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_oxeye_daisy": {
+        "minecraft:mark_variant": {
+          "value": 8
+        }
+      },
+
+      "minecraft:mooshroom_brown_fed_wither_rose": {
+        "minecraft:mark_variant": {
+          "value": 9
+        }
+      },
+       
+      "minecraft:mooshroom_red": {
+        "minecraft:variant": {
+          "value": 0
+        }
+      },
+
+      "minecraft:mooshroom_brown": {
+        "minecraft:variant": {
+          "value": 1
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:type_family": {
+        "family": [ "mushroomcow", "mob" ]
+      },
+      "minecraft:mark_variant": {
+        "value": -1
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:collision_box": {
+        "width": 0.9,
+        "height": 1.3
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:health": {
+        "value": 10,
+        "max": 10
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true,
+        "avoid_damage_blocks": true
+      },
+      "minecraft:movement.basic": {
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:balloonable": {
+      },
+      "minecraft:rideable": {
+        "seat_count": 1,
+        "family_types": [
+          "zombie"
+        ],
+        "seats": {
+          "position": [ 0.0, 1.105, 0.0 ]
+        }
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.25
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 2,
+        "speed_multiplier": 1.5,
+        "target_dist": 0.0,
+        "track_target": true
+      },
+      "minecraft:behavior.breed": {
+        "priority": 3,
+        "speed_multiplier": 1.0
+      },
+      "minecraft:behavior.tempt": {
+        "priority": 4,
+        "speed_multiplier": 1.25,
+        "items": [
+          "wheat"
+        ]
+      },
+      "minecraft:behavior.follow_parent": {
+        "priority": 5,
+        "speed_multiplier": 1.1
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 0.8
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 9
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      },
+      "minecraft:damage_sensor": {
+        "triggers": [
+          {
+            "on_damage": {
+              "filters": {
+                "all_of": [
+                  { "test": "is_family", "subject": "other", "value": "lightning" },
+                  { "test": "is_variant", "subject": "self", "operator": "==", "value": 0 }
+                ]
+              },
+              "event": "minecraft:become_brown"
+            },
+            "deals_damage": false,
+            "on_damage_sound_event": "convert_mooshroom"
+          },
+          {
+            "on_damage": {
+              "filters": {
+                "all_of": [
+                  { "test": "is_family", "subject": "other", "value": "lightning" },
+                  { "test": "is_variant", "subject": "self", "operator": "==", "value": 1 }
+                ]
+              },
+              "event": "minecraft:become_red"
+            },
+            "deals_damage": false,
+            "on_damage_sound_event": "convert_mooshroom"
+          }
+        ]
+      }
+    },
+
+    "events": {
+      "become_cow": {
+        "remove": {
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_become_cow"
+          ]
+        }
+      },
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 95,
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:cow_adult",
+                "minecraft:mooshroom_red"
+              ]
+            }
+          },
+          {
+            "weight": 5,
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:cow_baby",
+                "minecraft:mooshroom_red"
+              ]
+            }
+          }
+        ]
+      },
+
+      "minecraft:entity_born": {
+        "remove": {
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:cow_baby"
+          ]
+        }
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:cow_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:cow_adult"
+          ]
+        }
+      },
+
+      "minecraft:flowerless": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_fed_nothing"
+          ]
+        }
+      },
+
+      "minecraft:ate_allium": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_allium"
+          ]
+        }
+      },
+
+      "minecraft:ate_cornflower": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_cornflower"
+          ]
+        }
+      },
+
+      "minecraft:ate_lily": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_lily_of_the_valley"
+          ]
+        }
+      },
+
+      "minecraft:ate_rose": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_wither_rose"
+          ]
+        }
+      },
+
+      "minecraft:ate_orchid": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_blue_orchid"
+          ]
+        }
+      },
+
+      "minecraft:ate_daisy": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_oxeye_daisy"
+          ]
+        }
+      },
+
+      "minecraft:ate_tulip": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_tulips"
+          ]
+        }
+      },
+
+      "minecraft:ate_bluet": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_azure_bluet"
+          ]
+        }
+      },
+
+      "minecraft:ate_poppy": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_poppy"
+          ]
+        }
+      },
+
+      "minecraft:ate_dandelion": {
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown_fed_dandelion"
+          ]
+        }
+      },
+
+      "minecraft:become_red": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mooshroom_brown"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_red",
+            "minecraft:mooshroom_fed_nothing"
+          ]
+        }
+      },
+
+      "minecraft:become_brown": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mooshroom_red"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown",
+            "minecraft:mooshroom_fed_nothing"
+          ]
+        }
+      },
+
+      "minecraft:become_brown_adult": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mooshroom_red"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_brown",
+            "minecraft:cow_adult",
+            "minecraft:mooshroom_fed_nothing"
+          ]
+        }
+      },
+
+      "minecraft:become_red_adult": {
+        "remove": {
+          "component_groups": [
+            "minecraft:mooshroom_brown",
+            "minecraft:cow_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:mooshroom_red",
+            "minecraft:cow_adult"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:ocelot",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+
+    "component_groups": {
+      "minecraft:ocelot_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value": 0.5
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": [ "fish", "salmon" ],
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        }
+      },
+
+      "minecraft:ocelot_adult": {
+        "minecraft:experience_reward": {
+          "on_bred": "Math.Random(1,7)",
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/ocelot.json"
+        },
+        "minecraft:scale": {
+          "value": 1
+        }
+      },
+      "minecraft:ocelot_wild": {
+        "minecraft:trusting": {
+          "probability": 0.33,
+          "trust_items": [ "fish", "salmon" ],
+          "trust_event": {
+            "event": "minecraft:on_trust",
+            "target": "self"
+          }
+        },
+        "minecraft:behavior.tempt": {
+          "priority": 4,
+          "speed_multiplier": 0.5,
+          "within_radius": 16,
+          "can_get_scared": true,
+          "items": [
+            "fish",
+            "salmon"
+          ]
+        },
+        "minecraft:behavior.avoid_mob_type": {
+          "priority": 5,
+          "entity_types": [
+            {
+              "filters": {
+                "test": "is_family",
+                "subject": "other",
+                "value": "player"
+              },
+              "max_dist": 10,
+              "walk_speed_multiplier": 0.8,
+              "sprint_speed_multiplier": 1.33
+            }
+          ]
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "seats": {
+            "position": [ 0.0, 0.35, 0.0 ]
+          }
+        }
+      },
+      "minecraft:ocelot_trusting": {
+        "minecraft:behavior.breed": {
+          "priority": 3,
+          "speed_multiplier": 1.0
+        },
+        "minecraft:behavior.tempt": {
+          "priority": 4,
+          "speed_multiplier": 0.5,
+          "within_radius": 16,
+          "items": [
+            "fish",
+            "salmon"
+          ]
+        },
+        "minecraft:breedable": {
+          "require_tame": false,
+          "breeds_with": {
+            "mate_type": "minecraft:ocelot",
+            "baby_type": "minecraft:ocelot",
+            "breed_event": {
+              "event": "minecraft:entity_born",
+              "target": "baby"
+            }
+          },
+          "breed_items": [ "fish", "salmon" ]
+        }
+      },
+      // minecraft:ocelot_tame is only here for backwards compatibility purposes, ocelots are no longer tameable in Vanilla Minecraft
+      "minecraft:ocelot_tame": {
+        "minecraft:is_tamed": {
+        },
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:sittable": {
+        },
+        "minecraft:behavior.follow_owner": {
+          "priority": 4,
+          "speed_multiplier": 1.0,
+          "start_distance": 10,
+          "stop_distance": 2
+        },
+        "minecraft:behavior.stay_while_sitting": {
+          "priority": 3
+        },
+        "minecraft:behavior.ocelot_sit_on_block": {
+          "priority": 6,
+          "speed_multiplier": 1.0
+        }
+      }
+    },
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:health": {
+        "value": 10,
+        "max": 10
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:attack_damage": {
+        "value": 3
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:type_family": {
+        "family": [ "ocelot", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 0.7
+      },
+      "minecraft:movement": {
+        "value": 0.3
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true,
+        "avoid_damage_blocks": true
+      },
+      "minecraft:movement.basic": {
+
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "cause": "fall",
+          "deals_damage": false
+        }
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.float": {
+        "priority": 0
+      },
+      "minecraft:behavior.panic": {
+        "priority": 1,
+        "speed_multiplier": 1.25
+      },
+      "minecraft:behavior.nearest_attackable_target": {
+        "priority": 1,
+        "reselect_targets": true,
+        "entity_types": [
+          {
+            "filters": {
+              "test": "is_family",
+              "subject": "other",
+              "value": "chicken"
+            },
+            "max_dist": 8
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "baby_turtle"
+                },
+                {
+                  "test": "in_water",
+                  "subject": "other",
+                  "operator": "!=",
+                  "value": true
+                }
+              ]
+            },
+            "max_dist": 8
+          }
+        ]
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 1,
+        "speed_multiplier": 1.25,
+        "target_dist": 0,
+        "track_target": true
+      },
+      "minecraft:behavior.leap_at_target": {
+        "priority": 3,
+        "target_dist": 0.3
+      },
+      "minecraft:behavior.ocelotattack": {
+        "priority": 4,
+        "cooldown_time": 1.0,
+        "x_max_rotation": 30.0,
+        "y_max_head_rotation": 30.0,
+        "max_distance": 15.0,
+        "max_sneak_range": 15.0,
+        "max_sprint_range": 4.0,
+        "reach_multiplier": 2.0,
+        "sneak_speed_multiplier": 0.6,
+        "sprint_speed_multiplier": 1.33,
+        "walk_speed_multiplier": 0.8
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 8,
+        "speed_multiplier": 0.8
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 9
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0,
+        "on_leash": {
+          "event": "minecraft:on_leash",
+          "target": "self"
+        },
+        "on_unleash": {
+          "event": "minecraft:on_unleash",
+          "target": "self"
+        }
+      },
+      "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+    "events": {
+      "minecraft:entity_spawned": {
+        "sequence": [
+          {
+            "randomize": [
+              {
+                "weight": 3,
+                "remove": {
+                },
+                "add": {
+                  "component_groups": [
+                    "minecraft:ocelot_adult",
+                    "minecraft:ocelot_wild"
+                  ]
+                }
+              },
+              {
+                "weight": 1,
+                "remove": {
+                },
+                "add": {
+                  "component_groups": [
+                    "minecraft:ocelot_baby",
+                    "minecraft:ocelot_wild"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+
+      "minecraft:entity_born": {
+        "sequence": [
+          {
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:ocelot_baby",
+                "minecraft:ocelot_trusting"
+              ]
+            }
+          }
+        ]
+      },
+
+      "minecraft:entity_born_wild": {
+        "remove": {
+          "component_groups": [
+            "minecraft:ocelot_trusting"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:ocelot_baby",
+            "minecraft:ocelot_wild"
+          ]
+        }
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:ocelot_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:ocelot_adult"
+          ]
+        }
+      },
+      "minecraft:on_trust": {
+        "sequence": [
+          {
+            "remove": {
+              "component_groups": [
+                "minecraft:ocelot_wild"
+              ]
+            }
+          },
+          {
+            "add": {
+              "component_groups": [
+                "minecraft:ocelot_trusting"
+              ]
+            }
+          }
+        ]
+      },
+      // Leashing and unleashing are only here for backwards compatibility purposes, ocelots are no longer leashable in Vanilla Minecraft
+      "minecraft:on_leash": {
+        "add": {
+          "component_groups": [
+            "minecraft:ocelot_leashed"
+          ]
+        }
+      },
+      "minecraft:on_unleash": {
+        "remove": {
+          "component_groups": [
+            "minecraft:ocelot_leashed"
+          ]
+        }
+      }
+    }
+  }
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:pig",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "component_groups": {
+      "minecraft:pig_baby": {
+        "minecraft:is_baby": {
+        },
+        "minecraft:scale": {
+          "value": 0.5
+        },
+        "minecraft:ageable": {
+          "duration": 1200,
+          "feed_items": [ "carrot", "beetroot", "potato" ],
+          "grow_up": {
+            "event": "minecraft:ageable_grow_up",
+            "target": "self"
+          }
+        },
+
+        "minecraft:behavior.follow_parent": {
+          "priority": 6,
+          "speed_multiplier": 1.1
+        }
+      },
+
+      "minecraft:pig_transform": {
+        "minecraft:transformation": {
+          "into": "minecraft:pig_zombie",
+          "delay": 0.5
+        }
+      },
+
+      "minecraft:pig_adult": {
+        "minecraft:experience_reward": {
+          "on_bred": "Math.Random(1,7)",
+          "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/pig.json"
+        },
+        "minecraft:behavior.breed": {
+          "priority": 4,
+          "speed_multiplier": 1.0
+        },
+        "minecraft:breedable": {
+          "require_tame": false,
+          "breeds_with": {
+            "mate_type": "minecraft:pig",
+            "baby_type": "minecraft:pig",
+            "breed_event": {
+              "event": "minecraft:entity_born",
+              "target": "baby"
+            }
+          },
+          "breed_items": [ "carrot", "beetroot", "potato" ]
+        }
+      },
+
+      "minecraft:pig_unsaddled": {
+        "minecraft:interact": {
+          "interactions": [
+            {
+              "on_interact": {
+                "filters": { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "saddle"},
+                "event": "minecraft:on_saddled"
+              },
+              "use_item": true,
+              "play_sounds": "saddle",
+              "interact_text": "action.interact.saddle"
+            }
+          ]
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "family_types": [
+            "zombie"
+          ],
+          "seats": {
+            "position": [ 0.0, 0.63, 0.0 ]
+          }
+        }
+      },
+
+      "minecraft:pig_saddled": {
+        "minecraft:is_saddled": {
+        },
+        "minecraft:loot": {
+          "table": "loot_tables/entities/pig_saddled.json"
+        },
+        "minecraft:boostable": {
+          "speed_multiplier": 2.0,
+          "duration": 3.0,
+          "boost_items": [
+            {
+              "item": "carrotOnAStick",
+              "damage": 2,
+              "replace_item": "fishing_rod"
+            }
+          ]
+        },
+        "minecraft:rideable": {
+          "seat_count": 1,
+          "interact_text": "action.interact.mount",
+          "family_types": [
+            "player"
+          ],
+          "seats": {
+            "position": [ 0.0, 0.63, 0.0 ]
+          }
+        },
+        "minecraft:item_controllable": {
+          "control_items": "carrotOnAStick"
+        },
+        "minecraft:behavior.controlled_by_player": {
+          "priority": 0
+        }
+      }
+    },
+
+
+    "components": {
+      "minecraft:is_hidden_when_invisible": {
+      },
+      "minecraft:damage_sensor": {
+        "triggers": {
+          "on_damage": {
+            "filters": [
+              {
+                "test": "is_family",
+                "subject": "other",
+                "value": "lightning"
+              },
+              {
+                "test": "is_difficulty",
+                "operator": "!=",
+                "value": "peaceful"
+              }
+            ],
+            "event": "become_zombie"
+          },
+          "deals_damage": false
+        }
+      },
+      "minecraft:type_family": {
+        "family": [ "pig", "mob" ]
+      },
+      "minecraft:breathable": {
+        "total_supply": 15,
+        "suffocate_time": 0
+      },
+      "minecraft:nameable": {
+      },
+      "minecraft:health": {
+        "value": 10,
+        "max": 10
+      },
+      "minecraft:hurt_on_condition": {
+        "damage_conditions": [
+          {
+            "filters": { "test": "in_lava", "subject": "self", "operator": "==", "value": true },
+            "cause": "lava",
+            "damage_per_tick": 4
+          }
+        ]
+      },
+      "minecraft:movement": {
+        "value": 0.25
+      },
+      "minecraft:navigation.walk": {
+        "can_path_over_water": true,
+        "avoid_water": true,
+        "avoid_damage_blocks": true
+      },
+      "minecraft:movement.basic": {
+
+      },
+      "minecraft:jump.static": {
+      },
+      "minecraft:can_climb": {
+      },
+      "minecraft:collision_box": {
+        "width": 0.9,
+        "height": 0.9
+      },
+      "minecraft:leashable": {
+        "soft_distance": 4.0,
+        "hard_distance": 6.0,
+        "max_distance": 10.0
+      },
+      "minecraft:balloonable": {
+        "mass": 0.75
+      },
+      "minecraft:despawn": {
+        "despawn_from_distance": {}
+      },
+      "minecraft:behavior.mount_pathing": {
+        "priority": 1,
+        "speed_multiplier": 1.25,
+        "target_dist": 0.0,
+        "track_target": true
+      },
+      "minecraft:behavior.float": {
+        "priority": 2
+      },
+      "minecraft:behavior.panic": {
+        "priority": 3,
+        "speed_multiplier": 1.25
+      },
+      "minecraft:behavior.tempt": {
+        "priority": 5,
+        "speed_multiplier": 1.2,
+        "items": [
+          "potato",
+          "carrot",
+          "beetroot",
+          "carrotOnAStick"
+        ]
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 7,
+        "speed_multiplier": 1.0
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 8,
+        "look_distance": 6.0,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 9
+      },
+	    "minecraft:physics": {
+      },
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      },
+      "minecraft:conditional_bandwidth_optimization": {
+      }
+    },
+
+
+    "events": {
+      "become_zombie": {
+        "remove": {
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_transform"
+          ]
+        }
+      },
+      "minecraft:entity_spawned": {
+        "randomize": [
+          {
+            "weight": 95,
+            "trigger": "minecraft:spawn_adult"
+          },
+          {
+            "weight": 5,
+            "remove": {
+            },
+            "add": {
+              "component_groups": [
+                "minecraft:pig_baby"
+              ]
+
+            }
+          }
+        ]
+      },
+
+      "minecraft:entity_born": {
+        "remove": {
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_baby"
+          ]
+        }
+      },
+
+      "minecraft:ageable_grow_up": {
+        "remove": {
+          "component_groups": [
+            "minecraft:pig_baby"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_adult",
+            "minecraft:pig_unsaddled"
+          ]
+        }
+      },
+
+      "minecraft:on_saddled": {
+        "remove": {
+          "component_groups": [
+            "minecraft:pig_unsaddled"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "minecraft:pig_saddled"
+          ]
+        }
+      },
+      "minecraft:spawn_adult": {
+        "add": {
+          "component_groups": [
+            "minecraft:pig_adult",
+            "minecraft:pig_unsaddled"
+          ]
+        }
+      }
+    }
+  }
+}                                                                                                                           1337/1077
+s 787
+f 675/1330/1072 683/1324/1068 681/1177/938 673/1176/937
+s 788
+f 669/1096/870 677/1095/869 679/1328/1071 671/1334/1075
+s 789
+f 671/1334/1075 672/1333/1074 668/1224/982 667/1229/987
+s 790
+f 672/1333/1074 680/1332/1070 678/1027/809 670/1025/807
+s 791
+f 658/1209/967 674/1197/958 676/1335/1073 660/1337/1077
+s 792
+f 660/1337/1077 659/1336/1076 663/1215/973 664/1220/978
+s 793
+f 659/1336/1076 675/1330/1072 673/1176/937 657/1175/936
+s 794
+f 665/1097/871 669/1096/870 671/1334/1075 667/1229/987
+s 795
+f 703/1318/1062 747/1285/1034 748/1284/1033 704/1319/1063
+s 796
+f 668/1224/982 672/1333/1074 670/1025/807 666/1024/806
+s 797
+f 662/1213/971 658/1209/967 660/1337/1077 664/1220/978
+s 798
+f 700/1314/1058 752/1281/1030 751/1280/1029 699/1315/1059
+s 799
+f 663/1215/973 659/1336/1076 657/1175/936 661/1174/935
+s 800
+f 749/1180/941 697/1179/940 699/1315/1059 751/1280/1029
+s 801
+f 808/1250/1004 807/1249/1003 707/1310/1054 708/1309/1053
+s 802
+f 752/1281/1030 700/1314/1058 698/1022/804 750/1021/803
+s 803
+f 746/1292/1040 702/1035/815 704/1319/1063 748/1284/1033
+s 804
+f 803/1248/1002 804/1247/1001 712/1313/1057 711/1312/1056
+s 805
+f 747/1285/1034 703/1318/1062 701/1092/866 745/1091/865
+s 806
+f 709/1086/860 801/1085/859 803/1248/1002 711/1312/1056
+s 807
+f 796/1251/1005 848/1226/984 847/1225/983 795/1252/1006
+s 808
+f 712/1313/1057 804/1247/1001 802/758/595 710/757/594
+s 809
+f 706/1038/818 806/1144/910 808/1250/1004 708/1309/1053
+s 810
+f 799/1255/1009 843/1217/975 844/1216/974 800/1256/1010
+s 811
+f 707/1310/1054 807/1249/1003 805/1186/947 705/1185/946
+s 812
+f 845/1080/854 793/1079/853 795/1252/1006 847/1225/983
+s 813
+f 848/1226/984 796/1251/1005 794/751/588 846/750/587
+s 814
+f 842/1108/882 798/1061/837 800/1256/1010 844/1216/974
+s 815
+f 760/1223/981 759/1230/988 667/1229/987 668/1224/982
+s 816
+f 843/1217/975 799/1255/1009 797/1192/953 841/1191/952
+s 817
+f 413/1204/962 414/1073/847 410/1166/930 409/1171/933
+s 958
+f 418/1207/965 662/1213/971 754/1050/828 406/1049/827
+s 959
+f 418/1207/965 417/1206/964 412/1203/961 411/1205/963
+s 960
+f 417/1206/964 416/1211/969 413/1204/962 412/1203/961
+s 961
+f 416/1211/969 415/737/574 414/1073/847 413/1204/962
+s 962
+f 171/774/611 1036/1338/1078 1040/1126/895 159/771/608
+s 963
+f 1036/1338/1078 1035/1339/1079 1039/1140/906 1040/1126/895
+s 964
+f 1035/1339/1079 1034/1340/1080 1038/1145/911 1039/1140/906
+s 965
+f 1034/1340/1080 1033/1060/836 1037/1062/838 1038/1145/911
+s 966
+f 174/780/602 1032/1341/1081 1036/1338/1078 171/774/611
+s 967
+f 1032/1341/1081 1031/1342/1082 1035/1339/1079 1036/1338/1078
+s 968
+f 1031/1342/1082 1030/1343/1083 1034/1340/1080 1035/1339/1079
+s 969
+f 1030/1343/1083 1029/1057/834 1033/1060/836 1034/1340/1080
+s 970
+f 162/763/600 1028/1344/1084 1032/1345/1081 174/765/602
+s 971
+f 1028/1344/1084 1027/1346/1085 1031/1347/1082 1032/1345/1081
+s 972
+f 1027/1346/1085 1026/1348/1086 1030/1349/1083 1031/1347/1082
+s 973
+f 1026/1348/1086 1025/1054/832 1029/1056/834 1030/1349/1083
+s 974
+f 161/760/597 1024/1350/1087 1028/1344/1084 162/763/600
+s 975
+f 1024/1350/1087 1023/1351/1088 1027/1346/1085 1028/1344/1084
+s 976
+f 1023/1351/1088 1022/1352/1089 1026/1348/1086 1027/1346/1085
+s 977
+f 1022/1352/1089 1021/1052/830 1025/1054/832 1026/1348/1086
+s 978
+f 158/739/576 403/738/575 1024/1350/1087 161/760/597
+s 979
+f 403/738/575 404/1212/970 1023/1351/1088 1024/1350/1087
+s 980
+f 404/1212/970 405/1208/966 1022/1352/1089 1023/1351/1088
+s 981
+f 405/1208/966 406/1049/827 1021/1052/830 1022/1352/1089
+s 982
+f 252/878/688 1020/1353/1090 390/1354/1091 240/875/685
+s 983
+f 1020/1353/1090 1019/1355/1092 389/1356/1093 390/1354/1091
+s 984
+f 1019/1355/1092 1018/1357/1094 388/1358/1095 389/1356/1093
+s 985
+f 1018/1357/1094 1017/1048/826 387/1020/802 388/1358/1095
+s 986
+f 255/884/679 1016/1359/1096 1020/1353/1090 252/878/688
+s 987
+f 1016/1359/1096 1015/1360/1097 1019/1355/1092 1020/1353/1090
+s 988
+f 1015/1360/1097 1014/1361/1098 1018/1357/1094 1019/1355/1092
+s 989
+f 1014/1361/1098 1013/1045/824 1017/1048/826 1018/1357/1094
+s 990
+f 243/867/677 155/1362/1099 1016/1363/1096 255/869/679
+s 991
+f 155/1362/1099 156/1364/1100 1015/1365/1097 1016/1363/1096
+s 992
+f 156/1364/1100 157/1366/1101 1014/1367/1098 1015/1365/1097
+s 993
+f 157/1366/1101 374/1042/822 1013/1044/824 1014/1367/1098
+s 994
+f 242/864/674 375/1368/1102 155/1362/1099 243/867/677
+s 995
+f 375/1368/1102 376/1369/1103 156/1364/1100 155/1362/1099
+s 996
+f 376/1369/1103 377/1370/1104 157/1366/1101 156/1364/1100
+s 997
+f 377/1370/1104 378/1040/820 374/1042/822 157/1366/1101
+s 998
+f 239/863/673 383/1151/915 375/1368/1102 242/864/674
+s 999
+f 383/1151/915 384/1150/914 376/1369/1103 375/1368/1102
+s 1000
+f 384/1150/914 385/1152/916 377/1370/1104 376/1369/1103
+s 1001
+f 385/1152/916 386/1037/817 378/1040/820 377/1370/1104
+s 1002
+f 214/853/667 240/875/685 390/1354/1091 394/1157/921
+s 1003
+f 394/1157/921 390/1354/1091 389/1356/1093 393/1158/922
+s 1004
+f 393/1158/922 389/1356/1093 388/1358/1095 392/1210/968
+s 1005
+f 392/1210/968 388/1358/1095 387/1020/802 391/1019/801
+s 1006
+f 702/1035/815 746/1292/1040 1089/1371/1105 1085/1036/816
+s 1007
+f 1085/1036/816 1089/1371/1105 1090/1372/1106 1086/1373/1107
+s 1008
+f 1086/1373/1107 1090/1372/1106 1091/1374/1108 1087/1375/1109
+s 1009
+f 1087/1375/1109 1091/1374/1108 1092/1143/909 1088/1159/923
+s 1010
+f 710/757/594 1096/756/593 1104/1376/1110 714/1311/1055
+s 1011
+f 1096/756/593 1095/1377/1111 1103/1378/1112 1104/1376/1110
+s 1012
+f 1095/1377/1111 1094/1379/1113 1102/1380/1114 1103/1378/1112
+s 1013
+f 1094/1379/1113 1093/1154/918 1101/1153/917 1102/1380/1114
+s 1014
+f 714/1311/1055 1104/1376/1110 1108/1381/1115 722/1305/1050
+s 1015
+f 1104/1376/1110 1103/1378/1112 1107/1382/1116 1108/1381/1115
+s 1016
+f 1103/1378/1112 1102/1380/1114 1106/1383/1117 1107/1382/1116
+s 1017
+f 1102/1380/1114 1101/1153/917 1105/1147/913 1106/1383/1117
+s 1018
+f 722/1305/1050 1108/1381/1115 1112/1384/1118 730/1306/1045
+s 1019
+f 1108/1381/1115 1107/1382/1116 1111/1385/1119 1112/1384/1118
+s 1020
+f 1107/1382/1116 1106/1383/1117 1110/1386/1120 1111/1385/1119
+s 1021
+f 1106/1383/1117 1105/1147/913 1109/1149/912 1110/1386/1120
+s 1022
+f 730/1299/1045 1112/1387/1118 1116/1388/1121 738/1291/1039
+s 1023
+f 1112/1387/1118 1111/1389/1119 1115/1390/1122 1116/1388/1121
+s 1024
+f 1111/1389/1119 1110/1391/1120 1114/1392/1123 1115/1390/1122
+s 1025
+f 1110/1391/1120 1109/1146/912 1113/1142/908 1114/1392/1123
+s 1026
+f 738/1291/1039 1116/1388/1121 1089/1371/1105 746/1292/1040
+s 1027
+f 1116/1388/1121 1115/1390/1122 1090/1372/1106 1089/1371/1105
+s 1028
+f 1115/1390/1122 1114/1392/1123 1091/1374/1108 1090/1372/1106
+s 1029
+f 1114/1392/1123 1113/1142/908 1092/1143/909 1091/1374/1108
+s 1030
+f 758/1222/980 1072/1393/1124 1120/1394/1125 762/1279/1028
+s 1031
+f 1072/1393/1124 1071/1395/1126 1119/1396/1127 1120/1394/1125
+s 1032
+f 1071/1395/1126 1070/1397/1128 1118/1398/1129 1119/1396/1127
+s 1033
+f 1070/1397/1128 1069/747/584 1117/1137/903 1118/1398/1129
+s 1034
+f 762/1279/1028 1120/1394/1125 1124/1399/1130 770/1275/1025
+s 1035
+f 1120/1394/1125 1119/1396/1127 1123/1400/1131 1124/1399/1130
+s 1036
+f 1119/1396/1127 1118/1398/1129 1122/1401/1132 1123/1400/1131
+s 1037
+f 1118/1398/1129 1117/1137/903 1121/1132/900 1122/1401/1132
+s 1038
+f 770/1275/1025 1124/1399/1130 1128/1402/1133 778/1276/1020
+s 1039
+f 1124/1399/1130 1123/1400/1131 1127/1403/1134 1128/1402/1133
+s 1040
+f 1123/1400/1131 1122/1401/1132 1126/1404/1135 1127/1403/1134
+s 1041
+f 1122/1401/1132 1121/1132/900 1125/1134/897 1126/1404/1135
+s 1042
+f 778/1269/1020 1128/1405/1133 1132/1406/1136 786/1262/1015
+s 1043
+f 1128/1405/1133 1127/1407/1134 1131/1408/1137 1132/1406/1136
+s 1044
+f 1127/1407/1134 1126/1409/1135 1130/1410/1138 1131/1408/1137
+s 1045
+f 1126/1409/1135 1125/1129/897 1129/1124/893 1130/1410/1138
+s 1046
+f 786/1262/1015 1132/1406/1136 1136/748/585 794/751/588
+s 1047
+f 1132/1406/1136 1131/1408/1137 1135/1411/1139 1136/748/585
+s 1048
+f 1131/1408/1137 1130/1410/1138 1134/1412/1140 1135/1411/1139
+s 1049
+f 1130/1410/1138 1129/1124/893 1133/1125/894 1134/1412/1140
+s 1050
+f 306/941/739 1156/1413/1141 1137/1414/1142 294/938/736
+s 1051
+f 1156/1413/1141 1155/1415/1143 1138/1416/1144 1137/1414/1142
+s 1052
+f 1155/1415/1143 1154/1417/1145 1139/1418/1146 1138/1416/1144
+s 1053
+f 1154/1417/1145 1153/1072/846 1140/749/586 1139/1418/1146
+s 1054
+f 309/947/730 1152/1419/1147 1156/1413/1141 306/941/739
+s 1055
+f 1152/1419/1147 1151/1420/1148 1155/1415/1143 1156/1413/1141
+s 1056
+f 1151/1420/1148 1150/1421/1149 1154/1417/1145 1155/1415/1143
+s 1057
+f 1150/1421/1149 1149/1069/844 1153/1072/846 1154/1417/1145
+s 1058
+f 297/930/728 1148/1422/1150 1152/1423/1147 309/932/730
+s 1059
+f 1148/1422/1150 1147/1424/1151 1151/1425/1148 1152/1423/1147
+s 1060
+f 1147/1424/1151 1146/1426/1152 1150/1427/1149 1151/1425/1148
+s 1061
+f 1146/1426/1152 1145/1066/842 1149/1068/844 1150/1427/1149
+s 1062
+f 296/927/725 1144/1428/1153 1148/1422/1150 297/930/728
+s 1063
+f 1144/1428/1153 1143/1429/1154 1147/1424/1151 1148/1422/1150
+s 1064
+f 1143/1429/1154 1142/1430/1155 1146/1426/1152 1147/1424/1151
+s 1065
+f 1142/1430/1155 1141/1064/840 1145/1066/842 1146/1426/1152
+s 1066
+f 293/926/724 1100/1431/1156 1144/1428/1153 296/927/725
+s 1067
+f 1100/1431/1156 1099/1432/1157 1143/1429/1154 1144/1428/1153
+s 1068
+f 1099/1432/1157 1098/1433/1158 1142/1430/1155 1143/1429/1154
+s 1069
+f 1098/1433/1158 1097/759/596 1141/1064/840 1142/1430/1155
+s 1070
+f 333/970/764 1084/1434/1159 1088/1159/923 321/967/761
+s 1071
+f 1084/1434/1159 1083/1435/1160 1087/1375/1109 1088/1159/923
+s 1072
+f 1083/1435/1160 1082/1436/1161 1086/1373/1107 1087/1375/1109
+s 1073
+f 1082/1436/1161 1081/1034/814 1085/1036/816 1086/1373/1107
+s 1074
+f 336/976/755 1080/1437/1162 1084/1434/1159 333/970/764
+s 1075
+f 1080/1437/1162 1079/1438/1163 1083/1435/1160 1084/1434/1159
+s 1076
+f 1079/1438/1163 1078/1439/1164 1082/1436/1161 1083/1435/1160
+s 1077
+f 1078/1439/1164 1077/1031/812 1081/1034/814 1082/1436/1161
+s 1078
+f 324/959/753 1076/1440/1165 1080/1441/1162 336/961/755
+s 1079
+f 1076/1440/1165 1075/1442/1166 1079/1443/1163 1080/1441/1162
+s 1080
+f 1075/1442/1166 1074/1444/1167 1078/1445/1164 1079/1443/1163
+s 1081
+f 1074/1444/1167 1073/1028/810 1077/1030/812 1078/1445/1164
+s 1082
+f 323/956/750 1068/1446/1168 1076/1440/1165 324/959/753
+s 1083
+f 1068/1446/1168 1067/1447/1169 1075/1442/1166 1076/1440/1165
+s 1084
+f 1067/1447/1169 1066/1448/1170 1074/1444/1167 1075/1442/1166
+s 1085
+f 1066/1448/1170 1065/1026/808 1073/1028/810 1074/1444/1167
+s 1086
+f 320/745/582 1061/744/581 1068/1446/1168 323/956/750
+s 1087
+f 1061/744/581 1062/1449/1171 1067/1447/1169 1068/1446/1168
+s 1088
+f 1062/1449/1171 1063/1450/1172 1066/1448/1170 1067/1447/1169
+s 1089
+f 1063/1450/1172 1064/1023/805 1065/1026/808 1066/1448/1170
+s 1090
+f 347/985/775 1093/1154/918 1100/1431/1156 293/926/724
+s 1091
+f 1093/1154/918 1094/1379/1113 1099/1432/1157 1100/1431/1156
+s 1092
+f 1094/1379/1113 1095/1377/1111 1098/1433/1158 1099/1432/1157
+s 1093
+f 1095/1377/1111 1096/756/593 1097/759/596 1098/1433/1158
+s 1094
+f 268/915/718 294/938/736 1137/1414/1142 1133/1125/894
+s 1095
+f 1133/1125/894 1137/1414/1142 1138/1416/1144 1134/1412/1140
+s 1096
+f 1134/1412/1140 1138/1416/1144 1139/1418/1146 1135/1411/1139
+s 1097
+f 1135/1411/1139 1139/1418/1146 1140/749/586 1136/748/585
+s 1098
+f 666/1024/806 1064/1023/805 1072/1393/1124 758/1222/980
+s 1099
+f 1064/1023/805 1063/1450/1172 1071/1395/1126 1072/1393/1124
+s 1100
+f 1063/1450/1172 1062/1449/1171 1070/1397/1128 1071/1395/1126
+s 1101
+f 1062/1449/1171 1061/744/581 1069/747/584 1070/1397/1128
+s 1102
+f 755/1214/972 756/1221/979 664/1220/978 663/1215/973

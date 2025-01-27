@@ -1,0 +1,1062 @@
+# Blender v2.80 (sub 75) OBJ File: 'KayKit Character Exporter.blend'
+# www.blender.org
+mtllib mageHairB.mtl
+o mageHairB_Cube.3534
+v -0.000671 1.025849 -0.246902
+v -0.000671 0.889415 -0.448080
+v 0.028170 1.067929 -0.107640
+v 0.063231 1.025849 -0.238490
+v 0.093888 0.962272 -0.352899
+v 0.115300 0.889415 -0.432813
+v 0.131127 0.784254 -0.491877
+v 0.055047 1.067929 -0.096507
+v 0.122780 1.025849 -0.213824
+v 0.182002 0.962272 -0.316400
+v 0.223368 0.889415 -0.388049
+v 0.253942 0.784255 -0.441005
+v 0.078127 1.067929 -0.078798
+v 0.173915 1.025849 -0.174586
+v 0.257669 0.962272 -0.258340
+v 0.316169 0.889415 -0.316840
+v 0.359406 0.784256 -0.360079
+v 0.095836 1.067929 -0.055719
+v 0.213153 1.025849 -0.123451
+v 0.315728 0.962272 -0.182674
+v 0.387378 0.889415 -0.224040
+v 0.440331 0.784258 -0.254614
+v -0.000671 1.076321 -0.000000
+v 0.106969 1.067929 -0.028841
+v 0.237818 1.025849 -0.063902
+v 0.352227 0.962272 -0.094559
+v 0.432141 0.889415 -0.115972
+v 0.491203 0.784261 -0.131798
+v 0.110766 1.067929 -0.000000
+v 0.246231 1.025849 -0.000000
+v 0.364677 0.962272 -0.000000
+v 0.447376 0.889456 -0.000058
+v 0.508562 0.784245 -0.000058
+v 0.106969 1.067929 0.028841
+v 0.237818 1.025849 0.063902
+v 0.352227 0.962272 0.094559
+v 0.432035 0.889586 0.115831
+v 0.491211 0.789444 0.131774
+v 0.095836 1.067929 0.055718
+v 0.213153 1.025849 0.123451
+v 0.315728 0.962272 0.182673
+v 0.387193 0.890810 0.223845
+v 0.440512 0.800692 0.254403
+v 0.078127 1.067929 0.078798
+v 0.173915 1.025849 0.174586
+v 0.257668 0.963248 0.258340
+v 0.315959 0.896478 0.316593
+v 0.359479 0.813806 0.359552
+v 0.055047 1.067929 0.096507
+v 0.122780 1.026302 0.213824
+v 0.182002 0.970105 0.316400
+v 0.223198 0.907293 0.387755
+v 0.253767 0.827112 0.440460
+v 0.028170 1.067929 0.107640
+v 0.063231 1.027895 0.238490
+v 0.093888 0.978255 0.352899
+v 0.115212 0.921364 0.432484
+v 0.130965 0.839711 0.491277
+v -0.000671 1.067929 0.087410
+v -0.000671 1.028712 0.222875
+v -0.000671 0.981796 0.341321
+v -0.000671 0.927913 0.423713
+v -0.000671 0.851974 0.484579
+v -0.029512 1.067929 0.107640
+v -0.064573 1.027895 0.238490
+v -0.095230 0.978255 0.352899
+v -0.116555 0.921364 0.432484
+v -0.132308 0.839711 0.491277
+v -0.056389 1.067929 0.096507
+v -0.124122 1.026302 0.213824
+v -0.183345 0.970105 0.316400
+v -0.224541 0.907293 0.387755
+v -0.255109 0.827112 0.440460
+v -0.079469 1.067929 0.078798
+v -0.175257 1.025849 0.174586
+v -0.259011 0.963249 0.258340
+v -0.317302 0.896478 0.316593
+v -0.360822 0.813806 0.359552
+v -0.097178 1.067929 0.055718
+v -0.214495 1.025849 0.123451
+v -0.317071 0.962272 0.182673
+v -0.388536 0.890810 0.223845
+v -0.441855 0.800692 0.254403
+v -0.108311 1.067929 0.028841
+v -0.239161 1.025849 0.063902
+v -0.353570 0.962272 0.094559
+v -0.433377 0.889586 0.115831
+v -0.492554 0.789444 0.131774
+v -0.112109 1.067929 -0.000000
+v -0.247573 1.025849 -0.000000
+v -0.366019 0.962272 -0.000000
+v -0.448719 0.889455 -0.000058
+v -0.509905 0.784245 -0.000058
+v -0.108311 1.067929 -0.028841
+v -0.239161 1.025849 -0.063902
+v -0.353570 0.962272 -0.094559
+v -0.433484 0.889415 -0.115972
+v -0.492546 0.784261 -0.131798
+v -0.097178 1.067929 -0.055719
+v -0.214495 1.025849 -0.123451
+v -0.317071 0.962272 -0.182674
+v -0.388720 0.889415 -0.224040
+v -0.441674 0.784258 -0.254614
+v -0.079469 1.067929 -0.078798
+v -0.175257 1.025849 -0.174586
+v -0.259011 0.962272 -0.258340
+v -0.317512 0.889415 -0.316841
+v -0.360749 0.784256 -0.360079
+v -0.056389 1.067929 -0.096507
+v -0.124122 1.025849 -0.213824
+v -0.183345 0.962272 -0.316400
+v -0.224711 0.889415 -0.388049
+v -0.255284 0.784255 -0.441005
+v -0.029512 1.067929 -0.107640
+v -0.064573 1.025849 -0.238490
+v -0.095230 0.962272 -0.352899
+v -0.116643 0.889415 -0.432813
+v -0.132469 0.784254 -0.491877
+v -0.000671 1.067929 -0.111438
+v -0.000671 0.962272 -0.365348
+v -0.000671 0.784254 -0.509229
+v 0.139067 0.666273 -0.521514
+v 0.269283 0.666273 -0.467577
+v 0.381101 0.666273 -0.381776
+v 0.466904 0.666273 -0.269956
+v 0.520841 0.666273 -0.139740
+v 0.539247 0.671362 0.000049
+v 0.520821 0.684219 0.139983
+v 0.467152 0.699276 0.269741
+v 0.381629 0.711153 0.381135
+v 0.269628 0.724432 0.467059
+v 0.139198 0.734562 0.521002
+v -0.000671 0.739119 0.514350
+v -0.140541 0.734562 0.521002
+v -0.270971 0.724432 0.467059
+v -0.382972 0.711153 0.381135
+v -0.468495 0.699276 0.269741
+v -0.522164 0.684219 0.139983
+v -0.540590 0.671362 0.000049
+v -0.522183 0.666273 -0.139740
+v -0.468246 0.666273 -0.269956
+v -0.382444 0.666273 -0.381775
+v -0.270626 0.666273 -0.467577
+v -0.140410 0.666273 -0.521514
+v -0.000671 0.666273 -0.539911
+v 0.143135 0.488627 -0.536696
+v 0.277142 0.488627 -0.481189
+v 0.392217 0.488627 -0.392889
+v 0.480517 0.488627 -0.277816
+v 0.536024 0.488627 -0.143808
+v 0.554956 0.488627 0.000064
+v 0.535977 0.488627 0.143998
+v 0.469583 0.488627 0.287675
+v 0.381576 0.543229 0.394410
+v 0.266429 0.605152 0.479308
+v 0.132414 0.669314 0.532463
+v -0.133757 0.669313 0.532463
+v -0.267771 0.605152 0.479308
+v -0.382919 0.543229 0.394410
+v -0.470926 0.488627 0.287675
+v -0.537320 0.488627 0.143998
+v -0.556299 0.488627 0.000064
+v -0.537367 0.488627 -0.143808
+v -0.481859 0.488627 -0.277816
+v -0.393559 0.488627 -0.392889
+v -0.278485 0.488627 -0.481189
+v -0.144478 0.488627 -0.536696
+v -0.000671 0.488627 -0.555628
+v 0.139564 0.259640 -0.527811
+v 0.269961 0.275861 -0.473375
+v 0.381436 0.291091 -0.387017
+v 0.466074 0.296172 -0.274845
+v 0.519611 0.297374 -0.144880
+v 0.541001 0.317533 -0.004495
+v 0.526527 0.346707 0.138092
+v 0.456043 0.360956 0.284701
+v -0.457386 0.360955 0.284701
+v -0.527869 0.346707 0.138092
+v -0.542344 0.317533 -0.004495
+v -0.520954 0.297374 -0.144880
+v -0.467417 0.296172 -0.274845
+v -0.382779 0.291091 -0.387017
+v -0.271303 0.275861 -0.473375
+v -0.140907 0.259640 -0.527811
+v -0.000671 0.252850 -0.546415
+v 0.043508 0.036459 -0.409797
+v 0.219782 0.080216 -0.415074
+v 0.323473 0.100856 -0.355818
+v 0.391912 0.114547 -0.260004
+v 0.433334 0.117347 -0.150951
+v 0.446235 0.116545 -0.035451
+v 0.453664 0.116934 0.077923
+v 0.405815 0.105972 0.167154
+v -0.407158 0.105972 0.167155
+v -0.455008 0.116934 0.077923
+v -0.447579 0.116545 -0.035451
+v -0.434678 0.117347 -0.150951
+v -0.393255 0.114547 -0.260005
+v -0.324816 0.100856 -0.355818
+v -0.221125 0.080216 -0.415074
+v -0.044851 0.036459 -0.409797
+v -0.000671 0.042913 -0.417952
+v 0.034632 0.013857 -0.364500
+v 0.166195 0.017743 -0.323773
+v 0.214064 0.017743 -0.315384
+v 0.269234 0.017743 -0.291445
+v 0.301743 0.017743 -0.242517
+v 0.313297 0.017743 -0.185018
+v 0.304360 0.017743 -0.126755
+v 0.267007 0.017743 -0.064736
+v -0.268350 0.017743 -0.064736
+v -0.305703 0.017743 -0.126755
+v -0.314640 0.017743 -0.185018
+v -0.303086 0.017743 -0.242517
+v -0.270577 0.017743 -0.291445
+v -0.215407 0.017743 -0.315384
+v -0.167538 0.017743 -0.323773
+v -0.035975 0.013857 -0.364500
+v -0.000671 0.008535 -0.367601
+v 0.022833 0.976103 -0.093006
+v 0.051980 0.941156 -0.201797
+v 0.077302 0.888821 -0.296319
+v 0.093851 0.832913 -0.358097
+v 0.106089 0.747394 -0.403784
+v -0.000672 0.941140 -0.208730
+v -0.000672 0.832893 -0.370542
+v 0.044736 0.976129 -0.083932
+v 0.101041 0.941203 -0.181473
+v 0.149960 0.888876 -0.266219
+v 0.181930 0.832967 -0.321610
+v 0.205573 0.747441 -0.362574
+v 0.063542 0.976170 -0.069499
+v 0.143168 0.941278 -0.149141
+v 0.212349 0.888966 -0.218339
+v 0.257563 0.833056 -0.263570
+v 0.291000 0.747515 -0.297021
+v 0.077972 0.976223 -0.050691
+v 0.175491 0.941376 -0.107008
+v 0.260218 0.889082 -0.155943
+v 0.315594 0.833170 -0.187931
+v 0.356549 0.747614 -0.211591
+v -0.000672 0.982759 -0.005278
+v 0.087042 0.976285 -0.028788
+v 0.195805 0.941491 -0.057948
+v 0.290304 0.889219 -0.083285
+v 0.352070 0.833306 -0.099852
+v 0.397753 0.747728 -0.112107
+v 0.090133 0.976351 -0.005285
+v 0.202729 0.941614 -0.005301
+v 0.300559 0.889365 -0.005319
+v 0.364545 0.833401 -0.005263
+v 0.411788 0.749218 -0.005298
+v 0.087036 0.976418 0.018217
+v 0.195791 0.941737 0.047341
+v 0.290286 0.889512 0.072644
+v 0.352176 0.833816 0.089332
+v 0.397729 0.758477 0.101388
+v 0.077962 0.976480 0.040116
+v 0.175466 0.941853 0.096392
+v 0.260186 0.890249 0.145289
+v 0.315766 0.838960 0.177514
+v 0.356457 0.770285 0.201219
+v 0.063531 0.976534 0.058919
+v 0.143140 0.942879 0.138511
+v 0.212312 0.895200 0.207666
+v 0.257787 0.846998 0.253249
+v 0.290807 0.787246 0.286960
+v 0.044726 0.976575 0.073346
+v 0.101016 0.945934 0.170828
+v 0.149928 0.905120 0.255528
+v 0.182154 0.859079 0.311330
+v 0.205696 0.799640 0.352504
+v 0.022828 0.976601 0.082415
+v 0.051966 0.948985 0.191143
+v 0.077284 0.914355 0.285614
+v 0.093966 0.873966 0.347856
+v 0.106271 0.812126 0.393766
+v -0.000671 0.976611 0.085509
+v -0.000672 0.950236 0.198071
+v -0.000672 0.918106 0.295877
+v -0.000672 0.880316 0.360314
+v -0.000672 0.821356 0.407845
+v -0.024171 0.976601 0.082415
+v -0.053309 0.948985 0.191143
+v -0.078627 0.914355 0.285614
+v -0.095309 0.873966 0.347856
+v -0.107614 0.812126 0.393766
+v -0.046069 0.976575 0.073346
+v -0.102360 0.945934 0.170828
+v -0.151271 0.905120 0.255528
+v -0.183498 0.859079 0.311330
+v -0.207039 0.799640 0.352504
+v -0.064874 0.976534 0.058919
+v -0.144483 0.942879 0.138511
+v -0.213656 0.895200 0.207666
+v -0.259131 0.846998 0.253249
+v -0.292150 0.787246 0.286960
+v -0.079305 0.976480 0.040116
+v -0.176809 0.941853 0.096392
+v -0.261529 0.890249 0.145289
+v -0.317110 0.838960 0.177514
+v -0.357801 0.770285 0.201219
+v -0.088379 0.976418 0.018217
+v -0.197134 0.941737 0.047341
+v -0.291629 0.889512 0.072644
+v -0.353519 0.833816 0.089332
+v -0.399072 0.758477 0.101388
+v -0.091476 0.976351 -0.005285
+v -0.204072 0.941614 -0.005301
+v -0.301903 0.889365 -0.005319
+v -0.365888 0.833401 -0.005263
+v -0.413131 0.749219 -0.005298
+v -0.088385 0.976285 -0.028788
+v -0.197148 0.941491 -0.057948
+v -0.291648 0.889219 -0.083285
+v -0.353413 0.833306 -0.099852
+v -0.399096 0.747728 -0.112107
+v -0.079315 0.976223 -0.050691
+v -0.176834 0.941376 -0.107009
+v -0.261561 0.889082 -0.155943
+v -0.316937 0.833171 -0.187931
+v -0.357892 0.747614 -0.211591
+v -0.064885 0.976170 -0.069499
+v -0.144512 0.941278 -0.149141
+v -0.213692 0.888966 -0.218339
+v -0.258906 0.833056 -0.263570
+v -0.292343 0.747515 -0.297021
+v -0.046079 0.976129 -0.083932
+v -0.102384 0.941203 -0.181473
+v -0.151303 0.888876 -0.266219
+v -0.183273 0.832967 -0.321610
+v -0.206916 0.747441 -0.362574
+v -0.024176 0.976103 -0.093006
+v -0.053323 0.941156 -0.201797
+v -0.078645 0.888820 -0.296319
+v -0.095194 0.832913 -0.358097
+v -0.107432 0.747394 -0.403784
+v -0.000671 0.976095 -0.096100
+v -0.000672 0.747377 -0.417839
+v -0.000672 0.888801 -0.306586
+v 0.112529 0.640358 -0.427826
+v 0.218014 0.640391 -0.384131
+v 0.308596 0.640445 -0.314625
+v 0.378102 0.640515 -0.224042
+v 0.421794 0.641654 -0.118557
+v 0.436684 0.652323 -0.005444
+v 0.421819 0.662566 0.107526
+v 0.377839 0.661171 0.213522
+v 0.307920 0.706750 0.304638
+v 0.217518 0.734310 0.374016
+v 0.112362 0.745056 0.417659
+v -0.000672 0.736619 0.441071
+v -0.113705 0.745056 0.417659
+v -0.218861 0.734310 0.374016
+v -0.309264 0.706750 0.304638
+v -0.379183 0.661171 0.213522
+v -0.423162 0.662566 0.107526
+v -0.438028 0.652323 -0.005444
+v -0.423138 0.641654 -0.118557
+v -0.379445 0.640514 -0.224042
+v -0.309940 0.640445 -0.314625
+v -0.219357 0.640391 -0.384131
+v -0.113872 0.640358 -0.427825
+v -0.000672 0.640346 -0.442728
+v -0.117421 0.478595 -0.441075
+v -0.000672 0.477620 -0.456445
+v -0.226215 0.481164 -0.396011
+v -0.319638 0.483986 -0.324326
+v -0.391323 0.484795 -0.230903
+v -0.436387 0.492787 -0.122109
+v -0.451758 0.514790 -0.005449
+v -0.436439 0.523179 0.111177
+v -0.388557 0.511429 0.235704
+v -0.318870 0.537056 0.329657
+v -0.222374 0.603611 0.399648
+v -0.110059 0.671462 0.443910
+v 0.108716 0.671462 0.443910
+v 0.221031 0.603611 0.399648
+v 0.317527 0.537056 0.329657
+v 0.387213 0.511429 0.235703
+v 0.435095 0.523179 0.111177
+v 0.450415 0.514790 -0.005449
+v 0.435043 0.492787 -0.122109
+v 0.389980 0.484795 -0.230903
+v 0.318294 0.483986 -0.324326
+v 0.224871 0.481164 -0.396011
+v 0.116078 0.478595 -0.441076
+v -0.115459 0.317224 -0.436653
+v -0.000672 0.313529 -0.452140
+v -0.221578 0.325349 -0.391533
+v -0.311593 0.332560 -0.320642
+v -0.379541 0.333651 -0.229317
+v -0.423459 0.340295 -0.123778
+v -0.441830 0.364146 -0.009164
+v -0.429869 0.388194 0.107061
+v -0.384001 0.394060 0.238498
+v 0.428525 0.388195 0.107061
+v 0.382657 0.394060 0.238498
+v 0.440487 0.364146 -0.009164
+v 0.422116 0.340295 -0.123778
+v 0.378198 0.333652 -0.229317
+v 0.310249 0.332560 -0.320642
+v 0.220235 0.325349 -0.391533
+v 0.114115 0.31722}'%±†Rp&      corridor.json                                                                                                                                                                                                                                              û  entrance.json                                                                                                                                                                                                                                          û  q  intersection.json                                                                                                                                                                                                                                        W  intersection_barrel.json                                                                                                                                                                                                                               f  Å  reward.json                                                                                                                                                                                                                                            Á    reward_common.json                                                                                                                                                                                                                                     ˇ  —  reward_ominous.json                                                                                                                                                                                                                                    –  8  reward_ominous_common.json                                                                                                                                                                                                                               Ì  reward_ominous_rare.json                                                                                                                                                                                                                               ı  n  reward_ominous_unique.json                                                                                                                                                                                                                             c#  t  reward_rare.json                                                                                                                                                                                                                                       ◊$  ∆  reward_unique.json                                                                                                                                                                                                                                     ù,  k  supply.json                                                                                                                                                                                                                                            .  à  {"pools":[{"rolls":{"min":1,"max":3},"entries":[{"type":"item","name":"minecraft:iron_axe","weight":1,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.4,"max":0.9}},{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:honeycomb","weight":1,"functions":[{"function":"set_count","count":{"min":2,"max":8}}]},{"type":"item","name":"minecraft:stone_axe","weight":2,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:stone_pickaxe","weight":2,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:ender_pearl","weight":2,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:bamboo_hanging_sign","weight":2,"functions":[{"function":"set_count","count":{"min":1,"max":4}}]},{"type":"item","name":"minecraft:bamboo_planks","weight":2,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},{"type":"item","name":"minecraft:scaffolding","weight":2,"functions":[{"function":"set_count","count":{"min":2,"max":10}}]},{"type":"item","name":"minecraft:torch","weight":2,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},{"type":"item","name":"minecraft:tuff","weight":3,"functions":[{"function":"set_count","count":{"min":8,"max":20}}]}]}]}{"pools":[{"rolls":{"min":2,"max":3},"entries":[{"type":"item","name":"minecraft:trial_key","weight":1,"functions":[{"function":"set_count","count":1.0}]},{"type":"item","name":"minecraft:stick","weight":5,"functions":[{"function":"set_count","count":{"min":2,"max":5}}]},{"type":"item","name":"minecraft:wooden_axe","weight":10,"functions":[{"function":"set_count","count":1.0}]},{"type":"item","name":"minecraft:honeycomb","weight":10,"functions":[{"function":"set_count","count":{"min":2,"max":8}}]},{"type":"item","name":"minecraft:arrow","weight":10,"functions":[{"function":"set_count","count":{"min":5,"max":10}}]}]}]}{"pools":[{"rolls":{"min":1,"max":3},"entries":[{"type":"item","name":"minecraft:diamond_block","weight":1,"functions":[{"function":"set_count","count":1.0}]},{"type":"item","name":"minecraft:emerald_block","weight":5,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]},{"type":"item","name":"minecraft:diamond_axe","weight":5,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.1,"max":0.5}}]},{"type":"item","name":"minecraft:diamond_pickaxe","weight":5,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.1,"max":0.5}}]},{"type":"item","name":"minecraft:diamond","weight":10,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:cake","weight":20,"functions":[{"function":"set_count","count":{"min":1,"max":4}}]},{"type":"item","name":"minecraft:amethyst_shard","weight":20,"functions":[{"function":"set_count","count":{"min":8,"max":20}}]},{"type":"item","name":"minecraft:iron_block","weight":20,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]}]}]}{"pools":[{"rolls":{"min":1,"max":3},"entries":[{"type":"item","name":"minecraft:diamond_axe","weight":1,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.4,"max":0.9}},{"function":"enchant_randomly"}]},{"type":"item","name":"minecraft:diamond_pickaxe","weight":1,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:diamond","weight":1,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]},{"type":"item","name":"minecraft:compass","weight":1,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:bucket","weight":1,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:golden_axe","weight":4,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:golden_pickaxe","weight":4,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:bamboo_planks","weight":10,"functions":[{"function":"set_count","count":{"min":5,"max":15}}]},{"type":"item","name":"minecraft:baked_potato","weight":10,"functions":[{"function":"set_count","count":{"min":6,"max":10}}]}]}]}{"pools":[{"rolls":1,"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_common.json","weight":8},{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_rare.json","weight":2}]},{"rolls":{"min":1,"max":3},"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_common.json","weight":1}]},{"rolls":1,"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_unique.json","weight":1}],"conditions":[{"condition":"random_chance","chance":0.25}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:arrow","weight":4,"functions":[{"function":"set_count","count":{"min":2,"max":8}}]},{"type":"item","name":"minecraft:arrow","weight":4,"aux_val":26,"functions":[{"function":"set_count","count":{"min":2,"max":8}},{"function":"set_data","data":26}]},{"type":"item","name":"minecraft:emerald","weight":4,"functions":[{"function":"set_count","count":{"min":2,"max":4}}]},{"type":"item","name":"minecraft:wind_charge","weight":3,"functions":[{"function":"set_count","count":{"min":1,"max":3}}]},{"type":"item","name":"minecraft:iron_ingot","weight":3,"functions":[{"function":"set_count","count":{"min":1,"max":4}}]},{"type":"item","name":"minecraft:honey_bottle","weight":3,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:ominous_bottle","weight":2,"functions":[{"function":"set_count","count":1.0},{"function":"set_ominous_bottle_amplifier","amplifier":{"min":0,"max":1}}]},{"type":"item","name":"minecraft:wind_charge","weight":1,"functions":[{"function":"set_count","count":{"min":4,"max":12}}]},{"type":"item","name":"minecraft:diamond","weight":1,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]}]}]}{"pools":[{"rolls":1,"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_ominous_common.json","weight":2},{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_ominous_rare.json","weight":8}]},{"rolls":{"min":1,"max":3},"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_ominous_common.json","weight":1}]},{"rolls":1,"entries":[{"type":"loot_table","name":"loot_tables/chests/trial_chambers/reward_ominous_unique.json","weight":1}],"conditions":[{"condition":"random_chance","chance":0.75}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:emerald","weight":5,"functions":[{"function":"set_count","count":{"min":4,"max":10}}]},{"type":"item","name":"minecraft:wind_charge","weight":4,"functions":[{"function":"set_count","count":{"min":8,"max":12}}]},{"type":"item","name":"minecraft:arrow","weight":3,"aux_val":43,"functions":[{"function":"set_count","count":{"min":4,"max":12}},{"function":"set_data","data":43}]},{"type":"item","name":"minecraft:diamond","weight":2,"functions":[{"function":"set_count","count":{"min":2,"max":3}}]},{"type":"item","name":"minecraft:ominous_bottle","weight":1,"functions":[{"function":"set_count","count":1.0},{"function":"set_ominous_bottle_amplifier","amplifier":{"min":2,"max":4}}]}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:emerald_block","weight":5},{"type":"item","name":"minecraft:iron_block","weight":4},{"type":"item","name":"minecraft:crossbow","weight":4,"functions":[{"function":"enchant_with_levels","levels":{"min":5.0,"max":20.0},"treasure":true}]},{"type":"item","name":"minecraft:golden_apple","weight":3},{"type":"item","name":"minecraft:diamond_axe","weight":3,"functions":[{"function":"enchant_with_levels","levels":{"min":10.0,"max":20.0},"treasure":true}]},{"type":"item","name":"minecraft:diamond_chestplate","weight":3,"functions":[{"function":"enchant_with_levels","levels":{"min":10.0,"max":20.0},"treasure":true}]},{"type":"item","name":"minecraft:book","weight":2,"functions":[{"function":"enchant_book_for_trading","enchantments":[{"name":"knockback","min":1,"max":2},{"name":"punch","min":1,"max":2},{"name":"smite","min":1,"max":5},{"name":"looting","min":1,"max":3},{"name":"multishot","min":1,"max":1}]}]},{"type":"item","name":"minecraft:book","weight":2,"functions":[{"function":"enchant_book_for_trading","enchantments":[{"name":"breach","min":1,"max":4},{"name":"density","min":1,"max":5}]}]},{"type":"item","name":"minecraft:book","weight":2,"functions":[{"function":"enchant_book_for_trading","enchantments":[{"name":"wind_burst","min":1,"max":1}]}]},{"type":"item","name":"minecraft:diamond_block","weight":1}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:enchanted_golden_apple","weight":3},{"type":"item","name":"minecraft:flow_armor_trim_smithing_template","weight":3},{"type":"item","name":"minecraft:flow_banner_pattern","weight":2},{"type":"item","name":"minecraft:music_disc_creator","weight":1},{"type":"item","name":"minecraft:heavy_core","weight":1}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:emerald","weight":3,"functions":[{"function":"set_count","count":{"min":2,"max":4}}]},{"type":"item","name":"minecraft:shield","weight":3,"functions":[{"function":"set_damage","damage":{"min":0.5,"max":1.0}}]},{"type":"item","name":"minecraft:bow","weight":3,"functions":[{"function":"enchant_with_levels","levels":{"min":5.0,"max":15.0},"treasure":true}]},{"type":"item","name":"minecraft:crossbow","weight":2,"functions":[{"function":"enchant_with_levels","levels":{"min":5.0,"max":20.0},"treasure":true}]},{"type":"item","name":"minecraft:iron_axe","weight":2,"functions":[{"function":"enchant_with_levels","levels":{"min":0.0,"max":10.0},"treasure":true}]},{"type":"item","name":"minecraft:iron_chestplate","weight":2,"functions":[{"function":"enchant_with_levels","levels":{"min":0.0,"max":10.0},"treasure":true}]},{"type":"item","name":"minecraft:golden_carrot","weight":2,"functions":[{"function":"set_count","count":{"min":1,"max":2}}]},{"type":"item","name":"minecraft:book","weight":2,"functions":[{"function":"enchant_book_for_trading","enchantments":[{"name":"sharpness","min":1,"max":5},{"name":"bane_of_arthropods","min":1,"max":5},{"name":"efficiency","min":1,"max":5},{"name":"fortune","min":1,"max":3},{"name":"silk_touch","min":1,"max":1},{"name":"feather_falling","min":1,"max":4}]}]},{"type":"item","name":"minecraft:book","weight":2,"functions":[{"function":"enchant_book_for_trading","enchantments":[{"name":"riptide","min":1,"max":3},{"name":"loyalty","min":1,"max":3},{"name":"channeling","min":1,"max":1},{"name":"impaling","min":1,"max":5},{"name":"mending","min":1,"max":1}]}]},{"type":"item","name":"minecraft:diamond_chestplate","weight":1,"functions":[{"function":"enchant_with_levels","levels":{"min":5.0,"max":15.0},"treasure":true}]},{"type":"item","name":"minecraft:diamond_axe","weight":1,"functions":[{"function":"enchant_with_levels","levels":{"min":5.0,"max":15.0},"treasure":true}]}]}]}{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:golden_apple","weight":4},{"type":"item","name":"minecraft:bolt_armor_trim_smithing_template","weight":3},{"type":"item","name":"minecraft:guster_banner_pattern","weight":2},{"type":"item","name":"minecraft:music_disc_precipice","weight":2},{"type":"item","name":"minecraft:trident","weight":1}]}]}{"pools":[{"rolls":{"min":3,"max":5},"entries":[{"type":"item","name":"minecraft:arrow","weight":2,"functions":[{"function":"set_count","count":{"min":4,"max":14}}]},{"type":"item","name":"minecraft:arrow","weight":1,"aux_val":26,"functions":[{"function":"set_count","count":{"min":4,"max":8}},{"function":"set_data","data":26}]},{"type":"item","name":"minecraft:arrow","weight":1,"aux_val":18,"functions":[{"function":"set_count","count":{"min":4,"max":8}},{"function":"set_data","data":18}]},{"type":"item","name":"minecraft:baked_potato","weight":2,"functions":[{"function":"set_count","count":{"min":2,"max":4}}]},{"type":"item","name":"minecraft:glow_berries","weight":2,"functions":[{"function":"set_count","count":{"min":2,"max":10}}]},{"type":"item","name":"minecraft:acacia_planks","weight":1,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},{"type":"item","name":"minecraft:moss_block","weight":1,"functions":[{"function":"set_count","count":{"min":2,"max":5}}]},{"type":"item","name":"minecraft:bone_meal","weight":1,"functions":[{"function":"set_count","count":{"min":2,"max":5}}]},{"type":"item","name":"minecraft:tuff","weight":1,"functions":[{"function":"set_count","count":{"min":5,"max":10}}]},{"type":"item","name":"minecraft:torch","weight":1,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},{"type":"item","name":"minecraft:potion","weight":1,"aux_val":28,"functions":[{"function":"set_count","count":2.0},{"function":"set_data","data":28}]},{"type":"item","name":"minecraft:potion","weight":1,"aux_val":31,"functions":[{"function":"set_count","count":2.0},{"function":"set_data","data":31}]},{"type":"item","name":"minecraft:stone_pickaxe","weight":2,"functions":[{"function":"set_count","count":1.0},{"function":"set_damage","damage":{"min":0.15,"max":0.8}}]},{"type":"item","name":"minecraft:milk_bucket","weight":1,"functions":[{"function":"set_count","count":1.0}]}]}]}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+    "tiers": [
+      {
+        "total_exp_required": 0,
+        "groups": [
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:paper",
+                    "quantity": 24,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 2,
+                "max_uses": 16,
+                "reward_exp": true
+              }
+            ]
+          },
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 7,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:emptymap:0",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 1,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "total_exp_required": 10,
+        "groups": [
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:glass_pane",
+                    "quantity": 11,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 10,
+                "max_uses": 16,
+                "reward_exp": true
+              }
+            ]
+          },
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 13,
+                    "price_multiplier": 0.2
+                  },
+                  {
+                    "item": "minecraft:compass",
+                    "quantity": 1,
+                    "price_multiplier": 0.2
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:map",
+                    "filters": { "test": "in_overworld", "subject": "self", "value": true, "operator": "="},
+                    "functions": [
+                      {
+                        "function": "exploration_map",
+                        "destination": "monument"
+                      }
+                    ]
+                  }
+                ],
+                "trader_exp": 5,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "total_exp_required": 70,
+        "groups": [
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:compass",
+                    "quantity": 1,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 20,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          },
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 14,
+                    "price_multiplier": 0.2
+                  },
+                  {
+                    "item": "minecraft:compass",
+                    "quantity": 1,
+                    "price_multiplier": 0.2
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:map",
+                    "filters": { "test": "in_overworld", "subject": "self", "value": true, "operator": "="},
+                    "functions": [
+                      {
+                        "function": "exploration_map",
+                        "destination": "mansion"
+                      }
+                    ]
+                  }
+                ],
+                "trader_exp": 10,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          },
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 12,
+                    "price_multiplier": 0.2
+                  },
+                  {
+                    "item": "minecraft:compass",
+                    "quantity": 1,
+                    "price_multiplier": 0.2
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:map",
+                    "filters": {
+                      "test": "in_overworld",
+                      "subject": "self",
+                      "value": true,
+                      "operator": "="
+                    },
+                    "functions": [
+                      {
+                        "function": "exploration_map",
+                        "destination": "trial_chambers"
+                      }
+                    ]
+                  }
+                ],
+                "trader_exp": 10,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "total_exp_required": 150,
+        "groups": [
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 7,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:frame",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 15,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          },
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 3,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:banner",
+                    "quantity": 1,
+                    "functions": [
+                      {
+                        "function": "random_aux_value",
+                        "values": {
+                          "min": 0,
+                          "max": 15
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "trader_exp": 15,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "total_exp_required": 250,
+        "groups": [
+          {
+            "num_to_select": 1,
+            "trades": [
+              {
+                "wants": [
+                  {
+                    "item": "minecraft:emerald",
+                    "quantity": 8,
+                    "price_multiplier": 0.05
+                  }
+                ],
+                "gives": [
+                  {
+                    "item": "minecraft:banner_pattern:7",
+                    "quantity": 1
+                  }
+                ],
+                "trader_exp": 30,
+                "max_uses": 12,
+                "reward_exp": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  INDX( 	 +∫U           (   @  Ë                             —G    p `     –G    Çbvs◊⁄Q0◊u◊⁄πØ'ø∆€Q0◊u◊⁄       ò              b a b y _ z o m b i e . n b t —G    p Z     –G    Çbvs◊⁄Q0◊u◊⁄πØ'ø∆€Q0◊u◊⁄       ò              B A B Y _ Z ~ 1 . N B T       “G    p `     –G    Çbvs◊⁄cW◊u◊⁄≈÷'ø∆€cW◊u◊⁄       í              c a v e _ s p i d e r . n b t “G    p Z     –G    Çbvs◊⁄cW◊u◊⁄≈÷'ø∆€cW◊u◊⁄       í              C A V E _ S ~ 1 . N B T      ”G    p ^     –G    Çbvs◊⁄cW◊u◊⁄≈÷'ø∆€cW◊u◊⁄       e              s i l v e r f i s h . n b t   ”G    p Z     –G    Çbvs◊⁄cW◊u◊⁄≈÷'ø∆€cW◊u◊⁄       e              S I L V E R ~ 1 . N B T       ‘G    h T     –G    èâvs◊⁄cW◊u◊⁄≈÷'ø∆€cW◊u◊⁄p      k              	s l i m e . n b t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ã      ˇçUMè⁄0ù$|$Ym˜µóJïzÆƒ•ß^∫ïzÆzÍ’r`f;≤áRzÍOÔ8íÖÄàÑˆõô7œoL
+ê¿¿©ø¿˛˙Ôb‘§H°ˇ$0 
+3{q)ˇxL ™å€ûÜé$a—á	:ò‡&ºê'Ë©uú'Ë©û¡ÑÚÑWÙˆ‘:óÁR_∞Á‘¡Dg0¡ò&∏^¡'ºÇOÿ[+ÖHg√peî&ÀB-4Œc∏…ïñÖÿ!oK•qfeN_§≤1¥,⁄UW…çF¡cU»ñÏXQYe¨¢≠ÁŒ!ï1‹µ!XV¥Â áŒH}™9‹∑ïZ8πâaD“.êN2ùQ∂´⁄†È6Ö[ml…›ÕåŒ’"Ç'R<P"C⁄ jQw√ìÓÎwQÚC(ãzÍÇsI2ÖQ=ö€€IGU¸Fõ+∑ÙFTã%’îÜ‡Tπ.Hj4k'JìπÁg‡ıè'ÎBŒÁ8Z¡≤n—~ı•∆p%⁄ÒO`RCÇdV†dÆXRœ4åwL·”…YπiìeJVy-ñ≤Ã–N_p€e¡>≈Á´S0-∑.k6›T„˛Êˇ˘ÊS2ƒ¸¬∑Á˛ÀÊÿ‡C∆å+Y ˙^GLÙá˜Â€Q2Ef˝Ò¬~ˇCªøëX‡ŸRyÚã©XÏ˝	∞ﬁı˝{@Ω>ûÙß5Û76œ[öM"Ω√!^WÇ≠GÀCâ√è„«çƒ0ÃŸ}≥Wk≠õ#hÙi#˘B/Dnˆ^i˚}◊÷xÀ ﬁ|Áì˝≈`œÓ$¸_¯Çâ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ã      ˇïUMoú0`?Ä(iæ‘^*UÍ©áJπÙ‘S=W=ıjòeùÄMmØ6‰‘ü“?Ÿ{«,ªíiµÄﬂÃ{3„gbÄfF<b  ˚üÔ˛#QZapWã§PÈΩâÈ·2Ç†Rfp∏òÀ-∂cØáÒ&0~„0ﬁ◊0è7¬L`¸gÚ¯#\C=˛◊TˇÖ˛xÆŸ¶œ5ü¿¯œ`ºW`¸=SòÁÙ¯#\3à!êâa~ßÑ¥∞‰Ö»%f!ú¨Ñ‰€!OK!1’|eør°CòI^"\toM≈∑u óU¡S,i«≤J•Ö≠ùv
+©î*‡MÇeek
+0X`jÖíÉ _dpﬁ¡ÔDn¯6ÑÖÂ:G{îi¢≥˝Æ-⁄jc8ïJóT]™‰J‰\YAÜb	⁄-¢dM5'ÇÛÊûU :Ú¢qù√,„ñ«∞h¨Y©MTûcÊÿ[˘⁄6rÊpaDπ),ó®6Üï*1∑ø›®>Ωg<À0cjF-≠Qﬂ∫jb8Sƒ‚@;Ì/*å◊FTn éΩPñeZU,]sôÓNî‚B—{Àì·SØØ˚»´ÖÎ÷öó	È—\∫‚˛∑˙Æ;√¨bxGìwr˝p'>m)s”¸TƒÕ=÷˝ÙÏS|yu
+Í†Ÿîçö~™Â—ë∞ﬂL}{-	≥¨xÅ÷¢+!å!˛AùEÌNj2îëj[√|EA'Óª≥LØIï …˚ï› ñ?–‰”µp÷†UQV‰üÒa¿´	Æ˚˝ó»öèƒaı˝Q˙&Î ı∂Ci¬î≥÷JïáıßÁ¿P“	πóvwfÜpS1rô]è’æ3Û0~Ÿé©mZH∂lÊ’é±=ãÆ∂ú>Ü2g+µ∑Ü9pºÎ8ûƒ“Oæ—Ó¯I`ßŒ˛¬?â=˜t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ã      ˇïUMoú0`?Ä(iæ‘^*UÍ©áJπÙ‘KsËπÍ©WÀ¿,Îlj{E6ˇª˜åYXÀ&)“jøô˜f∆œƒ Ãåxƒ  ∫üÔ˛#QZapWã§PÈΩâÈ·2Ç†R¶ÿ_ÃçÂ€à)å7¿xG0˛ „è0ﬁ◊8è7¡¡¯/‰Ò'∏∆z¸	Æcy¸W˙„ç∏fG0CÆ˘åˇ∆{∆ü–sÛíÇk12±!ÃÔîêñºπƒ,Ñìïêº`;‰i)$¶öØÏw.t3…KÑã˛≠©x-QpY<≈ív,´¥PZÿ≠”N!ïRºÎC∞¨ÏñòZ°‰(¿ú˜;ë^á∞∞\Áh2ÈÏ∞kã∂⁄N•“%Uó*πy WVê°XÇ∂Fî¨©ÜÆ#8oÓY•¨3!/◊y1Ã2nyã∆ö€µâ sÃ˚¢FëØm#gFîõ¬râjcX©s{ÎFı˘‡=„YÜ´P3jÈıWMgäXhß˝UÖ˛›à ƒ± ≤L´ä•k.”›âB\(zoyR |Ùµãº±Z∏n≠yôêÕ•+Ó´è‡∫Á1Ã*Üw4y'◊wr·Î¡ñ27m¡œE‹‹„vò>Ä.≈∑7ß†öMŸ®¶Z	›f⁄kIòe≈¥]	aÒoÍ,jwRì°åTıÊ+ö:qøúeM™TˆHéËV>ı+5†…ßk·¨A7™¢¨0 ?„¬Ä∑›'∏ˆ_"k>˚’èÈõ¨#‘˚•	SnÃZ+UÓ◊üücI'‰^⁄‹ô¬M≈»ev=U˚ŒÃ„¯e;¶∂i!Ÿ≤ôW;∆ˆ,∫™9}eŒV™≥ÜŸs|Ë9û≈“O~“Ó¯C`ßŒ˛¡•3Íót                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       /279 381/450/384 380/445/379 348/332/288
+s 366
+f 354/374/324 375/451/385 374/447/381 355/375/325
+s 367
+f 361/425/363 368/452/386 367/212/180 362/435/371
+s 368
+f 346/318/276 382/453/387 381/450/384 347/321/279
+s 369
+f 353/365/317 376/454/388 375/451/385 354/374/324
+s 370
+f 360/422/360 369/455/389 368/452/386 361/425/363
+s 371
+f 345/310/269 383/456/390 382/453/387 346/318/276
+s 372
+f 359/413/353 370/457/391 369/455/389 360/422/360
+s 373
+f 344/300/261 384/458/392 383/456/390 345/310/269
+s 374
+f 358/412/343 371/459/393 370/457/391 359/413/353
+s 375
+f 343/297/258 385/460/394 384/458/392 344/300/261
+s 376
+f 350/344/299 378/461/395 377/462/396 351/353/306
+s 377
+f 357/395/342 372/463/397 371/464/393 358/396/343
+s 378
+f 342/289/251 386/465/398 385/460/394 343/297/258
+s 379
+f 349/339/294 379/446/380 378/461/395 350/344/299
+s 380
+f 356/386/335 373/448/382 372/463/397 357/395/342
+s 381
+f 341/283/246 387/449/383 386/465/398 342/289/251
+s 382
+f 368/452/386 391/466/399 390/213/181 367/212/180
+s 383
+f 369/455/389 392/467/400 391/466/399 368/452/386
+s 384
+f 383/456/390 400/468/401 399/469/402 382/453/387
+s 385
+f 370/457/391 393/470/403 392/467/400 369/455/389
+s 386
+f 384/458/392 401/471/404 400/468/401 383/456/390
+s 387
+f 371/459/393 394/472/405 393/470/403 370/457/391
+s 388
+f 385/460/394 402/473/406 401/471/404 384/458/392
+s 389
+f 372/463/397 395/474/407 394/475/405 371/464/393
+s 390
+f 386/465/398 403/476/408 402/473/406 385/460/394
+s 391
+f 373/448/382 396/477/409 395/474/407 372/463/397
+s 392
+f 387/449/383 404/478/410 403/476/408 386/465/398
+s 393
+f 381/450/384 397/479/411 398/480/412 380/445/379
+s 394
+f 366/232/199 389/231/198 404/478/410 387/449/383
+s 395
+f 382/453/387 399/469/402 397/479/411 381/450/384
+s 396
+f 153/189/413 380/445/413 398/480/414 176/228/415
+s 397
+f 395/474/407 412/481/416 411/482/417 394/475/405
+s 398
+f 404/478/410 421/483/418 420/484/419 403/476/408
+s 399
+f 396/477/409 413/485/420 412/481/416 395/474/407
+s 400
+f 388/214/182 405/486/421 406/487/422 389/231/198
+s 401
+f 389/231/198 406/487/422 421/483/418 404/478/410
+s 402
+f 397/479/411 414/488/423 415/489/424 398/480/412
+s 403
+f 390/213/181 407/490/425 405/486/421 388/214/182
+s 404
+f 399/469/402 416/491/426 414/488/423 397/479/411
+s 405
+f 391/466/399 408/492/427 407/490/425 390/213/181
+s 406
+f 400/468/401 417/493/428 416/491/426 399/469/402
+s 407
+f 392/467/400 409/494/429 408/492/427 391/466/399
+s 408
+f 401/471/404 418/495/430 417/493/428 400/468/401
+s 409
+f 393/470/403 410/496/431 409/494/429 392/467/400
+s 410
+f 402/473/406 419/497/432 418/495/430 401/471/404
+s 411
+f 394/472/405 411/498/417 410/496/431 393/470/403
+s 412
+f 403/476/408 420/484/419 419/497/432 402/473/406
+s 413
+f 207/253/433 417/493/428 418/495/430 206/256/434
+s 414
+f 215/255/435 409/494/429 410/496/431 214/257/436
+s 415
+f 206/256/434 418/495/430 419/497/432 205/258/437
+s 416
+f 214/257/436 410/496/431 411/498/417 213/259/438
+s 417
+f 205/258/437 419/497/432 420/484/419 204/260/439
+s 418
+f 213/261/438 411/482/417 412/481/416 212/262/440
+s 419
+f 204/260/439 420/484/419 421/483/418 203/263/441
+s 420
+f 212/262/440 412/481/416 413/485/420 211/265/442
+s 421
+f 203/263/441 421/483/418 406/487/422 219/499/443
+s 422
+f 210/266/444 415/489/424 414/488/423 209/267/445
+s 423
+f 218/269/446 405/486/421 407/490/425 217/270/447
+s 424
+f 209/267/445 414/488/423 416/491/426 208/252/448
+s 425
+f 217/270/447 407/490/425 408/492/427 216/254/449
+s 426
+f 208/252/448 416/491/426 417/493/428 207/253/433
+s 427
+f 216/254/449 408/492/427 409/494/429 215/255/435
+s 428
+f 211/265/450 413/485/451 194/238/452
+s 429
+f 194/238/452 413/485/451 396/477/453 177/226/454
+s 430
+f 160/190/455 373/448/455 374/447/456 159/191/457
+s 431
+f 159/191/457 374/447/456 375/451/458 158/195/459
+s 432
+f 193/241/460 415/489/461 210/266/462
+s 433
+f 158/195/459 375/451/458 376/454/463 157/198/464
+s 434
+f 176/228/415 398/480/414 415/489/461 193/241/460
+s 435
+f 177/226/454 396/477/453 373/448/465 160/190/465
+s 436
+f 156/205/466 377/462/467 378/461/468 155/206/469
+s 437
+f 155/206/469 378/461/468 379/446/470 154/188/471
+s 438
+f 154/188/471 379/446/470 380/445/472 153/189/472
+s 439
+f 132/83/73 133/500/74 156/205/174
+s 440
+f 377/462/467 156/205/466 133/500/473 352/501/473
+s 441
+f 134/105/92 157/198/167 133/104/91
+s 442
+f 376/454/463 352/501/474 133/500/474 157/198/464
+s 443
+f 352/501/307 376/454/388 353/365/317
+s 444
+f 351/353/306 377/462/396 352/501/307
+s 445
+f 55/82/72 54/80/70 59/94/83 424/88/78
+s 446
+f 58/81/71 57/78/69 425/91/81 422/85/75
+s 447
+f 57/78/69 56/77/68 423/87/77 425/91/81
+s 448
+f 56/77/68 55/82/72 424/88/78 423/87/77
+s 449
+f 132/83/73 58/81/71 422/85/75 133/84/74
+s 450
+f 62/92/475 61/90/476 429/106/93 427/97/85
+s 451
+f 61/90/476 60/89/79 428/100/88 429/106/93
+s 452
+f 133/500/91 63/86/477 426/96/84
+s 453
+f 60/89/79 59/101/83 428/100/88
+s 454
+f 63/86/477 62/92/475 427/97/85 426/96/84
+s 455
+f 219/499/443 406/487/422 405/486/421 218/269/446
+s 458
+f 436/502/478 439/503/479 447/504/480 444/505/481
+s 459
+f 438/506/482 440/507/483 448/508/484 446/509/485
+s 460
+f 433/510/486 441/511/486 449/512/487 432/513/488
+s 461
+f 434/514/489 433/510/490 432/513/491 442/515/492
+s 466
+f 485/516/493 487/517/494 437/518/495 450/519/496
+s 467
+f 486/520/497 485/516/493 450/519/496 455/521/498
+s 468
+f 481/522/499 482/523/500 454/524/501 457/525/502
+s 469
+f 483/526/503 484/527/504 451/528/505 456/529/506
+s 470
+f 435/530/507 436/502/478 444/505/481 443/531/508
+s 471
+f 440/507/509 435/530/509 443/531/510 448/508/511
+s 472
+f 441/511/512 438/506/482 446/509/485 449/512/513
+s 473
+f 439/503/479 434/514/489 442/515/492 447/504/480
+s 474
+f 494/532/514 493/533/515 461/534/516 464/535/517
+s 475
+f 489/536/518 490/537/519 459/538/520 463/539/520
+s 476
+f 490/537/521 491/540/522 460/541/523 459/538/523
+s 477
+f 491/540/522 492/542/524 462/543/525 460/541/526
+s 478
+f 487/517/527 481/522/528 457/525/529 437/518/530
+s 479
+f 482/523/500 483/526/531 456/529/532 454/524/501
+s 480
+f 488/544/533 486/520/497 455/521/498 452/545/534
+s 481
+f 484/527/535 488/544/533 452/545/534 451/528/536
+s 482
+f 459/538/537 460/541/538 453/546/539
+s 483
+f 460/541/538 462/543/540 453/546/539
+s 484
+f 461/534/541 463/539/542 453/547/539
+s 485
+f 445/548/543 464/535/544 453/549/539
+s 486
+f 492/542/524 495/550/545 458/551/546 462/543/525
+s 487
+f 495/550/545 496/552/547 445/548/548 458/551/548
+s 488
+f 496/552/549 494/532/550 464/535/551 445/548/551
+s 489
+f 493/533/515 489/536/552 463/539/553 461/534/516
+s 490
+f 463/539/542 459/538/537 453/546/539
+s 491
+f 464/535/544 461/534/541 453/549/539
+s 492
+f 462/543/540 458/551/554 453/547/539
+s 493
+f 458/551/554 445/548/543 453/549/539
+s 510
+f 443/531/508 444/505/481 488/544/533 484/527/535
+s 511
+f 444/505/481 447/504/480 486/520/497 488/544/533
+s 512
+f 446/509/485 448/508/484 483/526/531 482/523/500
+s 513
+f 432/513/488 449/512/487 481/522/528 487/517/527
+s 514
+f 448/508/511 443/531/510 484/527/504 483/526/503
+s 515
+f 449/512/513 446/509/485 482/523/500 481/522/499
+s 516
+f 447/504/480 442/515/492 485/516/493 486/520/497
+s 517
+f 442/515/492 432/513/491 487/517/494 485/516/493
+s 518
+f 454/524/501 456/529/532 489/536/552 493/533/515
+s 519
+f 437/518/530 457/525/529 494/532/550 496/552/549
+s 520
+f 450/519/496 437/518/495 496/552/547 495/550/545
+s 521
+f 455/521/498 450/519/496 495/550/545 492/542/524
+s 522
+f 452/545/534 455/521/498 492/542/524 491/540/522
+s 523
+f 451/528/536 452/545/534 491/540/522 490/537/521
+s 524
+f 456/529/506 451/528/505 490/537/519 489/536/518
+s 525
+f 457/525/502 454/524/501 493/533/515 494/532/514
+s 534
+f 168/186/155 185/230/197 184/233/200 167/187/156
+usemtl Red
+s 210
+f 435/530/555 440/507/556 478/553/557 475/554/558
+s 211
+f 219/499/559 218/269/560 471/555/561 472/556/559
+s 456
+f 433/510/562 434/514/563 477/557/564 469/558/565
+s 457
+f 441/511/566 433/510/562 469/558/565 480/559/567
+s 462
+f 202/239/568 186/237/569 466/560/570 470/561/568
+s 463
+f 431/268/571 201/240/572 468/562/573 467/563/574
+s 464
+f 438/506/575 441/511/566 480/559/567 479/564/575
+s 465
+f 201/240/572 202/239/568 470/561/568 468/562/573
+s 494
+f 502/565/576 499/566/577 475/554/578 478/553/578
+s 495
+f 501/567/579 497/568/579 469/558/565 477/557/564
+s 496
+f 500/569/580 498/570/581 474/571/582 476/572/583
+s 497
+f 499/566/584 500/569/584 476/572/585 475/554/558
+s 498
+f 504/573/586 503/574/587 479/564/588 480/559/589
+s 499
+f 498/570/581 501/567/590 477/557/591 474/571/582
+s 500
+f 497/568/592 504/573/586 480/559/593 469/558/593
+s 501
+f 503/574/587 502/565/576 478/553/594 479/564/588
+s 502
+f 436/502/595 435/530/555 475/554/558 476/572/585
+s 503
+f 203/263/596 219/499/559 472/556/559 473/575/597
+s 504
+f 430/264/598 203/263/596 473/575/597 465/576/599
+s 505
+f 439/503/600 436/502/595 476/572/585 474/571/600
+s 506
+f 218/269/560 431/268/571 467/563/574 471/555/561
+s 507
+f 434/514/563 439/503/600 474/571/600 477/557/564
+s 508
+f 186/237/569 430/264/598 465/576/599 466/560/570
+s 509
+f 440/507/556 438/506/575 479/564/575 478/553/557
+s 526
+f 472/556/601 471/555/602 502/565/576 503/574/587
+s 527
+f 465/576/603 473/575/604 504/573/586 497/568/592
+s 528
+f 470/561/605 466/560/606 501/567/590 498/570/581
+s 529
+f 473/575/604 472/556/601 503/574/587 504/573/586
+s 530
+f 467/563/607 468/562/608 500/569/608 499/566/577
+s 531
+f 468/562/609 470/561/605 498/570/581 500/569/580
+s 532
+f 466/560/610 465/576/603 497/568/592 501/567/610
+s 533
+f 471/555/602 467/563/607 499/566/577 502/565/576

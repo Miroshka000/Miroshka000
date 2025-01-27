@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bundle SchemaVersion="5.0" IgnorableNamespaces="b4 b5" xmlns="http://schemas.microsoft.com/appx/2013/bundle" xmlns:b4="http://schemas.microsoft.com/appx/2018/bundle" xmlns:b5="http://schemas.microsoft.com/appx/2019/bundle">
+	<Identity Name="Microsoft.DesktopAppInstaller" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="2024.709.2344.0"/>
+	<Packages>
+		<b5:Package Type="application" Version="1.23.1910.0" Architecture="arm64" FileName="AppxMetadata\Stub\AppInstaller_arm64_stub.msix" Offset="242513961" Size="5931816" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<b5:Package Type="application" Version="1.23.1910.0" Architecture="arm" FileName="AppxMetadata\Stub\AppInstaller_arm_stub.msix" Offset="248445875" Size="5082954" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<b5:Package Type="application" Version="1.23.1910.0" Architecture="x64" FileName="AppxMetadata\Stub\AppInstaller_x64_stub.msix" Offset="253528927" Size="5859219" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<b5:Package Type="application" Version="1.23.1910.0" Architecture="x86" FileName="AppxMetadata\Stub\AppInstaller_x86_stub.msix" Offset="259388244" Size="5334087" IsStub="true">
+			<b5:Resources>
+				<b5:Resource Language="EN-US"/>
+				<b5:Resource Language="EN-GB"/>
+				<b5:Resource Scale="200"/>
+			</b5:Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</b5:Package>
+		<Package Type="application" Version="1.23.1911.0" Architecture="x86" FileName="AppInstaller_x86.msix" Offset="184686485" Size="57827376">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="application" Version="1.23.1911.0" Architecture="x64" FileName="AppInstaller_x64.msix" Offset="123315883" Size="61370527">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="application" Version="1.23.1911.0" Architecture="arm" FileName="AppInstaller_arm.msix" Offset="51" Size="60568735">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="application" Version="1.23.1911.0" Architecture="arm64" FileName="AppInstaller_arm64.msix" Offset="60568863" Size="59001389">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Language="EN-GB"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-he" FileName="AppInstaller_language-he.msix" Offset="120138492" Size="19084">
+			<Resources>
+				<Resource Language="he-il"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-lo" FileName="AppInstaller_language-lo.msix" Offset="120520306" Size="20267">
+			<Resources>
+				<Resource Language="lo-la"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-or" FileName="AppInstaller_language-or.msix" Offset="120773235" Size="20134">
+			<Resources>
+				<Resource Language="or-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-uz-latn" FileName="AppInstaller_language-uz-latn.msix" Offset="121245505" Size="18854">
+			<Resources>
+				<Resource Language="uz-latn-uz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ru" FileName="AppInstaller_language-ru.msix" Offset="120918427" Size="47638">
+			<Resources>
+				<Resource Language="ru-ru"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sr-cyrl" FileName="AppInstaller_language-sr-cyrl.msix" Offset="121024527" Size="22554">
+			<Resources>
+				<Resource Language="sr-cyrl-ba"/>
+				<Resource Language="sr-cyrl-rs"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-el" FileName="AppInstaller_language-el.msix" Offset="119853944" Size="20922">
+			<Resources>
+				<Resource Language="el-gr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-eu" FileName="AppInstaller_language-eu.msix" Offset="119936777" Size="18719">
+			<Resources>
+				<Resource Language="eu-es"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ms" FileName="AppInstaller_language-ms.msix" Offset="120658628" Size="18415">
+			<Resources>
+				<Resource Language="ms-my"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-bs" FileName="AppInstaller_language-bs.msix" Offset="119709462" Size="19176">
+			<Resources>
+				<Resource Language="bs-latn-ba"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sk" FileName="AppInstaller_language-sk.msix" Offset="120966148" Size="19451">
+			<Resources>
+				<Resource Language="sk-sk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-bg" FileName="AppInstaller_language-bg.msix" Offset="119668965" Size="20297">
+			<Resources>
+				<Resource Language="bg-bg"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-af" FileName="AppInstaller_language-af.msix" Offset="119570335" Size="18953">
+			<Resources>
+				<Resource Language="af-za"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-cy" FileName="AppInstaller_language-cy.msix" Offset="119772213" Size="18810">
+			<Resources>
+				<Resource Language="cy-gb"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-km" FileName="AppInstaller_language-km.msix" Offset="120397968" Size="20290">
+			<Resources>
+				<Resource Language="km-kh"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ka" FileName="AppInstaller_language-ka.msix" Offset="120357570" Size="20183">
+			<Resources>
+				<Resource Language="ka-ge"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-lb" FileName="AppInstaller_language-lb.msix" Offset="120500961" Size="19262">
+			<Resources>
+				<Resource Language="lb-lu"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-kn" FileName="AppInstaller_language-kn.msix" Offset="120418341" Size="20305">
+			<Resources>
+				<Resource Language="kn-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-fil-latn" FileName="AppInstaller_language-fil-latn.msix" Offset="119994195" Size="19002">
+			<Resources>
+				<Resource Language="fil-ph"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-az-latn" FileName="AppInstaller_language-az-latn.msix" Offset="119649557" Size="19325">
+			<Resources>
+				<Resource Language="az-latn-az"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ca" FileName="AppInstaller_language-ca.msix" Offset="119728721" Size="23761">
+			<Resources>
+				<Resource Language="ca-es"/>
+				<Resource Language="ca-es-valencia"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-nl" FileName="AppInstaller_language-nl.msix" Offset="120735292" Size="19067">
+			<Resources>
+				<Resource Language="nl-nl"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ne" FileName="AppInstaller_language-ne.msix" Offset="120715086" Size="20123">
+			<Resources>
+				<Resource Language="ne-np"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-hy" FileName="AppInstaller_language-hy.msix" Offset="120216362" Size="20162">
+			<Resources>
+				<Resource Language="hy-am"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-te" FileName="AppInstaller_language-te.msix" Offset="121105365" Size="20467">
+			<Resources>
+				<Resource Language="te-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-hu" FileName="AppInstaller_language-hu.msix" Offset="120196964" Size="19315">
+			<Resources>
+				<Resource Language="hu-hu"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-mi-latn" FileName="AppInstaller_language-mi-latn.msix" Offset="120579102" Size="18393">
+			<Resources>
+				<Resource Language="mi-nz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ml" FileName="AppInstaller_language-ml.msix" Offset="120617779" Size="20685">
+			<Resources>
+				<Resource Language="ml-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-es" FileName="AppInstaller_language-es.msix" Offset="119874949" Size="42888">
+			<Resources>
+				<Resource Language="es-es"/>
+				<Resource Language="es-mx"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-lv" FileName="AppInstaller_language-lv.msix" Offset="120559850" Size="19164">
+			<Resources>
+				<Resource Language="lv-lv"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-fa" FileName="AppInstaller_language-fa.msix" Offset="119955579" Size="19719">
+			<Resources>
+				<Resource Language="fa-ir"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-it" FileName="AppInstaller_language-it.msix" Offset="120274001" Size="41796">
+			<Resources>
+				<Resource Language="it-it"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-th" FileName="AppInstaller_language-th.msix" Offset="121125915" Size="19746">
+			<Resources>
+				<Resource Language="th-th"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-pl" FileName="AppInstaller_language-pl.msix" Offset="120813774" Size="19364">
+			<Resources>
+				<Resource Language="pl-pl"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-kk" FileName="AppInstaller_language-kk.msix" Offset="120377836" Size="20049">
+			<Resources>
+				<Resource Language="kk-kz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-as" FileName="AppInstaller_language-as.msix" Offset="119629404" Size="20065">
+			<Resources>
+				<Resource Language="as-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-pt" FileName="AppInstaller_language-pt.msix" Offset="120833221" Size="47290">
+			<Resources>
+				<Resource Language="pt-br"/>
+				<Resource Language="pt-pt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ko" FileName="AppInstaller_language-ko.msix" Offset="120438729" Size="41717">
+			<Resources>
+				<Resource Language="ko-kr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-kok" FileName="AppInstaller_language-kok.msix" Offset="120480530" Size="20348">
+			<Resources>
+				<Resource Language="kok-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-da" FileName="AppInstaller_language-da.msix" Offset="119791106" Size="18771">
+			<Resources>
+				<Resource Language="da-dk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-vi" FileName="AppInstaller_language-vi.msix" Offset="121264442" Size="19041">
+			<Resources>
+				<Resource Language="vi-vn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-lt" FileName="AppInstaller_language-lt.msix" Offset="120540656" Size="19111">
+			<Resources>
+				<Resource Language="lt-lt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-id" FileName="AppInstaller_language-id.msix" Offset="120236607" Size="18297">
+			<Resources>
+				<Resource Language="id-id"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ar" FileName="AppInstaller_language-ar.msix" Offset="119609720" Size="19601">
+			<Resources>
+				<Resource Language="ar-sa"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-mk" FileName="AppInstaller_language-mk.msix" Offset="120597578" Size="20118">
+			<Resources>
+				<Resource Language="mk-mk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-zh-hant" FileName="AppInstaller_language-zh-hant.msix" Offset="121321717" Size="38542">
+			<Resources>
+				<Resource Language="zh-tw"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ur" FileName="AppInstaller_language-ur.msix" Offset="121225114" Size="20303">
+			<Resources>
+				<Resource Language="ur-pk"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-gu" FileName="AppInstaller_language-gu.msix" Offset="120118445" Size="19964">
+			<Resources>
+				<Resource Language="gu-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-uk" FileName="AppInstaller_language-uk.msix" Offset="121204560" Size="20471">
+			<Resources>
+				<Resource Language="uk-ua"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-nb" FileName="AppInstaller_language-nb.msix" Offset="120696416" Size="18587">
+			<Resources>
+				<Resource Language="nb-no"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-bn" FileName="AppInstaller_language-bn.msix" Offset="119689345" Size="20034">
+			<Resources>
+				<Resource Language="bn-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-gd-latn" FileName="AppInstaller_language-gd-latn.msix" Offset="120079840" Size="19482">
+			<Resources>
+				<Resource Language="gd-gb"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-cs" FileName="AppInstaller_language-cs.msix" Offset="119752565" Size="19565">
+			<Resources>
+				<Resource Language="cs-cz"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ga" FileName="AppInstaller_language-ga.msix" Offset="120060595" Size="19157">
+			<Resources>
+				<Resource Language="ga-ie"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-pa" FileName="AppInstaller_language-pa.msix" Offset="120793452" Size="20239">
+			<Resources>
+				<Resource Language="pa-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ta" FileName="AppInstaller_language-ta.msix" Offset="121085092" Size="20190">
+			<Resources>
+				<Resource Language="ta-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-fi" FileName="AppInstaller_language-fi.msix" Offset="119975381" Size="18725">
+			<Resources>
+				<Resource Language="fi-fi"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-quz-latn" FileName="AppInstaller_language-quz-latn.msix" Offset="120880600" Size="18446">
+			<Resources>
+				<Resource Language="quz-pe"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ro" FileName="AppInstaller_language-ro.msix" Offset="120899129" Size="19215">
+			<Resources>
+				<Resource Language="ro-ro"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-et" FileName="AppInstaller_language-et.msix" Offset="119917920" Size="18774">
+			<Resources>
+				<Resource Language="et-ee"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sv" FileName="AppInstaller_language-sv.msix" Offset="121066377" Size="18632">
+			<Resources>
+				<Resource Language="sv-se"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sl" FileName="AppInstaller_language-sl.msix" Offset="120985682" Size="19149">
+			<Resources>
+				<Resource Language="sl-si"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-tr" FileName="AppInstaller_language-tr.msix" Offset="121145744" Size="18903">
+			<Resources>
+				<Resource Language="tr-tr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-is" FileName="AppInstaller_language-is.msix" Offset="120254987" Size="18931">
+			<Resources>
+				<Resource Language="is-is"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-tt-cyrl" FileName="AppInstaller_language-tt-cyrl.msix" Offset="121164735" Size="19911">
+			<Resources>
+				<Resource Language="tt-ru"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-de" FileName="AppInstaller_language-de.msix" Offset="119809960" Size="43901">
+			<Resources>
+				<Resource Language="de-de"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-fr" FileName="AppInstaller_language-fr.msix" Offset="120013280" Size="47232">
+			<Resources>
+				<Resource Language="fr-ca"/>
+				<Resource Language="fr-fr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-zh-hans" FileName="AppInstaller_language-zh-hans.msix" Offset="121283571" Size="38058">
+			<Resources>
+				<Resource Language="zh-cn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-mr" FileName="AppInstaller_language-mr.msix" Offset="120638547" Size="19998">
+			<Resources>
+				<Resource Language="mr-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sr-latn" FileName="AppInstaller_language-sr-latn.msix" Offset="121047169" Size="19125">
+			<Resources>
+				<Resource Language="sr-latn-rs"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ug-arab" FileName="AppInstaller_language-ug-arab.msix" Offset="121184734" Size="19743">
+			<Resources>
+				<Resource Language="ug-cn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-sq" FileName="AppInstaller_language-sq.msix" Offset="121004914" Size="19525">
+			<Resources>
+				<Resource Language="sq-al"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-mt" FileName="AppInstaller_language-mt.msix" Offset="120677126" Size="19207">
+			<Resources>
+				<Resource Language="mt-mt"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-nn" FileName="AppInstaller_language-nn.msix" Offset="120754442" Size="18710">
+			<Resources>
+				<Resource Language="nn-no"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-am" FileName="AppInstaller_language-am.msix" Offset="119589371" Size="20266">
+			<Resources>
+				<Resource Language="am-et"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-ja" FileName="AppInstaller_language-ja.msix" Offset="120315880" Size="41607">
+			<Resources>
+				<Resource Language="ja-jp"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-gl" FileName="AppInstaller_language-gl.msix" Offset="120099405" Size="18957">
+			<Resources>
+				<Resource Language="gl-es"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-hi" FileName="AppInstaller_language-hi.msix" Offset="120157659" Size="20067">
+			<Resources>
+				<Resource Language="hi-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.language-hr" FileName="AppInstaller_language-hr.msix" Offset="120177809" Size="19072">
+			<Resources>
+				<Resource Language="hr-hr"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.scale-125" FileName="AppInstaller_scale-125.msix" Offset="121506462" Size="212636">
+			<Resources>
+				<Resource Scale="125"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.scale-150" FileName="AppInstaller_scale-150.msix" Offset="121719179" Size="266719">
+			<Resources>
+				<Resource Scale="150"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.scale-400" FileName="AppInstaller_scale-400.msix" Offset="121985979" Size="1329829">
+			<Resources>
+				<Resource Scale="400"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.23.1911.0" ResourceId="split.scale-100" FileName="AppInstaller_scale-100.msix" Offset="121360340" Size="146041">
+			<Resources>
+				<Resource Scale="100"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+				<b4:TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.20346.0" MaxVersionTested="10.0.22000.0"/>
+			</b4:Dependencies>
+		</Package>
+	</Packages>
+</Bundle>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        MZ                      @                                   @   PE  L /µçf        ‡ !                           @                    ê          @                                                                                                                                      H           .text   ‹p      r                    @                                                                                                                                                                H     P  åp                                                                 BSJB         WindowsRuntime 1.4     t   XE  #~  ÃE  `  #Strings    ,b     #US 4b     #GUID   Db  H  #Blob         W¥	    ˙%3      i   J   J   ã  «     ß   =   ª         6   Ô   F  ö              -       f _  k 
+  Ü _  ç 
+  © 
+  ∆ 
+  ﬁ 
+  ˚ 
+  
+  .
+  H
+  _
+  v
+  á
+  ¢
+  ¬
+  ÿ
+  ı
+  
+  
+  <
+  T
+  r
+  â_  ì
+  ú
+  ¨
+  “
+  Û
+  
+  8
+  U
+  s
+  ì
+  ≠
+  ¬
+  €
+  Ú
+  
+  -
+  E
+  ]
+  v
+  ï
+  ß
+  ∫
+  ÷
+  Ò
+  
+  )
+  @
+  S
+  g
+  É
+  ¶
+   
+  Ó
+  
+  &
+  M
+  w
+  ç
+  Ø
+  “
+  ˆ
+  	
+  %
+  A
+  ^
+  w
+  ã
+  ¶÷ ÷ 0÷ Q
+  l
+ 
+ 	˜
+ M	:	 $
+_ 
+ π˜
+ ˆ:	
+ 7˜
+ ü:	
+ ∂:	
+ î:	
+ ˙:	 s[
+ 8:	
+ ö:	 A[ ö:	
+ ":	 _ 
+ y] í_ 
+ °]
+ ∞]
+ Ã]
+ ›]
+ Ï]
+ ˇ]
+ ]
+ )]
+ >]
+ L]           A  k 
+    A  ç 
+    A  © 
+    A  ∆ 
+    A  ﬁ 
+    A  ˚ 
+  
+  A  
+  
+  A  .
+  
+  A  H
+    A  _
+   - A  v
+   L A  á
+   h A  ¢
+   m A  ¬
+   m A  ÿ
+   m A  ı
+   u A  
+   u A  
+   ç A  <
+  % ç A  T
+  * ç A  r
+  1 ç 	A  ì
+ a 7 ç A  ú
+  7 ç A  ¨
+  = ç A  “
+  = è A  Û
+  = ê A  
+  = ì †@  8
+   = ï †@  U
+   = ó °@  s
+   = ú °@  ì
+   = ° °@  ≠
+   = • †@  ¬
+   = ® †@  €
+   = ´ †@  Ú
+   = ± °@  
+   = ¥ †@  -
+   = ∑ †@  E
+   = œ †@  ]
+   = Î †@  v
+   = Ì †@  ï
+   = Ó †@  ß
+   = †@  ∫
+   = 	°@  ÷
+   = °@  Ò
+   = °@  
+   = °@  )
+   = †@  @
+   = †@  S
+   = /°@  g
+   = 3°@  É
+   = 7°@  ¶
+   = I°@   
+   = J°@  Ó
+   = N°@  
+   = V†@  &
+   = X°@  M
+   = Z°@  w
+   = [†@  ç
+   = ^†@  Ø
+   = _†@  “
+   = b°@  ˆ
+   = d†@  	
+   = g†@  %
+   = m†@  A
+   = o°@  ^
+   = r°@  w
+   = vA  ã
+  = y°@  ¶÷  = A  ÷ = áA  0÷ C áA  Q
+  K áA  l
+  K âà
+ VÄê VÄï VÄµ àà VÄZ
+ã VÄb
+ã VÄk
+ã VÄ{
+ã àà VÄZ
+Ã VÄVÃ VÄeÃ VÄyÃ àà VÄZ
+ÓVÄk
+ÓVÄ_Óàà VÄZ
+ÚVÄpÚVÄxÚVÄÉÚàà VÄZ
+VÄïVÄûVÄßVÄÆà
+ VÄêYVÄìYVÄôYVÄ°YVÄ™YVÄ≥Yàà VÄ∏bVÄøbVÄ∆bVÄZ
+bàà VÄêfVÄÃfVÄvfVÄ’fVÄ‰fVÄfàà VÄZ
+oVÄpoVÄxoVÄÉoVÄ˝oàà VÄsVÄsVÄsVÄ#sVÄ)sàà VÄËπVÄÙπVÄ˝πVÄπVÄπàà VÄæVÄ*æVÄ7æVÄAæVÄLæVÄSæVÄæ     Ê	$	        Ê	U	*       Ê	{	@       Ê	Ñ	E       Ê	é	J       Ê	´	J       Ê	æ	N       Ê	
+h       Ê	)
+m 	      Ê	Ñ	s 
+      Ê	Ü
+î       Ê	ì
+ô       Ê	†
+ô       Ê	Æ
+@       Ê	º
+@       Ê	À
+û       Ê	º       Ê	¿       Ê	*¿       Üä–       Ê	º       Ê	ê‘       Ê	ôº       Ê	©‘       Ê	¬Ÿ       Ê	œﬂ       Ê	‹J       Ê	ÈÊ       Ê	Î       Ê	Ò       Ê	¿       Ê	&¯       Ê	A˝        Ê	S!      Ê	e"      Ê	w#      Ê	â$      Ê	õ%      Ê	≠¿ &      Ê	æ¯ '      Ê	œ¿ (      Ê	‡¯ )      Ê	Ò¿ *      Ê	¯ +      Üä2,      Ê	≈9-      Ê	„G/      Ê	ˆN0      Ê	S1      Ê	º 2      Ê	#‘ 3      Ê	.m 4      Ê	EY5      Ê	\J 6      Ê	xÊ 7      Ê	®`8      Ê	¿G:      Ê€o;      Êy<      ÊÄà=      Êúë?      Ê∂üA      Êˆ±D      Ê»G      ÊV—J      Êi·M      Ê}ÍP      Êë¯S      Ê†V      ÊÆY      Ê∂[      Ê√)]      Ê”0_      ÊË<a      Ê˚Cc      Üä– e      Ê	º e      Ê	ê‘ f      Ê	rº g      Ê	}‘ h      Ê	àº i      Ê	ë‘ j      Ê	)
+m k      Ê	Ñ	s l      Ê	£gm      Ê	≤gn      Ê	¡go      Ê	–mp      Ê	⁄wq      Ê	‰º r      Ê	ˆ‘ s      Ê	Çt      Ê	#Gv      ÊOëw      ÊY– x      Ê	¬Ÿ x      Ê	œﬂ y      Ê	`òz      Ê	o¢{      Ê	~Ÿ |      Ê	åﬂ }      Ê	û≠~      Ê	¨≥      Ê	
+‰Ä      Ê	1s Å      Ê	>E Ç      Ê	æ	N É      Ê	{	@ Ñ      Üä– Ö      Êç@ Ö      Ê•ô Ü      Êºˆá      ÊËâ      Ê	J ã      Ê=
+å      Ê_ç      Üä– é      Ê	º é      Ê	‘ è      Ê	)
+m ê      Ê	µº ë      Ê	ƒ‘ í      Ê	”!ì      Ê	ﬁ&î      Ê	È,ï      Ê	˙5ñ      Ê	¬Ÿ ó      Ê	œﬂ ò      Ê	À
+Ÿ ô      Ê	ﬂ ö      Ê	?õ      Ê	Ñ	E ú      Ê	æ	N ù      Ê	$J û      Ê	1Ê ü      Ê>@ †      Ê	CJ °      Ê	OÊ ¢      Ê	–m£      Ê	⁄w§      Ê	æ	N •      Ê	À
+w¶      Ê	$	çß      Ê	{	@ ®      Ê	?©      Ê	æ	N ™      Ê	æ	N ´      Ê	À
+Ÿ ¨       ∆$	  ≠       ∆U	* Æ       ∆{	@ Ø       ∆Ñ	E ∞       ∆é	J ±       ∆´	J ≤       ∆æ	N ≥       ∆{	@ ¥       ∆Ñ	E µ       ∆é	J ∂       ∆´	J ∑       ∆æ	N ∏       ∆2¿ π       ∆´	J ∫       ∆æ	N ª       ∆$	°º       ∆{	@ Ω       ∆´	J æ       ∆æ	N ø       ∆
+h ¿       ∆)
+m ¡       ∆Ñ	s ¬       ∆Ü
+î √       ∆ì
+ô ƒ       ∆†
+ô ≈       ∆Æ
+@ ∆       ∆º
+@ «       ∆À
+û »       ∆º …       ∆¿         ∆*¿ À       ∆2¿ Ã       ∆B∑Õ       ∆i œ       ∆º —       ∆ê‘ “       ∆ôº ”       ∆©‘ ‘       ∆¬Ÿ ’       ∆œﬂ ÷       ∆‹J ◊       ∆ÈÊ ÿ       ∆Î Ÿ       ∆Ò ⁄       ∆¿ €       ∆&¯ ‹       ∆A˝ ›       ∆Sﬁ       ∆eﬂ       ∆w‡       ∆â·       ∆õ‚       ∆≠¿ „       ∆æ¯ ‰       ∆œ¿ Â       ∆‡¯ Ê       ∆Ò¿ Á       ∆¯ Ë       ∆≈9È       ∆„GÎ       ∆ˆNÏ       ∆SÌ       ∆º Ó       ∆#‘ Ô       ∆.m        ∆EYÒ       ∆\J Ú       ∆xÊ Û       ∆®`Ù       ∆¿Gˆ       ∆€o˜       ∆y¯       ∆Äà˘       ∆úë˚       ∆∂ü˝       ∆ˆ±       ∆»      ∆V—      ∆i·	      ∆}Í      ∆ë¯      ∆†      ∆Æ      ∆∂      ∆√)      ∆”0      ∆Ë<      ∆˚C      ∆Å!      ∆º #      ∆ê‘ $      ∆rº %      ∆}‘ &      ∆àº '      ∆ë‘ (      ∆)
+m )      ∆Ñ	s *      ∆£g+      ∆≤g,      ∆¡g-      ∆–m.      ∆⁄w/      ∆‰º 0      ∆ˆ‘ 1      ∆Ç2      ∆#G4      ∆Oë5      ∆Y– 6      ∆¬Ÿ 6      ∆œﬂ 7      ∆`ò8      ∆o¢9      ∆~Ÿ :      ∆åﬂ ;      ∆û≠<      ∆¨≥=      ∆
+‰>      ∆1s ?      ∆>E @      ∆æ	N A      ∆{	@ B      ∆ê›C      ∆®ÁF      ∆ºÔH      ∆≈9J      ∆„GL      ∆ˆNM      ∆SN      ∆ç@ O      ∆•ô P      ∆ºˆQ      ∆ËS      ∆J U      ∆=
+V      ∆_W      ∆º X      ∆‘ Y      ∆)
+m Z      ∆µº [      ∆ƒ‘ \      ∆”!]      ∆ﬁ&^      ∆È,_      ∆˙5`      ∆¬Ÿ a      ∆œﬂ b      ∆À
+Ÿ c      ∆ﬂ d      ∆?e      ∆Ñ	E f      ∆æ	N g      ∆$J h      ∆1Ê i      ∆>@ j      ∆CJ k      ∆OÊ l      ∆–mm      ∆⁄wn      ∆{	@ o      ∆œ˜p      ∆‹˝q      ∆Ër      ∆ˆº s      ∆º t      ∆≠u      ∆0≠v      ∆@º w      ∆Oº x      ∆^º y      ∆oº z      ∆Ö≠{      ∆†≠|      ∆∑º }      ∆√g~      ∆’J       ∆·º Ä      ∆Ïº Å      ∆˙	Ç      ∆À
+É      ∆J Ñ      ∆CJ Ö      ∆U	* Ü      ∆ôº á      ∆º à      ∆1â      ∆µº ä      ∆ º ã      ∆ôº å      ∆*J ç      ∆4J é      ∆CJ è      ∆Î ê      ∆Wº ë      ∆êNí      ∆öº ì      ∆æ	N î      ∆À
+wï      ∆¥;ñ      ∆{	@ ó      ∆À
+wò      ∆æ	N ô      ∆$	çö      ∆{	@ õ      ∆?ú      ∆æ	N ù      ∆æ	N û      ∆À
+Ÿ ü      ∆{	@ †      ∆À
+Ÿ °      ∆æ	N ¢      ∆√ô £      ∆U	* §      ∆Àº •      ∆’º ¶      ∆ﬂß      ∆Ë®      ∆$	A©      ∆L™      ∆{	@ ´      ∆æ	N ¨      ∆L≠      ∆2¿ Æ      ∆LØ      ∆æ	N ∞      ∆$	a±      ∆{	@ ≤      ∆L≥      ∆æ	N ¥     Ê	√ô µ     Ê	U	* ∂     Ê	Àº ∑     Ê	’º ∏     Ê	ﬂπ     Ê	Ë∫      ∆)wª      ∆CÄº      ∆]äΩ      ∆hêæ      ∆sóø      ∆Äù¿      ∆çº ¡      ∆†‘ ¬     Ê	$	A√     Ê	Lƒ     Ê	{	@ ≈     Ê	æ	N ∆     Ê	L«    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	  ó    ’  €  ’    4	  4	    4	  4	    4	  4	    4	  4	    ’  €  ’    Û    )    Û  ï    )  ï    Û  »  ⁄    )  »  ⁄    Û    ,    )    ,    Û  x  ,    )  x  ,    Û    ö    )    ö    Û      )      Û  x    )  x    Û  x    )  x    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	    4	    4	  4	    4	  4	    ’  €  ’  ï    4	  4	    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	    4	    Û    Û    )  €    Û  ó    4	    )    Û    4	  4	    4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	  4	    Û    4	  4	    4	  4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    )  Y    )  Y    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    ’  €  ’    4	  4	    4	  4	    4	  4	    4	  4	    ’  €  ’    Û    )    Û  ï    )  ï    Û  »  ⁄    )  »  ⁄    Û    ,    )    ,    Û  x  ,    )  x  ,    Û    ö    )    ö    Û      )      Û  x    )  x    Û  x    )  x    4	  ó    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	    4	    4	  4	    4	  4	    ’  €  ’  ï    4	  4	    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	    4	    Û  x  ,    Û  x    Û      ’  €  ’    4	  4	    Û    Û    )  €    Û  ó    4	    )    Û    4	  4	    4	    4	  4	    4	  4	    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	  4	    Û    4	  4	    4	  4	    4	    Û    Û    Û    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    Û    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	    4	  4	    4	  4	    4	  4	    4	  4	    4	    4	    4	    4	    4	 }  Å  ë  ï  ô 
+ °  •  ©  ±  µ  π  ≈  …  Õ  —  Ì  ˘  ˝  0 ≈ 5 Ÿ : ’ E 	I J Òä√˘ä– 	ä ä– !ä)äU)äêÒä1ä– Òä9äTAäüIä˘ $	  ˘ U	* é	J Ñ	E {	@ ´	J æ	N !
+h !)
+m !Ñ	s )Æ
+@ )ì
+ô )†
+ô )Ü
+î )º
+@ )À
+û 1*¿ 1¿ 1º AÒ Aê‘ Aôº A©‘ A¬Ÿ Aœﬂ A‹J AÈÊ AÎ Aº A¿ A&¯ AA˝ ASAeAwAâAõA≠¿ Aæ¯ Aœ¿ A‡¯ AÒ¿ A¯ I®`I„GIˆNISIº I#‘ I.m IEYI\J IxÊ I≈9I¿GI€oIyIÄàIúëI∂üIˆ±I»IV—Ii·I}ÍIë¯I†IÆI∂I√)I”0QË<Q˚Ciåﬂ aê‘ arº a}‘ aàº aë‘ a)
+m aÑ	s a£ga≤ga¡ga–ma⁄wa‰º aˆ‘ aÇa#GaOëaY– i¬Ÿ iœﬂ i`òio¢i~Ÿ aº iû≠i¨≥q>E q1s q
+‰qæ	N q{	@ âç@ â•ô âºˆâËâJ â=
+ë_ôº ô‘ ô)
+m ôµº ôƒ‘ ô”!ôﬁ&ôÈ,ô˙5ô¬Ÿ ôœﬂ ôÀ
+Ÿ ôﬂ ô?ôÑ	E ôæ	N ô$J ô1Ê ô>@ °CJ °OÊ °–m°⁄wŸæ	N ŸÀ
+wÒ$	ç˘{	@ ˘?˘æ	N À
+Ÿ æ	N U	* √ô Àº ’º ﬂËL$	A!æ	N !{	@ !L	   	   	              $ è  ,   0   4   8 è  @   D   H   P   T   X   \ è  d   h   l   p è  t 	 |  	 Ä  	 Ñ  	 à è 	 å 	 ê ] ò   ú   †   § è  ¨   ∞   ¥   ∏ è  º  ¿ j »   Ã   –   ‘ è  ÿ  ‡   ‰   Ë   Ï è    ¯   ¸      è          è    $j ( % #  C  ÀC   E #  c  c  Àe #  É  É  ÀÖ #  £  À£  • #  √  À≈ #  „  À„  Â #    ÀC  # À%#  C3 [C+ C  C EC  c c Àc; ôc+ e#  É É ÀÉ3 É+ Ö#  £ £ À√ À≈#  „ ÀÂC  3  À + #  # À%#  C C+ C3 C ÀE#  c Àc  e#  É À£ À√ À„S K„K  Â#   À#  #  # %#  C C Àc c ÀÉ É À£[ [£c Æ£ À√ À√c √√[ ÿ„ À„c   c 2#c G# ÀCc \C[ qC Àc[ ∆c Àcc ±É[ É ÀÉc £c ^£  √c ≤√  √[ s„[ ‹„c «„ Àc 	  [ ‹#c 0	# À#[ ‹C ÀC[ E	Cc ~	c  cc ì	c[ E	Éc ®	É ÀÉ[ Ω	£c  
+£ À√c 
+√ À„ À„c *
+  c ?
+#c é
+# À#[ T
+C  Cc £
+C[ T
+c Àcc ∏
+É ÀÉc Õ
+£  £c ‚
+√ À√c ˜
+„c „ À Àc !#[ 6#c Ñ#  Cc ôC  c  cc ÆÉc É[ √É À£[ !£ À£c k√ À√c Ä√[ ï„c ‡„ À À[ 
+c ı#[ M# À#c êCc ÈC[ •C Àcc ˛c  Éc É À£ À£ √c (√k =„k =	k =#	 À#	 C	 ÀC	     '  *  .    R   f
+      R   f
+      f
+           
+      $  2  7  8  E  G  H  K  M  O  T   Y ! ] " ` # c $ i % l & m ' y * } + á , ã . ê / ë 1 í 2 ù 3 ü 4 † 5 ≤ 6 ≥ 7 ∑ 8 ø 9 ¡ ; √ < ∆ = « >   ? Ã @ œ A ’ B ◊ C ⁄ D ﬁ E · F Á I Î J Ì   d	0   o	6   ‘	T   Ì	T   ¸	X   
+^   
+c   @
+x   G
+}   
+É   ÿ
+®   ·
+≠   Í
+c   Ù
+≠   ˛
+c   	≤   :ƒ   E»   Jƒ     ƒ   E»   (ƒ   5  C#  Lƒ   Y  gT   p»   |ƒ   â)  O   T   8»   ?}   ∫∫  ¿»   Œ»   ”»   E»   ⁄ƒ  Âƒ  ƒ  G
+}   
+É   ˚#     –  C#  @
+È  ¸	X   LÉ   
+c   U^   |T   »   	#  C#  [T   dE  k»   vJ  ÉS  G
+}   ¸	X   
+^   ∫∫  ãT   ¸	X   	Ç  o	ó  ÉS  ¸	X   
+c   ¸	X   	#  d	0   o	6   ‘	T   Ì	T   ¸	X   
+^   
+c   ‘	T   Ì	T   ¸	X   
+^   
+c   <ƒ   Ì	T   ¸	X   o	¨  Ì	T   ¸	X   
+c   @
+x   G
+}   
+É   ÿ
+®   ·
+≠   Í
+c   Ù
+≠   ˛
+c   	≤   :ƒ   E»   Jƒ   <ƒ   â)  |ƒ   p»   gT   Y  Lƒ   C#  5  (ƒ   E»   ƒ     ?}   8»    T   O  ⁄ƒ  Âƒ  ƒ  G
+}   E»   ”»   Œ»   ¿»   
+É   ∫∫  C#  –     ˚#  @
+È  ¸	X   LÉ   
+c   U^   O  |T   vJ  ÉS  k»   G
+}   dE  [T   C#  ¸	X   	#  
+^   »   ãT   ∫∫  
+c   »   %T   -T   6»   H   _»   j»   w»   Çƒ  ê   £»   	  ≠(  ¿»   –   Â   Ò»   ˙»   ãT   p»   É»   d	0   6  p»   k»   bT   rT   xT   É»   ä»     ¶O  ¨»   ¸	X   	Ç  ¸	X   	Ç  
+c   o	ó  ÉS  ¸	X   
+c   ¸	X   	#  ¸	X   	#  
+c   Û  ˙»      d	0   ≠   	»   Q  o	V  ¸	X   Q  
+c   <ƒ   ¸	X   Q  o	l  ¸	X   Q  
+c   Û  ˙»      d	0   ≠   	»   ≥§  …»   ÿ≠  ·≥  Q  o	V  ¸	X   Q  
+c  8   9      /   .      ]   \      Ÿ   ⁄    	  – 
+  œ 
+     ˛   ˝                	   
+                   !   #   %   '   )   )  + +  , +   -   -  ' /  ( /  # 1  $ 1   3   3  ) 5  * 5  & 7  % 7   9   9   ;   ;   =    =  ! ?  " ?  1 A  0 A  6 C  7 C  2 E  3 E  5 G  4 G  Y I  X I  Z K  [ K  R M  Q M  P O  O O  N Q  M Q  V S  W U  U W  S Y  T [  e ]  d ]  f _  g _  c a  b a  a c  ` c  h e  k g  i i  l k  j m  r o  v q  w q  Å s  Ç s   u  Ä u  á w  Ü w  { y  | y  z {  y {  ~ }  } }  É   x Å  Ö É  Ñ Ö  ã á  å á  ä â  â â  ç ã  é ç  è è  ë ë  í ì  ê ï  ì ó  î ô  ñ õ  ï ù  ô ü  ö °  õ £  ò •  ó ß  û ©  ü ´  † ≠  ù Ø  ú ±  ° ≥  ¢ µ  £ ∑  § π  ¶ ª  ß Ω  • ø  ® ¡  © √  ™ ≈  ´ «  ¨ …  Æ À  ≠ Õ  Ø œ  ∞ —  ≤ ”  ± ’  ≥ ◊  ¥ Ÿ  √ €  ƒ €  ¡ ›  ¬ ›  ∫ ﬂ  π ﬂ  Ω ·  æ ·  » „  « „  Ã Â  À Â  ª Á  º Á  ≈ È  ∆ È    Î  … Î  ∑ Ì  ∏ Ì  Õ Ô  Œ Ô  ø Ò  ¿ Ò  ÷ Û  ’ Û  ” ı  ‘ ı  ◊ ˜  ÿ ˜  “ ˘  — ˘  ˜ ˚  ¯ ˝  ˆ ˇ  Ù  Ô  Ó    Ò  Ú  Û  ˚ 	 ¸ 	 ı  ˙  ˘          	  
+   ! ! # $% #% )' )  ) + !- "- ,/ -/ %1 &1 +3 (5 '5 *7 9 9 0; /; 1= 2= 3? DA CC HE >G ?I ;K =M <O BQ @S EU GW FY 8[ 9] :_ 7a Ac Ie Kg Li Jk Mm Po Nq Ss Qu Rw Uy O{ T} V WÅ XÉ YÖ ]á \â [ã ^ç `è aë _ì bï có fô eõ dù lü i° k£ h• gß j© n´ m≠ pØ q± o≥ rµ t∑ sπ uª xΩ wø v¡ ~√ {≈ }« z… yÀ |Õ œ Äœ Ü— Ö— É” Ñ” Ç’ Å’ à◊ áŸ ä€ ã› âﬂ        #  
+ !   %   '   )   /   -   +   7   3   5   1   9    ;  & =  $ ?  " A 
+ L e 
+ , E 
+ . G 
+ 0 I 
+ 2 K 
+ 4 M 
+ 6 O 
+ 8 Q 
+ : S 
+ * U 
+ > W 
+ @ Y 
+ B [ 
+ D ] 
+ F _ 
+ H a 
+ J c 
+ < C 
+ N g 
+ P i 
+ R k 
+ T m 
+ V o 
+ X q  b y  ^ u  ` w  p s  d {  f }  h   j Å  l É  n Ö  \ á  r â  t ã  v ç  x è  z ë  | ì  ~ ï  Ä ó  Ç ô  Ñ õ  Ü ù  à ü  ä °  å £  é •  ê ß  í ©  î ´  ñ ≠  † µ  ú ±  û ≥    Ø  ¢ ∑  § π  ¶ ª  ® Ω  ™ ø  ¨ ¡  Æ √  ∞ ≈  ≤ «  ¥ …  ∂ À  ∏ Õ  ∫ œ  º —  æ ”  ¿ ’  ¬ ◊  ƒ Ÿ  ∆ €  » ›  ö ﬂ  Ã ·  Œ „  ‘ Â  “ Á  – È  ÷ Î  ÿ Ì  ﬁ Ò  ‹ Ô  ‡ Û  ‚ ı  ‰ ˜  Ê ˘  Ë ˚  Ó ˇ  Ï ˝    Ú  Ù  ˆ  ¯ 	 ˙  ¸  ˛        
+   ! # % ' ) + - / "3  1 $5 (7 &9E Ú=E Ù;E ˆ?E ¯AE ˙CE ¸EI GI IJ KJ MJ OT^⁄Ä  ˇ ˇ ˇ ˇ      
+   ˇ ˇ ˇ ˇ      V     ˇ ˇ ˇ ˇ      —    ˇ ˇ ˇ ˇ      3       <Module> Microsoft.Management.Configuration Microsoft.Management.Configuration.winmd mscorlib System Enum ApplyConfigurationSetFlags Object ApplyConfigurationSetResult ApplyConfigurationUnitResult ConfigurationChangeData ConfigurationChangeEventType ConfigurationConflict ConfigurationConflictSetting ConfigurationConflictType ConfigurationParameter ConfigurationProcessor ConfigurationSet ConfigurationSetChangeData ConfigurationSetChangeEventType ConfigurationSetState ConfigurationStaticFunctions ConfigurationTestResult ConfigurationUnit ConfigurationUnitDetailFlags ConfigurationUnitIntent ConfigurationUnitResultSource ConfigurationUnitState ValueType Contract DiagnosticLevel GetAllConfigurationUnitSettingsResult GetConfigurationSetDetailsResult GetConfigurationUnitDetailsResult GetConfigurationUnitSettingsResult IApplyConfigurationSetResult IApplyConfigurationUnitResult IApplyGroupMemberSettingsResult IApplyGroupSettingsResult IApplySettingsResult IConfigurationChangeData IConfigurationConflict IConfigurationConflictSetting IConfigurationGroupProcessor IConfigurationParameter IConfigurationProcessor IConfigurationProcessor2 IConfigurationProcessorFactory IConfigurationSet IConfigurationSet2 IConfigurationSetChangeData IConfigurationSetProcessor IConfigurationSetProcessorFactory IConfigurationStatics IConfigurationStatics2 IConfigurationUnit IConfigurationUnit2 IConfigurationUnitProcessor IConfigurationUnitProcessorDetails IConfigurationUnitProcessorDetails2 IConfigurationUnitResultInformation IConfigurationUnitSettingDetails IDiagnosticInformation IGetAllConfigurationUnitSettingsResult IGetAllSettingsConfigurationUnitProcessor IGetAllSettingsResult IGetConfigurationSetDetailsResult IGetConfigurationUnitDetailsResult IGetConfigurationUnitSettingsResult IGetSettingsResult IOpenConfigurationSetResult ITestConfigurationSetResult ITestConfigurationUnitResult ITestGroupSettingsResult ITestSettingsResult OpenConfigurationSetResult IPwshConfigurationSetProcessorFactoryProperties Microsoft.Management.Configuration.SetProcessorFactory PwshConfigurationProcessorLocation PwshConfigurationProcessorPolicy TestConfigurationSetResult TestConfigurationUnitResult value__ None DoNotOverwriteMatchingOriginSet PerformConsistencyCheckOnly Windows.Foundation.FoundationContract Windows.Foundation.Collections IVectorView`1 get_UnitResults value Windows.Foundation HResult get_ResultCode ResultCode UnitResults get_Unit get_State get_PreviouslyInDesiredState get_RebootRequired get_ResultInformation PreviouslyInDesiredState RebootRequired ResultInformation State Unit get_Change Guid get_InstanceIdentifier Change InstanceIdentifier Unknown SetAdded SetStateChanged SetRemoved get_Conflict get_FirstSet get_SecondSet get_FirstUnit get_SecondUnit get_Settings Conflict FirstSet FirstUnit SecondSet SecondUnit Settings get_Name get_FirstValue get_SecondValue FirstValue Name SecondValue MatchingOrigin IdenticalSetApplied SettingsConflict .ctor put_Name get_Description put_Description ValueSet get_Metadata put_Metadata get_IsSecure put_IsSecure PropertyType get_Type put_Type get_DefaultValue put_DefaultValue IVector`1 get_AllowedValues put_AllowedValues get_MinimumLength put_MinimumLength get_MaximumLength put_MaximumLength get_MinimumValue put_MinimumValue get_MaximumValue put_MaximumValue get_ProvidedValue put_ProvidedValue Type ProvidedValue MinimumValue MinimumLength Metadata MaximumValue MaximumLength IsSecure Description DefaultValue AllowedValues factory EventRegistrationToken EventHandler`1 add_Diagnostics token handler remove_Diagnostics get_MinimumLevel put_MinimumLevel get_Caller put_Caller get_ActivityIdentifier put_ActivityIdentifier get_GenerateTelemetryEvents put_GenerateTelemetryEvents TypedEventHandler`2 add_ConfigurationChange remove_ConfigurationChange GetConfigurationHistory result IAsyncOperation`1 GetConfigurationHistoryAsync operation Windows.Foundation.UniversalApiContract Windows.Storage.Streams IInputStream OpenConfigurationSet stream OpenConfigurationSetAsync CheckForConflicts configurationSets includeConfigurationHistory CheckForConflictsAsync GetSetDetails configurationSet detailFlags IAsyncOperationWithProgress`2 GetSetDetailsAsync GetUnitDetails unit GetUnitDetailsAsync ApplySet flags ApplySetAsync TestSet TestSetAsync GetUnitSettings GetUnitSettingsAsync GetAllUnitSettings GetAllUnitSettingsAsync MinimumLevel GenerateTelemetryEvents Caller ActivityIdentifier ConfigurationChange Diagnostics get_Origin put_Origin get_Path put_Path DateTime get_FirstApply get_ApplyBegun get_ApplyEnded get_Units put_Units get_SchemaVersion put_SchemaVersion add_ConfigurationSetChange remove_ConfigurationSetChange IOutputStream Serialize Remove get_Parameters put_Parameters get_Variables put_Variables Uri get_SchemaUri put_SchemaUri Units SchemaVersion Path Origin ApplyBegun ApplyEnded FirstApply Variables SchemaUri Parameters ConfigurationSetChange get_SetState get_UnitState SetState UnitState UnitStateChanged Pending InProgress Completed CreateConfigurationUnit CreateConfigurationSet CreateConfigurationSetProcessorFactoryAsync CreateConfigurationProcessor get_IsConfigurationAvailable IAsyncActionWithProgress`1 EnsureConfigurationAvailableAsync CreateConfigurationParameter IsConfigurationAvailable Positive Negative Failed NotRun get_Identifier put_Identifier get_Intent put_Intent get_Dependencies put_Dependencies put_Settings get_Details get_IsActive put_IsActive Copy get_IsGroup put_IsGroup IsActive Intent Identifier Dependencies Details IsGroup Local Catalog ReadOnly Download Load Assert Inform Apply Internal UnitProcessing SystemState Precondition Skipped Verbose Informational Warning Error Critical get_Group Group TestGroupSettingsAsync progressHandler ApplyGroupSettingsAsync CreateInstance GetUnitProcessorDetails CreateUnitProcessor CreateSetProcessor TestSettings GetSettings ApplySettings get_UnitType get_UnitDescription get_UnitDocumentationUri get_UnitIconUri get_ModuleName get_ModuleType get_ModuleSource get_ModuleDescription get_ModuleDocumentationUri get_PublishedModuleUri get_Version get_PublishedDate get_IsLocal get_Author get_Publisher get_SigningInformation get_IsPublic Author IsLocal IsPublic ModuleDescription ModuleDocumentationUri ModuleName ModuleSource ModuleType PublishedDate PublishedModuleUri Publisher SigningInformation UnitDescription UnitDocumentationUri UnitIconUri UnitType Version get_ResultSource ResultSource get_Title get_IsKey get_IsRequired get_IsInformational get_Schema IsInformational IsKey IsRequired Schema Title get_Level get_Message Level Message GetAllSettings get_Set get_Field get_Value get_Line get_Column Column Field Line Set Value get_TestResult TestResult get_AdditionalModulePaths put_AdditionalModulePaths get_Policy put_Policy get_Location put_Location get_CustomLocation put_CustomLocation AdditionalModulePaths CustomLocation Location Policy CurrentUser AllUsers WinGetModulePath Custom Default Unrestricted RemoteSigned AllSigned Restricted Bypass Undefined Windows.Foundation.Metadata ContractVersionAttribute FlagsAttribute MarshalingType MarshalingBehaviorAttribute DefaultAttribute ThreadingModel ThreadingAttribute ActivatableAttribute ApiContractAttribute ExclusiveToAttribute GuidAttribute VersionAttribute           „~`RÏÄoEÇú	#Ó\Ñ: ∑z\V4‡â		          	  Å5  Å9( Å9	( Å5  M  ]    Ä·( ( Ä·( ]( M    Å=  A( ( Å=( A     )  5	  Å5%( )( 5	( Å5%    ( ( )     ÅA ÅA   ÅE ÅE   ÅI	 ÅI  	 	( ÅE( 	( ÅA( ÅI Ä¡ ÅMÅQÄÈ ÅM  i i Å= ÅMÅU5	  ÅI5  ÅYÅI5 ÅÅ] ÅYÅÅ] ÅI!Å55 ÅYÅI!Å55 q5Q Åaqu5Q uMQ ÅYuMQ 5	 Åa95	 Å-5 ÅaÅ-Å15 yM ÅYyM mM ÅYmM( i	ÅU5ÅQÄÈ  Åe	  ÅIM
+ ÅIM ÅMÅU59 Åi	  ÅI-
+ ÅI-  Åm Åm	( ÅIM( Åe( Åm	( ÅI-	ÅU59  =( ==A ÅYÄ¡ 1Ä¡  Åq	  -I     U U  ÅI	 ÅI  ÄŸ( U( ÅI( ÄŸQ   UY   ]i
+  ÅIÅA
+( ÅIÅA	  Å5u	( Å5u
+  ÅIÄÖ
+( ÅIÄÖ ÅYÅÅQÅ ÅYÄâÅQÄÖ	 ÄŸMQ Ä’M ÄΩ5  Å  Å  Äç  Å5
+  Å5ÄÂ
+( Å5ÄÂ( Å5  Y( Y  Äı
+  Å5Å1  I( I
+( Å5Å1
+  ÅIÅ
+( ÅIÅ  Å5	 Å5  Å) Å)  Å% Å%( Å5( Å%( Å)Å%Å) Åu	4 +Microsoft.Management.Configuration.Contract      ÅÅ       Åç      4 +Microsoft.Management.Configuration.Contract      	4    +Microsoft.Management.Configuration.Contract   Åu	v AMicrosoft.Management.Configuration.IConfigurationProcessorFactory   +Microsoft.Management.Configuration.Contract   	4    +Microsoft.Management.Configuration.Contract         ÅuC >Microsoft.Management.Configuration.ApplyConfigurationSetResult   	 Í¶Ç¯¶∞îTÄ“≠Uçig“   {j•Hf¸ÚP•'ƒ}˜{Ì  D ?Microsoft.Management.Configuration.ApplyConfigurationUnitResult   ß!nM©–T¨≤—ØwAÃ    2îƒ„÷(ñRìcΩ&fDñË   úH~ã>YS±éçzísŸ   Ãﬂ*§%ÉBVµ£∆r•ñ.  ? :Microsoft.Management.Configuration.ConfigurationChangeData   ﬂ∞Û(⁄…ËW¥∑º˘∂≥%  = 8Microsoft.Management.Configuration.ConfigurationConflict   |3†ºÀRÅ©c–“ª|{  D ?Microsoft.Management.Configuration.ConfigurationConflictSetting   VØˆ@-Q∏¸œ¬ÃGŸ8  > 9Microsoft.Management.Configuration.ConfigurationParameter   ÄZàÆèÓ[í:–≤∂ß   $ù·Y÷Ñ[ïwß˘lıÛ  > 9Microsoft.Management.Configuration.ConfigurationProcessor   "Èn=*ÂS≤zn8÷"û   œ∆Ô‘Æ•S¨SÅ2ì»  8 3Microsoft.Management.Configuration.ConfigurationSet   !QHûºX‡\º\∏¥K%P   #”DÂ,(‡XòGêœOBéâ   }¬ÇTb0åPùTw∑úG◊  B =Microsoft.Management.Configuration.ConfigurationSetChangeData   ßÂŒ˚(ZÄépT[(∑   ∞¨Æ°çSáävˆ¿÷   Au\÷MóQõ∫ ≠«   s‡TÔÚuSÉ™é#ki  9 4Microsoft.Management.Configuration.ConfigurationUnit   ºHÉ2¸ëQí3îÿkëﬁ   ·ÌQyH‹t]≠›°Ω¬—ˇa   Ï≠ã”∑rºV±òèpZÃ∫   (§@ÇŸ¥^àê&¿E≥µ   Ì#ñË‚vEQπ –ñYUN5   ˜Æ
+vO&Æ\ä;9®_ù[u   ØÑa·/Ö\•7±⁄¨Ñ°   jœKk™ØQYÄhJˇ,U”û  M HMicrosoft.Management.Configuration.GetAllConfigurationUnitSettingsResult   ≤T/Æ(áAPû¨ò›˝(   ÉÎr”ÿ‘Wô@|Jÿƒ   H‘©Ñ?q≥VåÖ@Wò÷N  H CMicrosoft.Management.Configuration.GetConfigurationSetDetailsResult   cÀ§Â†lı]π“)D∆  I DMicrosoft.Management.Configuration.GetConfigurationUnitDetailsResult   uû∂˚CÆ.P∏õ‚≈8p–F   ò60PjáöQªr˘–˚ΩT  J EMicrosoft.Management.Configuration.GetConfigurationUnitSettingsResult   Îbr!^`S∫sr,aHQÃ   Ò’á&∑Õ[ñrÇÉ-˜G  B =Microsoft.Management.Configuration.OpenConfigurationSetResult  B =Microsoft.Management.Configuration.TestConfigurationSetResult   ∫ÇéäŸ%@S§lyg≈Ka¥  C >Microsoft.Management.Configuration.TestConfigurationUnitResult   Ug≤ê∑ÉvSø ˆ$˘[∞’   <eE·çYR†ÿ:.ˆÇ9\   ô˘Â„Q]∑N5
+ πN€   0ä),;Ω ]º—.∂3´~;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              MaterialS    &@       VersionIf   I@    
+   ShadingModelS   Phonge@       
+MultiLayerI    öC         Properties70Õ@    A   PS   DiffuseColorS   ColorS    S   AD   Ä Ø√?D   ‡N◊Ω?D    ª?A    B   PS   EmissiveColorS   ColorS    S   AD   Ä Ø√?D   ‡N◊Ω?D    ª?]A    2   PS   EmissiveFactorS   NumberS    S   AD        ¨A    A   PS   AmbientColorS   ColorS    S   AD   @n™?D   @n™?D   @n™?ÎA    1   PS   AmbientFactorS   NumberS    S   AD        ;B    B   PS   SpecularColorS   ColorS    S   AD   Ä Ø√?D   ‡N◊Ω?D    ª?{B    2   PS   SpecularFactorS   NumberS    S   AD      –?∂B    -   PS	   ShininessS   NumberS    S   AD   ˙ˇˇA@˘B    5   PS   ShininessExponentS   NumberS    S   AD   ˙ˇˇA@KC    D   PS   ReflectionColorS   ColorS    S   AD   Ä Ø√?D   ‡N◊Ω?D    ª?çC    4   PS   ReflectionFactorS   NumberS    S   AD                                               úD         ConnectionsÛC       CS   OOLzç¯	    L        D       CS   OOL6˙Ä$    Lzç¯	    AD       CS   OOLä¢	    Lzç¯	    hD       CS   OOLßâÎ    Lzç¯	    èD       CS   OOL˚∆N    Lzç¯	                 ‘D         Takes«D       CurrentS                              ˙º´	–»‘f±v˚É˜&~               Ë                                                                                                                          ¯ZåjﬁıŸ~ÏÈ„uè)
