@@ -1,80 +1,47 @@
-<h1 align="center">Привет, я Мирон 👋</h1>
-<h3 align="center">Начинающий full-stack разработчик из России 🇷🇺</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&random=false&width=600&lines=Java+Backend+Developer;Fullstack+enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<h1 align="center">Привет, я <span style="color:#f89820">Miroshka</span> 👋</h1>
+
+## 💼 Обо мне
+
+- 🔭 Разрабатываю высоконагруженные микросервисы и распределенные системы на Java
+- 🌱 Погружен в Java-экосистему и постоянно изучаю новые технологии
+- 🚀 Стремлюсь к написанию чистого, эффективного и масштабируемого кода
+- 💡 Люблю решать сложные алгоритмические задачи
+- 📚 Постоянно улучшаю свои навыки и делюсь опытом
+
+## 🛠️ Мой технологический стек
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
+</div>
+
+## 🌐 Связаться со мной
+
+<div align="center">
+  <a href="https://t.me/miroshka000">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ0ZGs4MzA0dDRlZ3hyZDB6c3p2aWQzZ3k3bXJ1eGY1b3Z2N2c0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5y/giphy.gif" alt="coding gif" width="400"/>
-</p>
-
----
-
-### 🚀 Обо мне
-
-<p align="left">
-- 🔭 В настоящее время работаю над улучшением своих навыков в **Next.js** и **ASP.NET**.
-- 🌱 Изучаю лучшие практики в разработке веб-приложений и архитектуре.
-- 👯 Ищу возможность поучаствовать в интересных проектах, чтобы набраться опыта.
-- 📫 Как со мной связаться: **(пока не указано)**
-</p>
-
----
-
-### 📊 Моя статистика на GitHub
-
-<p align="center">
-  <a href="https://github.com/Miroshka000">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miroshka000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Miroshka000's GitHub stats" />
-  </a>
-  <a href="https://github.com/Miroshka000">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miroshka000&layout=compact&theme=tokyonight&hide_border=true" alt="Miroshka000's Top Languages" />
-  </a>
-  <a href="https://github.com/Miroshka000">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miroshka000&theme=tokyonight&hide_border=true" alt="Miroshka000's Streak" />
-  </a>
-</p>
-
----
-
-### 💻 Технологии, с которыми я работаю
-
-<p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-    </a>
-</p>
-
----
-
-### ✨ Мои проекты
-
-<p align="center">
-  <a href="https://github.com/Miroshka000/UrlShortener">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miroshka000&repo=UrlShortener&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Miroshka000/Car_Showcase">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miroshka000&repo=Car_Showcase&theme=tokyonight&hide_border=true" />
-  </a>
+  <img width="600" src="Assets/github-snake.svg" alt="snake"/>
 </p> 
