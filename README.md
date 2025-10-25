@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind,js,html,css" />
 
 #### 🐳 DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,nginx,apache,gcp" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,nginx,gcp" />
 
 #### 🔧 Tools & Environment
 <img src="https://skillicons.dev/icons?i=idea,git,github,postman,vim,bash,linux,nodejs,graphql,grafana" />
