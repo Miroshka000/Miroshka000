@@ -1,6 +1,6 @@
 {
   "stars": 122,
-  "contributions": 2086,
+  "contributions": 2071,
   "repos": 34,
   "followers": 9,
   "languages": [
@@ -26,7 +26,7 @@
     ],
     [
       "JavaScript",
-      267184
+      268281
     ],
     [
       "Python",
@@ -83,12 +83,12 @@
         "today": false
       },
       {
-        "c": 58,
+        "c": 59,
         "day": 13,
         "today": false
       },
       {
-        "c": 34,
+        "c": 33,
         "day": 14,
         "today": false
       },
@@ -129,11 +129,7 @@
         "day": 21,
         "today": true
       },
-      {
-        "c": 15,
-        "day": 22,
-        "today": false
-      },
+      null,
       null,
       null
     ]
