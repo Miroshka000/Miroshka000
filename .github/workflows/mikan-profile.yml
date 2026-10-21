@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- profile-assets README.md .profile/icons.json .profile/data.json .profile/avatar.txt
+          git add -- profile-assets README.md .profile/icons.json .profile/data.json .profile/avatar.txt .profile/asset-versions.json
           if ! git diff --cached --quiet; then
             git commit -m 'chore(profile): refresh public GitHub activity'
             git push

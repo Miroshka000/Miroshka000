@@ -1,4 +1,5 @@
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import { mkdir, readFile, readdir, writeFile, unlink } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -83,18 +84,36 @@ for (const name of names) {
   if (name.startsWith('brand:') ? !icons.brand[name.slice(6)] : !icons.symbol[name]) throw new Error(`Missing icon: ${name}`);
 }
 icons = pickIcons(icons, names);
-const files = render(config, data, icons, avatar);
-const markdown = readme(config, data, files);
-const used = new Set(markdown.match(/profile-assets\/[\w-]+\.svg/g));
+const rendered = render(config, data, icons, avatar);
+let markdown = readme(config, data, rendered);
+const sourcePaths = new Set(markdown.match(/profile-assets\/[\w-]+\.svg/g));
+const manifestPath = resolve(root, '.profile/asset-versions.json');
+let previous = {};
+try { previous = JSON.parse(await readFile(manifestPath, 'utf8')); }
+catch (error) { if (error.code !== 'ENOENT') throw error; }
+const files = {};
+const versions = {};
+for (const path of sourcePaths) {
+  if (!rendered[path]) throw new Error(`Missing generated image: ${path}`);
+  const hash = createHash('sha256').update(rendered[path]).digest('hex').slice(0,12);
+  const versioned = path.replace(/\.svg$/, `-${hash}.svg`);
+  files[versioned] = rendered[path];
+  markdown = markdown.replaceAll(path, versioned);
+  const older = previous[path] ?? [path];
+  if (!Array.isArray(older) || older.some(p => typeof p !== 'string' || !/^profile-assets\/[\w-]+\.svg$/.test(p))) throw new Error('Invalid image version manifest');
+  // Retain the previous version for readers with a cached README.
+  versions[path] = [...new Set([versioned, ...older])].slice(0,2);
+}
+const retained = new Set(Object.values(versions).flat());
 await mkdir(resolve(root,'profile-assets'), { recursive: true });
 for (const file of await readdir(resolve(root,'profile-assets'))) {
-  if (file.endsWith('.svg') && !used.has(`profile-assets/${file}`)) await unlink(resolve(root,'profile-assets',file));
+  if (file.endsWith('.svg') && !retained.has(`profile-assets/${file}`)) await unlink(resolve(root,'profile-assets',file));
 }
-for (const path of used) {
-  if (!files[path]) throw new Error(`Missing generated image: ${path}`);
-  await writeFile(resolve(root,path), files[path]);
+for (const [path, content] of Object.entries(files)) {
+  await writeFile(resolve(root,path), content);
 }
 await writeFile(resolve(root,'README.md'), markdown);
+await writeFile(manifestPath, JSON.stringify(versions,null,2) + '\n');
 await writeFile(resolve(root,'.profile/icons.json'), JSON.stringify(icons));
 await writeFile(resolve(root,'.profile/data.json'), JSON.stringify(data,null,2) + '\n');
-console.log(`Rendered ${used.size} SVG cards; ${config.stack.groups.reduce((n,g) => n+g.items.length,0)} technologies; live public GitHub data.`);
+console.log(`Rendered ${sourcePaths.size} versioned SVG cards; ${config.stack.groups.reduce((n,g) => n+g.items.length,0)} technologies; live public GitHub data.`);

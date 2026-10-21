@@ -26,3 +26,7 @@ node .profile/refresh.mjs
 For local refresh, authenticate the GitHub CLI. Actions uses its built-in
 repository token; no personal token or additional secrets are needed.
 If fetching profile data fails, existing images are retained.
+
+Published SVG filenames include a hash of their contents to avoid stale GitHub
+image caches. The preceding image version is kept for cached README pages;
+`.profile/asset-versions.json` tracks the current and preceding filenames.
