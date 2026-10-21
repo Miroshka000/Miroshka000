@@ -75,8 +75,12 @@ export function hero(ctx: Ctx, avatar: string | null) {
   const cy = mobile ? 86 : 150;
   const radius = mobile ? 64 : 108;
   const b = [`<rect width="${w}" height="${h}" rx="32" fill="${p.surfaceContainer}"/>`];
-  b.push(`<path class="orbit" d="${shape("cookie12", cx, cy, radius)}" fill="${p.secondaryContainer}"/>`);
-  b.push(`<clipPath id="ava"><circle cx="${cx}" cy="${cy}" r="${radius - 13}"/></clipPath>`);
+  b.push(`<clipPath id="hero-card"><rect width="${w}" height="${h}" rx="32"/></clipPath><g clip-path="url(#hero-card)">`);
+  b.push(`<path class="spin" d="${shape("flower", w - 36, 28, mobile ? 86 : 142)}" fill="${p.secondaryContainer}"/>`);
+  b.push(`<path class="bob" d="${shape("clover", w - (mobile ? 105 : 130), mobile ? 130 : h - 8, mobile ? 38 : 60)}" fill="${p.primaryContainer}" opacity=".7"/>`);
+  b.push(`<path class="spin-r" d="${shape("sunny", w - 24, mobile ? 142 : h - 55, mobile ? 24 : 32)}" fill="${p.tertiaryContainer}"/>`);
+  b.push(`</g><path class="orbit" d="${shape("flower", cx, cy, radius)}" fill="${p.secondary}"/>`);
+  b.push(`<clipPath id="ava"><path d="${shape(c.hero.avatarShape, cx, cy, radius - 13)}"/></clipPath>`);
   if (avatar) b.push(`<image href="${avatar}" x="${cx - radius + 13}" y="${cy - radius + 13}" width="${2 * (radius - 13)}" height="${2 * (radius - 13)}" clip-path="url(#ava)" preserveAspectRatio="xMidYMid slice"/>`);
   else b.push(icon(i, "person", cx - 32, cy - 32, 64, p.onSecondaryContainer));
   const markX = cx + radius - (mobile ? 14 : 20);
@@ -93,8 +97,15 @@ export function hero(ctx: Ctx, avatar: string | null) {
   const size = Math.min(mobile ? 52 : 68, room / Math.max(1, textWidth(name, 1, 700)));
   b.push(txt(x, greetingY, c.hero.greeting, mobile ? 18 : 21, p.onSurfaceVariant, { weight: 500, cls: "up", delay: .08 }));
   b.push(txt(x - 2, nameY, name, size, p.onSurface, { weight: 700, cls: "up", delay: .16 }));
-  wrap(c.hero.subtitle, mobile ? 17 : 19, room, 400, 2).forEach((line, n) => {
-    b.push(txt(x, subtitleY + n * 25, line, mobile ? 17 : 19, p.onSurfaceVariant, { cls: "up", delay: .24 + n * .05 }));
+  const subtitleSize = mobile ? 17 : 19;
+  const lines = wrap(c.hero.subtitle, subtitleSize, room, 400, 2);
+  let extra = "";
+  if (c.hero.typing && c.motion && lines.join("")) {
+    const [body, css] = typing(lines, x, subtitleY, subtitleSize, p);
+    b.push(body);
+    extra = css;
+  } else lines.forEach((line, n) => {
+    b.push(txt(x, subtitleY + n * 25, line, subtitleSize, p.onSurfaceVariant, { cls: "up", delay: .24 + n * .05 }));
   });
   let chipX = x;
   let chipY = mobile ? 310 : 239;
@@ -107,7 +118,37 @@ export function hero(ctx: Ctx, avatar: string | null) {
     b.push(chip(i, p, chipX, chipY, item.label, { icon: item.icon, h: 32, size: 14, style: "tonal" })[0]);
     chipX += cw + 8;
   }
-  return svg(w, h, b.join(""), `${c.hero.greeting} ${name}`, c.motion);
+  return svg(w, h, b.join(""), `${c.hero.greeting} ${name}`, c.motion, extra);
+}
+
+function typing(lines: string[], x: number, y: number, size: number, p: Palette): [string, string] {
+  const chars = lines.map(line => [...line]);
+  const count = chars.reduce((sum, line) => sum + line.length, 0);
+  const duration = .7 + count * .05;
+  const starts = chars.map((_, n) => chars.slice(0, n).reduce((sum, line) => sum + line.length, 0));
+  const states = Array.from({ length: count + 1 }, (_, n) => n);
+  const time = (n: number) => `${((.7 + n * .05) / duration * 100).toFixed(3)}%`;
+  const width = (line: number, n: number) => {
+    const prefix = chars[line].slice(0, Math.max(0, Math.min(chars[line].length, n - starts[line]))).join("");
+    return prefix ? textWidth(prefix, size) + 6 : 0;
+  };
+  const body: string[] = [];
+  const css: string[] = [];
+  lines.forEach((line, n) => {
+    const key = `type-line-${n}`;
+    css.push(`@keyframes ${key}{0%{width:0px}${states.map(k => `${time(k)}{width:${width(n, k).toFixed(1)}px}`).join("")}}`);
+    body.push(`<clipPath id="${key}"><rect x="${x - 2}" y="${y + n * 25 - size - 5}" width="${width(n, count).toFixed(1)}" height="${size + 12}" style="animation:${key} ${duration.toFixed(2)}s steps(1,end) both"/></clipPath>`);
+    body.push(`<g clip-path="url(#${key})">${txt(x, y + n * 25, line, size, p.onSurfaceVariant)}</g>`);
+  });
+  const position = (n: number) => {
+    let line = chars.findIndex((c, i) => n <= starts[i] + c.length);
+    if (line < 0) line = chars.length - 1;
+    return `translate(${width(line, n).toFixed(1)}px,${line * 25}px)`;
+  };
+  css.push(`@keyframes type-cursor{0%{transform:translate(0,0)}${states.map(n => `${time(n)}{transform:${position(n)}}`).join("")}}`);
+  css.push(`@media(prefers-reduced-motion:reduce){.typing-cursor{display:none}}`);
+  body.push(`<rect class="typing-cursor" x="${x}" y="${y - size + 2}" width="2.5" height="${size + 3}" rx="1.25" fill="${p.primary}" style="animation:type-cursor ${duration.toFixed(2)}s steps(1,end) both,blink 1s step-end ${duration.toFixed(2)}s infinite"/>`);
+  return [body.join(""), css.join("")];
 }
 
 // About
@@ -206,7 +247,7 @@ export function card(ctx: Ctx, repo: Repo, index: number) {
   const d0 = 0.08 * index;
   const v = projectView(c, repo, index);
   const b = [`<rect width="${w}" height="${h}" rx="28" fill="${p.surfaceContainerHigh}"/>`];
-  b.push(pop(`<path d="${shape(v.shape, 52, 52, 30)}" fill="${p.primaryContainer}"/>`, d0));
+  b.push(pop(`<path class="spin" d="${shape(v.shape, 52, 52, 30)}" fill="${p.primaryContainer}"/>`, d0));
   b.push(pop(icon(i, v.icon, 39, 39, 26, p.onPrimaryContainer), d0 + 0.08));
   b.push(`<circle cx="${w - 40}" cy="40" r="18" fill="${p.surfaceContainerHighest}"/>`);
   b.push(icon(i, "arrow_outward", w - 50, 30, 20, p.onSurfaceVariant));
@@ -475,16 +516,18 @@ export function buttons(ctx: Ctx) {
   return row(ctx, "button", c.buttons.items.map((b, n) => buttonPiece(ctx, b, n)), !!c.buttons.card);
 }
 
-export function wave({ c, p }: Ctx) {
+export function wave(ctx: Ctx) {
+  const { c, p } = ctx;
+  const w = ctx.width ?? W;
   const h = 28;
   const amp = 5;
   const length = 48;
-  const pts: string[] = [];
-  for (let x = 0; x <= W + length * 2; x += 4) pts.push(`${x} ${(h / 2 + amp * Math.sin((2 * Math.PI * x) / length)).toFixed(1)}`);
+  let path = `M${-length} ${h / 2}`;
+  for (let x = -length; x <= w + length; x += length) path += `q${length / 4} ${amp * 2} ${length / 2} 0t${length / 2} 0`;
   const body =
-    `<clipPath id="w"><rect x="0" y="0" width="${W}" height="${h}"/></clipPath><g clip-path="url(#w)">` +
-    `<path class="wave" d="M${pts.join(" L")}" fill="none" stroke="${p.primary}" stroke-width="5" stroke-linecap="round"/></g>`;
-  return svg(W, h, body, "divider", c.motion);
+    `<clipPath id="w"><rect x="0" y="0" width="${w}" height="${h}"/></clipPath><g clip-path="url(#w)">` +
+    `<path class="wave" d="${path}" fill="none" stroke="${p.primary}" stroke-width="5" stroke-linecap="round"/></g>`;
+  return svg(w, h, body, "divider", c.motion);
 }
 
 export function credit({ p }: Ctx) {

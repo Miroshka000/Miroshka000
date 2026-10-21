@@ -66,18 +66,18 @@
     "about",
     "stack",
     "projects",
-    "stats"
+    "stats",
+    "wave"
   ],
   "hidden": [
     "socials",
-    "streak",
-    "wave"
+    "streak"
   ],
   "hero": {
     "greeting": "Привет, я",
     "name": "Miroshka",
     "subtitle": "Бэкенд, интерфейсы и системный код.",
-    "typing": false,
+    "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {

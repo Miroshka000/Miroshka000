@@ -174,6 +174,7 @@ export function render(c: Config, d: Data, all: Icons, avatar: string | null, th
     put("about-mobile", about(mobile));
     put("stack-mobile", stack(mobile));
     put("stats-mobile", stats(mobile));
+    put("wave-mobile", wave(mobile));
     for (const [name, svg] of Object.entries(socials(ctx))) put(name, svg);
     for (const [name, svg] of Object.entries(buttons(ctx))) put(name, svg);
     put("credit", credit(ctx));
@@ -199,7 +200,7 @@ function linkRow(files: Record<string, string>, prefix: string, links: { url: st
 function pic(name: string, alt: string, width = "100%") {
   return (
     `<picture>` +
-    (["hero", "about", "stack", "stats"].includes(name)
+    (["hero", "about", "stack", "stats", "wave"].includes(name)
       ? `<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="profile-assets/${name}-mobile-dark.svg"><source media="(max-width: 600px)" srcset="profile-assets/${name}-mobile-light.svg">`
       : "") +
     `<source media="(prefers-color-scheme: dark)" srcset="profile-assets/${name}-dark.svg">` +
