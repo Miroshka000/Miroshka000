@@ -1,0 +1,530 @@
+{
+  "stars": 122,
+  "contributions": 2085,
+  "repos": 34,
+  "followers": 9,
+  "languages": [
+    [
+      "Go",
+      4190699
+    ],
+    [
+      "TypeScript",
+      1070973
+    ],
+    [
+      "Java",
+      839459
+    ],
+    [
+      "Rust",
+      676023
+    ],
+    [
+      "MDX",
+      480199
+    ],
+    [
+      "Python",
+      210911
+    ],
+    [
+      "CSS",
+      137927
+    ]
+  ],
+  "days": [
+    [
+      {
+        "c": 74,
+        "day": 4,
+        "today": false
+      },
+      {
+        "c": 21,
+        "day": 5,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 6,
+        "today": false
+      },
+      {
+        "c": 86,
+        "day": 7,
+        "today": false
+      },
+      {
+        "c": 101,
+        "day": 8,
+        "today": false
+      },
+      {
+        "c": 30,
+        "day": 9,
+        "today": false
+      },
+      {
+        "c": 52,
+        "day": 10,
+        "today": false
+      }
+    ],
+    [
+      {
+        "c": 56,
+        "day": 11,
+        "today": false
+      },
+      {
+        "c": 54,
+        "day": 12,
+        "today": false
+      },
+      {
+        "c": 58,
+        "day": 13,
+        "today": false
+      },
+      {
+        "c": 34,
+        "day": 14,
+        "today": false
+      },
+      {
+        "c": 20,
+        "day": 15,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 16,
+        "today": false
+      },
+      {
+        "c": 3,
+        "day": 17,
+        "today": false
+      }
+    ],
+    [
+      {
+        "c": 12,
+        "day": 18,
+        "today": false
+      },
+      {
+        "c": 6,
+        "day": 19,
+        "today": false
+      },
+      {
+        "c": 17,
+        "day": 20,
+        "today": false
+      },
+      {
+        "c": 7,
+        "day": 21,
+        "today": true
+      },
+      {
+        "c": 14,
+        "day": 22,
+        "today": false
+      },
+      null,
+      null
+    ]
+  ],
+  "streak": {
+    "current": 5,
+    "longest": 22
+  },
+  "pins": [
+    {
+      "name": "mikan",
+      "url": "https://github.com/Miroshka000/mikan",
+      "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
+      "fork": false,
+      "stars": 101,
+      "language": "Go",
+      "topics": [
+        "anytls",
+        "clash-meta",
+        "hysteria2",
+        "mihomo",
+        "sing-box",
+        "trojan",
+        "vless",
+        "vless-grpc",
+        "vless-reality",
+        "vless-reality-vision"
+      ]
+    },
+    {
+      "name": "MikanApp",
+      "url": "https://github.com/getmikan/MikanApp",
+      "text": "A rule-based tunnel for Android.",
+      "fork": true,
+      "stars": 5,
+      "language": "Kotlin",
+      "topics": []
+    },
+    {
+      "name": "marketplace",
+      "url": "https://github.com/getmikan/marketplace",
+      "text": "",
+      "fork": false,
+      "stars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "Citrus",
+      "url": "https://github.com/getmikan/Citrus",
+      "text": "Cross-platform proxy core for Mikan with TUN, encrypted DNS, and rule-based routing.",
+      "fork": true,
+      "stars": 3,
+      "language": "Go",
+      "topics": []
+    }
+  ],
+  "all": [
+    {
+      "name": "mikan",
+      "url": "https://github.com/Miroshka000/mikan",
+      "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
+      "fork": false,
+      "stars": 101,
+      "language": "Go",
+      "topics": [
+        "anytls",
+        "clash-meta",
+        "hysteria2",
+        "mihomo",
+        "sing-box",
+        "trojan",
+        "vless",
+        "vless-grpc",
+        "vless-reality",
+        "vless-reality-vision"
+      ]
+    },
+    {
+      "name": "Aether",
+      "url": "https://github.com/Miroshka000/Aether",
+      "text": "⚡ Aether Network Core - High-Performance Network Bridge for WaterdogPE & AllayMC",
+      "fork": false,
+      "stars": 4,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "MultiRTP_MX",
+      "url": "https://github.com/Miroshka000/MultiRTP_MX",
+      "text": "MultiRTP_MX - Random teleportation and return to the point of death!",
+      "fork": false,
+      "stars": 4,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "MountKingMX",
+      "url": "https://github.com/Miroshka000/MountKingMX",
+      "text": "MountKingMX - Plugin for the King of the Mountain!",
+      "fork": false,
+      "stars": 3,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "BouncyBlockMX",
+      "url": "https://github.com/Miroshka000/BouncyBlockMX",
+      "text": "🌈 BouncyBlocksMX - Elevate Your Minecraft Gameplay! 🎮",
+      "fork": false,
+      "stars": 3,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin",
+        "nukkit-plugin"
+      ]
+    },
+    {
+      "name": "HologramsAllay",
+      "url": "https://github.com/Miroshka000/HologramsAllay",
+      "text": "Holograms For Allay",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin"
+      ]
+    },
+    {
+      "name": "NoSpaceInName",
+      "url": "https://github.com/Miroshka000/NoSpaceInName",
+      "text": "NoSpaceInName For Allay",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin"
+      ]
+    },
+    {
+      "name": "KDR",
+      "url": "https://github.com/Miroshka000/KDR",
+      "text": "KDR Plugin For Allay",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "Aegis",
+      "url": "https://github.com/Miroshka000/Aegis",
+      "text": "Aegis Regions For Allay",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "ServerInfo",
+      "url": "https://github.com/Miroshka000/ServerInfo",
+      "text": "Show some information through scoreboard & bossbar",
+      "fork": true,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "spark-extra-platforms",
+      "url": "https://github.com/Miroshka000/spark-extra-platforms",
+      "text": "Implementations of spark for additional platforms.",
+      "fork": true,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "RaschModelCalculator",
+      "url": "https://github.com/Miroshka000/RaschModelCalculator",
+      "text": "A powerful desktop application for calculating and analyzing the Rasch model, built with JavaFX.",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": [
+        "rasch-model",
+        "rasch-calculator"
+      ]
+    },
+    {
+      "name": "Microsoft-Key-Checker",
+      "url": "https://github.com/Miroshka000/Microsoft-Key-Checker",
+      "text": "It's just garbage, but maybe someone will need it...",
+      "fork": false,
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "M5ClientMX",
+      "url": "https://github.com/Miroshka000/M5ClientMX",
+      "text": "M5Client with firmwares for M5Stick Plus2",
+      "fork": false,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "WorldManager",
+      "url": "https://github.com/Miroshka000/WorldManager",
+      "text": "WorldManager is probably the best world management plugin for Nukkit",
+      "fork": true,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "CustomItemAPI",
+      "url": "https://github.com/Miroshka000/CustomItemAPI",
+      "text": "",
+      "fork": true,
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "StateUpdater",
+      "url": "https://github.com/Miroshka000/StateUpdater",
+      "text": "Updates Minecraft: Bedrock Edition block states & item states to the latest revision",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "Protocol",
+      "url": "https://github.com/Miroshka000/Protocol",
+      "text": "A protocol library for Minecraft: Bedrock Edition",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "Midas",
+      "url": "https://github.com/Miroshka000/Midas",
+      "text": "💰 Configurable shop, buyer and auto-buyer system for Allay servers",
+      "fork": false,
+      "stars": 0,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin"
+      ]
+    },
+    {
+      "name": "WaterdogPE",
+      "url": "https://github.com/Miroshka000/WaterdogPE",
+      "text": "AllayMC's fork of WaterdogPE with added support for NetEase Minecraft Bedrock Edition clients",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "WorldEdit",
+      "url": "https://github.com/Miroshka000/WorldEdit",
+      "text": "AllayMC WorldEdit reimplementation plugin",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "Allay",
+      "url": "https://github.com/Miroshka000/Allay",
+      "text": "The next-generation Minecraft: Bedrock Edition server software aims to be reliable, fast and feature-rich 🌟",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "ClearLag",
+      "url": "https://github.com/Miroshka000/ClearLag",
+      "text": "🧹 Automatic cleanup plugin for dropped items and mobs on AllayMC",
+      "fork": false,
+      "stars": 0,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin"
+      ]
+    },
+    {
+      "name": "ProxyTransport-Allay",
+      "url": "https://github.com/Miroshka000/ProxyTransport-Allay",
+      "text": "High-performance QUIC and TCP transport bridge for Allay and WaterdogPE",
+      "fork": false,
+      "stars": 0,
+      "language": "Java",
+      "topics": [
+        "allaymc-plugin",
+        "waterdogpe-plugin"
+      ]
+    },
+    {
+      "name": "MCBESwitcher",
+      "url": "https://github.com/Miroshka000/MCBESwitcher",
+      "text": "Minecraft Bedrock Edition Version Switcher",
+      "fork": true,
+      "stars": 0,
+      "language": "AutoIt",
+      "topics": []
+    },
+    {
+      "name": "MCBE.GDK.Switcher",
+      "url": "https://github.com/Miroshka000/MCBE.GDK.Switcher",
+      "text": "Easily switch between different GDK versions of Minecraft: Bedrock Edition.",
+      "fork": true,
+      "stars": 0,
+      "language": "C#",
+      "topics": []
+    },
+    {
+      "name": "Pyroclastic",
+      "url": "https://github.com/Miroshka000/Pyroclastic",
+      "text": "An alternative bootstrapper for Minecraft: Bedrock Edition (GDK).",
+      "fork": true,
+      "stars": 0,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "3xui-shopbot",
+      "url": "https://github.com/Miroshka000/3xui-shopbot",
+      "text": "Telegram бот для автоматической продажи VLESS VPN из панели 3x-ui",
+      "fork": true,
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "CustomForm",
+      "url": "https://github.com/Miroshka000/CustomForm",
+      "text": "",
+      "fork": false,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "NeoBuyerV2",
+      "url": "https://github.com/Miroshka000/NeoBuyerV2",
+      "text": "",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "NeoProtectV2",
+      "url": "https://github.com/Miroshka000/NeoProtectV2",
+      "text": "Приватный плагин на приват блоками с интеграцией с Telegram ботом",
+      "fork": true,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "ClanSystemMX",
+      "url": "https://github.com/Miroshka000/ClanSystemMX",
+      "text": "Create clans and build different camps",
+      "fork": false,
+      "stars": 0,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "AntiAFKMX",
+      "url": "https://github.com/Miroshka000/AntiAFKMX",
+      "text": "AntiAFK - A powerful AFK detection plugin that automatically identifies and kicks inactive players!",
+      "fork": false,
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "Miroshka000",
+      "url": "https://github.com/Miroshka000/Miroshka000",
+      "text": "",
+      "fork": false,
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "login": "Miroshka000",
+  "seed": "#A5D5B5",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "palettes": {
+    "light": {
+      "primary": "#914600",
+      "onPrimary": "#FFFFFF",
+      "primaryContainer": "#FFDCC2",
+      "onPrimaryContainer": "#301400",
+      "secondary": "#406852",
+      "onSecondary": "#FFFFFF",
+      "secondaryContainer": "#BFEACF",
+      "onSecondaryContainer": "#0A3823",
+      "tertiary": "#406852",
+      "onTertiary": "#FFFFFF",
+      "tertiaryContainer": "#D1EDDB",
+      "onTertiaryContainer": "#143927",
+      "surface": "#F7FAF5",
+      "surfaceDim": "#D7E1D5",
+      "surfaceBright": "#F7FAF5",
+      "surfaceContainerLowest": "#FFFFFF",
+      "surfaceContainerLow": "#EFF4ED",
+      "surfaceContainer": "#E7EEE5",
+      "surfaceContainerHigh": "#DFE8DD",
+      "surfaceContainerHighest": "#D7E1D5",
+      "onSurface": "#17211B",
+      "onSurfaceVariant": "#455348",
+      "outline": "#758278",
+      "outlineVariant": "#C4D0C5"
+    },
+    "dark": {
+      "primary": "#FFB779",
+      "onPrimary": "#4F2500",
+      "primaryContainer": "#663600",
+      "onPrimaryContainer": "#FFDCC2",
+      "secondary": "#A5D5B5",
+      "onSecondary": "#0D3823",
+      "secondaryContainer": "#284F39",
+      "onSecondaryContainer": "#BFEACF",
+      "tertiary": "#A5D5B5",
+      "onTertiary": "#0D3823",
+      "tertiaryContainer": "#23452F",
+      "onTertiaryContainer": "#C5EBD2",
+      "surface": "#101813",
+      "surfaceDim": "#101813",
+      "surfaceBright": "#344439",
+      "surfaceContainerLowest": "#0B120D",
+      "surfaceContainerLow": "#18221B",
+      "surfaceContainer": "#1E2B22",
+      "surfaceContainerHigh": "#29382D",
+      "surfaceContainerHighest": "#344439",
+      "onSurface": "#E1EBE0",
+      "onSurfaceVariant": "#BDCBBE",
+      "outline": "#87958A",
+      "outlineVariant": "#3F4D42"
+    }
+  },
+  "order": [
+    "hero",
+    "buttons",
+    "about",
+    "stack",
+    "projects",
+    "stats"
+  ],
+  "hidden": [
+    "socials",
+    "streak",
+    "wave"
+  ],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "Miroshka",
+    "subtitle": "Бэкенд, интерфейсы и системный код.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:openjdk",
+        "label": "Java"
+      },
+      {
+        "icon": "brand:go",
+        "label": "Go"
+      },
+      {
+        "icon": "brand:rust",
+        "label": "Rust"
+      },
+      {
+        "icon": "brand:react",
+        "label": "React"
+      }
+    ]
+  },
+  "about": {
+    "title": "Что я делаю",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Бэкенд и распределённые системы"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Развиваю Mikan и Citrus"
+      },
+      {
+        "icon": "palette",
+        "label": "Продумываю интерфейсы и детали"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Мой стек",
+    "groups": [
+      {
+        "title": "Код",
+        "items": [
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Веб",
+        "items": [
+          {
+            "icon": "brand:spring",
+            "label": "Spring"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Данные и среда",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:apachekafka",
+            "label": "Kafka"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:kubernetes",
+            "label": "Kubernetes"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {
+      "mikan": {
+        "text": "VPN-панель на Citrus: подписки, пользователи и платежи.",
+        "icon": "spa",
+        "shape": "cookie12"
+      },
+      "MikanApp": {
+        "text": "Android-клиент Mikan с Material 3 Expressive.",
+        "icon": "brand:android",
+        "shape": "soft"
+      },
+      "marketplace": {
+        "text": "Дополнения и платёжные интеграции для Mikan.",
+        "icon": "widgets",
+        "shape": "clover"
+      },
+      "Citrus": {
+        "text": "Сетевое ядро Mikan: TUN, DNS и маршрутизация.",
+        "icon": "brand:go",
+        "shape": "cookie12"
+      }
+    },
+    "empty": "Открыть проект на GitHub.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки публичных репозиториев",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  },
+  "buttons": {
+    "card": false,
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "label": "Telegram",
+        "url": "https://t.me/miroshka000",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "GitHub",
+        "url": "https://github.com/Miroshka000?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mikan-github-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild source/index.ts --bundle --platform=node --format=esm --target=node22 --minify --legal-comments=none --outfile=renderer.mjs"
+  },
+  "dependencies": {
+    "@material/material-color-utilities": "0.4.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
