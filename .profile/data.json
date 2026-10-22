@@ -1,8 +1,8 @@
 {
-  "stars": 122,
-  "contributions": 2087,
+  "stars": 123,
+  "contributions": 2088,
   "repos": 34,
-  "followers": 9,
+  "followers": 10,
   "languages": [
     [
       "Go",
@@ -130,7 +130,7 @@
         "today": false
       },
       {
-        "c": 16,
+        "c": 17,
         "day": 22,
         "today": true
       },
@@ -148,7 +148,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 101,
+      "stars": 102,
       "language": "Go",
       "topics": [
         "anytls",
@@ -197,7 +197,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 101,
+      "stars": 102,
       "language": "Go",
       "topics": [
         "anytls",
