@@ -1,7 +1,7 @@
 {
   "stars": 123,
-  "contributions": 2088,
-  "repos": 34,
+  "contributions": 2094,
+  "repos": 35,
   "followers": 10,
   "languages": [
     [
@@ -26,7 +26,7 @@
     ],
     [
       "JavaScript",
-      268281
+      349621
     ],
     [
       "Python",
@@ -130,7 +130,7 @@
         "today": false
       },
       {
-        "c": 17,
+        "c": 23,
         "day": 22,
         "today": true
       },
@@ -146,7 +146,7 @@
     {
       "name": "mikan",
       "url": "https://github.com/Miroshka000/mikan",
-      "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
+      "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
       "stars": 102,
       "language": "Go",
@@ -195,7 +195,7 @@
     {
       "name": "mikan",
       "url": "https://github.com/Miroshka000/mikan",
-      "text": "🍊 A fast, beautiful VPN panel on the mihomo core — one command to install, nothing to babysit.",
+      "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
       "stars": 102,
       "language": "Go",
@@ -355,6 +355,15 @@
       "fork": true,
       "stars": 1,
       "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "spicetify-expressive-studio",
+      "url": "https://github.com/Miroshka000/spicetify-expressive-studio",
+      "text": "Material 3 Expressive customization mod for Spicetify with animated backgrounds, presets and a popup appearance editor.",
+      "fork": false,
+      "stars": 0,
+      "language": "JavaScript",
       "topics": []
     },
     {
