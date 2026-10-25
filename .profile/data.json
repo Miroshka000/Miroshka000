@@ -36,43 +36,6 @@
   "days": [
     [
       {
-        "c": 74,
-        "day": 4,
-        "today": false
-      },
-      {
-        "c": 21,
-        "day": 5,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 6,
-        "today": false
-      },
-      {
-        "c": 86,
-        "day": 7,
-        "today": false
-      },
-      {
-        "c": 101,
-        "day": 8,
-        "today": false
-      },
-      {
-        "c": 30,
-        "day": 9,
-        "today": false
-      },
-      {
-        "c": 52,
-        "day": 10,
-        "today": false
-      }
-    ],
-    [
-      {
         "c": 56,
         "day": 11,
         "today": false
@@ -142,8 +105,21 @@
       {
         "c": 0,
         "day": 24,
-        "today": true
+        "today": false
       }
+    ],
+    [
+      {
+        "c": 0,
+        "day": 25,
+        "today": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   ],
   "streak": {
