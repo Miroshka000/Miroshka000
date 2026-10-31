@@ -137,9 +137,13 @@
       {
         "c": 5,
         "day": 30,
-        "today": true
+        "today": false
       },
-      null
+      {
+        "c": 0,
+        "day": 31,
+        "today": true
+      }
     ]
   ],
   "streak": {
