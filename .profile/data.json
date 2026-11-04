@@ -1,5 +1,5 @@
 {
-  "stars": 147,
+  "stars": 146,
   "contributions": 2102,
   "repos": 36,
   "followers": 11,
@@ -122,9 +122,13 @@
       {
         "c": 1,
         "day": 3,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 4,
         "today": true
       },
-      null,
       null,
       null,
       null
@@ -140,7 +144,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 126,
+      "stars": 125,
       "language": "Go",
       "topics": [
         "anytls",
@@ -189,7 +193,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 126,
+      "stars": 125,
       "language": "Go",
       "topics": [
         "anytls",
