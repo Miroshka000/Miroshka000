@@ -1,5 +1,5 @@
 {
-  "stars": 155,
+  "stars": 156,
   "contributions": 2141,
   "repos": 36,
   "followers": 12,
@@ -132,7 +132,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 134,
+      "stars": 135,
       "language": "Go",
       "topics": [
         "anytls",
@@ -152,7 +152,7 @@
       "url": "https://github.com/getmikan/MikanApp",
       "text": "A rule-based tunnel for Android.",
       "fork": true,
-      "stars": 6,
+      "stars": 7,
       "language": "Kotlin",
       "topics": []
     },
@@ -181,7 +181,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 134,
+      "stars": 135,
       "language": "Go",
       "topics": [
         "anytls",
