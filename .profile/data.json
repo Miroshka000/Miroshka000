@@ -1,6 +1,6 @@
 {
-  "stars": 156,
-  "contributions": 2141,
+  "stars": 158,
+  "contributions": 2143,
   "repos": 36,
   "followers": 12,
   "languages": [
@@ -117,9 +117,13 @@
       {
         "c": 0,
         "day": 9,
+        "today": false
+      },
+      {
+        "c": 2,
+        "day": 10,
         "today": true
       },
-      null,
       null,
       null,
       null,
@@ -127,7 +131,7 @@
     ]
   ],
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 22
   },
   "pins": [
@@ -136,7 +140,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 135,
+      "stars": 137,
       "language": "Go",
       "topics": [
         "anytls",
@@ -158,7 +162,12 @@
       "fork": true,
       "stars": 8,
       "language": "Kotlin",
-      "topics": []
+      "topics": [
+        "citrus",
+        "citrus-core",
+        "mikan",
+        "mikan-panel"
+      ]
     },
     {
       "name": "marketplace",
@@ -176,7 +185,12 @@
       "fork": true,
       "stars": 4,
       "language": "Go",
-      "topics": []
+      "topics": [
+        "citrus",
+        "citrus-core",
+        "mikan",
+        "mikan-panel"
+      ]
     }
   ],
   "all": [
@@ -185,7 +199,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 135,
+      "stars": 137,
       "language": "Go",
       "topics": [
         "anytls",
