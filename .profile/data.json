@@ -1,6 +1,6 @@
 {
-  "stars": 163,
-  "contributions": 2159,
+  "stars": 164,
+  "contributions": 2160,
   "repos": 36,
   "followers": 12,
   "languages": [
@@ -125,7 +125,7 @@
         "today": false
       },
       {
-        "c": 3,
+        "c": 4,
         "day": 11,
         "today": true
       },
@@ -144,7 +144,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 142,
+      "stars": 143,
       "language": "Go",
       "topics": [
         "anytls",
@@ -187,7 +187,7 @@
       "url": "https://github.com/getmikan/Citrus",
       "text": "Cross-platform proxy core for Mikan with TUN, encrypted DNS, and rule-based routing.",
       "fork": true,
-      "stars": 4,
+      "stars": 5,
       "language": "Go",
       "topics": [
         "citrus",
@@ -203,7 +203,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 142,
+      "stars": 143,
       "language": "Go",
       "topics": [
         "anytls",
