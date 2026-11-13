@@ -1,8 +1,8 @@
 {
-  "stars": 168,
-  "contributions": 2207,
-  "repos": 37,
-  "followers": 12,
+  "stars": 169,
+  "contributions": 2206,
+  "repos": 36,
+  "followers": 13,
   "languages": [
     [
       "Go",
@@ -135,7 +135,7 @@
         "today": false
       },
       {
-        "c": 39,
+        "c": 38,
         "day": 13,
         "today": true
       },
@@ -152,7 +152,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 147,
+      "stars": 148,
       "language": "Go",
       "topics": [
         "anytls",
@@ -211,7 +211,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 147,
+      "stars": 148,
       "language": "Go",
       "topics": [
         "anytls",
@@ -369,15 +369,6 @@
       "fork": true,
       "stars": 1,
       "language": "Java",
-      "topics": []
-    },
-    {
-      "name": "DroneFlames-PC-Port",
-      "url": "https://github.com/Miroshka000/DroneFlames-PC-Port",
-      "text": "🚁 DroneFlames PC Port (Windows x64) — native PC controls, WASD camera, smooth zoom, multiplayer & automated CI/CD builds by @good_boy_irl.",
-      "fork": true,
-      "stars": 0,
-      "language": "GDScript",
       "topics": []
     },
     {
