@@ -36,43 +36,6 @@
   "days": [
     [
       {
-        "c": 2,
-        "day": 25,
-        "today": false
-      },
-      {
-        "c": 5,
-        "day": 26,
-        "today": false
-      },
-      {
-        "c": 4,
-        "day": 27,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 28,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 29,
-        "today": false
-      },
-      {
-        "c": 5,
-        "day": 30,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 31,
-        "today": false
-      }
-    ],
-    [
-      {
         "c": 0,
         "day": 1,
         "today": false
@@ -142,12 +105,25 @@
       {
         "c": 0,
         "day": 14,
-        "today": true
+        "today": false
       }
+    ],
+    [
+      {
+        "c": 0,
+        "day": 15,
+        "today": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   ],
   "streak": {
-    "current": 4,
+    "current": 0,
     "longest": 22
   },
   "pins": [
