@@ -1,8 +1,8 @@
 {
-  "stars": 174,
-  "contributions": 2206,
-  "repos": 36,
-  "followers": 14,
+  "stars": 173,
+  "contributions": 2197,
+  "repos": 31,
+  "followers": 15,
   "languages": [
     [
       "Go",
@@ -18,7 +18,7 @@
     ],
     [
       "Java",
-      839459
+      791382
     ],
     [
       "MDX",
@@ -26,11 +26,11 @@
     ],
     [
       "JavaScript",
-      358480
+      300445
     ],
     [
-      "Python",
-      210911
+      "CSS",
+      127465
     ]
   ],
   "days": [
@@ -140,7 +140,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 153,
+      "stars": 154,
       "language": "Go",
       "topics": [
         "anytls",
@@ -199,7 +199,7 @@
       "url": "https://github.com/Miroshka000/mikan",
       "text": "🍊 A fast, beautiful VPN panel on the Citrus core — one command to install, nothing to babysit.",
       "fork": false,
-      "stars": 153,
+      "stars": 154,
       "language": "Go",
       "topics": [
         "anytls",
@@ -322,24 +322,6 @@
         "rasch-model",
         "rasch-calculator"
       ]
-    },
-    {
-      "name": "Microsoft-Key-Checker",
-      "url": "https://github.com/Miroshka000/Microsoft-Key-Checker",
-      "text": "It's just garbage, but maybe someone will need it...",
-      "fork": false,
-      "stars": 1,
-      "language": "Python",
-      "topics": []
-    },
-    {
-      "name": "M5ClientMX",
-      "url": "https://github.com/Miroshka000/M5ClientMX",
-      "text": "M5Client with firmwares for M5Stick Plus2",
-      "fork": false,
-      "stars": 1,
-      "language": "Java",
-      "topics": []
     },
     {
       "name": "WorldManager",
@@ -484,37 +466,10 @@
       "topics": []
     },
     {
-      "name": "3xui-shopbot",
-      "url": "https://github.com/Miroshka000/3xui-shopbot",
-      "text": "Telegram бот для автоматической продажи VLESS VPN из панели 3x-ui",
-      "fork": true,
-      "stars": 0,
-      "language": "Python",
-      "topics": []
-    },
-    {
       "name": "CustomForm",
       "url": "https://github.com/Miroshka000/CustomForm",
       "text": "",
       "fork": false,
-      "stars": 0,
-      "language": "Java",
-      "topics": []
-    },
-    {
-      "name": "NeoBuyerV2",
-      "url": "https://github.com/Miroshka000/NeoBuyerV2",
-      "text": "",
-      "fork": true,
-      "stars": 0,
-      "language": "Java",
-      "topics": []
-    },
-    {
-      "name": "NeoProtectV2",
-      "url": "https://github.com/Miroshka000/NeoProtectV2",
-      "text": "Приватный плагин на приват блоками с интеграцией с Telegram ботом",
-      "fork": true,
       "stars": 0,
       "language": "Java",
       "topics": []
