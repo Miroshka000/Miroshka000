@@ -117,9 +117,13 @@
       {
         "c": 0,
         "day": 23,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 24,
         "today": true
       },
-      null,
       null,
       null,
       null,
@@ -127,7 +131,7 @@
     ]
   ],
   "streak": {
-    "current": 6,
+    "current": 0,
     "longest": 22
   },
   "pins": [
